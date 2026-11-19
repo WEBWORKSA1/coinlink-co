@@ -1,4 +1,4 @@
-2026-11-19T07:22:26Z
+2026-11-19T18:18:36Z
 markets: 250 coins via CoinGecko
 global: ok
 trending: ok
@@ -6,10 +6,10 @@ exchanges: 100
 fng: ok
 network: ok
 news: 207 items from 12 feeds
-videos: 44 from 9 channels
+videos: 43 from 9 channels
 history: fresh
-meta failed figure-heloc https://api.coingecko.com/api/v3/coins/figure-heloc?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
 meta failed hedera-hashgraph https://api.coingecko.com/api/v3/coins/hedera-hashgraph?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed hashnote-usyc https://api.coingecko.com/api/v3/coins/hashnote-usyc?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed pepe https://api.coingecko.com/api/v3/coins/pepe?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-coins-meta: refreshed 26, total 51
+meta failed polkadot https://api.coingecko.com/api/v3/coins/polkadot?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed worldcoin-wld https://api.coingecko.com/api/v3/coins/worldcoin-wld?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed polygon-ecosystem-token https://api.coingecko.com/api/v3/coins/polygon-ecosystem-token?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+coins-meta: refreshed 26, total 77
