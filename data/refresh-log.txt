@@ -1,0 +1,17 @@
+2026-11-19T07:06:19Z
+markets: 250 coins via CoinGecko
+global: ok
+trending: ok
+exchanges: 100
+fng: ok
+network: ok
+news: 207 items from 12 feeds
+yt resolve failed intothecryptoverse https://www.youtube.com/@intothecryptoverse -> HTTP Error 404: Not Found
+videos: 44 from 9 channels
+history: done
+meta failed ethereum https://api.coingecko.com/api/v3/coins/ethereum?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed figure-heloc https://api.coingecko.com/api/v3/coins/figure-heloc?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed chainlink https://api.coingecko.com/api/v3/coins/chainlink?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed litecoin https://api.coingecko.com/api/v3/coins/litecoin?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed sui https://api.coingecko.com/api/v3/coins/sui?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+coins-meta: refreshed 25, total 25
