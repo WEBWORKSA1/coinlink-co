@@ -1,0 +1,53 @@
+<!--meta
+{"title": "Support CoinLink.co — Keep Crypto Safety Tools Free", "description": "Support CoinLink.co with a one-time or monthly contribution. Your support funds operations, promotion, hiring contributors and contest prizes for scam hunters.", "out": "donate.html", "nav": "donate", "page": "donate", "scripts": ["extras"], "crumbs": [["Support Us", "donate.html"]]}
+-->
+<div class="wrap">
+  <header class="page-head">
+    <p class="eyebrow">Support independent crypto safety</p>
+    <h1>Help keep CoinLink free for everyone</h1>
+    <p class="lede">The link checker, verified directory and guides are free. Reader support lets us refresh blocklists faster, hire contributors, promote safety campaigns and fund prizes for people who report scams.</p>
+  </header>
+  <section class="tiers">
+    <div class="card tier"><p class="eyebrow">Supporter</p><div class="amt">$5</div><p class="small">Covers a day of data refreshes.</p><button class="btn btn-ghost btn-block" data-tier="5" data-freq="Monthly">Choose $5</button></div>
+    <div class="card tier pop"><p class="eyebrow">Guardian</p><div class="amt">$25</div><p class="small">Funds a month of scam-report reviews.</p><button class="btn btn-gold btn-block" data-tier="25" data-freq="Monthly">Choose $25</button></div>
+    <div class="card tier"><p class="eyebrow">Patron</p><div class="amt">$100</div><p class="small">Sponsors a Scam-Spotter prize.</p><button class="btn btn-ghost btn-block" data-tier="100" data-freq="One-time">Choose $100</button></div>
+    <div class="card tier"><p class="eyebrow">Custom</p><div class="amt">$ —</div><p class="small">Any amount, one-time or monthly.</p><button class="btn btn-ghost btn-block" data-tier="" data-freq="One-time">Choose amount</button></div>
+  </section>
+  <section class="section-sm grid grid-2">
+    <div class="card">
+      <h2 class="h4">Where support goes (target allocation)</h2>
+      <div class="alloc">
+        <div class="alloc-row"><span>Operations &amp; data</span><div class="bar"><span style="width:35%"></span></div><b>35%</b></div>
+        <div class="alloc-row"><span>Promotion &amp; marketing</span><div class="bar"><span style="width:25%"></span></div><b>25%</b></div>
+        <div class="alloc-row"><span>Hiring contributors</span><div class="bar"><span style="width:20%"></span></div><b>20%</b></div>
+        <div class="alloc-row"><span>Contests &amp; prizes</span><div class="bar"><span style="width:20%"></span></div><b>20%</b></div>
+      </div>
+      <p class="small muted" style="margin-top:12px">Operations covers data infrastructure, security tooling and domain costs. Promotion funds safety awareness campaigns. Hiring pays researchers, writers and moderators. Prizes reward verified scam reports and quiz winners.</p>
+      <div data-pay style="margin-top:14px"></div>
+      <div data-wallets hidden style="margin-top:14px"></div>
+    </div>
+    <div class="card" id="pledge">
+      <h2 class="h4">Pledge your support</h2>
+      <p class="small muted">Tell us how you'd like to contribute and we'll email secure payment options (card, PayPal or crypto) within one business day.</p>
+      <form data-form="donation" data-label="Donation pledge" data-success="#don-ok" novalidate>
+        <input type="text" name="_gotcha" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+        <div class="field-row"><label>Amount (USD)<input type="number" name="amount" min="1" step="1" required></label><label>Frequency<select name="frequency"><option>One-time</option><option>Monthly</option><option>Yearly</option></select></label></div>
+        <label>Direct it to<select name="purpose"><option>Where it's needed most</option><option>Operations &amp; data</option><option>Promotion &amp; marketing</option><option>Hiring contributors</option><option>Contests &amp; prizes</option></select></label>
+        <label>Preferred method<select name="method"><option>Card</option><option>PayPal</option><option>Crypto (BTC/ETH/USDC)</option><option>Bank transfer</option></select></label>
+        <div class="field-row"><label>Name<input type="text" name="name" required></label><label>Email<input type="email" name="email" required></label></div>
+        <label class="check-line"><input type="checkbox" name="public_thanks" value="Yes"> Thank me publicly on the supporters wall</label>
+        <button class="btn btn-gold" type="submit">Send pledge</button>
+        <p class="form-msg" role="status" aria-live="polite"></p>
+      </form>
+      <div class="success-panel" id="don-ok"><div class="big-ico">💛</div><h3>Thank you!</h3><p class="muted">We'll email payment options shortly. Your support keeps these tools free.</p></div>
+    </div>
+  </section>
+  <section class="section-sm"><h2 class="h4">Other ways to help</h2>
+    <div class="grid grid-3">
+      <a class="card" href="{{base}}link-checker.html#report"><h3>Report scam links</h3><p>Every verified report protects other users — and can win a prize.</p></a>
+      <a class="card" href="{{base}}careers.html"><h3>Contribute your skills</h3><p>Writers, researchers, developers and moderators welcome.</p></a>
+      <a class="card" href="{{base}}advertise.html"><h3>Sponsor a contest</h3><p>Brands can fund prizes and safety campaigns.</p></a>
+    </div>
+  </section>
+  <p class="small faint">CoinLink.co is not a registered charity; contributions are not tax-deductible. Contributions are voluntary and non-refundable except where required by law.</p>
+</div>

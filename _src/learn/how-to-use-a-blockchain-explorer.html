@@ -1,0 +1,46 @@
+<!--meta
+{"title": "How to Use a Blockchain Explorer (Step by Step)", "description": "Look up transactions, addresses and token contracts on explorers like Etherscan and mempool.space: confirmations, fees, token transfers, verified contracts and red flags.", "order": 10, "level": "Beginner", "category": "Tools", "minutes": 8, "updated": "2026-11-19", "takeaways": ["Explorers are read-only windows into a blockchain — you never need to connect a wallet.", "A transaction hash proves whether a payment happened and how many confirmations it has.", "Check token contracts for verified source code, holder concentration and official links.", "Use the explorer for the right network; each chain has its own."]}
+-->
+<p>A block explorer is a search engine for a blockchain. Paste a transaction ID, wallet address or token contract and it shows exactly what happened on-chain. It's the best way to settle “did my payment go through?”, check whether a token is the real one, or document a theft for a report.</p>
+
+<h2>Pick the right explorer</h2>
+<p>Each network has its own explorers. Bitcoin transactions won't appear on an Ethereum explorer, and a token on Base won't appear on the Ethereum mainnet explorer. Our <a href="../links.html?cat=Block%20explorers">verified explorers list</a> maps networks to official explorers. Explorers never need your wallet connection or seed phrase for looking things up — a site that asks is not an explorer.</p>
+
+<h2>Looking up a transaction</h2>
+<ol>
+  <li>Copy the <b>transaction hash</b> (TxID) from your wallet or exchange withdrawal history.</li>
+  <li>Paste it into the explorer's search bar.</li>
+  <li>Read the key fields:
+    <ul>
+      <li><b>Status</b> — success, failed or pending.</li>
+      <li><b>Block / confirmations</b> — how many blocks have been added since. More confirmations mean more finality.</li>
+      <li><b>From / To</b> — sender and recipient addresses. For token transfers, “To” may be the token contract; look at the <b>token transfers</b> section for the real recipient.</li>
+      <li><b>Value</b> — native coin amount sent.</li>
+      <li><b>Fee</b> — what was paid to miners or validators.</li>
+    </ul>
+  </li>
+</ol>
+<p>If a Bitcoin transaction is stuck as unconfirmed, a mempool explorer shows its fee rate compared with current rates. Some wallets let you speed it up with replace-by-fee.</p>
+
+<h2>Looking up an address</h2>
+<p>Paste any address to see its balance, full transaction history and token holdings. Explorers often add <b>labels</b> for known entities such as exchanges or flagged phishing addresses — a useful warning sign if you're about to send funds. Remember that addresses are public: anyone can see the history of an address you share.</p>
+
+<h2>Checking a token contract</h2>
+<p>Before buying an unfamiliar token, open its contract page:</p>
+<ul>
+  <li><b>Contract address</b> — confirm it matches the one listed on the project's verified website or a major data aggregator. Fake tokens copy names and tickers.</li>
+  <li><b>Verified source code</b> — a checkmark means the published code matches what's deployed. Unverified contracts are a red flag.</li>
+  <li><b>Holders</b> — if a handful of wallets own most of the supply, a few sellers can crash the price.</li>
+  <li><b>Contract functions</b> — owner-only powers such as minting or pausing transfers deserve scrutiny.</li>
+  <li><b>Official links</b> — some explorers display the project's website and socials submitted by the team.</li>
+</ul>
+
+<h2>Reading token approvals</h2>
+<p>Many EVM explorers include a token-approval checker. Enter your address to see which contracts can spend your tokens and revoke unneeded ones. Learn more in <a href="token-approvals-explained.html">token approvals explained</a>.</p>
+
+<h2>Using explorers after a scam</h2>
+<p>Record the transaction hashes and the scammer's addresses. Following the funds forward often shows them moving to an exchange deposit address — information that helps law enforcement and the exchange act. Include these details in reports; see <a href="scammed-what-to-do.html">what to do if you've been scammed</a>.</p>
+
+<h2>FAQ</h2>
+<details class="faq"><summary>My exchange says it sent the withdrawal, but my wallet shows nothing. What should I check?</summary><p>Look up the TxID on the explorer for the network the exchange used. Confirm the destination address and network match your wallet. If it's confirmed to the right address, your wallet may need to be switched to that network or have the token added.</p></details>
+<details class="faq"><summary>Can explorers be faked?</summary><p>Yes — phishing sites sometimes imitate explorers to show fake confirmations. Use a bookmarked, verified explorer.</p></details>

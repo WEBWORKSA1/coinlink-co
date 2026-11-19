@@ -1,0 +1,39 @@
+<!--meta
+{"title": "Layer 2s Explained: Rollups, Fees and the Risks to Know", "description": "How Ethereum layer-2 networks work: optimistic vs ZK rollups, why fees are lower, withdrawal times, sequencers, maturity stages and how to bridge safely.", "order": 14, "level": "Intermediate", "category": "Basics", "minutes": 8, "updated": "2026-11-19", "takeaways": ["Layer 2s execute transactions off the main chain and post data or proofs back to it.", "Optimistic rollups assume validity with a challenge window; ZK rollups prove it mathematically.", "Most L2s still rely on a single sequencer and upgradeable contracts.", "Bridge only through official or well-established routes and confirm the network in your wallet."]}
+-->
+<p>Ethereum prioritizes security and decentralization, which limits how many transactions fit in each block. <b>Layer 2s</b> (L2s) scale it by doing most of the work elsewhere and using Ethereum as the final court of record. For users, that mostly means much lower fees.</p>
+
+<h2>What a rollup does</h2>
+<p>A <b>rollup</b> collects many transactions, executes them on its own network, and periodically posts compressed transaction data — and in some cases a proof — to Ethereum. Because many transactions share the cost of one Ethereum posting, each user pays a fraction. Since 2024, Ethereum has offered a dedicated, cheaper data space (“blobs”) for rollups, which pushed L2 fees down further.</p>
+
+<h2>Optimistic vs ZK rollups</h2>
+<table>
+  <thead><tr><th></th><th>Optimistic rollups</th><th>ZK (validity) rollups</th></tr></thead>
+  <tbody>
+    <tr><td>How correctness is ensured</td><td>Assumed valid; anyone can submit a fraud proof during a challenge window</td><td>Each batch carries a cryptographic validity proof checked on Ethereum</td></tr>
+    <tr><td>Native withdrawal to Ethereum</td><td>Typically about 7 days</td><td>Faster once a proof is verified</td></tr>
+    <tr><td>Examples</td><td>Arbitrum, OP Mainnet, Base</td><td>zkSync, Starknet, Scroll, Linea</td></tr>
+  </tbody>
+</table>
+<p>Third-party bridges and exchanges can get you out of an optimistic rollup faster than the native 7 days, for a fee, using their own liquidity.</p>
+
+<h2>The trust assumptions</h2>
+<ul>
+  <li><b>Sequencers</b> — most L2s use a single operator to order transactions. If it goes down, the network can stall; if it censors, users may need slower escape routes.</li>
+  <li><b>Upgradeability</b> — many L2 contracts can be upgraded by a security council or multisig. Shorter or no exit windows mean more trust in those signers.</li>
+  <li><b>Proof systems</b> — some rollups don't yet have fully permissionless fraud proofs, or rely on complex, still-maturing proving code.</li>
+</ul>
+<p>Independent researchers such as L2BEAT rate rollups by <b>maturity stage</b> (Stage 0, 1, 2) based on how much they still depend on trusted parties. Check the stage before parking significant funds. Find it in our <a href="../links.html?cat=Data%20%26%20analytics">analytics directory</a>.</p>
+
+<h2>Using L2s safely</h2>
+<ol>
+  <li><b>Use official bridges or established bridge aggregators</b> — reached through <a href="../links.html?cat=Networks%20%26%20L2s">verified links</a>. Fake bridges are a common scam.</li>
+  <li><b>Add networks from trusted lists.</b> Wrong RPC settings can show fake balances or send transactions to the wrong place.</li>
+  <li><b>Check the network before sending.</b> Exchanges and wallets must both support the same L2 for a deposit to arrive.</li>
+  <li><b>Keep a little ETH on the L2</b> for gas — most rollups use ETH for fees.</li>
+  <li><b>Same address, different networks.</b> Your EVM address is the same on Ethereum and L2s, but balances are separate.</li>
+</ol>
+
+<h2>FAQ</h2>
+<details class="faq"><summary>Are L2s as secure as Ethereum?</summary><p>They inherit important guarantees from Ethereum, but the degree depends on their design and maturity stage. Many still depend on operators and upgrade keys, so they are not yet fully equivalent.</p></details>
+<details class="faq"><summary>What's the difference between an L2 and a sidechain?</summary><p>A sidechain has its own independent security (its own validators). A rollup posts data or proofs to Ethereum so that users can, in principle, verify or exit using Ethereum itself.</p></details>

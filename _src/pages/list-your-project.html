@@ -1,0 +1,45 @@
+<!--meta
+{"title": "List Your Project — Get Your Official Links Verified", "description": "Crypto projects, exchanges and wallets: submit your official website, explorers and socials for verification, report changed links, or request a featured listing on CoinLink.co.", "out": "list-your-project.html", "nav": "list", "page": "list", "crumbs": [["List Your Project", "list-your-project.html"]]}
+-->
+<div class="wrap">
+  <header class="page-head">
+    <p class="eyebrow">For projects, exchanges &amp; wallets</p>
+    <h1>Get your official links verified</h1>
+    <p class="lede">Every week, users of popular projects lose funds to look-alike domains. A verified CoinLink listing gives your community one trusted place to find your real website, explorer, docs and socials — and makes clones of your domain easier to flag in our checker.</p>
+  </header>
+  <div class="grid grid-3">
+    <div class="card"><div class="feature-ico">✅</div><h3>Standard verification · Free</h3><p>Official domains, explorer, GitHub, docs and socials reviewed and listed in the directory and link checker.</p></div>
+    <div class="card" style="border-color:var(--gold)"><div class="feature-ico">⚡</div><h3>Priority review</h3><p>Faster review for launches, rebrands and domain migrations, plus a brand-protection watch for look-alike domains.</p></div>
+    <div class="card"><div class="feature-ico">⭐</div><h3>Featured placement</h3><p>Labeled “Sponsored” spotlight on category pages and in the CoinLink Brief. Verification is never for sale — placement is.</p></div>
+  </div>
+  <section class="section-sm grid grid-2">
+    <div class="card">
+      <h2 class="h4">Submit or update a listing</h2>
+      <form data-form="listing" data-label="Project listing / verification request" data-success="#list-ok" novalidate>
+        <input type="text" name="_gotcha" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+        <label>Request type<select name="type"><option>New verification</option><option>Update / changed link</option><option>Report a wrong link</option><option>Priority review</option><option>Featured placement</option></select></label>
+        <div class="field-row"><label>Project / company<input type="text" name="project" required></label><label>Ticker (if any)<input type="text" name="ticker"></label></div>
+        <label>Official website<input type="url" name="website" required placeholder="https://"></label>
+        <div class="field-row"><label>Block explorer / contract<input type="text" name="explorer"></label><label>GitHub / docs<input type="text" name="docs"></label></div>
+        <div class="field-row"><label>X (Twitter)<input type="text" name="x" placeholder="@handle"></label><label>CoinGecko / CMC page<input type="text" name="data_page"></label></div>
+        <label>How can we confirm you control the domain?<select name="proof"><option>DNS TXT record we provide</option><option>Post from the official X account</option><option>Email from an @official-domain address</option><option>Not the owner — community report</option></select></label>
+        <div class="field-row"><label>Your name<input type="text" name="name" required></label><label>Work email<input type="email" name="email" required></label></div>
+        <label>Notes<textarea name="notes" placeholder="Launch dates, domain migrations, known clones…"></textarea></label>
+        <button class="btn btn-gold" type="submit">Submit for review</button>
+        <p class="form-msg" role="status" aria-live="polite"></p>
+      </form>
+      <div class="success-panel" id="list-ok"><div class="big-ico">📨</div><h3>Submission received</h3><p class="muted">We'll email the next verification step. Standard reviews are usually completed within 5 business days.</p></div>
+    </div>
+    <div>
+      <div class="card"><h2 class="h4">What we check</h2>
+        <ol class="steps-list small">
+          <li>The domain matches your public profiles (data aggregators, GitHub, official social accounts).</li>
+          <li>You can prove control (DNS TXT, official post or domain email).</li>
+          <li>The domain is not on public phishing blocklists and has no impersonation signals.</li>
+          <li>Explorer contracts match the token's canonical addresses.</li>
+        </ol>
+      </div>
+      <div class="callout callout-gold small"><b>Our promise:</b> verification is based on evidence only and is never sold. Paid options affect speed and placement, are always labeled, and are not an endorsement or investment advice.</div>
+    </div>
+  </section>
+</div>

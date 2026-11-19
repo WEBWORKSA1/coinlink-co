@@ -1,0 +1,40 @@
+<!--meta
+{"title": "Crypto Prices Today by Market Cap — Live Top 250", "description": "Live cryptocurrency prices for the top 250 coins by market cap: 1h/24h/7d change, volume, sparklines, watchlist, gainers, losers and CSV export.", "out": "markets.html", "nav": "markets", "page": "markets", "scripts": ["markets"], "priority": 0.9, "crumbs": [["Markets", "markets.html"]]}
+-->
+<div class="wrap">
+  <header class="page-head">
+    <p class="eyebrow">Live markets</p>
+    <h1>Cryptocurrency prices by market cap</h1>
+    <p class="lede">Live prices for the 250 largest crypto assets, refreshed every minute while this tab is open. Click a coin for its chart, verified official links and safety checklist.</p>
+  </header>
+  <div class="ad-slot" data-ad="markets-top"></div>
+  <div class="table-tools">
+    <label class="sr" for="mk-q">Search coins</label>
+    <input id="mk-q" type="search" placeholder="Search name or symbol…" data-mk-search>
+    <div class="chips">
+      <button class="chip on" data-filter="all">All</button>
+      <button class="chip" data-filter="gainers">Gainers</button>
+      <button class="chip" data-filter="losers">Losers</button>
+      <button class="chip" data-filter="watch">★ Watchlist</button>
+      <button class="chip" data-filter="stable">Stablecoins</button>
+    </div>
+    <button class="btn btn-ghost btn-sm" data-csv>⬇ Export CSV</button>
+  </div>
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th aria-label="Watchlist"></th><th class="num" data-sort="rank">#</th><th data-sort="name">Coin</th><th class="num" data-sort="price">Price</th><th class="num hide-sm" data-sort="ch1h">1h</th><th class="num" data-sort="ch24h">24h</th><th class="num hide-sm" data-sort="ch7d">7d</th><th class="num hide-sm" data-sort="mcap">Market cap</th><th class="num hide-sm" data-sort="vol">Volume (24h)</th><th class="hide-sm">Last 7 days</th></tr></thead>
+      <tbody data-markets><tr><td colspan="10" class="empty">Loading live prices…</td></tr></tbody>
+    </table>
+  </div>
+  <div class="pager" data-pager></div>
+  <p class="small faint">Source: <span data-source>loading…</span>. Click column headers to sort. Prices may be delayed; not financial advice.</p>
+
+  <section class="section-sm prose" style="max-width:none">
+    <h2>How to read this table</h2>
+    <div class="grid grid-3">
+      <div class="card"><h3 class="h5">Market cap</h3><p>Price × circulating supply. It tells you how the market values the coins that exist today, not how much money has flowed in. Read <a href="{{base}}learn/market-cap-fdv-supply.html">market cap vs FDV</a>.</p></div>
+      <div class="card"><h3 class="h5">Volume (24h)</h3><p>Total value traded across tracked exchanges in the last day. Very low volume relative to market cap can mean thin liquidity and large price swings.</p></div>
+      <div class="card"><h3 class="h5">Watchlist ☆</h3><p>Tap the star to save coins. Your watchlist is stored only in this browser — no account needed. Set price alerts on the <a href="{{base}}portfolio.html">portfolio page</a>.</p></div>
+    </div>
+  </section>
+</div>

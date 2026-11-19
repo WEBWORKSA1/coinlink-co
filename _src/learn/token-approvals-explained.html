@@ -1,0 +1,46 @@
+<!--meta
+{"title": "Token Approvals, Permits & Wallet Drainers Explained", "description": "What approve, permit and setApprovalForAll really do, why unlimited allowances are dangerous, how drainers abuse signatures and how to review and revoke approvals.", "order": 5, "level": "Intermediate", "category": "Security", "minutes": 8, "updated": "2026-11-19", "takeaways": ["An approval lets a smart contract move your tokens later without asking again.", "Off-chain “permit” signatures can grant the same power without any gas fee or transaction.", "setApprovalForAll gives control of an entire NFT collection in your wallet.", "Review approvals regularly and revoke anything you don't actively use."]}
+-->
+<p>Most wallet drains on Ethereum-style networks don't steal a seed phrase. They obtain <b>permission</b>. Understanding the three permission types below turns confusing wallet pop-ups into decisions you can actually evaluate.</p>
+
+<h2>Why approvals exist</h2>
+<p>Tokens such as USDC or UNI are smart contracts that keep a ledger of balances. When you swap on a decentralized exchange, the exchange's contract must pull tokens from your balance. The standard way to allow that is an <b>approval</b>: you tell the token contract “this spender may move up to X of my tokens”. The amount is called an <b>allowance</b>.</p>
+<p>Approvals are normal and necessary. The danger is in <em>who</em> you approve and <em>how much</em>.</p>
+
+<h2>The three permission types</h2>
+<h3>1. approve / increaseAllowance (on-chain)</h3>
+<p>A transaction you send and pay gas for. Many apps request an <b>unlimited</b> allowance so you don't need to approve again next time. If that spender contract is later exploited, or was malicious from the start, it can take every unit of that token you hold — today or years from now.</p>
+<h3>2. Permit and Permit2 signatures (off-chain)</h3>
+<p>Some tokens and routers support <b>permits</b>: instead of a transaction, you sign a typed message that grants an allowance. It costs no gas and looks like a harmless “signature request”. Drainers love permits because victims don't feel like they're “sending” anything. Once signed, the attacker submits it on-chain and moves the tokens.</p>
+<h3>3. setApprovalForAll (NFTs)</h3>
+<p>For NFT collections, this single approval lets an operator transfer <b>every</b> NFT you own in that collection. Legitimate marketplaces use it for listings; phishing sites use it to empty galleries.</p>
+
+<h2>Reading a wallet prompt like a pro</h2>
+<ul>
+  <li><b>Who is the spender?</b> Your wallet shows the spender address or a label. If you didn't expect this app to touch this token, reject.</li>
+  <li><b>What token and how much?</b> Prefer setting a custom allowance equal to the amount you're actually using.</li>
+  <li><b>Is it a signature for a permit?</b> Look for words like Permit, PermitSingle, PermitBatch, spender, value and deadline in the signature details.</li>
+  <li><b>Does the site match your bookmark?</b> A legitimate-looking prompt on a fake domain is still a theft.</li>
+  <li><b>Does your wallet show a simulation?</b> Many wallets now preview balance changes. If it shows assets leaving that you didn't intend, stop.</li>
+</ul>
+
+<h2>How to review and revoke</h2>
+<ol>
+  <li>Open a reputable approval manager (find verified ones in our <a href="../links.html?cat=Security%20%26%20scam%20reporting">security directory</a>) or the token-approval page of the network's block explorer.</li>
+  <li>Connect your wallet or paste your address to see every active allowance, per network.</li>
+  <li>Revoke anything unlimited that you no longer use, anything you don't recognize, and anything tied to sites you've stopped using.</li>
+  <li>Repeat every few months and after any suspicious interaction. Revoking requires a small gas fee per approval.</li>
+</ol>
+<p>Note that revoking an allowance doesn't undo past transfers — it only prevents future ones.</p>
+
+<h2>Defensive setup</h2>
+<ul>
+  <li>Keep valuables in a hardware wallet that never connects to new or experimental apps.</li>
+  <li>Use a separate “burner” wallet with small balances for mints, airdrops and new protocols.</li>
+  <li>Choose limited allowances whenever the app lets you.</li>
+  <li>Be suspicious of any “signature only” request on a site you reached from a link.</li>
+</ul>
+
+<h2>FAQ</h2>
+<details class="faq"><summary>Is signing a message always dangerous?</summary><p>No. Many sites ask you to sign a plain-text message to log in, which doesn't move funds. The risk is in structured signatures that contain permit or order data. Read before signing.</p></details>
+<details class="faq"><summary>Do approvals exist on Bitcoin?</summary><p>Not in the same way. Bitcoin doesn't have token allowances like Ethereum. Some Bitcoin wallets can sign partially-signed transactions (PSBTs) for marketplaces, which deserve the same caution.</p></details>

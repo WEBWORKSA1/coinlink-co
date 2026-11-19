@@ -1,0 +1,15 @@
+<!--meta
+{"title": "Satoshi & Gwei Converter — BTC to Sats, ETH to Gwei & Wei", "short": "Sats & gwei", "h1": "Sats, gwei & wei converter", "description": "Convert BTC to satoshis and ETH to gwei and wei, with live USD values.", "icon": "🔢", "order": 8}
+-->
+<div class="tool-panel" data-tool="units">
+  <div class="card">
+<h3 class="h5">Bitcoin</h3><div class="field-row"><label>BTC<input type="number" name="btc" value="0.001" step="any"></label><label>Satoshis<input type="number" name="sats" step="1"></label></div><label>USD<input type="number" name="btcusd" step="any"></label>
+<h3 class="h5">Ethereum</h3><div class="field-row"><label>ETH<input type="number" name="ethv" value="0.01" step="any"></label><label>Gwei<input type="number" name="gwei" step="any"></label></div><div class="field-row"><label>Wei<input type="text" name="wei" inputmode="numeric"></label><label>USD<input type="number" name="ethusd" step="any"></label></div>
+  </div>
+  <div class="result-box" data-out aria-live="polite"><span class="muted">Enter values to see the result.</span></div>
+</div>
+<section class="tool-explainer prose">
+<h2>The small units of crypto</h2><p>One bitcoin is 100,000,000 <b>satoshis</b> (sats), named after Bitcoin's creator. Fees on Bitcoin are quoted in sats per virtual byte. One ether is 1,000,000,000 <b>gwei</b> and 10<sup>18</sup> <b>wei</b>; Ethereum gas prices are quoted in gwei.</p><p>Thinking in sats is handy for small amounts: “10,000 sats” is easier to read than 0.0001 BTC.</p>
+<h2>FAQ</h2>
+<details class="faq"><summary>Why do wallets show different decimals?</summary><p>Display settings differ, but the underlying amounts are always whole numbers of the smallest unit.</p></details>
+</section>

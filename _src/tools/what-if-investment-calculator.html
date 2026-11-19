@@ -1,0 +1,16 @@
+<!--meta
+{"title": "What If I Had Invested in Bitcoin? Crypto Investment Calculator", "short": "What if I invested", "h1": "“What if I had invested?” calculator", "description": "See what a past investment in Bitcoin, Ethereum or any top coin would be worth today.", "icon": "⏪", "order": 4}
+-->
+<div class="tool-panel" data-tool="whatif">
+  <div class="card">
+<label>Coin<select name="coin" data-coin-select data-default="bitcoin"></select></label>
+<div class="field-row"><label>Amount invested (USD)<input type="number" name="amount" value="1000" min="1" step="any"></label><label>Date<input type="date" name="date" value="2025-01-01"></label></div>
+<label>Historical price override (optional)<input type="number" name="manual" min="0" step="any" placeholder="Leave blank to look it up"></label>
+  </div>
+  <div class="result-box" data-out aria-live="polite"><span class="muted">Enter values to see the result.</span></div>
+</div>
+<section class="tool-explainer prose">
+<h2>Hindsight is free — use it wisely</h2><p>This calculator looks up the coin's price on the date you choose and values the same number of coins at today's price. It's a great way to understand volatility: try the same coin from a market top and from a market bottom and compare.</p><p>Remember survivorship bias: the coins in today's top 100 are the winners. Thousands of coins from past cycles went to zero, and a “what if” on them would show a loss of nearly everything.</p>
+<h2>FAQ</h2>
+<details class="faq"><summary>Why does it say no price was found?</summary><p>Free data sources cover roughly the last 12 months for most coins (longer for majors via our stored monthly history). Enter the price manually if you know it.</p></details><details class="faq"><summary>Does it include fees or taxes?</summary><p>No — it's a simple price comparison.</p></details>
+</section>

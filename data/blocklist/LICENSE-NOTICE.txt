@@ -1,0 +1,3 @@
+Derived from ScamSniffer scam-database (GNU GPL-3.0, https://github.com/scamsniffer/scam-database)
+and MetaMask eth-phishing-detect (https://github.com/MetaMask/eth-phishing-detect).
+Redistributed in sharded form for the CoinLink.co link checker. GPL-3.0 terms apply to the ScamSniffer-derived data.

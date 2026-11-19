@@ -1,0 +1,75 @@
+<!--meta
+{"title": "Crypto Phishing Link Checker — Is This Website Safe?", "description": "Free crypto scam link checker. Paste any URL to screen it against 400,000+ known phishing domains, verified official sites, typosquats, look-alike characters and fake claim pages.", "out": "link-checker.html", "nav": "checker", "page": "checker", "scripts": ["checker"], "priority": 0.95, "crumbs": [["Link Checker", "link-checker.html"]]}
+-->
+<div class="wrap">
+  <header class="page-head">
+    <p class="eyebrow">Free · private · instant</p>
+    <h1>Crypto phishing link checker</h1>
+    <p class="lede">Paste a link before you connect a wallet, sign a transaction or type a password. We screen it against <b data-count="blocklist"><!--@blockcount--></b> known phishing domains, our verified directory and the tricks scammers use most.</p>
+  </header>
+  <section class="check-box" style="max-width:860px">
+    <form class="check-input" data-checker>
+      <label class="sr" for="chk-url">Link to check</label>
+      <input id="chk-url" type="text" inputmode="url" placeholder="Paste a link, e.g. https://app.uniswap-claim.xyz" autocomplete="off" required>
+      <button class="btn btn-teal" type="submit">Check link</button>
+    </form>
+    <p class="small muted" style="margin:10px 0 0">Try examples:
+      <button class="chip" data-example="metamask.io">metamask.io</button>
+      <button class="chip" data-example="rnetamask.io">rnetamask.io</button>
+      <button class="chip" data-example="uniswap-claim-rewards.pages.dev">uniswap-claim-rewards.pages.dev</button>
+      <button class="chip" data-example="coinbase.com.secure-login.help">coinbase.com.secure-login.help</button>
+    </p>
+    <div class="verdict" data-verdict aria-live="polite"></div>
+    <p class="small" style="margin-top:14px"><b>Recent checks:</b></p>
+    <div class="chips" data-check-history></div>
+  </section>
+
+  <section class="section-sm">
+    <h2>What we check</h2>
+    <div class="grid grid-3">
+      <div class="card"><div class="feature-ico">⛔</div><h3>Known phishing lists</h3><p>Open blocklists from ScamSniffer and MetaMask, updated automatically. Parent domains are checked too, so <i>evil.sub.example</i> can't hide.</p></div>
+      <div class="card"><div class="feature-ico">✅</div><h3>Verified directory</h3><p>Exact and subdomain matches against verified official domains for exchanges, wallets, coins and apps.</p></div>
+      <div class="card"><div class="feature-ico">🔤</div><h3>Typosquats &amp; look-alikes</h3><p>One-letter swaps (metamsk), character tricks (0→o, rn→m), punycode alphabets and brand names on the wrong domain.</p></div>
+      <div class="card"><div class="feature-ico">🪤</div><h3>Bait words</h3><p>“claim”, “airdrop”, “sync”, “validate”, “restore”, “support” and dozens more drainer favourites.</p></div>
+      <div class="card"><div class="feature-ico">🏗️</div><h3>Throwaway hosting</h3><p>Free subdomains on pages.dev, vercel.app, netlify.app, web.app and similar, plus abused extensions like .xyz and .top.</p></div>
+      <div class="card"><div class="feature-ico">🎭</div><h3>URL disguises</h3><p>The “@” trick, raw IP addresses, deep subdomain chains and brand-first hosts like <i>coinbase.com.secure-login.help</i>.</p></div>
+    </div>
+  </section>
+
+  <section class="section-sm grid grid-2" id="report">
+    <div class="card">
+      <h2 class="h4">🚩 Report a scam link</h2>
+      <p class="small muted">Found a fake site, drainer, or impersonation account? Report it — verified reports can win the monthly <a href="{{base}}contests.html">Scam-Spotter bounty</a>.</p>
+      <form data-form="report" data-label="Scam link report" data-ok="Thank you! Our team will review this report. Verified reports enter this month's Scam-Spotter bounty." novalidate>
+        <input type="text" name="_gotcha" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+        <label>Suspicious link or account<input type="text" name="reported_url" required placeholder="https://…"></label>
+        <label>What is it pretending to be?<input type="text" name="impersonating" placeholder="e.g. MetaMask, Coinbase support, a token airdrop"></label>
+        <label>Where did you see it?<select name="seen_on"><option>Search ad</option><option>X / Twitter</option><option>Telegram</option><option>Discord</option><option>Email</option><option>YouTube</option><option>Other</option></select></label>
+        <label>Details (optional)<textarea name="details" placeholder="Wallet addresses, screenshots links, what happened…"></textarea></label>
+        <label>Your email (for bounty contact)<input type="email" name="email" autocomplete="email"></label>
+        <button class="btn btn-gold" type="submit">Send report</button>
+        <p class="form-msg" role="status" aria-live="polite"></p>
+      </form>
+    </div>
+    <div class="card">
+      <h2 class="h4">Already clicked a bad link?</h2>
+      <ol class="steps-list small">
+        <li><b>Stop signing.</b> Close the tab. Don't approve any more wallet prompts.</li>
+        <li><b>Revoke approvals</b> with <a href="https://revoke.cash" target="_blank" rel="noopener">revoke.cash</a> for each network you used.</li>
+        <li><b>Move funds</b> to a brand-new wallet with a new seed phrase if you typed or exposed your seed.</li>
+        <li><b>Secure accounts:</b> change exchange passwords, reset 2FA, check API keys.</li>
+        <li><b>Report it</b> to <a href="https://www.chainabuse.com" target="_blank" rel="noopener">Chainabuse</a> and your national fraud centre.</li>
+      </ol>
+      <a class="btn btn-ghost btn-sm" href="{{base}}learn/scammed-what-to-do.html">Full recovery guide</a>
+    </div>
+  </section>
+
+  <section class="section-sm faq-block" style="max-width:880px">
+    <h2>Link checker FAQ</h2>
+    <details class="faq"><summary>Is my link sent to a server?</summary><p>No. The analysis runs in your browser. It downloads small shards of the public blocklist and our verified list from this website. Your recent checks are saved only in your own browser.</p></details>
+    <details class="faq"><summary>What does the risk score mean?</summary><p>0–19 means no red flags (or a verified match), 20–49 means caution, 50–79 means strong scam signals, and 80–100 means very likely or confirmed phishing. It's a heuristic, not a guarantee.</p></details>
+    <details class="faq"><summary>How fresh is the blocklist?</summary><p>Our workflow rebuilds it from the public ScamSniffer and MetaMask lists every week. ScamSniffer's open list is published with a 7-day delay, so brand-new scams may not appear yet — the look-alike checks help cover that gap.</p></details>
+    <details class="faq"><summary>A legitimate site was flagged. What now?</summary><p>Heuristics can misfire, especially for new or small sites that use a big brand's name. If you run the site, <a href="{{base}}list-your-project.html">submit it for verification</a>.</p></details>
+  </section>
+  <p class="small faint">Blocklist data: ScamSniffer scam-database (GPL-3.0) and MetaMask eth-phishing-detect. Results are informational and not a security guarantee.</p>
+</div>

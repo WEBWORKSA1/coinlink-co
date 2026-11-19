@@ -1,0 +1,145 @@
+<!--meta
+{"title": "CoinLink.co — Verified Crypto Links, Phishing Checker & Live Prices", "description": "Every coin, the right link. Find verified official crypto websites, check any link against 400,000+ phishing domains, track live prices and use free crypto tools.", "out": "index.html", "nav": "home", "page": "home", "scripts": ["markets", "checker"], "priority": 1.0}
+-->
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div>
+      <p class="eyebrow">Independent crypto safety &amp; data hub</p>
+      <h1>Every coin. <span>The right link.</span></h1>
+      <p class="lede">Fake exchange and wallet sites drain crypto every day. CoinLink.co gives you the verified official link for every major coin and app, a free phishing checker, live market data and plain-English guides — in one place.</p>
+      <div class="hero-cta">
+        <a class="btn btn-gold" href="{{base}}link-checker.html">Check a link now</a>
+        <a class="btn btn-ghost" href="{{base}}links.html">Browse verified links</a>
+      </div>
+      <div class="trust-row">
+        <span><b data-count="blocklist"><!--@blockcount--></b> phishing domains screened</span>
+        <span><b data-count="verified"><!--@verifiedcount--></b> verified destinations</span>
+        <span><b>250</b> coins tracked live</span>
+      </div>
+    </div>
+    <div class="check-box">
+      <h2>Is this crypto link safe?</h2>
+      <p class="small muted">Paste a URL from an ad, DM, email or search result. We check it against public phishing blocklists, our verified directory and 10+ look-alike tricks.</p>
+      <form class="check-input" data-mini-checker>
+        <label class="sr" for="mini-url">Link to check</label>
+        <input id="mini-url" type="text" inputmode="url" placeholder="e.g. metamask-wallet-sync.app" autocomplete="off">
+        <button class="btn btn-teal" type="submit">Check</button>
+      </form>
+      <p class="small faint" style="margin-top:10px">Free · no sign-up · runs in your browser</p>
+    </div>
+  </div>
+</section>
+
+<div class="wrap"><div class="ad-slot" data-ad="home-top"></div></div>
+
+<section class="section-sm">
+  <div class="wrap">
+    <div class="section-head"><h2>Today's crypto market</h2><a href="{{base}}markets.html">All 250 coins →</a></div>
+    <div class="grid grid-main">
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th></th><th class="num">#</th><th>Coin</th><th class="num">Price</th><th class="num">24h</th><th class="num hide-sm">7d</th><th class="num hide-sm">Market cap</th><th class="hide-sm">7 days</th></tr></thead>
+          <tbody data-topcoins><!--@topcoins--></tbody>
+        </table>
+        <p class="small faint" style="padding:8px 14px;margin:0">Source: <span data-source>snapshot <!--@updated--></span></p>
+      </div>
+      <div class="grid">
+        <div class="card"><h3 class="h5">🚀 Top gainers (24h)</h3><ul class="mover-list" data-gainers><li class="muted">Loading…</li></ul></div>
+        <div class="card"><h3 class="h5">📉 Top losers (24h)</h3><ul class="mover-list" data-losers><li class="muted">Loading…</li></ul></div>
+        <div class="card"><h3 class="h5">🔥 Trending searches</h3><ul class="mover-list" data-trending><li class="muted">Loading…</li></ul></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="section-head"><div><p class="eyebrow">Why CoinLink</p><h2>Built for the moment before you click</h2></div></div>
+    <div class="grid grid-3">
+      <a class="card" href="{{base}}links.html"><div class="feature-ico">✅</div><h3>Verified official links</h3><p>Official sites, explorers, GitHub and socials for top coins, exchanges, wallets and DeFi apps — reviewed and searchable.</p></a>
+      <a class="card" href="{{base}}link-checker.html"><div class="feature-ico">🛡️</div><h3>Phishing link checker</h3><p>Screens any URL against open phishing blocklists plus typosquats, look-alike characters, fake “claim” pages and hosting tricks.</p></a>
+      <a class="card" href="{{base}}markets.html"><div class="feature-ico">📈</div><h3>Live market data</h3><p>Prices, market caps, 7-day sparklines, watchlists and CSV export for 250 assets, with automatic provider fallbacks.</p></a>
+      <a class="card" href="{{base}}tools.html"><div class="feature-ico">🧮</div><h3>10 free calculators</h3><p>Converter, profit/loss, DCA backtest, “what if I invested”, staking, position size, fees and tax estimates.</p></a>
+      <a class="card" href="{{base}}sentiment.html"><div class="feature-ico">🌡️</div><h3>Sentiment &amp; network fees</h3><p>Fear &amp; Greed history, Bitcoin fee tiers, Ethereum gas, dominance and the next halving countdown.</p></a>
+      <a class="card" href="{{base}}learn.html"><div class="feature-ico">🎓</div><h3>Plain-English guides</h3><p>Original guides on wallets, scams, explorers, stablecoins, DeFi risk and more — no hype, no price predictions.</p></a>
+    </div>
+  </div>
+</section>
+
+<section class="section" style="background:linear-gradient(135deg,color-mix(in srgb,var(--gold) 8%,transparent),color-mix(in srgb,var(--teal) 8%,transparent));border-block:1px solid var(--line)">
+  <div class="wrap split">
+    <div>
+      <p class="eyebrow">Free download · 2026 edition</p>
+      <h2>The Scam-Proof Crypto Starter Kit</h2>
+      <ul class="kit-list">
+        <li>27-point wallet &amp; account safety checklist</li>
+        <li>Verified-links cheat sheet for the top exchanges and wallets</li>
+        <li>The 9 phishing patterns behind most wallet drains</li>
+        <li>“I clicked a bad link” emergency playbook</li>
+        <li>Weekly CoinLink Brief (optional, unsubscribe anytime)</li>
+      </ul>
+    </div>
+    <div class="card">
+      <form data-form="kit" data-label="Starter Kit request (home)" data-unlock="kit" data-success="#home-kit-ok" novalidate>
+        <input type="text" name="_gotcha" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+        <h3>Get instant access</h3>
+        <label>First name<input type="text" name="name" required autocomplete="given-name"></label>
+        <label>Email<input type="email" name="email" required autocomplete="email"></label>
+        <label>I'm mostly…<select name="persona"><option>New to crypto</option><option>Investing long-term</option><option>Trading actively</option><option>Building a crypto project</option><option>Running a business</option></select></label>
+        <label class="check-line"><input type="checkbox" name="brief" value="Yes — send the weekly CoinLink Brief" checked> Send me the weekly CoinLink Brief</label>
+        <button class="btn btn-gold btn-block" type="submit">Unlock the free kit</button>
+        <p class="form-msg" role="status" aria-live="polite"></p>
+        <p class="small faint">We never sell your email. See our <a href="{{base}}privacy.html">privacy policy</a>.</p>
+      </form>
+      <div class="success-panel" id="home-kit-ok"><div class="big-ico">🎉</div><h3>You're in!</h3><p>Your kit is ready.</p><a class="btn btn-gold" href="{{base}}get-started.html#kit">Open the Starter Kit</a></div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="section-head"><h2>Free crypto tools</h2><a href="{{base}}tools.html">All tools →</a></div>
+    <div class="grid grid-4"><!--@tools8--></div>
+  </div>
+</section>
+
+<div class="wrap"><div class="ad-slot" data-ad="home-mid"></div></div>
+
+<section class="section-sm">
+  <div class="wrap grid grid-2">
+    <div class="card">
+      <div class="section-head"><h2 class="h4">Latest headlines</h2><a href="{{base}}news.html">All news →</a></div>
+      <ul class="news-list"><!--@news--></ul>
+    </div>
+    <div>
+      <div class="section-head"><h2 class="h4">Watch &amp; learn</h2><a href="{{base}}videos.html">All videos →</a></div>
+      <div class="grid grid-2 yt-grid"><!--@videos--></div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="section-head"><h2>Start here: essential guides</h2><a href="{{base}}learn.html">All guides →</a></div>
+    <div class="grid grid-3"><!--@guides6--></div>
+  </div>
+</section>
+
+<section class="section-sm">
+  <div class="wrap grid grid-3">
+    <div class="card"><p class="eyebrow">For projects</p><h3>Get your official links verified</h3><p>Help your community find the real site. Submit your domains, explorers and socials for review and a verified badge.</p><a class="btn btn-ghost btn-sm" href="{{base}}list-your-project.html">List your project</a></div>
+    <div class="card"><p class="eyebrow">For brands</p><h3>Reach safety-minded crypto users</h3><p>Sponsored placements, newsletter features and contest sponsorships — always clearly labeled.</p><a class="btn btn-ghost btn-sm" href="{{base}}advertise.html">Advertise with us</a></div>
+    <div class="card"><p class="eyebrow">For everyone</p><h3>Win prizes for spotting scams</h3><p>Monthly Scam-Spotter bounty, safety quiz draw and BTC price prediction challenge.</p><a class="btn btn-ghost btn-sm" href="{{base}}contests.html">See contests</a></div>
+  </div>
+</section>
+
+<section class="section faq-block">
+  <div class="wrap" style="max-width:880px">
+    <h2>Frequently asked questions</h2>
+    <details class="faq"><summary>What is CoinLink.co?</summary><p>CoinLink.co is an independent crypto information site focused on one problem: getting you to the right website. We publish verified official links, a free phishing link checker, live market data, calculators and educational guides. We don't hold funds, sell tokens or give investment advice.</p></details>
+    <details class="faq"><summary>How does the link checker work?</summary><p>It compares the domain you paste against open-source phishing blocklists (ScamSniffer and MetaMask's eth-phishing-detect, refreshed automatically), our directory of verified domains, and heuristics such as typosquatting, look-alike characters, punycode, risky extensions, free-hosting subdomains and bait words like “claim” or “sync”. The check runs in your browser.</p></details>
+    <details class="faq"><summary>Can a link be dangerous even if the checker finds nothing?</summary><p>Yes. New scam sites appear every hour and may not be on any list yet. A “no red flags” result means we found nothing suspicious, not that the site is verified. Only domains marked “Verified official domain” match our directory.</p></details>
+    <details class="faq"><summary>Where do your prices come from?</summary><p>Live prices load in your browser from CoinGecko, with automatic fallbacks to CoinPaprika and CoinLore, plus a cached snapshot refreshed every few hours. Prices may be delayed and shouldn't be used for trading decisions.</p></details>
+    <details class="faq"><summary>Is CoinLink.co free?</summary><p>Yes. The site is funded by advertising, clearly labeled sponsorships and voluntary support from readers. See <a href="{{base}}donate.html">how to support us</a>.</p></details>
+  </div>
+</section>

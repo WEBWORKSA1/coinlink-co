@@ -1,0 +1,56 @@
+<!--meta
+{"title": "Market Cap vs FDV vs Supply: How to Read Crypto Metrics", "description": "Circulating, total and max supply; market cap vs fully diluted valuation; volume, liquidity and token unlocks — the numbers that matter when you research a coin.", "order": 9, "level": "Beginner", "category": "Markets", "minutes": 8, "updated": "2026-11-19", "takeaways": ["Market cap = price × circulating supply; price alone says nothing about value.", "FDV assumes every possible token exists today — a big gap signals future dilution.", "Upcoming token unlocks can add significant selling pressure.", "Volume and liquidity tell you whether you could actually sell at the quoted price."]}
+-->
+<p>Two coins at the same price can be worth wildly different amounts. To compare crypto assets sensibly you need a handful of metrics — and you need to know what each one does and doesn't tell you. These are the same columns you'll see in our <a href="../markets.html">markets table</a>.</p>
+
+<h2>Three kinds of supply</h2>
+<ul>
+  <li><b>Circulating supply</b> — tokens currently available to trade.</li>
+  <li><b>Total supply</b> — tokens that exist now, including locked ones held by teams, investors or treasuries, minus any burned.</li>
+  <li><b>Max supply</b> — the hard cap that can ever exist, if there is one. Bitcoin's is 21 million; many tokens have no max supply, and some have ongoing inflation.</li>
+</ul>
+
+<h2>Market capitalization</h2>
+<p><b>Market cap = price × circulating supply.</b> It's the standard way to rank assets. A token trading at $0.10 with 100 billion circulating has a $10 billion market cap — larger than a $50 token with 100 million circulating ($5 billion). This is why “cheap” per-coin prices are meaningless on their own.</p>
+<p>Market cap is not the amount of money invested. Thin order books mean a relatively small amount of buying can move the price — and therefore the market cap — a lot.</p>
+
+<h2>Fully diluted valuation (FDV)</h2>
+<p><b>FDV = price × max supply</b> (or total supply if there's no cap). It answers: what would the valuation be if every token existed and traded at today's price? A large gap between market cap and FDV — sometimes called “low float, high FDV” — means many tokens are still to come. As they unlock, they can dilute holders and add selling pressure.</p>
+<table>
+  <thead><tr><th>Example</th><th>Price</th><th>Circulating</th><th>Max</th><th>Market cap</th><th>FDV</th></tr></thead>
+  <tbody>
+    <tr><td>Token A</td><td>$2.00</td><td>900M</td><td>1B</td><td>$1.8B</td><td>$2.0B</td></tr>
+    <tr><td>Token B</td><td>$2.00</td><td>150M</td><td>1B</td><td>$300M</td><td>$2.0B</td></tr>
+  </tbody>
+</table>
+<p>Both have the same FDV, but Token B has 85% of its supply still to unlock. Use our <a href="../tools/market-cap-calculator.html">market cap calculator</a> to sanity-check price targets.</p>
+
+<h2>Token unlocks and vesting</h2>
+<p>Teams and early investors typically receive tokens on a <b>vesting schedule</b>: a lock-up (“cliff”), then gradual releases. Large unlock dates are public in most projects' tokenomics documents. They don't always cause price drops, but they change supply and deserve a look before you buy.</p>
+
+<h2>Volume and liquidity</h2>
+<ul>
+  <li><b>24h volume</b> — the value traded in the last day across tracked exchanges. Some exchanges inflate volume, so treat outliers with caution.</li>
+  <li><b>Volume ÷ market cap</b> — a rough activity gauge. Extremely low ratios suggest illiquidity.</li>
+  <li><b>Liquidity / order-book depth</b> — how much you could buy or sell near the current price. A large market cap with shallow liquidity can mean painful slippage.</li>
+</ul>
+
+<h2>Other useful numbers</h2>
+<ul>
+  <li><b>All-time high (ATH)</b> and distance from it — useful context, not a target.</li>
+  <li><b>Dominance</b> — an asset's share of total crypto market cap; Bitcoin dominance is a common gauge of risk appetite. See the <a href="../sentiment.html">sentiment dashboard</a>.</li>
+  <li><b>TVL</b> (total value locked) for DeFi protocols — deposits in smart contracts, which can include double-counting.</li>
+</ul>
+
+<h2>A quick research checklist</h2>
+<ol>
+  <li>Market cap and rank — how big is it really?</li>
+  <li>FDV gap and upcoming unlocks — how much dilution is ahead?</li>
+  <li>Volume and liquidity — could you exit?</li>
+  <li>Official links — are you looking at the real project? Check the coin's profile on CoinLink.</li>
+  <li>Concentration — do a few wallets hold most of the supply? Check holders on an explorer.</li>
+</ol>
+
+<h2>FAQ</h2>
+<details class="faq"><summary>Can a coin's market cap go up without new money coming in?</summary><p>Yes. Market cap is just last price × supply. A small trade at a higher price raises it, and a token unlock increases circulating supply.</p></details>
+<details class="faq"><summary>Is a low market cap coin more likely to grow?</summary><p>It has more room in theory but also far higher risk of failure. Most small-cap tokens from previous cycles lost most or all of their value.</p></details>

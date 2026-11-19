@@ -1,0 +1,205 @@
+<!doctype html>
+<html lang="en" data-base="../" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>DeFi Risks Explained: Smart Contracts, Oracles, Liquidations &amp; Yields | CoinLink.co</title>
+<meta name="description" content="A clear map of decentralized finance risks — contract bugs, admin keys, oracle failures, liquidations, depegs, bridges and impermanent loss — and how to evaluate a protocol.">
+<link rel="canonical" href="https://coinlink.co/learn/defi-risks-explained.html">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="CoinLink.co">
+<meta property="og:title" content="DeFi Risks Explained: Smart Contracts, Oracles, Liquidations &amp; Yields | CoinLink.co">
+<meta property="og:description" content="A clear map of decentralized finance risks — contract bugs, admin keys, oracle failures, liquidations, depegs, bridges and impermanent loss — and how to evaluate a protocol.">
+<meta property="og:url" content="https://coinlink.co/learn/defi-risks-explained.html">
+<meta property="og:image" content="https://coinlink.co/assets/img/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="DeFi Risks Explained: Smart Contracts, Oracles, Liquidations &amp; Yields | CoinLink.co">
+<meta name="twitter:description" content="A clear map of decentralized finance risks — contract bugs, admin keys, oracle failures, liquidations, depegs, bridges and impermanent loss — and how to evaluate a protocol.">
+<meta name="twitter:image" content="https://coinlink.co/assets/img/og.png">
+<meta name="theme-color" content="#0b1020">
+<link rel="icon" href="../assets/img/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="../assets/img/icon-192.png">
+<link rel="manifest" href="../manifest.webmanifest">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://api.coingecko.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;family=Space+Grotesk:wght@500;600;700&amp;display=swap">
+<link rel="stylesheet" href="../assets/css/style.css?v=70f62a774b">
+<script>try{var t=localStorage.getItem('cl_theme');if(t)document.documentElement.setAttribute('data-theme',t);if(localStorage.getItem('cl_consent')==='rejected'){(window.adsbygoogle=window.adsbygoogle||[]).requestNonPersonalizedAds=1;}}catch(e){}</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6620975821265271" crossorigin="anonymous"></script>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://coinlink.co/#org","name":"CoinLink.co","url":"https://coinlink.co/","logo":"https://coinlink.co/assets/img/logo.svg","description":"Independent crypto information hub: verified official links, phishing checks, live prices, tools and guides."},{"@type":"WebSite","@id":"https://coinlink.co/#website","url":"https://coinlink.co/","name":"CoinLink.co","publisher":{"@id":"https://coinlink.co/#org"},"potentialAction":{"@type":"SearchAction","target":"https://coinlink.co/markets.html?q={search_term_string}","query-input":"required name=search_term_string"}}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://coinlink.co/"},{"@type":"ListItem","position":2,"name":"Learn","item":"https://coinlink.co/learn.html"},{"@type":"ListItem","position":3,"name":"DeFi Risks Explained: Smart Contracts, Oracles, Liquidations & Yields","item":"https://coinlink.co/learn/defi-risks-explained.html"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"DeFi Risks Explained: Smart Contracts, Oracles, Liquidations & Yields","description":"A clear map of decentralized finance risks \u2014 contract bugs, admin keys, oracle failures, liquidations, depegs, bridges and impermanent loss \u2014 and how to evaluate a protocol.","datePublished":"2026-11-19","dateModified":"2026-11-19","author":{"@type":"Organization","name":"CoinLink.co Editorial"},"publisher":{"@id":"https://coinlink.co/#org"},"mainEntityOfPage":"https://coinlink.co/learn/defi-risks-explained.html","image":"https://coinlink.co/assets/img/og.png"}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is TVL and does high TVL mean safe?","acceptedAnswer":{"@type":"Answer","text":"Total value locked is the value deposited in a protocol's contracts. High TVL suggests trust and liquidity but also makes a protocol a bigger target. It's not a safety rating."}},{"@type":"Question","name":"Is DeFi insurance worth it?","acceptedAnswer":{"@type":"Answer","text":"Coverage products exist for specific risks such as contract exploits, but they have their own terms, exclusions and counterparty risk. Read exactly what is covered."}}]}</script>
+<script defer src="../assets/js/config.js?v=70f62a774b"></script>
+<script defer src="../assets/js/core.js?v=70f62a774b"></script>
+<script defer src="../assets/js/forms.js?v=70f62a774b"></script>
+</head>
+<body data-page="learn">
+
+<a class="skip" href="#main">Skip to content</a>
+<div class="topbar" role="note">
+  <a href="https://web.works/contact" target="_blank" rel="noopener">Contact, if you are interested in this website/domain name/Sponsorship/Advertisement/Partnership <span aria-hidden="true">→</span></a>
+</div>
+<div class="tickerbar" id="ticker" aria-label="Live prices"><div class="ticker-track" data-ticker></div></div>
+<header class="site-header">
+  <div class="wrap header-in">
+    <a class="brand" href="../index.html" aria-label="CoinLink.co home"><svg class="logo-mark" viewBox="0 0 48 48" aria-hidden="true"><defs><linearGradient id="lgc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFE08A"/><stop offset="1" stop-color="#E9A21A"/></linearGradient></defs><circle cx="18" cy="24" r="13" fill="url(#lgc)"/><circle cx="18" cy="24" r="8.2" fill="none" stroke="#8a5a00" stroke-opacity=".38" stroke-width="2.2"/><rect x="20" y="13.5" width="23" height="21" rx="10.5" fill="none" stroke="#22D3C5" stroke-width="4.2"/></svg><span class="brand-name">Coin<b>Link</b><i>.co</i></span></a>
+    <nav class="main-nav" aria-label="Primary">
+      <ul class="nav-list"><li><a href="../markets.html">Markets</a></li><li><a href="../links.html">Verified Links</a></li><li><a href="../link-checker.html">Link Checker</a></li><li><a href="../tools.html">Tools</a></li><li><a href="../learn.html" aria-current="page">Learn</a></li><li><a href="../news.html">News</a></li><li><a href="../videos.html">Videos</a></li>
+        <li class="has-more"><button class="more-btn" aria-expanded="false" aria-haspopup="true">More <span aria-hidden="true">▾</span></button>
+          <ul class="more-menu"><li><a href="../sentiment.html">Sentiment & Fees</a></li><li><a href="../exchanges.html">Exchanges</a></li><li><a href="../portfolio.html">Portfolio & Alerts</a></li><li><a href="../glossary.html">Glossary</a></li><li><a href="../contests.html">Contests & Prizes</a></li><li><a href="../careers.html">Careers</a></li><li><a href="../donate.html">Support Us</a></li><li><a href="../advertise.html">Advertise</a></li><li><a href="../list-your-project.html">List Your Project</a></li></ul></li>
+      </ul>
+    </nav>
+    <div class="header-actions">
+      <button class="icon-btn" data-search-open aria-label="Search coins and pages (Ctrl+K)" title="Search (Ctrl+K)"><svg viewBox="0 0 24 24" width="18" height="18"><path fill="currentColor" d="M10 2a8 8 0 0 1 6.32 12.9l5.39 5.4-1.42 1.41-5.39-5.39A8 8 0 1 1 10 2Zm0 2a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z"/></svg></button>
+      <select class="cur-select" data-currency aria-label="Display currency">
+        <option value="usd">USD</option><option value="eur">EUR</option><option value="gbp">GBP</option><option value="cad">CAD</option><option value="inr">INR</option><option value="aud">AUD</option><option value="jpy">JPY</option><option value="btc">BTC</option>
+      </select>
+      <button class="icon-btn" data-theme-toggle aria-label="Toggle light/dark theme" title="Theme"><svg viewBox="0 0 24 24" width="18" height="18"><path fill="currentColor" d="M12 3a9 9 0 1 0 9 9 7 7 0 0 1-9-9Z"/></svg></button>
+      <a class="btn btn-gold btn-sm hide-sm" href="../get-started.html">Free Safety Kit</a>
+      <button class="icon-btn menu-btn" data-menu aria-label="Open menu" aria-expanded="false"><svg viewBox="0 0 24 24" width="20" height="20"><path fill="currentColor" d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg></button>
+    </div>
+  </div>
+</header>
+<div class="global-bar" data-globalbar><div class="wrap gb-in"><span class="muted">Loading market overview…</span></div></div>
+
+<main id="main">
+
+<div class="wrap article-wrap">
+  <nav class="crumbs" aria-label="Breadcrumb"><a href="../index.html">Home</a> › <a href="../learn.html">Learn</a> › <span>DeFi</span></nav>
+  <article class="article">
+    <header class="article-head">
+      <span class="tag tag-intermediate">Intermediate</span>
+      <h1>DeFi Risks Explained: Smart Contracts, Oracles, Liquidations &amp; Yields</h1>
+      <p class="lede">A clear map of decentralized finance risks — contract bugs, admin keys, oracle failures, liquidations, depegs, bridges and impermanent loss — and how to evaluate a protocol.</p>
+      <p class="byline small muted">By CoinLink.co Editorial · 10 min read · Updated <time datetime="2026-11-19">2026-11-19</time> · <a href="../editorial-policy.html">How we write</a></p>
+    </header>
+    <aside class="takeaways"><h2 class="h4">Key takeaways</h2><ul><li>Every DeFi yield comes from somewhere; if you can&#x27;t name the source, you are the source.</li><li>Audits reduce but never remove smart-contract risk.</li><li>Borrowing against volatile collateral can trigger forced liquidations.</li><li>Bridges and admin keys are the most common points of catastrophic failure.</li></ul></aside>
+    <div class="article-grid">
+      <nav class="toc" aria-label="On this page"><p class="eyebrow">On this page</p><ol><li><a href="#1-smart-contract-risk">1. Smart-contract risk</a></li><li><a href="#2-admin-keys-and-governance">2. Admin keys and governance</a></li><li><a href="#3-oracle-risk">3. Oracle risk</a></li><li><a href="#4-liquidation-risk">4. Liquidation risk</a></li><li><a href="#5-stablecoin-and-depeg-risk">5. Stablecoin and depeg risk</a></li><li><a href="#6-bridge-risk">6. Bridge risk</a></li><li><a href="#7-impermanent-loss">7. Impermanent loss</a></li><li><a href="#8-yield-illusions">8. Yield illusions</a></li><li><a href="#9-front-end-and-phishing-risk">9. Front-end and phishing risk</a></li><li><a href="#a-60-second-protocol-checklist">A 60-second protocol checklist</a></li><li><a href="#faq">FAQ</a></li></ol></nav>
+      <div class="prose">
+        <p>Decentralized finance (DeFi) lets you trade, lend, borrow and earn yield through smart contracts instead of banks. It's open, global and transparent — and it moves risk from institutions onto you. Here's a practical map of what can go wrong.</p>
+
+<h2 id="1-smart-contract-risk">1. Smart-contract risk</h2>
+<p>DeFi protocols are code. Bugs can let attackers drain funds, and code can't be “patched” after an exploit to return what was taken. <b>Mitigations:</b> prefer protocols with multiple audits, long track records, bug bounties and meaningful time in production. Audits are a snapshot, not a guarantee.</p>
+
+<h2 id="2-admin-keys-and-governance">2. Admin keys and governance</h2>
+<p>Many protocols retain upgrade powers controlled by a multisig or a governance token vote. Upgrades can fix bugs — or introduce malicious changes if keys are compromised. <b>Check:</b> who can upgrade contracts, whether there's a timelock delay, and how many signers are required.</p>
+
+<h2 id="3-oracle-risk">3. Oracle risk</h2>
+<p>Lending markets need prices to decide when loans are under-collateralized. They get them from <b>oracles</b>. If an oracle reports a wrong price — through manipulation of a thin market or a technical failure — healthy positions can be liquidated or attackers can borrow against inflated collateral.</p>
+
+<h2 id="4-liquidation-risk">4. Liquidation risk</h2>
+<p>When you borrow against crypto, your position has a <b>liquidation threshold</b>. If collateral value falls below it, anyone can repay part of your debt and claim your collateral at a discount. Fast crashes can liquidate positions before you react. <b>Mitigation:</b> borrow conservatively and monitor your health factor.</p>
+
+<h2 id="5-stablecoin-and-depeg-risk">5. Stablecoin and depeg risk</h2>
+<p>Pools and loans often depend on stablecoins or liquid staking tokens holding their peg. A depeg can turn a “stable” strategy into a loss. See <a href="stablecoins-explained.html">stablecoins explained</a>.</p>
+
+<h2 id="6-bridge-risk">6. Bridge risk</h2>
+<p>Bridges move assets between chains, often by locking assets on one chain and issuing wrapped versions on another. They hold large pools of funds and have been the target of some of the largest hacks in crypto history. Use native assets where possible and minimize time spent in bridged tokens.</p>
+
+<h2 id="7-impermanent-loss">7. Impermanent loss</h2>
+<p>Providing liquidity to an automated market maker means holding two tokens in a pool. When their relative price changes, the pool rebalances and you can end up worse off than if you'd simply held both tokens. Trading fees may or may not compensate.</p>
+
+<h2 id="8-yield-illusions">8. Yield illusions</h2>
+<p>High advertised APYs often come from token emissions — new tokens printed to reward depositors — whose price may fall as they're sold. Ask: what is the real source of this yield? Borrower interest, trading fees and staking rewards are sustainable sources; emissions and leverage loops are not, on their own.</p>
+
+<h2 id="9-front-end-and-phishing-risk">9. Front-end and phishing risk</h2>
+<p>Even a perfectly secure protocol can be reached through a fake website or a hijacked domain. Always use bookmarked, <a href="../links.html?cat=DeFi%20%26%20apps">verified links</a> and read every wallet prompt.</p>
+
+<h2 id="a-60-second-protocol-checklist">A 60-second protocol checklist</h2>
+<ol>
+  <li>How long has it been live, and how much value has it secured without incident?</li>
+  <li>How many independent audits, and is there an active bug bounty?</li>
+  <li>Who controls upgrades? Is there a timelock?</li>
+  <li>Where does the yield come from?</li>
+  <li>What happens to my position in a 40% market crash?</li>
+  <li>Am I on the official website? Check with the <a href="../link-checker.html">link checker</a>.</li>
+</ol>
+
+<h2 id="faq">FAQ</h2>
+<details class="faq"><summary>What is TVL and does high TVL mean safe?</summary><p>Total value locked is the value deposited in a protocol's contracts. High TVL suggests trust and liquidity but also makes a protocol a bigger target. It's not a safety rating.</p></details>
+<details class="faq"><summary>Is DeFi insurance worth it?</summary><p>Coverage products exist for specific risks such as contract exploits, but they have their own terms, exclusions and counterparty risk. Read exactly what is covered.</p></details>
+        <div class="ad-slot" data-ad="article-mid"></div>
+        <div class="helpful" data-helpful="defi-risks-explained"><span>Was this guide helpful?</span><button class="btn btn-ghost btn-sm" data-vote="yes">👍 Yes</button><button class="btn btn-ghost btn-sm" data-vote="no">👎 No</button><span class="helpful-msg small muted" role="status"></span></div>
+        <div class="callout callout-gold"><h3>Protect yourself before your next click</h3><p>Paste any crypto link into the <a href="../link-checker.html">CoinLink checker</a>, or grab the free <a href="../get-started.html#kit">Scam-Proof Starter Kit</a>.</p></div>
+        <p class="small muted disclaimer-note">Educational content only, not financial, legal or tax advice. Always verify information with official sources. See our <a href="../disclaimer.html">disclaimer</a>.</p>
+      </div>
+    </div>
+  </article>
+  <section class="related"><h2>Keep learning</h2><div class="grid grid-3"><a class="card guide-card" href="verify-official-crypto-websites.html"><span class="tag">Security</span><h3>How to Verify a Crypto Website Is Official (and Spot Clones)</h3><p>A step-by-step method to confirm you&#x27;re on the real exchange, wallet or DeFi app — and the clone tricks scammers use to fool you.</p></a><a class="card guide-card" href="crypto-wallet-security.html"><span class="tag">Security</span><h3>Crypto Wallet Security: Seed Phrases, Hardware Wallets &amp; Approvals</h3><p>How to set up and protect a crypto wallet: seed phrase backups, hot vs cold wallets, hardware wallet buying rules, approvals and everyday habits.</p></a><a class="card guide-card" href="common-crypto-scams.html"><span class="tag">Security</span><h3>The Most Common Crypto Scams in 2026 — and the Red Flags</h3><p>Phishing clones, fake airdrops, impersonated support, pig-butchering, giveaway streams, rug pulls, address poisoning and recovery scams — how each works and how to spot it.</p></a></div></section>
+</div>
+</main>
+
+<section class="footer-cta">
+  <div class="wrap fcta-in">
+    <div><h2>Get the CoinLink Brief</h2><p>One short email a week: verified-link alerts, new phishing patterns, market moves that matter. No spam, unsubscribe anytime.</p></div>
+    <form class="inline-form" data-form="newsletter" data-label="Newsletter signup" novalidate>
+      <input type="text" name="_gotcha" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <label class="sr" for="nl-email">Email</label>
+      <input id="nl-email" type="email" name="email" placeholder="you@email.com" required autocomplete="email">
+      <input type="hidden" name="source" value="footer">
+      <button class="btn btn-gold" type="submit">Subscribe</button>
+      <p class="form-msg" role="status" aria-live="polite"></p>
+    </form>
+  </div>
+</section>
+<footer class="site-footer">
+  <div class="wrap foot-grid">
+    <div class="foot-brand">
+      <a class="brand" href="../index.html"><svg class="logo-mark" viewBox="0 0 48 48" aria-hidden="true"><defs><linearGradient id="lgc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFE08A"/><stop offset="1" stop-color="#E9A21A"/></linearGradient></defs><circle cx="18" cy="24" r="13" fill="url(#lgc)"/><circle cx="18" cy="24" r="8.2" fill="none" stroke="#8a5a00" stroke-opacity=".38" stroke-width="2.2"/><rect x="20" y="13.5" width="23" height="21" rx="10.5" fill="none" stroke="#22D3C5" stroke-width="4.2"/></svg><span class="brand-name">Coin<b>Link</b><i>.co</i></span></a>
+      <p>Every coin. The right link. Verified official links, phishing checks, live prices, tools and plain-English guides.</p>
+      <p class="small muted">Not financial advice. Crypto assets are volatile and can lose all value.</p>
+    </div>
+    <div><h3>Markets</h3><ul>
+      <li><a href="../markets.html">Prices &amp; market cap</a></li><li><a href="../exchanges.html">Exchanges</a></li>
+      <li><a href="../sentiment.html">Sentiment &amp; fees</a></li><li><a href="../portfolio.html">Portfolio &amp; alerts</a></li>
+      <li><a href="../tools.html">Calculators</a></li></ul></div>
+    <div><h3>Safety</h3><ul>
+      <li><a href="../links.html">Verified links</a></li><li><a href="../link-checker.html">Phishing link checker</a></li>
+      <li><a href="../link-checker.html#report">Report a scam link</a></li><li><a href="../learn/common-crypto-scams.html">Scam red flags</a></li>
+      <li><a href="../learn/scammed-what-to-do.html">Scammed? Next steps</a></li></ul></div>
+    <div><h3>Learn</h3><ul>
+      <li><a href="../learn.html">All guides</a></li><li><a href="../glossary.html">Glossary</a></li>
+      <li><a href="../news.html">News</a></li><li><a href="../videos.html">Videos</a></li>
+      <li><a href="../editorial-policy.html">Editorial policy</a></li></ul></div>
+    <div><h3>Work with us</h3><ul>
+      <li><a href="../get-started.html">Free safety kit</a></li><li><a href="../list-your-project.html">List your project</a></li>
+      <li><a href="../advertise.html">Advertise &amp; sponsor</a></li><li><a href="../contests.html">Contests &amp; prizes</a></li>
+      <li><a href="../careers.html">Careers</a></li><li><a href="../donate.html">Support us</a></li>
+      <li><a href="../contact.html">Contact</a></li></ul></div>
+    <div><h3>Legal</h3><ul>
+      <li><a href="../about.html">About</a></li><li><a href="../privacy.html">Privacy policy</a></li>
+      <li><a href="../terms.html">Terms of use</a></li><li><a href="../disclaimer.html">Disclaimer</a></li>
+      <li><a href="../cookies.html">Cookie policy</a></li><li><a href="../legal.html">Trademark &amp; copyright</a></li>
+      <li><a href="../sitemap.html">Sitemap</a></li></ul></div>
+  </div>
+  <div class="wrap foot-legal">
+    <p><strong>Trademark &amp; copyright disclosure:</strong> CoinLink.co is an independent information website. It is not affiliated with, endorsed by, or sponsored by any company, product or service named “Coinlink”, “CoinLink” or similar, nor by any exchange, wallet, blockchain project or publisher mentioned on this site. All product names, logos and brands are property of their respective owners and are used for identification only. Market data: CoinGecko, CoinPaprika, CoinLore. Sentiment: Alternative.me. Phishing data: ScamSniffer scam-database (GPL-3.0) and MetaMask eth-phishing-detect. Headlines link to their original publishers. <a href="../legal.html">Full disclosure</a>.</p>
+    <p>© 2026 CoinLink.co. Original content and design are protected by copyright. All rights reserved.</p>
+  </div>
+</footer>
+<div class="consent" data-consent hidden>
+  <p>We use cookies for essential features, and Google AdSense may use cookies to show and measure ads. <a href="../cookies.html">Learn more</a>.</p>
+  <div class="consent-btns"><button class="btn btn-ghost btn-sm" data-consent-reject>Reject non-essential</button><button class="btn btn-gold btn-sm" data-consent-accept>Accept</button></div>
+</div>
+<aside class="slidein" data-slidein hidden aria-label="Free safety kit offer">
+  <button class="slidein-x" data-slidein-close aria-label="Close">×</button>
+  <p class="eyebrow">Free download</p>
+  <h3>The Scam-Proof Crypto Starter Kit</h3>
+  <p>27-point safety checklist + verified-links cheat sheet. Takes 30 seconds.</p>
+  <a class="btn btn-gold btn-block" href="../get-started.html#kit">Get the free kit</a>
+</aside>
+<div class="palette" data-palette hidden role="dialog" aria-modal="true" aria-label="Search">
+  <div class="palette-box">
+    <input type="search" data-palette-input placeholder="Search coins, tools, guides… (e.g. bitcoin, converter, wallet)" aria-label="Search">
+    <ul class="palette-results" data-palette-results></ul>
+    <p class="palette-hint small muted">↑↓ to move · Enter to open · Esc to close</p>
+  </div>
+</div>
+<div class="toast-wrap" data-toasts aria-live="polite"></div>
+
+</body>
+</html>

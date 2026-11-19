@@ -1,0 +1,16 @@
+<!--meta
+{"title": "Crypto Market Cap Calculator — Price at Another Coin's Market Cap", "short": "Market cap → price", "h1": "Market cap to price calculator", "description": "What would a coin's price be at Bitcoin's or Ethereum's market cap? Compare valuations using circulating supply.", "icon": "🧭", "order": 5}
+-->
+<div class="tool-panel" data-tool="mcap">
+  <div class="card">
+<label>Coin to value<select name="coin" data-coin-select data-default="cardano"></select></label>
+<label>…at the market cap of<select name="target" data-coin-select data-default="ethereum"></select></label>
+<label>Or a custom market cap (billion USD)<input type="number" name="custom" min="0" step="any" placeholder="e.g. 100"></label>
+  </div>
+  <div class="result-box" data-out aria-live="polite"><span class="muted">Enter values to see the result.</span></div>
+</div>
+<section class="tool-explainer prose">
+<h2>Why market cap, not price, is what matters</h2><p>A coin at $0.50 isn't “cheaper” than one at $500 — what matters is the total valuation. Price × circulating supply = market cap, so the implied price is the target market cap divided by the coin's circulating supply.</p><p>Use this as a sanity check on bold predictions: if a forecast implies a market cap larger than the world's biggest companies, the forecast is probably wrong. Also compare fully diluted value (FDV) — future token unlocks can expand supply and dilute holders. See <a href="../learn/market-cap-fdv-supply.html">market cap vs FDV</a>.</p>
+<h2>FAQ</h2>
+<details class="faq"><summary>Why is circulating supply used?</summary><p>Market cap is conventionally calculated on circulating supply. If many tokens are still locked, FDV gives a more conservative picture.</p></details>
+</section>

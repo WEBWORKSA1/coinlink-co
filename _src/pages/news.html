@@ -1,0 +1,26 @@
+<!--meta
+{"title": "Crypto News Today — Headlines from Top Publishers", "description": "Crypto news headlines aggregated automatically from leading publishers like CoinDesk, Cointelegraph, Decrypt, The Block and Bitcoin Magazine. Filter by topic and source.", "out": "news.html", "nav": "news", "page": "news", "scripts": ["markets"], "priority": 0.8, "crumbs": [["News", "news.html"]]}
+-->
+<div class="wrap">
+  <header class="page-head">
+    <p class="eyebrow">Auto-updated headlines</p>
+    <h1>Crypto news today</h1>
+    <p class="lede">Headlines from leading crypto publishers, refreshed automatically every few hours. We link straight to the original article — read the full story on the publisher's site.</p>
+  </header>
+  <div class="table-tools">
+    <label class="sr" for="nq">Search headlines</label><input id="nq" type="search" placeholder="Search headlines…" data-news-q>
+    <label class="sr" for="nsrc">Publisher</label><select id="nsrc" data-news-src style="max-width:220px"><option>All</option></select>
+  </div>
+  <div class="chips" data-news-cats></div>
+  <p class="small muted" data-news-updated style="margin:10px 0"></p>
+  <div class="grid grid-main">
+    <div class="card"><ul class="news-list" data-news="200"><!--@newsall--></ul></div>
+    <aside class="grid" style="align-content:start">
+      <div class="card"><h2 class="h5">🛡️ Read news safely</h2><p class="small">Breaking-news “airdrops” and “compensation claims” are a favourite scam hook. If a headline sends you to claim something, check the link first.</p><a class="btn btn-teal btn-sm" href="{{base}}link-checker.html">Open link checker</a></div>
+      <div class="ad-slot" data-ad="news-mid"></div>
+      <div class="card"><h2 class="h5">Get the weekly brief</h2><p class="small muted">The week's must-know crypto stories and scam alerts in one short email.</p>
+        <form data-form="newsletter" data-label="Newsletter signup (news page)" novalidate><input type="text" name="_gotcha" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true"><label class="sr" for="news-nl">Email</label><input id="news-nl" type="email" name="email" placeholder="you@email.com" required><input type="hidden" name="source" value="news-sidebar"><button class="btn btn-gold btn-block btn-sm" type="submit" style="margin-top:8px">Subscribe</button><p class="form-msg" role="status"></p></form></div>
+    </aside>
+  </div>
+  <p class="small faint">Headlines and links belong to their publishers. CoinLink.co is not affiliated with any publisher listed.</p>
+</div>

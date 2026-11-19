@@ -1,0 +1,16 @@
+<!--meta
+{"title": "Crypto Profit & Loss Calculator (with Fees)", "short": "Profit / loss", "h1": "Crypto profit / loss calculator", "description": "Calculate crypto profit, ROI and break-even price including buy and sell fees.", "icon": "💹", "order": 2}
+-->
+<div class="tool-panel" data-tool="profit">
+  <div class="card">
+<label>Investment (USD)<input type="number" name="invest" value="1000" min="0" step="any"></label>
+<div class="field-row"><label>Buy price<input type="number" name="buy" value="50000" min="0" step="any"></label><label>Sell price<input type="number" name="sell" value="65000" min="0" step="any"></label></div>
+<div class="field-row"><label>Buy fee %<input type="number" name="buyfee" value="0.5" min="0" step="any"></label><label>Sell fee %<input type="number" name="sellfee" value="0.5" min="0" step="any"></label></div>
+  </div>
+  <div class="result-box" data-out aria-live="polite"><span class="muted">Enter values to see the result.</span></div>
+</div>
+<section class="tool-explainer prose">
+<h2>What the result means</h2><p>We deduct the buy fee from your investment, convert the remainder into coins at your buy price, value them at your sell price and deduct the sell fee. <b>ROI</b> is profit divided by what you put in. <b>Break-even sell price</b> is where you'd walk away with exactly your original investment after both fees.</p><p>Fees compound: 0.5% in and 0.5% out means the price must rise about 1% before you're even. On low-liquidity coins the spread can cost more than the fee, so check the order book before trading.</p>
+<h2>FAQ</h2>
+<details class="faq"><summary>Does this include taxes?</summary><p>No. Use the crypto tax estimator for a rough tax figure on your gain.</p></details><details class="faq"><summary>What fee should I enter?</summary><p>Use your exchange's taker fee for market orders or maker fee for limit orders, plus any card or conversion surcharge.</p></details>
+</section>

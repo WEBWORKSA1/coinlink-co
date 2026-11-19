@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="en" data-base="../" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Token Approvals, Permits &amp; Wallet Drainers Explained | CoinLink.co</title>
+<meta name="description" content="What approve, permit and setApprovalForAll really do, why unlimited allowances are dangerous, how drainers abuse signatures and how to review and revoke approvals.">
+<link rel="canonical" href="https://coinlink.co/learn/token-approvals-explained.html">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="CoinLink.co">
+<meta property="og:title" content="Token Approvals, Permits &amp; Wallet Drainers Explained | CoinLink.co">
+<meta property="og:description" content="What approve, permit and setApprovalForAll really do, why unlimited allowances are dangerous, how drainers abuse signatures and how to review and revoke approvals.">
+<meta property="og:url" content="https://coinlink.co/learn/token-approvals-explained.html">
+<meta property="og:image" content="https://coinlink.co/assets/img/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Token Approvals, Permits &amp; Wallet Drainers Explained | CoinLink.co">
+<meta name="twitter:description" content="What approve, permit and setApprovalForAll really do, why unlimited allowances are dangerous, how drainers abuse signatures and how to review and revoke approvals.">
+<meta name="twitter:image" content="https://coinlink.co/assets/img/og.png">
+<meta name="theme-color" content="#0b1020">
+<link rel="icon" href="../assets/img/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="../assets/img/icon-192.png">
+<link rel="manifest" href="../manifest.webmanifest">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://api.coingecko.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;family=Space+Grotesk:wght@500;600;700&amp;display=swap">
+<link rel="stylesheet" href="../assets/css/style.css?v=70f62a774b">
+<script>try{var t=localStorage.getItem('cl_theme');if(t)document.documentElement.setAttribute('data-theme',t);if(localStorage.getItem('cl_consent')==='rejected'){(window.adsbygoogle=window.adsbygoogle||[]).requestNonPersonalizedAds=1;}}catch(e){}</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6620975821265271" crossorigin="anonymous"></script>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://coinlink.co/#org","name":"CoinLink.co","url":"https://coinlink.co/","logo":"https://coinlink.co/assets/img/logo.svg","description":"Independent crypto information hub: verified official links, phishing checks, live prices, tools and guides."},{"@type":"WebSite","@id":"https://coinlink.co/#website","url":"https://coinlink.co/","name":"CoinLink.co","publisher":{"@id":"https://coinlink.co/#org"},"potentialAction":{"@type":"SearchAction","target":"https://coinlink.co/markets.html?q={search_term_string}","query-input":"required name=search_term_string"}}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://coinlink.co/"},{"@type":"ListItem","position":2,"name":"Learn","item":"https://coinlink.co/learn.html"},{"@type":"ListItem","position":3,"name":"Token Approvals, Permits & Wallet Drainers Explained","item":"https://coinlink.co/learn/token-approvals-explained.html"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Token Approvals, Permits & Wallet Drainers Explained","description":"What approve, permit and setApprovalForAll really do, why unlimited allowances are dangerous, how drainers abuse signatures and how to review and revoke approvals.","datePublished":"2026-11-19","dateModified":"2026-11-19","author":{"@type":"Organization","name":"CoinLink.co Editorial"},"publisher":{"@id":"https://coinlink.co/#org"},"mainEntityOfPage":"https://coinlink.co/learn/token-approvals-explained.html","image":"https://coinlink.co/assets/img/og.png"}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is signing a message always dangerous?","acceptedAnswer":{"@type":"Answer","text":"No. Many sites ask you to sign a plain-text message to log in, which doesn't move funds. The risk is in structured signatures that contain permit or order data. Read before signing."}},{"@type":"Question","name":"Do approvals exist on Bitcoin?","acceptedAnswer":{"@type":"Answer","text":"Not in the same way. Bitcoin doesn't have token allowances like Ethereum. Some Bitcoin wallets can sign partially-signed transactions (PSBTs) for marketplaces, which deserve the same caution."}}]}</script>
+<script defer src="../assets/js/config.js?v=70f62a774b"></script>
+<script defer src="../assets/js/core.js?v=70f62a774b"></script>
+<script defer src="../assets/js/forms.js?v=70f62a774b"></script>
+</head>
+<body data-page="learn">
+
+<a class="skip" href="#main">Skip to content</a>
+<div class="topbar" role="note">
+  <a href="https://web.works/contact" target="_blank" rel="noopener">Contact, if you are interested in this website/domain name/Sponsorship/Advertisement/Partnership <span aria-hidden="true">→</span></a>
+</div>
+<div class="tickerbar" id="ticker" aria-label="Live prices"><div class="ticker-track" data-ticker></div></div>
+<header class="site-header">
+  <div class="wrap header-in">
+    <a class="brand" href="../index.html" aria-label="CoinLink.co home"><svg class="logo-mark" viewBox="0 0 48 48" aria-hidden="true"><defs><linearGradient id="lgc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFE08A"/><stop offset="1" stop-color="#E9A21A"/></linearGradient></defs><circle cx="18" cy="24" r="13" fill="url(#lgc)"/><circle cx="18" cy="24" r="8.2" fill="none" stroke="#8a5a00" stroke-opacity=".38" stroke-width="2.2"/><rect x="20" y="13.5" width="23" height="21" rx="10.5" fill="none" stroke="#22D3C5" stroke-width="4.2"/></svg><span class="brand-name">Coin<b>Link</b><i>.co</i></span></a>
+    <nav class="main-nav" aria-label="Primary">
+      <ul class="nav-list"><li><a href="../markets.html">Markets</a></li><li><a href="../links.html">Verified Links</a></li><li><a href="../link-checker.html">Link Checker</a></li><li><a href="../tools.html">Tools</a></li><li><a href="../learn.html" aria-current="page">Learn</a></li><li><a href="../news.html">News</a></li><li><a href="../videos.html">Videos</a></li>
+        <li class="has-more"><button class="more-btn" aria-expanded="false" aria-haspopup="true">More <span aria-hidden="true">▾</span></button>
+          <ul class="more-menu"><li><a href="../sentiment.html">Sentiment & Fees</a></li><li><a href="../exchanges.html">Exchanges</a></li><li><a href="../portfolio.html">Portfolio & Alerts</a></li><li><a href="../glossary.html">Glossary</a></li><li><a href="../contests.html">Contests & Prizes</a></li><li><a href="../careers.html">Careers</a></li><li><a href="../donate.html">Support Us</a></li><li><a href="../advertise.html">Advertise</a></li><li><a href="../list-your-project.html">List Your Project</a></li></ul></li>
+      </ul>
+    </nav>
+    <div class="header-actions">
+      <button class="icon-btn" data-search-open aria-label="Search coins and pages (Ctrl+K)" title="Search (Ctrl+K)"><svg viewBox="0 0 24 24" width="18" height="18"><path fill="currentColor" d="M10 2a8 8 0 0 1 6.32 12.9l5.39 5.4-1.42 1.41-5.39-5.39A8 8 0 1 1 10 2Zm0 2a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z"/></svg></button>
+      <select class="cur-select" data-currency aria-label="Display currency">
+        <option value="usd">USD</option><option value="eur">EUR</option><option value="gbp">GBP</option><option value="cad">CAD</option><option value="inr">INR</option><option value="aud">AUD</option><option value="jpy">JPY</option><option value="btc">BTC</option>
+      </select>
+      <button class="icon-btn" data-theme-toggle aria-label="Toggle light/dark theme" title="Theme"><svg viewBox="0 0 24 24" width="18" height="18"><path fill="currentColor" d="M12 3a9 9 0 1 0 9 9 7 7 0 0 1-9-9Z"/></svg></button>
+      <a class="btn btn-gold btn-sm hide-sm" href="../get-started.html">Free Safety Kit</a>
+      <button class="icon-btn menu-btn" data-menu aria-label="Open menu" aria-expanded="false"><svg viewBox="0 0 24 24" width="20" height="20"><path fill="currentColor" d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg></button>
+    </div>
+  </div>
+</header>
+<div class="global-bar" data-globalbar><div class="wrap gb-in"><span class="muted">Loading market overview…</span></div></div>
+
+<main id="main">
+
+<div class="wrap article-wrap">
+  <nav class="crumbs" aria-label="Breadcrumb"><a href="../index.html">Home</a> › <a href="../learn.html">Learn</a> › <span>Security</span></nav>
+  <article class="article">
+    <header class="article-head">
+      <span class="tag tag-intermediate">Intermediate</span>
+      <h1>Token Approvals, Permits &amp; Wallet Drainers Explained</h1>
+      <p class="lede">What approve, permit and setApprovalForAll really do, why unlimited allowances are dangerous, how drainers abuse signatures and how to review and revoke approvals.</p>
+      <p class="byline small muted">By CoinLink.co Editorial · 8 min read · Updated <time datetime="2026-11-19">2026-11-19</time> · <a href="../editorial-policy.html">How we write</a></p>
+    </header>
+    <aside class="takeaways"><h2 class="h4">Key takeaways</h2><ul><li>An approval lets a smart contract move your tokens later without asking again.</li><li>Off-chain “permit” signatures can grant the same power without any gas fee or transaction.</li><li>setApprovalForAll gives control of an entire NFT collection in your wallet.</li><li>Review approvals regularly and revoke anything you don&#x27;t actively use.</li></ul></aside>
+    <div class="article-grid">
+      <nav class="toc" aria-label="On this page"><p class="eyebrow">On this page</p><ol><li><a href="#why-approvals-exist">Why approvals exist</a></li><li><a href="#the-three-permission-types">The three permission types</a></li><li><a href="#reading-a-wallet-prompt-like-a-pro">Reading a wallet prompt like a pro</a></li><li><a href="#how-to-review-and-revoke">How to review and revoke</a></li><li><a href="#defensive-setup">Defensive setup</a></li><li><a href="#faq">FAQ</a></li></ol></nav>
+      <div class="prose">
+        <p>Most wallet drains on Ethereum-style networks don't steal a seed phrase. They obtain <b>permission</b>. Understanding the three permission types below turns confusing wallet pop-ups into decisions you can actually evaluate.</p>
+
+<h2 id="why-approvals-exist">Why approvals exist</h2>
+<p>Tokens such as USDC or UNI are smart contracts that keep a ledger of balances. When you swap on a decentralized exchange, the exchange's contract must pull tokens from your balance. The standard way to allow that is an <b>approval</b>: you tell the token contract “this spender may move up to X of my tokens”. The amount is called an <b>allowance</b>.</p>
+<p>Approvals are normal and necessary. The danger is in <em>who</em> you approve and <em>how much</em>.</p>
+
+<h2 id="the-three-permission-types">The three permission types</h2>
+<h3>1. approve / increaseAllowance (on-chain)</h3>
+<p>A transaction you send and pay gas for. Many apps request an <b>unlimited</b> allowance so you don't need to approve again next time. If that spender contract is later exploited, or was malicious from the start, it can take every unit of that token you hold — today or years from now.</p>
+<h3>2. Permit and Permit2 signatures (off-chain)</h3>
+<p>Some tokens and routers support <b>permits</b>: instead of a transaction, you sign a typed message that grants an allowance. It costs no gas and looks like a harmless “signature request”. Drainers love permits because victims don't feel like they're “sending” anything. Once signed, the attacker submits it on-chain and moves the tokens.</p>
+<h3>3. setApprovalForAll (NFTs)</h3>
+<p>For NFT collections, this single approval lets an operator transfer <b>every</b> NFT you own in that collection. Legitimate marketplaces use it for listings; phishing sites use it to empty galleries.</p>
+
+<h2 id="reading-a-wallet-prompt-like-a-pro">Reading a wallet prompt like a pro</h2>
+<ul>
+  <li><b>Who is the spender?</b> Your wallet shows the spender address or a label. If you didn't expect this app to touch this token, reject.</li>
+  <li><b>What token and how much?</b> Prefer setting a custom allowance equal to the amount you're actually using.</li>
+  <li><b>Is it a signature for a permit?</b> Look for words like Permit, PermitSingle, PermitBatch, spender, value and deadline in the signature details.</li>
+  <li><b>Does the site match your bookmark?</b> A legitimate-looking prompt on a fake domain is still a theft.</li>
+  <li><b>Does your wallet show a simulation?</b> Many wallets now preview balance changes. If it shows assets leaving that you didn't intend, stop.</li>
+</ul>
+
+<h2 id="how-to-review-and-revoke">How to review and revoke</h2>
+<ol>
+  <li>Open a reputable approval manager (find verified ones in our <a href="../links.html?cat=Security%20%26%20scam%20reporting">security directory</a>) or the token-approval page of the network's block explorer.</li>
+  <li>Connect your wallet or paste your address to see every active allowance, per network.</li>
+  <li>Revoke anything unlimited that you no longer use, anything you don't recognize, and anything tied to sites you've stopped using.</li>
+  <li>Repeat every few months and after any suspicious interaction. Revoking requires a small gas fee per approval.</li>
+</ol>
+<p>Note that revoking an allowance doesn't undo past transfers — it only prevents future ones.</p>
+
+<h2 id="defensive-setup">Defensive setup</h2>
+<ul>
+  <li>Keep valuables in a hardware wallet that never connects to new or experimental apps.</li>
+  <li>Use a separate “burner” wallet with small balances for mints, airdrops and new protocols.</li>
+  <li>Choose limited allowances whenever the app lets you.</li>
+  <li>Be suspicious of any “signature only” request on a site you reached from a link.</li>
+</ul>
+
+<h2 id="faq">FAQ</h2>
+<details class="faq"><summary>Is signing a message always dangerous?</summary><p>No. Many sites ask you to sign a plain-text message to log in, which doesn't move funds. The risk is in structured signatures that contain permit or order data. Read before signing.</p></details>
+<details class="faq"><summary>Do approvals exist on Bitcoin?</summary><p>Not in the same way. Bitcoin doesn't have token allowances like Ethereum. Some Bitcoin wallets can sign partially-signed transactions (PSBTs) for marketplaces, which deserve the same caution.</p></details>
+        <div class="ad-slot" data-ad="article-mid"></div>
+        <div class="helpful" data-helpful="token-approvals-explained"><span>Was this guide helpful?</span><button class="btn btn-ghost btn-sm" data-vote="yes">👍 Yes</button><button class="btn btn-ghost btn-sm" data-vote="no">👎 No</button><span class="helpful-msg small muted" role="status"></span></div>
+        <div class="callout callout-gold"><h3>Protect yourself before your next click</h3><p>Paste any crypto link into the <a href="../link-checker.html">CoinLink checker</a>, or grab the free <a href="../get-started.html#kit">Scam-Proof Starter Kit</a>.</p></div>
+        <p class="small muted disclaimer-note">Educational content only, not financial, legal or tax advice. Always verify information with official sources. See our <a href="../disclaimer.html">disclaimer</a>.</p>
+      </div>
+    </div>
+  </article>
+  <section class="related"><h2>Keep learning</h2><div class="grid grid-3"><a class="card guide-card" href="verify-official-crypto-websites.html"><span class="tag">Security</span><h3>How to Verify a Crypto Website Is Official (and Spot Clones)</h3><p>A step-by-step method to confirm you&#x27;re on the real exchange, wallet or DeFi app — and the clone tricks scammers use to fool you.</p></a><a class="card guide-card" href="crypto-wallet-security.html"><span class="tag">Security</span><h3>Crypto Wallet Security: Seed Phrases, Hardware Wallets &amp; Approvals</h3><p>How to set up and protect a crypto wallet: seed phrase backups, hot vs cold wallets, hardware wallet buying rules, approvals and everyday habits.</p></a><a class="card guide-card" href="common-crypto-scams.html"><span class="tag">Security</span><h3>The Most Common Crypto Scams in 2026 — and the Red Flags</h3><p>Phishing clones, fake airdrops, impersonated support, pig-butchering, giveaway streams, rug pulls, address poisoning and recovery scams — how each works and how to spot it.</p></a></div></section>
+</div>
+</main>
+
+<section class="footer-cta">
+  <div class="wrap fcta-in">
+    <div><h2>Get the CoinLink Brief</h2><p>One short email a week: verified-link alerts, new phishing patterns, market moves that matter. No spam, unsubscribe anytime.</p></div>
+    <form class="inline-form" data-form="newsletter" data-label="Newsletter signup" novalidate>
+      <input type="text" name="_gotcha" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <label class="sr" for="nl-email">Email</label>
+      <input id="nl-email" type="email" name="email" placeholder="you@email.com" required autocomplete="email">
+      <input type="hidden" name="source" value="footer">
+      <button class="btn btn-gold" type="submit">Subscribe</button>
+      <p class="form-msg" role="status" aria-live="polite"></p>
+    </form>
+  </div>
+</section>
+<footer class="site-footer">
+  <div class="wrap foot-grid">
+    <div class="foot-brand">
+      <a class="brand" href="../index.html"><svg class="logo-mark" viewBox="0 0 48 48" aria-hidden="true"><defs><linearGradient id="lgc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFE08A"/><stop offset="1" stop-color="#E9A21A"/></linearGradient></defs><circle cx="18" cy="24" r="13" fill="url(#lgc)"/><circle cx="18" cy="24" r="8.2" fill="none" stroke="#8a5a00" stroke-opacity=".38" stroke-width="2.2"/><rect x="20" y="13.5" width="23" height="21" rx="10.5" fill="none" stroke="#22D3C5" stroke-width="4.2"/></svg><span class="brand-name">Coin<b>Link</b><i>.co</i></span></a>
+      <p>Every coin. The right link. Verified official links, phishing checks, live prices, tools and plain-English guides.</p>
+      <p class="small muted">Not financial advice. Crypto assets are volatile and can lose all value.</p>
+    </div>
+    <div><h3>Markets</h3><ul>
+      <li><a href="../markets.html">Prices &amp; market cap</a></li><li><a href="../exchanges.html">Exchanges</a></li>
+      <li><a href="../sentiment.html">Sentiment &amp; fees</a></li><li><a href="../portfolio.html">Portfolio &amp; alerts</a></li>
+      <li><a href="../tools.html">Calculators</a></li></ul></div>
+    <div><h3>Safety</h3><ul>
+      <li><a href="../links.html">Verified links</a></li><li><a href="../link-checker.html">Phishing link checker</a></li>
+      <li><a href="../link-checker.html#report">Report a scam link</a></li><li><a href="../learn/common-crypto-scams.html">Scam red flags</a></li>
+      <li><a href="../learn/scammed-what-to-do.html">Scammed? Next steps</a></li></ul></div>
+    <div><h3>Learn</h3><ul>
+      <li><a href="../learn.html">All guides</a></li><li><a href="../glossary.html">Glossary</a></li>
+      <li><a href="../news.html">News</a></li><li><a href="../videos.html">Videos</a></li>
+      <li><a href="../editorial-policy.html">Editorial policy</a></li></ul></div>
+    <div><h3>Work with us</h3><ul>
+      <li><a href="../get-started.html">Free safety kit</a></li><li><a href="../list-your-project.html">List your project</a></li>
+      <li><a href="../advertise.html">Advertise &amp; sponsor</a></li><li><a href="../contests.html">Contests &amp; prizes</a></li>
+      <li><a href="../careers.html">Careers</a></li><li><a href="../donate.html">Support us</a></li>
+      <li><a href="../contact.html">Contact</a></li></ul></div>
+    <div><h3>Legal</h3><ul>
+      <li><a href="../about.html">About</a></li><li><a href="../privacy.html">Privacy policy</a></li>
+      <li><a href="../terms.html">Terms of use</a></li><li><a href="../disclaimer.html">Disclaimer</a></li>
+      <li><a href="../cookies.html">Cookie policy</a></li><li><a href="../legal.html">Trademark &amp; copyright</a></li>
+      <li><a href="../sitemap.html">Sitemap</a></li></ul></div>
+  </div>
+  <div class="wrap foot-legal">
+    <p><strong>Trademark &amp; copyright disclosure:</strong> CoinLink.co is an independent information website. It is not affiliated with, endorsed by, or sponsored by any company, product or service named “Coinlink”, “CoinLink” or similar, nor by any exchange, wallet, blockchain project or publisher mentioned on this site. All product names, logos and brands are property of their respective owners and are used for identification only. Market data: CoinGecko, CoinPaprika, CoinLore. Sentiment: Alternative.me. Phishing data: ScamSniffer scam-database (GPL-3.0) and MetaMask eth-phishing-detect. Headlines link to their original publishers. <a href="../legal.html">Full disclosure</a>.</p>
+    <p>© 2026 CoinLink.co. Original content and design are protected by copyright. All rights reserved.</p>
+  </div>
+</footer>
+<div class="consent" data-consent hidden>
+  <p>We use cookies for essential features, and Google AdSense may use cookies to show and measure ads. <a href="../cookies.html">Learn more</a>.</p>
+  <div class="consent-btns"><button class="btn btn-ghost btn-sm" data-consent-reject>Reject non-essential</button><button class="btn btn-gold btn-sm" data-consent-accept>Accept</button></div>
+</div>
+<aside class="slidein" data-slidein hidden aria-label="Free safety kit offer">
+  <button class="slidein-x" data-slidein-close aria-label="Close">×</button>
+  <p class="eyebrow">Free download</p>
+  <h3>The Scam-Proof Crypto Starter Kit</h3>
+  <p>27-point safety checklist + verified-links cheat sheet. Takes 30 seconds.</p>
+  <a class="btn btn-gold btn-block" href="../get-started.html#kit">Get the free kit</a>
+</aside>
+<div class="palette" data-palette hidden role="dialog" aria-modal="true" aria-label="Search">
+  <div class="palette-box">
+    <input type="search" data-palette-input placeholder="Search coins, tools, guides… (e.g. bitcoin, converter, wallet)" aria-label="Search">
+    <ul class="palette-results" data-palette-results></ul>
+    <p class="palette-hint small muted">↑↓ to move · Enter to open · Esc to close</p>
+  </div>
+</div>
+<div class="toast-wrap" data-toasts aria-live="polite"></div>
+
+</body>
+</html>

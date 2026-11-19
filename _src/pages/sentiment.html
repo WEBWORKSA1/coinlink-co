@@ -1,0 +1,46 @@
+<!--meta
+{"title": "Crypto Fear & Greed Index, Bitcoin Fees, ETH Gas & Halving Countdown", "description": "Today's Crypto Fear & Greed Index with 1-year history, live Bitcoin fee tiers, Ethereum gas costs, BTC/ETH dominance and the next Bitcoin halving countdown.", "out": "sentiment.html", "nav": "sentiment", "page": "sentiment", "scripts": ["markets"], "crumbs": [["Sentiment & Fees", "sentiment.html"]]}
+-->
+<div class="wrap">
+  <header class="page-head">
+    <p class="eyebrow">Market pulse</p>
+    <h1>Sentiment, fees &amp; halving countdown</h1>
+    <p class="lede">A one-page dashboard for the crypto market's mood and the cost of using it. All figures load live in your browser with cached fallbacks.</p>
+  </header>
+  <div class="grid grid-2">
+    <section class="card">
+      <h2 class="h4">Crypto Fear &amp; Greed Index</h2>
+      <div class="fng"><div class="fng-dial" data-fng><b>…</b></div><div class="fee-tiles" data-fng-hist style="flex:1;grid-template-columns:repeat(2,1fr)"></div></div>
+      <p class="small faint" style="margin-top:10px">Data: <a href="https://alternative.me/crypto/fear-and-greed-index/" target="_blank" rel="noopener">Alternative.me Crypto Fear &amp; Greed Index</a>. 0 = extreme fear, 100 = extreme greed.</p>
+    </section>
+    <section class="card">
+      <h2 class="h4">Fear &amp; Greed — last 12 months</h2>
+      <div class="chart mini-chart" data-fng-chart style="height:220px"></div>
+    </section>
+    <section class="card">
+      <h2 class="h4">₿ Bitcoin network fees</h2>
+      <div class="fee-tiles" data-btc-fees><p class="muted">Loading…</p></div>
+      <p class="small faint" style="margin-top:10px">Recommended fee rates via mempool.space. A typical transaction is ~140 vbytes.</p>
+    </section>
+    <section class="card">
+      <h2 class="h4">Ξ Ethereum gas</h2>
+      <div class="fee-tiles" data-eth-gas><p class="muted">Loading…</p></div>
+      <p class="small faint" style="margin-top:10px">Current gas price from a public Ethereum RPC; USD costs are estimates for typical gas usage.</p>
+    </section>
+    <section class="card">
+      <h2 class="h4">⏳ Next Bitcoin halving (block 1,050,000)</h2>
+      <div class="fee-tiles" data-halving><p class="muted">Loading…</p></div>
+      <p class="small faint" style="margin-top:10px">Estimate assumes 10-minute blocks; real block times vary. The block reward drops from 3.125 to 1.5625 BTC. <a href="{{base}}learn/bitcoin-halving-explained.html">Halving explained</a>.</p>
+    </section>
+    <section class="card">
+      <h2 class="h4">Market dominance</h2>
+      <div class="alloc" data-dominance><p class="muted">Loading…</p></div>
+      <p class="small faint" style="margin-top:10px">Share of total crypto market capitalization (CoinGecko).</p>
+    </section>
+  </div>
+  <section class="section-sm prose" style="max-width:860px">
+    <h2>How to use sentiment data (and how not to)</h2>
+    <p>Sentiment indexes summarize momentum, volatility, social chatter and dominance into one number. Extreme fear has historically coincided with sharp sell-offs and extreme greed with euphoric rallies, but neither is a timing signal on its own. Use it as context alongside your own plan — for example, a <a href="{{base}}tools/dca-calculator.html">dollar-cost averaging schedule</a> that removes the need to guess.</p>
+    <p>Fees matter more than most people think. When Bitcoin's next-block fee spikes, small transfers can become uneconomic; when Ethereum gas is low, it can be a good moment to consolidate or revoke old token approvals.</p>
+  </section>
+</div>

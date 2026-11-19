@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /_src/
+Disallow: /scripts/
+
+Sitemap: https://coinlink.co/sitemap.xml

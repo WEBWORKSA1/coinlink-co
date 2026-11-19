@@ -1,0 +1,16 @@
+<!--meta
+{"title": "Crypto Fee Break-Even Calculator", "short": "Fee break-even", "h1": "Fee break-even calculator", "description": "How much must the price rise to cover trading fees, spreads and network fees? Find out before you trade.", "icon": "🧾", "order": 9}
+-->
+<div class="tool-panel" data-tool="fees">
+  <div class="card">
+<label>Trade amount (USD)<input type="number" name="amount" value="500" min="0" step="any"></label>
+<div class="field-row"><label>Buy fee %<input type="number" name="buyfee" value="1.49" min="0" step="any"></label><label>Sell fee %<input type="number" name="sellfee" value="1.49" min="0" step="any"></label></div>
+<div class="field-row"><label>Spread % (round trip)<input type="number" name="spread" value="1" min="0" step="any"></label><label>Network / withdrawal fee (USD)<input type="number" name="network" value="2" min="0" step="any"></label></div>
+  </div>
+  <div class="result-box" data-out aria-live="polite"><span class="muted">Enter values to see the result.</span></div>
+</div>
+<section class="tool-explainer prose">
+<h2>The hidden cost of “easy” buys</h2><p>Instant-buy buttons in many apps combine a visible fee with a spread built into the price. On a $500 purchase, 1.49% each way plus a 1% spread and a withdrawal fee means you start roughly 4–5% behind. Advanced or “pro” trading screens on the same exchange are often far cheaper.</p>
+<h2>FAQ</h2>
+<details class="faq"><summary>What's a spread?</summary><p>The gap between the buy and sell price. Brokers can earn from it even when they advertise “zero fees”.</p></details>
+</section>

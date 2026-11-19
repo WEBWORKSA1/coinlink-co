@@ -1,0 +1,46 @@
+<!--meta
+{"title": "What Is Bitcoin? A Plain-English Explainer", "description": "How Bitcoin works: the blockchain, mining, the 21 million cap, nodes, transactions, fees, the Lightning Network, and how people buy and store it safely.", "order": 6, "level": "Beginner", "category": "Basics", "minutes": 9, "updated": "2026-11-19", "takeaways": ["Bitcoin is a digital currency with no central issuer and a fixed maximum supply of 21 million.", "Miners secure the network by spending energy to add blocks roughly every 10 minutes.", "You control bitcoin with private keys; whoever holds the keys controls the coins.", "Transactions are public and irreversible, so verify addresses carefully."]}
+-->
+<p>Bitcoin is a form of digital money that works without a bank or government in the middle. It was described in a 2008 whitepaper by the pseudonymous Satoshi Nakamoto and the network went live in January 2009. Since then it has grown into the largest cryptocurrency by market value.</p>
+
+<h2>The problem Bitcoin solves</h2>
+<p>Digital files can be copied, so how do you stop someone spending the same digital coin twice? Traditionally a trusted party — a bank — keeps the ledger. Bitcoin replaces that party with a public ledger kept in sync by thousands of independent computers following the same rules. No single participant can rewrite it.</p>
+
+<h2>How the blockchain works</h2>
+<p>Transactions are grouped into <b>blocks</b>. Each block includes a cryptographic fingerprint of the previous block, forming a chain. Changing an old transaction would change its block's fingerprint and break every block after it — which is why history is extremely hard to alter.</p>
+<p>Anyone can run a <b>node</b>: software that downloads the blockchain and independently checks every rule, such as “no one can spend coins they don't have” and “no more than the scheduled number of new coins”. Nodes reject anything invalid, so even miners can't break the rules.</p>
+
+<h2>Mining and proof of work</h2>
+<p><b>Miners</b> compete to add the next block by repeatedly hashing block data until they find a result below a target. It's a lottery where each ticket costs computing power and electricity. The winner earns the <b>block reward</b> (newly created bitcoin) plus transaction fees. The difficulty adjusts every 2,016 blocks so that blocks keep arriving roughly every 10 minutes no matter how much mining power joins.</p>
+<p>This <b>proof of work</b> makes attacks expensive: rewriting history would require outspending the rest of the network's mining power.</p>
+
+<h2>The 21 million cap and the halving</h2>
+<p>Bitcoin's rules limit total supply to 21 million coins. New coins enter circulation only through block rewards, which are cut in half every 210,000 blocks (about four years) — an event called the <b>halving</b>. The 2024 halving reduced the reward to 3.125 BTC per block; the next, expected around 2028, will cut it to 1.5625. Read <a href="bitcoin-halving-explained.html">Bitcoin halving explained</a>, or see the live countdown on our <a href="../sentiment.html">sentiment page</a>.</p>
+
+<h2>Keys, addresses and wallets</h2>
+<p>Owning bitcoin means controlling a <b>private key</b> that can sign transactions. Wallets generate and protect these keys and derive <b>addresses</b> you can share to receive funds. Most wallets back up keys with a 12- or 24-word <b>seed phrase</b>. Lose it and the coins are inaccessible; reveal it and they can be stolen. Our <a href="crypto-wallet-security.html">wallet security guide</a> covers the essentials.</p>
+
+<h2>Transactions and fees</h2>
+<p>When you send bitcoin, your wallet broadcasts a signed transaction to the network. It waits in the <b>mempool</b> until a miner includes it in a block. You choose a fee rate in satoshis per virtual byte; higher fees get confirmed sooner when the network is busy. Our <a href="../sentiment.html">fee tracker</a> shows current rates. After several block confirmations, a transaction is considered final — there's no chargeback.</p>
+
+<h2>The Lightning Network</h2>
+<p>For small, instant payments, the <b>Lightning Network</b> lets users open payment channels and transact off-chain, settling to the main blockchain later. It enables low-cost payments that would be uneconomic on-chain.</p>
+
+<h2>How people buy and hold bitcoin</h2>
+<ul>
+  <li><b>Exchanges and brokerage apps</b> — buy with local currency; check the exchange is licensed where you live and reach it via a verified link.</li>
+  <li><b>Exchange-traded funds (ETFs)</b> — in several countries, including the US since 2024, regulated funds hold bitcoin on investors' behalf through ordinary brokerage accounts.</li>
+  <li><b>Self-custody</b> — withdraw to a hardware or software wallet you control.</li>
+</ul>
+<p>Prices are volatile: drawdowns of more than 50% have happened multiple times. Only invest what you can afford to lose, and consider <a href="dollar-cost-averaging.html">dollar-cost averaging</a> instead of trying to time entries.</p>
+
+<h2>Common misconceptions</h2>
+<ul>
+  <li><b>“Bitcoin is anonymous.”</b> It's pseudonymous. All transactions are public and can often be linked to identities, especially through exchanges.</li>
+  <li><b>“You must buy a whole bitcoin.”</b> One bitcoin divides into 100 million satoshis. You can buy a small fraction.</li>
+  <li><b>“Someone controls Bitcoin.”</b> Changes require broad agreement among node operators, miners, developers and users.</li>
+</ul>
+
+<h2>FAQ</h2>
+<details class="faq"><summary>Who created Bitcoin?</summary><p>An unknown person or group using the name Satoshi Nakamoto, who published the whitepaper in 2008 and stepped away from the project around 2010.</p></details>
+<details class="faq"><summary>Where is the official Bitcoin website?</summary><p>Bitcoin has no company or CEO. bitcoin.org hosts the original whitepaper and long-standing educational resources, and the reference software is developed openly on GitHub. Be wary of any site claiming to be “Bitcoin's official exchange” or support.</p></details>

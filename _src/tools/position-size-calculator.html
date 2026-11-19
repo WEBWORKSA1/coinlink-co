@@ -1,0 +1,16 @@
+<!--meta
+{"title": "Crypto Position Size & Risk Calculator", "short": "Position size", "h1": "Position size & risk calculator", "description": "Size crypto trades by the amount you're willing to lose: units, position value, max loss and reward-to-risk.", "icon": "🎯", "order": 7}
+-->
+<div class="tool-panel" data-tool="position">
+  <div class="card">
+<div class="field-row"><label>Account size (USD)<input type="number" name="account" value="10000" min="0" step="any"></label><label>Risk per trade %<input type="number" name="risk" value="1" min="0" step="any"></label></div>
+<div class="field-row"><label>Entry price<input type="number" name="entry" value="100" min="0" step="any"></label><label>Stop-loss price<input type="number" name="stop" value="92" min="0" step="any"></label></div>
+<label>Target price (optional)<input type="number" name="target" value="120" min="0" step="any"></label>
+  </div>
+  <div class="result-box" data-out aria-live="polite"><span class="muted">Enter values to see the result.</span></div>
+</div>
+<section class="tool-explainer prose">
+<h2>Risk first, position second</h2><p>Professional traders decide how much they're willing to lose before they decide how much to buy. If you risk 1% of a $10,000 account ($100) and your stop is 8% below entry, your position can be $1,250 — losing 8% of $1,250 is $100.</p><p>Stops can slip in fast markets and gaps, so real losses can exceed the plan. Leverage magnifies both outcomes and adds liquidation risk.</p>
+<h2>FAQ</h2>
+<details class="faq"><summary>What risk % is typical?</summary><p>Many traders use 0.5–2% per trade so that a losing streak doesn't wipe out the account.</p></details>
+</section>

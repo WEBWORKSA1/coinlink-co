@@ -1,0 +1,17 @@
+<!--meta
+{"title": "Crypto Capital Gains Tax Estimator", "short": "Tax estimator", "h1": "Crypto capital gains tax estimator", "description": "Estimate tax on a crypto sale using your own short- and long-term rates. Works for any country.", "icon": "🏛️", "order": 10}
+-->
+<div class="tool-panel" data-tool="tax">
+  <div class="card">
+<div class="field-row"><label>Sale proceeds (USD)<input type="number" name="proceeds" value="15000" min="0" step="any"></label><label>Cost basis (USD)<input type="number" name="cost" value="10000" min="0" step="any"></label></div>
+<div class="field-row"><label>Fees (USD)<input type="number" name="fees" value="50" min="0" step="any"></label><label>Months held<input type="number" name="held" value="8" min="0" step="1"></label></div>
+<div class="field-row"><label>Short-term rate %<input type="number" name="strate" value="24" min="0" step="any"></label><label>Long-term rate %<input type="number" name="ltrate" value="15" min="0" step="any"></label></div>
+<label>Long-term threshold (months)<input type="number" name="threshold" value="12" min="0" step="1"></label>
+  </div>
+  <div class="result-box" data-out aria-live="polite"><span class="muted">Enter values to see the result.</span></div>
+</div>
+<section class="tool-explainer prose">
+<h2>How crypto gains are usually taxed</h2><p>In many countries, selling, swapping or spending crypto is a taxable disposal. Your gain is the proceeds minus your cost basis (what you paid, including fees). Some countries tax assets held longer than a threshold — often 12 months — at a lower rate; others tax a portion of the gain or treat frequent trading as income.</p><p>Because rules vary widely, this estimator lets you enter your own rates. Keep complete records of every transaction, and consider tax software or a professional for anything beyond simple cases.</p>
+<h2>FAQ</h2>
+<details class="faq"><summary>Is swapping one coin for another taxable?</summary><p>In many jurisdictions, yes — it counts as selling the first coin.</p></details><details class="faq"><summary>Is this tax advice?</summary><p>No. It's a simplified estimate to help you plan. Consult a qualified tax professional.</p></details>
+</section>

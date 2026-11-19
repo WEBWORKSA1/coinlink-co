@@ -1,0 +1,16 @@
+<!--meta
+{"title": "Staking Rewards & APY Compound Calculator", "short": "Staking / APY", "h1": "Staking rewards & APY calculator", "description": "Estimate staking rewards with compounding, plus the value impact of token price changes.", "icon": "🌱", "order": 6}
+-->
+<div class="tool-panel" data-tool="staking">
+  <div class="card">
+<div class="field-row"><label>Tokens staked<input type="number" name="principal" value="100" min="0" step="any"></label><label>APY %<input type="number" name="apy" value="4" min="0" step="any"></label></div>
+<div class="field-row"><label>Compounding<select name="freq"><option value="365">Daily</option><option value="52">Weekly</option><option value="12" selected>Monthly</option><option value="1">Yearly</option><option value="0">None (simple)</option></select></label><label>Years<input type="number" name="years" value="3" min="0.1" step="any"></label></div>
+<div class="field-row"><label>Token price today (USD)<input type="number" name="price" value="150" min="0" step="any"></label><label>Price change by the end %<input type="number" name="pricechange" value="0" step="any"></label></div>
+  </div>
+  <div class="result-box" data-out aria-live="polite"><span class="muted">Enter values to see the result.</span></div>
+</div>
+<section class="tool-explainer prose">
+<h2>APY vs APR</h2><p><b>APY</b> already includes compounding; <b>APR</b> doesn't. We treat your input as an APY and convert it into a per-period rate for the compounding frequency you pick, so changing frequency doesn't inflate the result.</p><p>Staking rewards are paid in tokens. If the token's price falls 50%, a 5% yield won't save you — that's why the calculator also models price change. Consider lock-up periods, slashing, validator fees and smart-contract risk with liquid staking.</p>
+<h2>FAQ</h2>
+<details class="faq"><summary>Are staking rewards taxable?</summary><p>In many countries rewards are taxed as income when received. Check local rules.</p></details><details class="faq"><summary>What is slashing?</summary><p>A penalty that destroys part of a validator's stake for misbehaviour or downtime, which can affect delegators.</p></details>
+</section>

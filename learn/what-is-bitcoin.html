@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="en" data-base="../" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>What Is Bitcoin? A Plain-English Explainer | CoinLink.co</title>
+<meta name="description" content="How Bitcoin works: the blockchain, mining, the 21 million cap, nodes, transactions, fees, the Lightning Network, and how people buy and store it safely.">
+<link rel="canonical" href="https://coinlink.co/learn/what-is-bitcoin.html">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="CoinLink.co">
+<meta property="og:title" content="What Is Bitcoin? A Plain-English Explainer | CoinLink.co">
+<meta property="og:description" content="How Bitcoin works: the blockchain, mining, the 21 million cap, nodes, transactions, fees, the Lightning Network, and how people buy and store it safely.">
+<meta property="og:url" content="https://coinlink.co/learn/what-is-bitcoin.html">
+<meta property="og:image" content="https://coinlink.co/assets/img/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="What Is Bitcoin? A Plain-English Explainer | CoinLink.co">
+<meta name="twitter:description" content="How Bitcoin works: the blockchain, mining, the 21 million cap, nodes, transactions, fees, the Lightning Network, and how people buy and store it safely.">
+<meta name="twitter:image" content="https://coinlink.co/assets/img/og.png">
+<meta name="theme-color" content="#0b1020">
+<link rel="icon" href="../assets/img/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="../assets/img/icon-192.png">
+<link rel="manifest" href="../manifest.webmanifest">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://api.coingecko.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;family=Space+Grotesk:wght@500;600;700&amp;display=swap">
+<link rel="stylesheet" href="../assets/css/style.css?v=70f62a774b">
+<script>try{var t=localStorage.getItem('cl_theme');if(t)document.documentElement.setAttribute('data-theme',t);if(localStorage.getItem('cl_consent')==='rejected'){(window.adsbygoogle=window.adsbygoogle||[]).requestNonPersonalizedAds=1;}}catch(e){}</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6620975821265271" crossorigin="anonymous"></script>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://coinlink.co/#org","name":"CoinLink.co","url":"https://coinlink.co/","logo":"https://coinlink.co/assets/img/logo.svg","description":"Independent crypto information hub: verified official links, phishing checks, live prices, tools and guides."},{"@type":"WebSite","@id":"https://coinlink.co/#website","url":"https://coinlink.co/","name":"CoinLink.co","publisher":{"@id":"https://coinlink.co/#org"},"potentialAction":{"@type":"SearchAction","target":"https://coinlink.co/markets.html?q={search_term_string}","query-input":"required name=search_term_string"}}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://coinlink.co/"},{"@type":"ListItem","position":2,"name":"Learn","item":"https://coinlink.co/learn.html"},{"@type":"ListItem","position":3,"name":"What Is Bitcoin? A Plain-English Explainer","item":"https://coinlink.co/learn/what-is-bitcoin.html"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"What Is Bitcoin? A Plain-English Explainer","description":"How Bitcoin works: the blockchain, mining, the 21 million cap, nodes, transactions, fees, the Lightning Network, and how people buy and store it safely.","datePublished":"2026-11-19","dateModified":"2026-11-19","author":{"@type":"Organization","name":"CoinLink.co Editorial"},"publisher":{"@id":"https://coinlink.co/#org"},"mainEntityOfPage":"https://coinlink.co/learn/what-is-bitcoin.html","image":"https://coinlink.co/assets/img/og.png"}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Who created Bitcoin?","acceptedAnswer":{"@type":"Answer","text":"An unknown person or group using the name Satoshi Nakamoto, who published the whitepaper in 2008 and stepped away from the project around 2010."}},{"@type":"Question","name":"Where is the official Bitcoin website?","acceptedAnswer":{"@type":"Answer","text":"Bitcoin has no company or CEO. bitcoin.org hosts the original whitepaper and long-standing educational resources, and the reference software is developed openly on GitHub. Be wary of any site claiming to be \u201cBitcoin's official exchange\u201d or support."}}]}</script>
+<script defer src="../assets/js/config.js?v=70f62a774b"></script>
+<script defer src="../assets/js/core.js?v=70f62a774b"></script>
+<script defer src="../assets/js/forms.js?v=70f62a774b"></script>
+</head>
+<body data-page="learn">
+
+<a class="skip" href="#main">Skip to content</a>
+<div class="topbar" role="note">
+  <a href="https://web.works/contact" target="_blank" rel="noopener">Contact, if you are interested in this website/domain name/Sponsorship/Advertisement/Partnership <span aria-hidden="true">→</span></a>
+</div>
+<div class="tickerbar" id="ticker" aria-label="Live prices"><div class="ticker-track" data-ticker></div></div>
+<header class="site-header">
+  <div class="wrap header-in">
+    <a class="brand" href="../index.html" aria-label="CoinLink.co home"><svg class="logo-mark" viewBox="0 0 48 48" aria-hidden="true"><defs><linearGradient id="lgc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFE08A"/><stop offset="1" stop-color="#E9A21A"/></linearGradient></defs><circle cx="18" cy="24" r="13" fill="url(#lgc)"/><circle cx="18" cy="24" r="8.2" fill="none" stroke="#8a5a00" stroke-opacity=".38" stroke-width="2.2"/><rect x="20" y="13.5" width="23" height="21" rx="10.5" fill="none" stroke="#22D3C5" stroke-width="4.2"/></svg><span class="brand-name">Coin<b>Link</b><i>.co</i></span></a>
+    <nav class="main-nav" aria-label="Primary">
+      <ul class="nav-list"><li><a href="../markets.html">Markets</a></li><li><a href="../links.html">Verified Links</a></li><li><a href="../link-checker.html">Link Checker</a></li><li><a href="../tools.html">Tools</a></li><li><a href="../learn.html" aria-current="page">Learn</a></li><li><a href="../news.html">News</a></li><li><a href="../videos.html">Videos</a></li>
+        <li class="has-more"><button class="more-btn" aria-expanded="false" aria-haspopup="true">More <span aria-hidden="true">▾</span></button>
+          <ul class="more-menu"><li><a href="../sentiment.html">Sentiment & Fees</a></li><li><a href="../exchanges.html">Exchanges</a></li><li><a href="../portfolio.html">Portfolio & Alerts</a></li><li><a href="../glossary.html">Glossary</a></li><li><a href="../contests.html">Contests & Prizes</a></li><li><a href="../careers.html">Careers</a></li><li><a href="../donate.html">Support Us</a></li><li><a href="../advertise.html">Advertise</a></li><li><a href="../list-your-project.html">List Your Project</a></li></ul></li>
+      </ul>
+    </nav>
+    <div class="header-actions">
+      <button class="icon-btn" data-search-open aria-label="Search coins and pages (Ctrl+K)" title="Search (Ctrl+K)"><svg viewBox="0 0 24 24" width="18" height="18"><path fill="currentColor" d="M10 2a8 8 0 0 1 6.32 12.9l5.39 5.4-1.42 1.41-5.39-5.39A8 8 0 1 1 10 2Zm0 2a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z"/></svg></button>
+      <select class="cur-select" data-currency aria-label="Display currency">
+        <option value="usd">USD</option><option value="eur">EUR</option><option value="gbp">GBP</option><option value="cad">CAD</option><option value="inr">INR</option><option value="aud">AUD</option><option value="jpy">JPY</option><option value="btc">BTC</option>
+      </select>
+      <button class="icon-btn" data-theme-toggle aria-label="Toggle light/dark theme" title="Theme"><svg viewBox="0 0 24 24" width="18" height="18"><path fill="currentColor" d="M12 3a9 9 0 1 0 9 9 7 7 0 0 1-9-9Z"/></svg></button>
+      <a class="btn btn-gold btn-sm hide-sm" href="../get-started.html">Free Safety Kit</a>
+      <button class="icon-btn menu-btn" data-menu aria-label="Open menu" aria-expanded="false"><svg viewBox="0 0 24 24" width="20" height="20"><path fill="currentColor" d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg></button>
+    </div>
+  </div>
+</header>
+<div class="global-bar" data-globalbar><div class="wrap gb-in"><span class="muted">Loading market overview…</span></div></div>
+
+<main id="main">
+
+<div class="wrap article-wrap">
+  <nav class="crumbs" aria-label="Breadcrumb"><a href="../index.html">Home</a> › <a href="../learn.html">Learn</a> › <span>Basics</span></nav>
+  <article class="article">
+    <header class="article-head">
+      <span class="tag tag-beginner">Beginner</span>
+      <h1>What Is Bitcoin? A Plain-English Explainer</h1>
+      <p class="lede">How Bitcoin works: the blockchain, mining, the 21 million cap, nodes, transactions, fees, the Lightning Network, and how people buy and store it safely.</p>
+      <p class="byline small muted">By CoinLink.co Editorial · 9 min read · Updated <time datetime="2026-11-19">2026-11-19</time> · <a href="../editorial-policy.html">How we write</a></p>
+    </header>
+    <aside class="takeaways"><h2 class="h4">Key takeaways</h2><ul><li>Bitcoin is a digital currency with no central issuer and a fixed maximum supply of 21 million.</li><li>Miners secure the network by spending energy to add blocks roughly every 10 minutes.</li><li>You control bitcoin with private keys; whoever holds the keys controls the coins.</li><li>Transactions are public and irreversible, so verify addresses carefully.</li></ul></aside>
+    <div class="article-grid">
+      <nav class="toc" aria-label="On this page"><p class="eyebrow">On this page</p><ol><li><a href="#the-problem-bitcoin-solves">The problem Bitcoin solves</a></li><li><a href="#how-the-blockchain-works">How the blockchain works</a></li><li><a href="#mining-and-proof-of-work">Mining and proof of work</a></li><li><a href="#the-21-million-cap-and-the-halving">The 21 million cap and the halving</a></li><li><a href="#keys-addresses-and-wallets">Keys, addresses and wallets</a></li><li><a href="#transactions-and-fees">Transactions and fees</a></li><li><a href="#the-lightning-network">The Lightning Network</a></li><li><a href="#how-people-buy-and-hold-bitcoin">How people buy and hold bitcoin</a></li><li><a href="#common-misconceptions">Common misconceptions</a></li><li><a href="#faq">FAQ</a></li></ol></nav>
+      <div class="prose">
+        <p>Bitcoin is a form of digital money that works without a bank or government in the middle. It was described in a 2008 whitepaper by the pseudonymous Satoshi Nakamoto and the network went live in January 2009. Since then it has grown into the largest cryptocurrency by market value.</p>
+
+<h2 id="the-problem-bitcoin-solves">The problem Bitcoin solves</h2>
+<p>Digital files can be copied, so how do you stop someone spending the same digital coin twice? Traditionally a trusted party — a bank — keeps the ledger. Bitcoin replaces that party with a public ledger kept in sync by thousands of independent computers following the same rules. No single participant can rewrite it.</p>
+
+<h2 id="how-the-blockchain-works">How the blockchain works</h2>
+<p>Transactions are grouped into <b>blocks</b>. Each block includes a cryptographic fingerprint of the previous block, forming a chain. Changing an old transaction would change its block's fingerprint and break every block after it — which is why history is extremely hard to alter.</p>
+<p>Anyone can run a <b>node</b>: software that downloads the blockchain and independently checks every rule, such as “no one can spend coins they don't have” and “no more than the scheduled number of new coins”. Nodes reject anything invalid, so even miners can't break the rules.</p>
+
+<h2 id="mining-and-proof-of-work">Mining and proof of work</h2>
+<p><b>Miners</b> compete to add the next block by repeatedly hashing block data until they find a result below a target. It's a lottery where each ticket costs computing power and electricity. The winner earns the <b>block reward</b> (newly created bitcoin) plus transaction fees. The difficulty adjusts every 2,016 blocks so that blocks keep arriving roughly every 10 minutes no matter how much mining power joins.</p>
+<p>This <b>proof of work</b> makes attacks expensive: rewriting history would require outspending the rest of the network's mining power.</p>
+
+<h2 id="the-21-million-cap-and-the-halving">The 21 million cap and the halving</h2>
+<p>Bitcoin's rules limit total supply to 21 million coins. New coins enter circulation only through block rewards, which are cut in half every 210,000 blocks (about four years) — an event called the <b>halving</b>. The 2024 halving reduced the reward to 3.125 BTC per block; the next, expected around 2028, will cut it to 1.5625. Read <a href="bitcoin-halving-explained.html">Bitcoin halving explained</a>, or see the live countdown on our <a href="../sentiment.html">sentiment page</a>.</p>
+
+<h2 id="keys-addresses-and-wallets">Keys, addresses and wallets</h2>
+<p>Owning bitcoin means controlling a <b>private key</b> that can sign transactions. Wallets generate and protect these keys and derive <b>addresses</b> you can share to receive funds. Most wallets back up keys with a 12- or 24-word <b>seed phrase</b>. Lose it and the coins are inaccessible; reveal it and they can be stolen. Our <a href="crypto-wallet-security.html">wallet security guide</a> covers the essentials.</p>
+
+<h2 id="transactions-and-fees">Transactions and fees</h2>
+<p>When you send bitcoin, your wallet broadcasts a signed transaction to the network. It waits in the <b>mempool</b> until a miner includes it in a block. You choose a fee rate in satoshis per virtual byte; higher fees get confirmed sooner when the network is busy. Our <a href="../sentiment.html">fee tracker</a> shows current rates. After several block confirmations, a transaction is considered final — there's no chargeback.</p>
+
+<h2 id="the-lightning-network">The Lightning Network</h2>
+<p>For small, instant payments, the <b>Lightning Network</b> lets users open payment channels and transact off-chain, settling to the main blockchain later. It enables low-cost payments that would be uneconomic on-chain.</p>
+
+<h2 id="how-people-buy-and-hold-bitcoin">How people buy and hold bitcoin</h2>
+<ul>
+  <li><b>Exchanges and brokerage apps</b> — buy with local currency; check the exchange is licensed where you live and reach it via a verified link.</li>
+  <li><b>Exchange-traded funds (ETFs)</b> — in several countries, including the US since 2024, regulated funds hold bitcoin on investors' behalf through ordinary brokerage accounts.</li>
+  <li><b>Self-custody</b> — withdraw to a hardware or software wallet you control.</li>
+</ul>
+<p>Prices are volatile: drawdowns of more than 50% have happened multiple times. Only invest what you can afford to lose, and consider <a href="dollar-cost-averaging.html">dollar-cost averaging</a> instead of trying to time entries.</p>
+
+<h2 id="common-misconceptions">Common misconceptions</h2>
+<ul>
+  <li><b>“Bitcoin is anonymous.”</b> It's pseudonymous. All transactions are public and can often be linked to identities, especially through exchanges.</li>
+  <li><b>“You must buy a whole bitcoin.”</b> One bitcoin divides into 100 million satoshis. You can buy a small fraction.</li>
+  <li><b>“Someone controls Bitcoin.”</b> Changes require broad agreement among node operators, miners, developers and users.</li>
+</ul>
+
+<h2 id="faq">FAQ</h2>
+<details class="faq"><summary>Who created Bitcoin?</summary><p>An unknown person or group using the name Satoshi Nakamoto, who published the whitepaper in 2008 and stepped away from the project around 2010.</p></details>
+<details class="faq"><summary>Where is the official Bitcoin website?</summary><p>Bitcoin has no company or CEO. bitcoin.org hosts the original whitepaper and long-standing educational resources, and the reference software is developed openly on GitHub. Be wary of any site claiming to be “Bitcoin's official exchange” or support.</p></details>
+        <div class="ad-slot" data-ad="article-mid"></div>
+        <div class="helpful" data-helpful="what-is-bitcoin"><span>Was this guide helpful?</span><button class="btn btn-ghost btn-sm" data-vote="yes">👍 Yes</button><button class="btn btn-ghost btn-sm" data-vote="no">👎 No</button><span class="helpful-msg small muted" role="status"></span></div>
+        <div class="callout callout-gold"><h3>Protect yourself before your next click</h3><p>Paste any crypto link into the <a href="../link-checker.html">CoinLink checker</a>, or grab the free <a href="../get-started.html#kit">Scam-Proof Starter Kit</a>.</p></div>
+        <p class="small muted disclaimer-note">Educational content only, not financial, legal or tax advice. Always verify information with official sources. See our <a href="../disclaimer.html">disclaimer</a>.</p>
+      </div>
+    </div>
+  </article>
+  <section class="related"><h2>Keep learning</h2><div class="grid grid-3"><a class="card guide-card" href="ethereum-and-gas-fees.html"><span class="tag">Basics</span><h3>Ethereum Explained: Smart Contracts, Staking &amp; Gas Fees</h3><p>What Ethereum is, how smart contracts and proof of stake work, and how gas fees are calculated — base fee, priority fee, gas limit — with tips to pay less.</p></a><a class="card guide-card" href="stablecoins-explained.html"><span class="tag">Basics</span><h3>Stablecoins Explained: How They Work and Where the Risks Are</h3><p>Fiat-backed, crypto-backed, synthetic and algorithmic stablecoins compared: how each keeps its peg, what can break it, and how to choose and use them safely.</p></a><a class="card guide-card" href="layer-2-explained.html"><span class="tag">Basics</span><h3>Layer 2s Explained: Rollups, Fees and the Risks to Know</h3><p>How Ethereum layer-2 networks work: optimistic vs ZK rollups, why fees are lower, withdrawal times, sequencers, maturity stages and how to bridge safely.</p></a></div></section>
+</div>
+</main>
+
+<section class="footer-cta">
+  <div class="wrap fcta-in">
+    <div><h2>Get the CoinLink Brief</h2><p>One short email a week: verified-link alerts, new phishing patterns, market moves that matter. No spam, unsubscribe anytime.</p></div>
+    <form class="inline-form" data-form="newsletter" data-label="Newsletter signup" novalidate>
+      <input type="text" name="_gotcha" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <label class="sr" for="nl-email">Email</label>
+      <input id="nl-email" type="email" name="email" placeholder="you@email.com" required autocomplete="email">
+      <input type="hidden" name="source" value="footer">
+      <button class="btn btn-gold" type="submit">Subscribe</button>
+      <p class="form-msg" role="status" aria-live="polite"></p>
+    </form>
+  </div>
+</section>
+<footer class="site-footer">
+  <div class="wrap foot-grid">
+    <div class="foot-brand">
+      <a class="brand" href="../index.html"><svg class="logo-mark" viewBox="0 0 48 48" aria-hidden="true"><defs><linearGradient id="lgc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFE08A"/><stop offset="1" stop-color="#E9A21A"/></linearGradient></defs><circle cx="18" cy="24" r="13" fill="url(#lgc)"/><circle cx="18" cy="24" r="8.2" fill="none" stroke="#8a5a00" stroke-opacity=".38" stroke-width="2.2"/><rect x="20" y="13.5" width="23" height="21" rx="10.5" fill="none" stroke="#22D3C5" stroke-width="4.2"/></svg><span class="brand-name">Coin<b>Link</b><i>.co</i></span></a>
+      <p>Every coin. The right link. Verified official links, phishing checks, live prices, tools and plain-English guides.</p>
+      <p class="small muted">Not financial advice. Crypto assets are volatile and can lose all value.</p>
+    </div>
+    <div><h3>Markets</h3><ul>
+      <li><a href="../markets.html">Prices &amp; market cap</a></li><li><a href="../exchanges.html">Exchanges</a></li>
+      <li><a href="../sentiment.html">Sentiment &amp; fees</a></li><li><a href="../portfolio.html">Portfolio &amp; alerts</a></li>
+      <li><a href="../tools.html">Calculators</a></li></ul></div>
+    <div><h3>Safety</h3><ul>
+      <li><a href="../links.html">Verified links</a></li><li><a href="../link-checker.html">Phishing link checker</a></li>
+      <li><a href="../link-checker.html#report">Report a scam link</a></li><li><a href="../learn/common-crypto-scams.html">Scam red flags</a></li>
+      <li><a href="../learn/scammed-what-to-do.html">Scammed? Next steps</a></li></ul></div>
+    <div><h3>Learn</h3><ul>
+      <li><a href="../learn.html">All guides</a></li><li><a href="../glossary.html">Glossary</a></li>
+      <li><a href="../news.html">News</a></li><li><a href="../videos.html">Videos</a></li>
+      <li><a href="../editorial-policy.html">Editorial policy</a></li></ul></div>
+    <div><h3>Work with us</h3><ul>
+      <li><a href="../get-started.html">Free safety kit</a></li><li><a href="../list-your-project.html">List your project</a></li>
+      <li><a href="../advertise.html">Advertise &amp; sponsor</a></li><li><a href="../contests.html">Contests &amp; prizes</a></li>
+      <li><a href="../careers.html">Careers</a></li><li><a href="../donate.html">Support us</a></li>
+      <li><a href="../contact.html">Contact</a></li></ul></div>
+    <div><h3>Legal</h3><ul>
+      <li><a href="../about.html">About</a></li><li><a href="../privacy.html">Privacy policy</a></li>
+      <li><a href="../terms.html">Terms of use</a></li><li><a href="../disclaimer.html">Disclaimer</a></li>
+      <li><a href="../cookies.html">Cookie policy</a></li><li><a href="../legal.html">Trademark &amp; copyright</a></li>
+      <li><a href="../sitemap.html">Sitemap</a></li></ul></div>
+  </div>
+  <div class="wrap foot-legal">
+    <p><strong>Trademark &amp; copyright disclosure:</strong> CoinLink.co is an independent information website. It is not affiliated with, endorsed by, or sponsored by any company, product or service named “Coinlink”, “CoinLink” or similar, nor by any exchange, wallet, blockchain project or publisher mentioned on this site. All product names, logos and brands are property of their respective owners and are used for identification only. Market data: CoinGecko, CoinPaprika, CoinLore. Sentiment: Alternative.me. Phishing data: ScamSniffer scam-database (GPL-3.0) and MetaMask eth-phishing-detect. Headlines link to their original publishers. <a href="../legal.html">Full disclosure</a>.</p>
+    <p>© 2026 CoinLink.co. Original content and design are protected by copyright. All rights reserved.</p>
+  </div>
+</footer>
+<div class="consent" data-consent hidden>
+  <p>We use cookies for essential features, and Google AdSense may use cookies to show and measure ads. <a href="../cookies.html">Learn more</a>.</p>
+  <div class="consent-btns"><button class="btn btn-ghost btn-sm" data-consent-reject>Reject non-essential</button><button class="btn btn-gold btn-sm" data-consent-accept>Accept</button></div>
+</div>
+<aside class="slidein" data-slidein hidden aria-label="Free safety kit offer">
+  <button class="slidein-x" data-slidein-close aria-label="Close">×</button>
+  <p class="eyebrow">Free download</p>
+  <h3>The Scam-Proof Crypto Starter Kit</h3>
+  <p>27-point safety checklist + verified-links cheat sheet. Takes 30 seconds.</p>
+  <a class="btn btn-gold btn-block" href="../get-started.html#kit">Get the free kit</a>
+</aside>
+<div class="palette" data-palette hidden role="dialog" aria-modal="true" aria-label="Search">
+  <div class="palette-box">
+    <input type="search" data-palette-input placeholder="Search coins, tools, guides… (e.g. bitcoin, converter, wallet)" aria-label="Search">
+    <ul class="palette-results" data-palette-results></ul>
+    <p class="palette-hint small muted">↑↓ to move · Enter to open · Esc to close</p>
+  </div>
+</div>
+<div class="toast-wrap" data-toasts aria-live="polite"></div>
+
+</body>
+</html>

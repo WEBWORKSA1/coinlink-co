@@ -1,0 +1,17 @@
+<!--meta
+{"title": "Crypto Converter — Convert Any Coin to USD, EUR, INR & More", "short": "Crypto converter", "h1": "Crypto converter", "description": "Convert 250+ cryptocurrencies to and from USD, EUR, GBP, CAD, INR, AUD and JPY at live prices.", "icon": "🔁", "order": 1}
+-->
+<div class="tool-panel" data-tool="converter">
+  <div class="card">
+<label>Coin<select name="coin" data-coin-select data-default="bitcoin"></select></label>
+<div class="field-row"><label>Amount<input type="number" name="amount" value="1" min="0" step="any"></label>
+<label>Currency<select name="fiat"><option value="usd">USD</option><option value="eur">EUR</option><option value="gbp">GBP</option><option value="cad">CAD</option><option value="inr">INR</option><option value="aud">AUD</option><option value="jpy">JPY</option></select></label></div>
+<label class="check-line"><input type="checkbox" name="reverse"> Reverse: convert currency → coin</label>
+  </div>
+  <div class="result-box" data-out aria-live="polite"><span class="muted">Enter values to see the result.</span></div>
+</div>
+<section class="tool-explainer prose">
+<h2>How the converter works</h2><p>The converter multiplies your amount by the coin's latest market price, pulled live from CoinGecko (with automatic fallbacks). Choose a currency to see the local price; tick “reverse” to see how many coins a given amount of money buys.</p><p>The figure is a <b>reference rate</b> — the volume-weighted average across many exchanges. The price you actually get depends on the exchange, its spread and fees. Use the <a href="fee-break-even-calculator.html">fee break-even calculator</a> to see what those costs do to your trade.</p>
+<h2>FAQ</h2>
+<details class="faq"><summary>Why is the converter price different from my exchange?</summary><p>Each exchange has its own order book. Aggregated prices smooth those differences out, and exchanges also add spreads and fees.</p></details><details class="faq"><summary>How often do prices update?</summary><p>Every time you change an input, using data cached for up to a minute to respect the provider's rate limits.</p></details>
+</section>

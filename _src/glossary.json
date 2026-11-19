@@ -1,0 +1,562 @@
+[
+{
+"term": "Address",
+"def": "A public string that identifies where crypto can be sent, like an account number. Safe to share; it can't be used to spend funds."
+},
+{
+"term": "Address poisoning",
+"def": "A scam where tiny transfers from a look-alike address land in your history so you copy the wrong address later. Always check the full address."
+},
+{
+"term": "Airdrop",
+"def": "Free tokens distributed to wallets, often to reward early users. Fake “claim” sites are a top phishing tactic — see <a href=\"learn/common-crypto-scams.html\">common scams</a>."
+},
+{
+"term": "Allowance",
+"def": "The amount of a token a smart contract is permitted to move from your wallet after an approval."
+},
+{
+"term": "Altcoin",
+"def": "Any cryptocurrency other than Bitcoin."
+},
+{
+"term": "AML",
+"def": "Anti-money-laundering rules that require regulated platforms to monitor and report suspicious activity."
+},
+{
+"term": "AMM",
+"def": "Automated market maker: a DEX that prices trades with a formula over pooled liquidity instead of an order book."
+},
+{
+"term": "APR",
+"def": "Annual percentage rate — yearly return without compounding."
+},
+{
+"term": "APY",
+"def": "Annual percentage yield — yearly return including compounding. See the <a href=\"tools/staking-apy-calculator.html\">staking calculator</a>."
+},
+{
+"term": "Approval",
+"def": "A transaction granting a smart contract permission to spend a token from your wallet. Review and revoke old ones."
+},
+{
+"term": "ATH",
+"def": "All-time high: the highest price an asset has ever traded at."
+},
+{
+"term": "ATL",
+"def": "All-time low: the lowest price an asset has ever traded at."
+},
+{
+"term": "Audit",
+"def": "An external security review of smart-contract code. Reduces, but never removes, risk."
+},
+{
+"term": "Bag holder",
+"def": "Someone left holding an asset after its price collapsed."
+},
+{
+"term": "Base fee",
+"def": "The protocol-set portion of an Ethereum gas fee, which is burned."
+},
+{
+"term": "Bear market",
+"def": "A prolonged period of falling prices."
+},
+{
+"term": "Block",
+"def": "A batch of transactions added to a blockchain together."
+},
+{
+"term": "Block explorer",
+"def": "A website for looking up blocks, transactions, addresses and contracts. See <a href=\"learn/how-to-use-a-blockchain-explorer.html\">how to use one</a>."
+},
+{
+"term": "Block height",
+"def": "The number of blocks before a given block; used to measure chain length and schedule events like halvings."
+},
+{
+"term": "Block reward",
+"def": "New coins plus fees paid to the miner or validator who adds a block."
+},
+{
+"term": "Blockchain",
+"def": "A shared, append-only ledger where each block links cryptographically to the previous one."
+},
+{
+"term": "Bridge",
+"def": "A protocol that moves assets between blockchains, often by locking and minting wrapped tokens. A frequent hack target."
+},
+{
+"term": "Bull market",
+"def": "A prolonged period of rising prices."
+},
+{
+"term": "Burn",
+"def": "Permanently removing tokens from circulation by sending them to an unusable address or destroying them in code."
+},
+{
+"term": "CEX",
+"def": "Centralized exchange: a company-run trading platform that holds customer funds."
+},
+{
+"term": "Circulating supply",
+"def": "Tokens currently available to trade. Used to calculate market cap."
+},
+{
+"term": "Cold wallet",
+"def": "A wallet whose keys are kept offline, usually on a hardware device."
+},
+{
+"term": "Confirmation",
+"def": "Each block added after the one containing your transaction; more confirmations mean more finality."
+},
+{
+"term": "Consensus",
+"def": "The rules and process by which network participants agree on the valid state of a blockchain."
+},
+{
+"term": "Custodial",
+"def": "A service that holds the private keys on your behalf, such as an exchange account."
+},
+{
+"term": "DAO",
+"def": "Decentralized autonomous organization: a group governed by token holders' votes executed via smart contracts."
+},
+{
+"term": "dApp",
+"def": "Decentralized application: a front end that interacts with smart contracts."
+},
+{
+"term": "DCA",
+"def": "Dollar-cost averaging: buying a fixed amount on a schedule. See the <a href=\"learn/dollar-cost-averaging.html\">DCA guide</a>."
+},
+{
+"term": "DeFi",
+"def": "Decentralized finance: financial services run by smart contracts rather than intermediaries."
+},
+{
+"term": "Depeg",
+"def": "When a stablecoin or pegged asset trades meaningfully away from its target value."
+},
+{
+"term": "DEX",
+"def": "Decentralized exchange: trades directly from your wallet via smart contracts."
+},
+{
+"term": "Difficulty adjustment",
+"def": "Bitcoin's automatic retargeting every 2,016 blocks to keep block times near 10 minutes."
+},
+{
+"term": "Dominance",
+"def": "An asset's share of total crypto market capitalization."
+},
+{
+"term": "Drainer",
+"def": "Malicious code or site that tricks you into signing approvals or transfers that empty your wallet."
+},
+{
+"term": "DYOR",
+"def": "“Do your own research.” Good advice — and also a phrase scammers use to deflect responsibility."
+},
+{
+"term": "EIP",
+"def": "Ethereum Improvement Proposal: a formal design document for changes to Ethereum."
+},
+{
+"term": "ERC-20",
+"def": "The standard interface for fungible tokens on Ethereum and EVM chains."
+},
+{
+"term": "ERC-721",
+"def": "The standard for non-fungible tokens (NFTs) on Ethereum."
+},
+{
+"term": "ETF",
+"def": "Exchange-traded fund; spot crypto ETFs hold the actual asset on investors' behalf."
+},
+{
+"term": "EVM",
+"def": "Ethereum Virtual Machine: the runtime for smart contracts, shared by many compatible chains."
+},
+{
+"term": "Exit scam",
+"def": "When a project's team disappears with investors' funds."
+},
+{
+"term": "FDV",
+"def": "Fully diluted valuation: price × maximum (or total) supply. See <a href=\"learn/market-cap-fdv-supply.html\">market cap vs FDV</a>."
+},
+{
+"term": "Fear & Greed Index",
+"def": "A 0–100 sentiment score for the crypto market. Live on our <a href=\"sentiment.html\">sentiment page</a>."
+},
+{
+"term": "Fiat",
+"def": "Government-issued currency such as USD, EUR or INR."
+},
+{
+"term": "Finality",
+"def": "The point at which a transaction cannot practically be reversed."
+},
+{
+"term": "Flash loan",
+"def": "An uncollateralized loan that must be borrowed and repaid within one transaction; often used in exploits."
+},
+{
+"term": "FOMO",
+"def": "Fear of missing out — the urge to buy because prices are rising fast."
+},
+{
+"term": "Fork",
+"def": "A change to a blockchain's rules. A hard fork isn't backward-compatible and can split a chain."
+},
+{
+"term": "FUD",
+"def": "Fear, uncertainty and doubt — negative sentiment, sometimes spread deliberately."
+},
+{
+"term": "Funding rate",
+"def": "Periodic payments between long and short traders on perpetual futures to keep prices near spot."
+},
+{
+"term": "Gas",
+"def": "The unit measuring computational work on Ethereum and EVM chains; fees are gas × price."
+},
+{
+"term": "Gas limit",
+"def": "The maximum gas a transaction may consume."
+},
+{
+"term": "Genesis block",
+"def": "The first block of a blockchain."
+},
+{
+"term": "Gwei",
+"def": "One billionth of an ETH; used to quote gas prices. Convert with our <a href=\"tools/sats-gwei-converter.html\">unit converter</a>."
+},
+{
+"term": "Halving",
+"def": "Bitcoin's scheduled 50% cut to the block reward every 210,000 blocks. See <a href=\"learn/bitcoin-halving-explained.html\">halving explained</a>."
+},
+{
+"term": "Hardware wallet",
+"def": "A dedicated device that stores keys offline and signs transactions securely."
+},
+{
+"term": "Hash",
+"def": "A fixed-length fingerprint of data produced by a one-way function."
+},
+{
+"term": "Hashrate",
+"def": "The total computing power securing a proof-of-work network."
+},
+{
+"term": "HODL",
+"def": "Holding crypto long-term rather than trading; from a famous typo of “hold”."
+},
+{
+"term": "Honeypot token",
+"def": "A scam token coded so buyers can't sell."
+},
+{
+"term": "Hot wallet",
+"def": "A wallet whose keys live on an internet-connected device."
+},
+{
+"term": "ICO / IDO",
+"def": "Initial coin / DEX offering: early token sales to the public. High-risk and frequently abused."
+},
+{
+"term": "Impermanent loss",
+"def": "The shortfall a liquidity provider can suffer versus simply holding, when pool token prices diverge."
+},
+{
+"term": "KYC",
+"def": "Know your customer: identity verification required by regulated platforms."
+},
+{
+"term": "Layer 1",
+"def": "A base blockchain such as Bitcoin, Ethereum or Solana."
+},
+{
+"term": "Layer 2",
+"def": "A network that scales a layer 1 by processing transactions off-chain and settling to it. See <a href=\"learn/layer-2-explained.html\">L2s explained</a>."
+},
+{
+"term": "Leverage",
+"def": "Borrowing to increase position size; magnifies gains, losses and liquidation risk."
+},
+{
+"term": "Lightning Network",
+"def": "A Bitcoin layer for fast, low-cost payments through payment channels."
+},
+{
+"term": "Liquid staking",
+"def": "Staking through a protocol that gives you a tradable token representing your staked position."
+},
+{
+"term": "Liquidation",
+"def": "Forced closure of a leveraged or borrowed position when collateral falls below a threshold."
+},
+{
+"term": "Liquidity",
+"def": "How easily an asset can be bought or sold without moving its price."
+},
+{
+"term": "Liquidity pool",
+"def": "Tokens locked in a smart contract to enable trading on an AMM."
+},
+{
+"term": "Market cap",
+"def": "Price × circulating supply. The standard way to rank crypto assets."
+},
+{
+"term": "Mempool",
+"def": "The waiting area of unconfirmed transactions. Bitcoin fees are visible on our <a href=\"sentiment.html\">fees dashboard</a>."
+},
+{
+"term": "Memecoin",
+"def": "A token driven mainly by internet culture and community rather than utility. Extremely volatile."
+},
+{
+"term": "Mining",
+"def": "Competing to add blocks in proof-of-work systems in exchange for rewards."
+},
+{
+"term": "Mint",
+"def": "To create new tokens or NFTs."
+},
+{
+"term": "Multisig",
+"def": "A wallet requiring several keys to approve a transaction, e.g. 2-of-3."
+},
+{
+"term": "NFT",
+"def": "Non-fungible token: a unique token often representing art, collectibles or access rights."
+},
+{
+"term": "Node",
+"def": "A computer running blockchain software that validates and relays data."
+},
+{
+"term": "Nonce",
+"def": "A counter used once — e.g. an account's transaction number on Ethereum, or the value miners vary in proof of work."
+},
+{
+"term": "Off-ramp / On-ramp",
+"def": "Services that convert crypto to fiat (off) or fiat to crypto (on)."
+},
+{
+"term": "On-chain",
+"def": "Recorded directly on a blockchain and publicly verifiable."
+},
+{
+"term": "Oracle",
+"def": "A service that brings off-chain data, such as prices, onto a blockchain for smart contracts."
+},
+{
+"term": "Order book",
+"def": "The list of buy and sell orders on an exchange at different prices."
+},
+{
+"term": "P2P",
+"def": "Peer-to-peer: directly between users without an intermediary."
+},
+{
+"term": "Paper wallet",
+"def": "Keys printed on paper. Largely outdated and easy to mishandle."
+},
+{
+"term": "Passphrase",
+"def": "An optional extra word added to a seed phrase that creates a separate hidden wallet."
+},
+{
+"term": "Permit",
+"def": "An off-chain signature granting a token allowance without a transaction; abused by drainers. See <a href=\"learn/token-approvals-explained.html\">approvals explained</a>."
+},
+{
+"term": "Perpetual futures",
+"def": "Futures contracts with no expiry, kept near spot price by funding rates."
+},
+{
+"term": "Phishing",
+"def": "Tricking users into revealing credentials or signing malicious transactions, usually via fake sites. Check links with our <a href=\"link-checker.html\">checker</a>."
+},
+{
+"term": "Pig-butchering",
+"def": "A long-con romance or friendship scam that leads victims to a fake trading platform."
+},
+{
+"term": "Private key",
+"def": "The secret that controls a crypto address. Whoever holds it controls the funds."
+},
+{
+"term": "Proof of reserves",
+"def": "An attestation that an exchange holds assets covering customer balances."
+},
+{
+"term": "Proof of stake",
+"def": "A consensus method where validators lock collateral to propose and attest to blocks."
+},
+{
+"term": "Proof of work",
+"def": "A consensus method where miners expend computing power to add blocks."
+},
+{
+"term": "Public key",
+"def": "Derived from a private key; used to create addresses and verify signatures."
+},
+{
+"term": "Pump and dump",
+"def": "Coordinated buying to inflate a price, followed by insiders selling to latecomers."
+},
+{
+"term": "Punycode",
+"def": "An encoding for non-Latin domain names (xn--…) that can hide look-alike characters."
+},
+{
+"term": "Rebase token",
+"def": "A token whose supply adjusts automatically, changing balances in wallets."
+},
+{
+"term": "Revoke",
+"def": "Cancelling a token approval so a contract can no longer move your tokens."
+},
+{
+"term": "Rollup",
+"def": "An L2 that batches transactions and posts data or proofs to a layer 1."
+},
+{
+"term": "RPC",
+"def": "Remote procedure call endpoint a wallet uses to talk to a blockchain node."
+},
+{
+"term": "Rug pull",
+"def": "When developers abandon a project and take investors' funds, often by draining liquidity."
+},
+{
+"term": "Satoshi (sat)",
+"def": "The smallest unit of bitcoin: 0.00000001 BTC."
+},
+{
+"term": "Seed phrase",
+"def": "12–24 words that back up a wallet's keys. Never share or type it into a website."
+},
+{
+"term": "Self-custody",
+"def": "Holding your own keys rather than trusting a custodian."
+},
+{
+"term": "Sequencer",
+"def": "The operator that orders transactions on a rollup."
+},
+{
+"term": "Sharding",
+"def": "Splitting a blockchain's workload into parallel pieces to scale."
+},
+{
+"term": "Slashing",
+"def": "A penalty that destroys part of a validator's stake for misbehaviour."
+},
+{
+"term": "Slippage",
+"def": "The difference between expected and executed trade price, larger in thin markets."
+},
+{
+"term": "Smart contract",
+"def": "Self-executing code deployed on a blockchain."
+},
+{
+"term": "Spread",
+"def": "The gap between buy and sell prices; a hidden trading cost."
+},
+{
+"term": "Stablecoin",
+"def": "A token designed to track a reference asset, usually the US dollar. See <a href=\"learn/stablecoins-explained.html\">stablecoins explained</a>."
+},
+{
+"term": "Staking",
+"def": "Locking tokens to help secure a proof-of-stake network in exchange for rewards."
+},
+{
+"term": "Swap",
+"def": "Exchanging one token for another, typically on a DEX."
+},
+{
+"term": "Testnet",
+"def": "A practice network using valueless tokens for development and testing."
+},
+{
+"term": "Token",
+"def": "A digital asset issued by a smart contract on an existing blockchain."
+},
+{
+"term": "Tokenomics",
+"def": "A token's supply, distribution, vesting and utility design."
+},
+{
+"term": "Total supply",
+"def": "All tokens that currently exist, including locked ones, minus burned."
+},
+{
+"term": "Transaction hash (TxID)",
+"def": "The unique ID of a transaction, used to look it up on an explorer."
+},
+{
+"term": "TVL",
+"def": "Total value locked: assets deposited in a DeFi protocol's contracts."
+},
+{
+"term": "Typosquatting",
+"def": "Registering misspelled domains of popular sites to catch mistyped visits."
+},
+{
+"term": "Unlock",
+"def": "The release of previously locked tokens to team members or investors under a vesting schedule."
+},
+{
+"term": "UTXO",
+"def": "Unspent transaction output: Bitcoin's model for tracking spendable coins."
+},
+{
+"term": "Validator",
+"def": "A participant that proposes and attests to blocks in proof of stake."
+},
+{
+"term": "Vesting",
+"def": "A schedule that releases tokens gradually over time."
+},
+{
+"term": "Volatility",
+"def": "How much and how quickly a price moves."
+},
+{
+"term": "Wallet",
+"def": "Software or hardware that manages keys and lets you send, receive and sign."
+},
+{
+"term": "Wei",
+"def": "The smallest unit of ETH: 10<sup>-18</sup> ETH."
+},
+{
+"term": "Whale",
+"def": "An individual or entity holding a very large amount of an asset."
+},
+{
+"term": "Whitepaper",
+"def": "A document describing a project's design and purpose. Bitcoin's was published in 2008."
+},
+{
+"term": "Wrapped token",
+"def": "A token representing another asset on a different chain, e.g. wrapped BTC on Ethereum."
+},
+{
+"term": "Zero-knowledge proof",
+"def": "Cryptography that proves a statement is true without revealing the underlying data."
+},
+{
+"term": "zk-rollup",
+"def": "A rollup that posts validity proofs to its layer 1 to prove batches are correct."
+}
+]

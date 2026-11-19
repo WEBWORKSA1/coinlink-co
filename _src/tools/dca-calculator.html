@@ -1,0 +1,15 @@
+<!--meta
+{"title": "Crypto DCA Calculator — Backtest Dollar-Cost Averaging", "short": "DCA backtest", "h1": "DCA calculator (dollar-cost averaging backtest)", "description": "Backtest buying a fixed amount of Bitcoin, Ethereum or other coins every month and compare it with a lump-sum purchase.", "icon": "📆", "order": 3}
+-->
+<div class="tool-panel" data-tool="dca">
+  <div class="card">
+<label>Coin<select name="coin" data-coin-select data-default="bitcoin" data-only="bitcoin,ethereum,solana,binancecoin,ripple,cardano,dogecoin,tron,chainlink,avalanche-2,litecoin,polkadot,bitcoin-cash,stellar,shiba-inu,uniswap,near,aptos,sui,toncoin"></select></label>
+<div class="field-row"><label>Amount per month (USD)<input type="number" name="amount" value="100" min="1" step="any"></label><label>Start month<input type="month" name="start" value="2021-01"></label></div>
+  </div>
+  <div class="result-box" data-out aria-live="polite"><span class="muted">Enter values to see the result.</span></div>
+</div>
+<section class="tool-explainer prose">
+<h2>What is dollar-cost averaging?</h2><p>DCA means investing the same amount on a fixed schedule regardless of price. When prices are low your fixed amount buys more coins; when high, fewer. It removes the pressure of timing the market and smooths your average cost — but it doesn't guarantee profit, and in a steadily rising market a lump sum usually ends ahead.</p><p>This backtest uses monthly closing prices (from exchange market data, refreshed automatically) and values your stack at today's live price. Read our full <a href="../learn/dollar-cost-averaging.html">DCA guide</a> for the maths and the trade-offs.</p>
+<h2>FAQ</h2>
+<details class="faq"><summary>Why can't I choose every coin?</summary><p>The backtest needs years of monthly prices. We store long histories for 20 major coins; for others, free data covers only about a year.</p></details><details class="faq"><summary>Does it include fees?</summary><p>No. Recurring buys on many apps charge 1–2%, which matters over years. Look for low-fee recurring buy options.</p></details>
+</section>
