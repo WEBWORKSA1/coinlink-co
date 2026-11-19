@@ -324,7 +324,7 @@ def news():
 
 
 # --------------------------------------------------------------- videos
-CHANNELS = ["CoinBureau", "aantonop", "Finematics", "WhiteboardCrypto", "Bankless", "intothecryptoverse", "CoinDesk", "99Bitcoins", "SimplyExplained", "Ledger"]
+CHANNELS = ["CoinBureau", "aantonop", "Finematics", "WhiteboardCrypto", "Bankless", "CoinDesk", "99Bitcoins", "SimplyExplained", "Ledger"]
 
 
 def videos():
