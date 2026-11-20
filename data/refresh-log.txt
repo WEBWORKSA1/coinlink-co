@@ -1,4 +1,4 @@
-2026-11-20T02:20:34Z
+2026-11-20T11:42:34Z
 markets: 250 coins via CoinGecko
 global: ok
 trending: ok
@@ -8,8 +8,9 @@ network: ok
 news: 207 items from 12 feeds
 videos: 42 from 9 channels
 history: fresh
-meta failed polkadot https://api.coingecko.com/api/v3/coins/polkadot?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
 meta failed cosmos https://api.coingecko.com/api/v3/coins/cosmos?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed pancakeswap-token https://api.coingecko.com/api/v3/coins/pancakeswap-token?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed binancecoin https://api.coingecko.com/api/v3/coins/binancecoin?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-coins-meta: refreshed 26, total 97
+meta failed leo-token https://api.coingecko.com/api/v3/coins/leo-token?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed near https://api.coingecko.com/api/v3/coins/near?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed chainlink https://api.coingecko.com/api/v3/coins/chainlink?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed global-dollar https://api.coingecko.com/api/v3/coins/global-dollar?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+coins-meta: refreshed 25, total 99
