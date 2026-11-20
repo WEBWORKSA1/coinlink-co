@@ -1,4 +1,4 @@
-2026-11-20T11:42:34Z
+2026-11-20T20:23:47Z
 markets: 250 coins via CoinGecko
 global: ok
 trending: ok
@@ -6,11 +6,12 @@ exchanges: 100
 fng: ok
 network: ok
 news: 207 items from 12 feeds
-videos: 42 from 9 channels
+videos: 43 from 9 channels
 history: fresh
-meta failed cosmos https://api.coingecko.com/api/v3/coins/cosmos?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
 meta failed leo-token https://api.coingecko.com/api/v3/coins/leo-token?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed near https://api.coingecko.com/api/v3/coins/near?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed chainlink https://api.coingecko.com/api/v3/coins/chainlink?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed global-dollar https://api.coingecko.com/api/v3/coins/global-dollar?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-coins-meta: refreshed 25, total 99
+meta failed ondo-us-dollar-yield https://api.coingecko.com/api/v3/coins/ondo-us-dollar-yield?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed memecore https://api.coingecko.com/api/v3/coins/memecore?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed united-stables https://api.coingecko.com/api/v3/coins/united-stables?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed usdd https://api.coingecko.com/api/v3/coins/usdd?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed bfusd https://api.coingecko.com/api/v3/coins/bfusd?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+coins-meta: refreshed 24, total 101
