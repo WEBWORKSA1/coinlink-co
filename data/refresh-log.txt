@@ -1,4 +1,4 @@
-2026-11-20T20:23:47Z
+2026-11-21T02:17:39Z
 markets: 250 coins via CoinGecko
 global: ok
 trending: ok
@@ -8,10 +8,10 @@ network: ok
 news: 207 items from 12 feeds
 videos: 43 from 9 channels
 history: fresh
-meta failed leo-token https://api.coingecko.com/api/v3/coins/leo-token?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
 meta failed ondo-us-dollar-yield https://api.coingecko.com/api/v3/coins/ondo-us-dollar-yield?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed memecore https://api.coingecko.com/api/v3/coins/memecore?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed united-stables https://api.coingecko.com/api/v3/coins/united-stables?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed usdd https://api.coingecko.com/api/v3/coins/usdd?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
 meta failed bfusd https://api.coingecko.com/api/v3/coins/bfusd?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed internet-computer https://api.coingecko.com/api/v3/coins/internet-computer?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed ethereum-classic https://api.coingecko.com/api/v3/coins/ethereum-classic?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed render-token https://api.coingecko.com/api/v3/coins/render-token?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed ripple https://api.coingecko.com/api/v3/coins/ripple?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
 coins-meta: refreshed 24, total 101
