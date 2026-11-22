@@ -1,4 +1,4 @@
-2026-11-22T11:28:03Z
+2026-11-22T19:42:51Z
 markets: 250 coins via CoinGecko
 global: ok
 trending: ok
@@ -6,10 +6,10 @@ exchanges: 100
 fng: ok
 network: ok
 news: 207 items from 12 feeds
-videos: 43 from 9 channels
+videos: 45 from 9 channels
 history: fresh
-meta failed dogecoin https://api.coingecko.com/api/v3/coins/dogecoin?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed united-stables https://api.coingecko.com/api/v3/coins/united-stables?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
 meta failed bitway https://api.coingecko.com/api/v3/coins/bitway?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed midnight-3 https://api.coingecko.com/api/v3/coins/midnight-3?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed ethereum-classic https://api.coingecko.com/api/v3/coins/ethereum-classic?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed injective-protocol https://api.coingecko.com/api/v3/coins/injective-protocol?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed layerzero https://api.coingecko.com/api/v3/coins/layerzero?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
 coins-meta: refreshed 26, total 103
