@@ -1,4 +1,4 @@
-2026-11-21T19:17:16Z
+2026-11-22T01:21:16Z
 markets: 250 coins via CoinGecko
 global: ok
 trending: ok
@@ -8,9 +8,8 @@ network: ok
 news: 207 items from 12 feeds
 videos: 43 from 9 channels
 history: fresh
-meta failed bfusd https://api.coingecko.com/api/v3/coins/bfusd?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
 meta failed dogecoin https://api.coingecko.com/api/v3/coins/dogecoin?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed dai https://api.coingecko.com/api/v3/coins/dai?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed tether-gold https://api.coingecko.com/api/v3/coins/tether-gold?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed pancakeswap-token https://api.coingecko.com/api/v3/coins/pancakeswap-token?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-coins-meta: refreshed 25, total 102
+meta failed paypal-usd https://api.coingecko.com/api/v3/coins/paypal-usd?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed okb https://api.coingecko.com/api/v3/coins/okb?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed htx-dao https://api.coingecko.com/api/v3/coins/htx-dao?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+coins-meta: refreshed 26, total 102
