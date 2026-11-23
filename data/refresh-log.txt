@@ -1,4 +1,4 @@
-2026-11-23T01:45:00Z
+2026-11-23T12:46:28Z
 markets: 250 coins via CoinGecko
 global: ok
 trending: ok
@@ -8,9 +8,8 @@ network: ok
 news: 207 items from 12 feeds
 videos: 45 from 9 channels
 history: fresh
-meta failed bitway https://api.coingecko.com/api/v3/coins/bitway?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed ethena-usde https://api.coingecko.com/api/v3/coins/ethena-usde?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed usd1-wlfi https://api.coingecko.com/api/v3/coins/usd1-wlfi?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed ether-fi https://api.coingecko.com/api/v3/coins/ether-fi?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed near https://api.coingecko.com/api/v3/coins/near?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-coins-meta: refreshed 25, total 103
+meta failed layerzero https://api.coingecko.com/api/v3/coins/layerzero?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed shiba-inu https://api.coingecko.com/api/v3/coins/shiba-inu?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed pepe https://api.coingecko.com/api/v3/coins/pepe?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed pancakeswap-token https://api.coingecko.com/api/v3/coins/pancakeswap-token?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+coins-meta: refreshed 26, total 102
