@@ -1,4 +1,4 @@
-2026-11-22T19:42:51Z
+2026-11-23T01:45:00Z
 markets: 250 coins via CoinGecko
 global: ok
 trending: ok
@@ -9,7 +9,8 @@ news: 207 items from 12 feeds
 videos: 45 from 9 channels
 history: fresh
 meta failed bitway https://api.coingecko.com/api/v3/coins/bitway?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed ethereum-classic https://api.coingecko.com/api/v3/coins/ethereum-classic?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed injective-protocol https://api.coingecko.com/api/v3/coins/injective-protocol?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed layerzero https://api.coingecko.com/api/v3/coins/layerzero?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-coins-meta: refreshed 26, total 103
+meta failed ethena-usde https://api.coingecko.com/api/v3/coins/ethena-usde?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed usd1-wlfi https://api.coingecko.com/api/v3/coins/usd1-wlfi?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed ether-fi https://api.coingecko.com/api/v3/coins/ether-fi?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed near https://api.coingecko.com/api/v3/coins/near?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+coins-meta: refreshed 25, total 103
