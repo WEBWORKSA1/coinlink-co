@@ -1,15 +1,15 @@
-2026-11-23T12:46:28Z
+2026-11-24T02:14:30Z
 markets: 250 coins via CoinGecko
 global: ok
 trending: ok
 exchanges: 100
 fng: ok
 network: ok
-news: 207 items from 12 feeds
+news: 209 items from 12 feeds
 videos: 45 from 9 channels
 history: fresh
-meta failed layerzero https://api.coingecko.com/api/v3/coins/layerzero?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
 meta failed shiba-inu https://api.coingecko.com/api/v3/coins/shiba-inu?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed pepe https://api.coingecko.com/api/v3/coins/pepe?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed pancakeswap-token https://api.coingecko.com/api/v3/coins/pancakeswap-token?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed mantle https://api.coingecko.com/api/v3/coins/mantle?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed sky https://api.coingecko.com/api/v3/coins/sky?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed figure-heloc https://api.coingecko.com/api/v3/coins/figure-heloc?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
 coins-meta: refreshed 26, total 102
