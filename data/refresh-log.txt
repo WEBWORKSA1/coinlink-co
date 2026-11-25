@@ -1,16 +1,16 @@
-2026-11-24T13:45:14Z
+2026-11-24T23:54:43Z
 markets: 250 coins via CoinGecko
 global: ok
 trending: ok
 exchanges: 100
 fng: ok
 network: ok
-news: 209 items from 12 feeds
-videos: 45 from 9 channels
+news: 211 items from 12 feeds
+videos: 44 from 9 channels
 history: fresh
-meta failed shiba-inu https://api.coingecko.com/api/v3/coins/shiba-inu?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
 meta failed united-stables https://api.coingecko.com/api/v3/coins/united-stables?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed render-token https://api.coingecko.com/api/v3/coins/render-token?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed usual-usd https://api.coingecko.com/api/v3/coins/usual-usd?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed usds https://api.coingecko.com/api/v3/coins/usds?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed dai https://api.coingecko.com/api/v3/coins/dai?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed ripple-usd https://api.coingecko.com/api/v3/coins/ripple-usd?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed gatechain-token https://api.coingecko.com/api/v3/coins/gatechain-token?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed binancecoin https://api.coingecko.com/api/v3/coins/binancecoin?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
 coins-meta: refreshed 25, total 103
