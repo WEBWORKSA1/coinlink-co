@@ -15,6 +15,7 @@
 18-dashboard-concrete.pages.dev
 18-governance-apyxfi.pages.dev
 18734825149089527629036789125383-ripple.com
+1ab6-coinbase-listing-677f.pages.dev
 1inch-lab.xyz
 1itnch.space
 2-metric-vote.pages.dev
@@ -39,6 +40,7 @@
 45rtu23.com
 47-ponsfamily.pages.dev
 491005-coinbase.com
+4edd-482c-coinbase-listing.pages.dev
 4j1sb10o.evj1l7n3.com
 5-ethenagov.pages.dev
 5-gov-paperstrategy.pages.dev
@@ -65,6 +67,7 @@
 898698.app
 921874-cb.com
 968215-crypto.com
+9jalumia.com
 a7b8c9d0e1f2g3.3qd0.ru
 aave.pr-mint.com
 aave.stake-smart.it.com
@@ -124,6 +127,7 @@ ambires-vote.org
 amlbotcheck.one
 ammtron.com
 amn560.csiv.live
+amp1rainbet.top
 animemetaverses.xyz
 ankr-stakingapp.com
 anonymice.live
@@ -177,6 +181,7 @@ apus.events
 arbirttrum.com
 arbitrum-retrodrops.space
 arbitrum-token-bridge-git-remove-txhistory-banner-offchain-labs.vercel.app
+arbitrum.chainpouch.com
 arbitrumdep.com
 arbitrumdrop.wtf
 arbritum.dev-api.io
@@ -206,7 +211,6 @@ avdaprth3.pages.dev
 aveaih5.github.io
 aveeapp.io
 award-degen.com
-awardsty.sbs
 awesome-base-token.nfts2.me
 axieinfinity-store.smart-medicalservices.com
 babb-bzrqe4jpt-indexbinary05-gmailcom.vercel.app
@@ -257,7 +261,6 @@ bitkuex.online
 bitmarts.network
 bitpandastk.com
 bitpiewallet.cc
-bitrefill.com-in-f01-esim-gift.com
 bitslot.world
 bitstreams.top
 bittensorstats.pages.dev
@@ -331,7 +334,6 @@ check-walletconnect.com
 checkaml.cc
 checker-lumoz.site
 checker-nodepay.com
-chinatakeover.live
 chirprtoken.com
 chubbyapeclub.com
 cieloportfolio.com
@@ -394,6 +396,7 @@ claimwormhole.info
 claimzklink.com
 clashse.com.cn
 clawdbotatg.com
+client-tangem.com
 clinquant-parfait-1f5717.netlify.app
 cloneforce.net
 cloudverse-claims-opsec.pages.dev
@@ -411,6 +414,8 @@ cointr.konnektvpn.net
 collabland-connect.info
 collabland.api-guard.net
 colngeko.world
+com-in-ab01-esim-gift.com
+com-l01-esim-gift.com
 com-learn-start-ledgr.pages.dev
 community-stake.info
 community-usdai.app
@@ -560,7 +565,6 @@ eligibility-linea-app.com
 elipal.site
 elleria-heroes-wl.netlify.app
 elys.pages.dev
-en-krakun.wixstudio.com
 en-ledgr-desktop-live.pages.dev
 en.allwallet-claims.com
 eng-trust.com
@@ -618,6 +622,7 @@ exodus-apps-web.webflow.io
 exoduspox.cc
 exoduuss.online
 exoradigt.site
+exosdeus-web.pages.dev
 exponentupdate.com
 extintoresmetropolitano.cl
 fachriahyani.com
@@ -646,13 +651,13 @@ flarefn-queue.live
 flarefndn-voting.live
 flarefoundation-gover.xyz
 flaregovernance-earn.xyz
+flarenetglobal.live
 flarerflrdistr.pages.dev
 floki.tips
 flokl.lol
 flow-x-finance.stakingrewards.life
 fluff.icu
 fluid0x.xyz
-flyingtulip-rewards.xyz
 fmoneys.market
 foddfa.top
 foldwin.com
@@ -775,7 +780,6 @@ insured-ledger.com
 inventory-openssea.com
 investing-ens.org
 investor.0gfoundation.center
-io-explorer.com
 io-trezor.at
 islamiccoin.web3-airdrop.cc
 issuesx-x.com
@@ -805,8 +809,8 @@ jup.ag-claim.com
 jupclaim.network
 jupdt.xyz
 jupiter-verify.fun
+jupiter.solroom.cc
 justlend.app
-k-886312-kraken.com
 k3rt8.com
 kabull.xyz
 karaknetwork-dashboard.pages.dev
@@ -916,6 +920,7 @@ mailnotice-x.com
 mainnet-dym.com
 mainnetsync.com
 maitrak.net
+makedrao.pro
 maker-staking.ink
 manage-trezr-io-start.pages.dev
 manta-airdrop.digital
@@ -944,6 +949,7 @@ metamask-cryptoforestyaxe.com
 metamask-us_a-loogiin.godaddysites.com
 metamask-verify747-winzyxrn5.ph
 metamask.dappbind.com
+metamaskdiuxtension.gitbook.io
 metamasklog.webflow.io
 metamaskwalletcustomerservice.blogspot.al
 metamaskwalletcustomerservice.blogspot.si
@@ -1073,6 +1079,7 @@ official-baseswap-us.pages.dev
 official-ca-bitbuy.wixstudio.com
 official-en-io-trezor.pages.dev
 officialwisevault.com
+oficals--exxous.pages.dev
 okay-moonbirds.pages.dev
 okx.sn.cn
 okxclaimrewards-holdbnb.netlify.app
@@ -1129,7 +1136,6 @@ participate.tradersjoey.claims
 paws.pixeloooospins.xyz
 paxful-clo.com
 paxos-award.net
-pay-bitrefill.com-gift-esim-ab04.com
 paybis-logine.pages.dev
 paypal-pyusd-com.pages.dev
 pc.thunderfxld.cc
@@ -1143,6 +1149,7 @@ pepe2airdrop.info
 pepecoin.app
 pepeunchn-com-airdrop.pages.dev
 pepexcoin.pro
+perpiumxyz.com
 persearch-connect-nft.sbs
 phanntomnwallet.com
 pharaohexchange.org
@@ -1167,6 +1174,7 @@ polyhendraclaim.xyz
 polymarket-uk.co.uk
 polymarket-wc2026.com
 polymarket.lv
+polymarket.sarl
 polymarket.tf
 pond0xs.com
 pons-family.eu.com
@@ -1185,7 +1193,6 @@ portmining.com
 ppsecure.pages.dev
 pravacomp-ddi.top
 pre-revearnings.pages.dev
-premium0peanseamint7.vercel.app
 presale-cryptorover.shop
 presale-mogcoin.xyz
 presale.muradcoin.io
@@ -1207,10 +1214,10 @@ protocoltoolsrpc.com
 przesylkabbb.online
 psyop-ben.xyz
 ptb.portaltebitcoin.xyz
-pub-f116f875e0aa4d7cb9e2ecfa533098af.r2.dev
 puma.gold
 pump-feed.live
 pump-lives.solstream.cc
+pumpfun-live.sol-stream.cc
 pumpredict.fun
 pumuip.fun
 purebite.fi
@@ -1239,6 +1246,7 @@ rainbet-games-vip.pages.dev
 rainbet-play.fr
 rainbetasia.com
 rainbetau.pages.dev
+rainbetaustraliacasino.com
 rainbetcasino-australia.pages.dev
 rainbetcasino.eu
 rainbetcasino.vip
@@ -1251,7 +1259,6 @@ raydiumsol.com
 reach-trezor.io
 reaiio.support
 realio.space
-reallocation-pharos.org
 recovery-blockfi.com
 red-goldfinch-234003.hostingersite.com
 redeemlinknft.com
@@ -1559,6 +1566,7 @@ uph-old-logi.created.app
 upholdhq.relumesite.ai
 us-en-ledger-harrd-walets.pages.dev
 us-exosdeusweb.pages.dev
+us15zoom.us
 us61webzoom.us
 us9web.com
 usdaaichip.site
@@ -1580,7 +1588,6 @@ vanarchain.communty-hub.com
 var-io.com
 velodromegovernance.claims
 verasity.top
-verificationbluebusinessstatus.sbs
 verify-worldcoin.org
 versalfusioncentralapp.pro
 vestors.cloud
@@ -1654,6 +1661,7 @@ wild.gift
 wise.grupopaceo.com
 wl-doggotothemoon.dev
 wld-sushi.cc
+wlfi-dig.xyz
 womu.xyz
 worldlibertyfinancial-trade.pages.dev
 worldslibertyfinancial.web.app
@@ -1666,6 +1674,7 @@ ww1.autoconfig.raf12.mailhost.mushrafuppinangady.com
 wwv-robinhood.betterology.tw
 www-aaves.net
 www-acerta.be-b-566.ru
+www-sparrowwallet.com
 www.1337skulls-nft.xyz.justworkforme.com
 www.aavedrop.com
 www.abrocadabramoney.org

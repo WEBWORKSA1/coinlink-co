@@ -31,6 +31,7 @@
 23-proposal-argus.pages.dev
 24-fx-aladdin.pages.dev
 25-governance-fungolabs.pages.dev
+25-proposal-elysium.pages.dev
 25-vote-torchpad.pages.dev
 29-allocation-yieldfields.pages.dev
 290-curvefi.pages.dev
@@ -51,6 +52,7 @@
 449d6517.tre-9ch.pages.dev
 48club.app
 49-allowlist-ascendlaunch.pages.dev
+4f8d-aec4-5133-c0inbase-list.pages.dev
 5-allocation-arcus.pages.dev
 50000usdt.click
 500claimfree.top
@@ -68,6 +70,7 @@
 7824-kraken.com
 790310-crypto.com
 8-governance-apyxfi.pages.dev
+8115-4c29-5133-c0inbase-list.pages.dev
 82-allocation-yieldfields.pages.dev
 82-governance-venice.pages.dev
 834979kraken.com
@@ -157,6 +160,7 @@ app-curve-5bu.pages.dev
 app-gte.com
 app-jediswap.net
 app-pendle-v7.co
+app-uniswap.cc
 app-unsheth.xyz
 app.amltrustcheck.org
 app.crosscurve.finance
@@ -248,6 +252,7 @@ bidsl.vip
 bigbang-rewards.net
 bigebmora.com
 bill-407etr.com
+binance-onchain.com
 binance-pattern-scanner-5ddw3d.pages.dev
 binance-web.com
 binaryx.quick-mint.com
@@ -413,6 +418,7 @@ cloudflare-namada-validator37.pages.dev
 cloudruntimedeck.web.app
 clouds-app.pages.dev
 cmintsck.com
+cnget-okx.com.cn
 cobra-tate.fun
 codes-neotokyo.com
 coin-gecko.info
@@ -435,6 +441,7 @@ coldstack.net
 collab.frl
 collab.landbotsecure.com
 collateral-zojp.forum
+com-a12-gift-card.icu
 com-meet.site
 com-tech.site
 community.pepe20vip.xyz
@@ -576,7 +583,6 @@ eco-accesso.info
 eco-terra-presale.com
 ecosystems-flarenetwork.asia
 ecotarra-presale.com
-edge-x.cyou
 eduledger-acc.pages.dev
 ehcfi.top
 ehcul.top
@@ -664,7 +670,6 @@ finance99-impedit79.sbs
 financepancakeswap.pages.dev
 finspacex.com
 fire-coin.icu
-firelight-allocation.com
 firelight-speed.xyz
 firelightfi.eth.limo
 fisios4-blanditiis46.sbs
@@ -903,7 +908,6 @@ login-trezorwallet-support.pages.dev
 login.autodiscover.gitlab.aaa.ballparkchronicles.com
 login.sitemap.quest-baseperp.com
 logx-allocation.com
-lossesback-pump.fun
 luckblock.org
 luckcoins.top
 luigi-sol.com
@@ -991,7 +995,6 @@ morphoiabs.org
 motivationaldesigns.com
 movement-gigni763-konstantnotfound.4everland.app
 ms-yoursupport.online
-mtamsklxogn.gitbook.io
 multi-api.net
 multi-apprationverse.pro
 multi-project.pages.dev
@@ -1068,7 +1071,6 @@ onchainbottom.com
 onedrop.website
 onlineverifynowwithmetamasktx.dray-dns.de
 onlyonepage.cloud
-onmeet.io
 onmi.variatlional.net
 onyxchain.pages.dev
 opablum.digital
@@ -1131,7 +1133,6 @@ parallelavatar.xyz
 participate-aitechio.app
 pasokon-world.xyz
 paxful-wap.vip
-pay-bitrefill.com-bp01-esim-gift.com
 paydayloanssouthbendin.com
 payout-validation.click
 pe-rewardevent.com
@@ -1486,6 +1487,7 @@ superinu.vip
 supernormal.site
 support--bitstam-com.typedream.app
 support-rescuedevice.us
+svgweb.co
 swap-cuw-fi.com
 swap-ocicat.club
 swap.covv.finance
@@ -1507,6 +1509,7 @@ synthentic-dappz.pages.dev
 sypwh.cc
 tatescoinsol.com
 tbooks.xyz
+teams.on.gg
 teamslive.net
 tecomu.cc
 teg1lm.live
@@ -1548,7 +1551,6 @@ treasure-0x0.xyz
 treasury-scroll.com
 treasury-worrnhole.xyz
 treasury.renzooprotocol-rush.com
-treasurypool-firelight.com
 trezor--wallet--cdn.pages.dev
 trezor-bridge-io-doc.framer.ai
 trezor-suite-en-g.pages.dev
@@ -1620,7 +1622,6 @@ venos.io
 venture-startup.com
 vercelpub.pages.dev
 verification-tangem.com
-verificationblueverificationteam.sbs
 verified-host.com
 verify-collabland.wiki
 verify-my-server.com
@@ -1670,6 +1671,7 @@ whitelist-pixels.com
 whitelist-zks.io
 whitesrock.fi
 winnings-liquid.org
+winter-summit-secure-user-3e08-fcdc.pages.dev
 winways.bet
 wisemonkynow.live
 withdraw-gradient.network

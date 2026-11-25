@@ -35,6 +35,7 @@
 3-argusworlds-933.pages.dev
 3-cashmere-eco.pages.dev
 30-governance-jumperapp.pages.dev
+31-proposal-elysium.pages.dev
 316kmm.fun
 35-vote-argusworld.pages.dev
 36-allocation-yieldfields.pages.dev
@@ -260,6 +261,7 @@ bb11f556.tensor-9rs.pages.dev
 bcgaming.top
 befilabs.xyz
 bekker-57g.pages.dev
+beloyamel.com
 beoble-wallet.daaps.cloud
 bestedeal.shop
 bfdcoln.site
@@ -279,6 +281,7 @@ bitgetwallet.support
 bitkub-airdrop.com
 bitkub.dotbitcoin.com
 bitmart-trans.com
+bitrefill.com-gift-cards-mkr.com
 bitx-mining.pro
 blacknodes.org
 blackrockfund.link
@@ -392,7 +395,6 @@ claim-sullend.hair
 claim-superintelligence.com
 claim-t8.netlify.app
 claim-thorchain.net
-claim-unlswap.best
 claim-zackmorrissol.com
 claim-zknation.com
 claim-zxpool.com
@@ -454,6 +456,7 @@ coinsquarelogngg.mystrikingly.com
 collab-net-land.com
 collab.mainnet-land.com
 collect-ether.fi
+com-in-e01-esim-gift.com
 com-sync-app.pro
 com-verlfy.sbs
 commerces-coinbase.com
@@ -560,7 +563,6 @@ distribiutions-stretto.com
 distribute-morpho.com
 distribution-crates.xyz
 distribution-nemsis.com
-distribution-unyka.com
 distributions-id22.com
 dmginterest.com
 do-zapper.com
@@ -571,7 +573,6 @@ dogscoin.info
 dood.doodies.app
 doodles.team
 download.krakenex.cc
-dragon-ledger.pro
 drop-alienx.xyz
 drop-catcoincom.pages.dev
 drop-solaxy.app
@@ -770,6 +771,7 @@ grt.trustdpad.top
 gruitodwe.top
 guardselect.xyz
 guild.stakingweb3.com
+gweiportal.top
 gxecghz.com
 h-booster.com
 halieywelch.org
@@ -921,6 +923,7 @@ loyaltoken.net
 luckiestmint2.vercel.app
 lucksnft1.vercel.app
 lusdc.site
+luyainspire.com
 lyncdiscover.docs.vertex.joinweb-3.com
 magahatvip.pages.dev
 magaiapp.space
@@ -1016,6 +1019,7 @@ mochimigration.ink
 mode-network.web3-connections.org
 modewex.com
 mogcoin.rewardshare.info
+momo-gemini.icu
 monads-testnets.lol
 mooniswapapt.com
 moonpay-commerce-es0x5eof3-heliofi.vercel.app
@@ -1038,6 +1042,7 @@ multichain-tokenguideportal.xyz
 multiclick.pages.dev
 multiconnectingchain.com
 multidappserver.nl
+multidevchainwebapp.xyz
 multinodefix.xyz
 multiplier-ondo.net
 multiplier-satoshivm.net
@@ -1061,7 +1066,6 @@ n-us-desktop-ledgr.pages.dev
 nakamidead.com
 nakamigo.cc
 nakamlgos.org
-nasdaqmaxflc.com
 nav-trzr-login-web.square.site
 nbonus.site
 neexbit.com
@@ -1113,7 +1117,6 @@ official-metamsk.wixstudio.com
 ojigreoijgioerjiogr.com
 okgwd.top
 okgws4.top
-okxwallet.casa
 okzbb.com
 olavm.us.org
 olynnpusdao.finance
@@ -1216,6 +1219,7 @@ polygon-technology.org
 polymarket-com.slothwallet.com
 polymarket-ot-pcwinmac-hj82.github.io
 polymarketupdate.app
+polymarkex.com
 polymig.com
 pond0x.one
 ponke-i65ji6235.pages.dev
@@ -1236,7 +1240,6 @@ primexnny.net
 prismaflnonce.org
 pro-openxsea.firebaseapp.com
 pro.saitadex.network
-prokoinbaselgon.wixstudio.com
 proof.livesmints.com
 proposal-ascendlaunch.pages.dev
 proposal-eigenlayer.xyz
@@ -1260,6 +1263,8 @@ puffverseclaim.xyz
 pujmp.fun
 pump-voting-0t.netlify.app
 pump-voting-nv.netlify.app
+pumplive-streamx.fun
+pumpslivestreamsx.fun
 pumpstreamers.live
 pumpstreamsol.live
 pumpviewinghub.fun
@@ -1273,6 +1278,7 @@ qi.beginshype.xyz
 qingzhang-trip-ledger.pages.dev
 qna3-claim.xyz
 qqdtistill.bond
+qshield.pro
 quack-ai.xyz
 quantumlocktrezor.io
 quantumxexn.cc
@@ -1424,6 +1430,7 @@ solair.live
 solaxy-distribution.io
 solbuild.online
 soldefiwords.pages.dev
+soleilcapitence.net
 solgifts.pages.dev
 sollyonsolana.com
 solstice-reallocation.com
@@ -1487,6 +1494,7 @@ swiftwebchain-en.net
 switchoard.foundation
 symbioticfinance.events
 synapseprrotocol.com
+synchronizationdapp.click
 synconetsynch.sysconectsync.in
 syncswap.pro
 syncwalletconnect.web3node.lol
@@ -1626,6 +1634,7 @@ vol8hub.com
 vote-asendnow.top
 vote-id-3ljunh.portallogonapp.casa
 vote-makerdao.com
+vote-moonshot.icu
 vote-pendie.trade
 vote-starknet.net
 vote-thena.pages.dev
@@ -1646,6 +1655,7 @@ wallet-metamask.biz
 wallet-sun.org
 wallet.agioai.lat
 wallet.orb-crypto.com
+walletconnect.playerportalhub.com
 walletgiveaway.xyz
 walletlinkappin.pages.dev
 wallstreetpepecl.com
@@ -1673,7 +1683,6 @@ websnoder.com
 webxchain.com
 weepad.live
 weexpuls.com
-welcome-alt.fun
 welcome-htx-exchange-eng.pages.dev
 welcome-ledger-en.pages.dev
 wesleineisra.pages.dev
@@ -1800,6 +1809,7 @@ xn--ardrop-pandora-5fc.app
 xn--blst-63d.dyimension.app
 xn--boredapeyachtclb-181i.com
 xn--digidaiaku-2pb.com
+xn--edger-cj1b.com
 xn--ledgr-m0a.app
 xn--revokecsh-c3a.com
 xn--sushswap-wkb.com
@@ -1819,6 +1829,7 @@ zenrise-horizen.com
 zeppelinenergyrental.com
 zerlon-io.space
 zeroiendz.com
+zestprotocol-allocation.icu
 zfp.overdezuki.fun
 zh-kraken.my
 zhho7.pro
@@ -1829,6 +1840,7 @@ zkdarkpool.net
 zkdrops.pages.dev
 zkfairo.world
 zksvnc.events
+zksyncairdrop25814.taxofficemanagement.com
 zkzyncera.online
 zoergamb.com
 zoomview.com.cn

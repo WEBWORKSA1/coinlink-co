@@ -259,6 +259,7 @@ billions-networkapp.xyz
 billysol-sn4ma.github.io
 binance-abd.pages.dev
 binance.tivlabs.us
+binancecev.com
 binancexmetamask.hookdrop.site
 bit-qg.xyz
 bitbuylog-us.wixstudio.com
@@ -266,8 +267,7 @@ bitcoin-qr-code-generator.org
 bitcoinminetrix-bonus.pages.dev
 bitflyer-binance.com.cn
 bitntcommunity.fun
-bitrefill.com-ao01-esim-gift.com
-bitrefill.com-y01-esim-gift.com
+bitrefill.com-gift-cards-mana.com
 bitrefilll.net
 blastoff-plum.vercel.app
 blastupfi.com
@@ -308,7 +308,6 @@ bubblemaps-connect.com
 bugrestore.org
 bullsapesproj.xyz
 bungee-exchange.xyz
-buytrx.biz
 bvdnj.com
 bw-ragetrade.com
 c-apestak.tech
@@ -318,7 +317,6 @@ cametlot.xyz
 capcutapkk.org
 capital.tokenizeae.com
 capitalvcfounder.sbs
-carbondefi.trade
 cards-metaslist.com
 career-ecolab.com
 cashcat-token.com
@@ -423,6 +421,8 @@ collab.bot-role.com
 collab.eth-land.com
 collab.pm
 com-auth.online
+com-dq01-esim-gift.com
+com-e01-esim-gift.com
 com-support.id
 com-token.one
 community-lineabuild.app
@@ -447,6 +447,7 @@ cornerdapp.org
 cotidashboard.com
 covalent.vote
 cow-exchanges.com
+cow.sushiag.top
 cpcalendars.20-40-54-144.cprapid.com
 cracopilot.com
 crate-musebook.lol
@@ -515,7 +516,6 @@ defieth.me
 defiethe.vip
 defimining.vip
 defirocket.ru
-degen-rewards.top
 delegates-pudgypenguin.com
 depinai-claim.xyz
 deployer.desu0g.buzz
@@ -555,6 +555,7 @@ dxjmculture.bond
 dydx.web3-market.com
 dynssl.com
 dzoo-airdrop.com
+e5e4-b2d9-coinbase-listing.pages.dev
 earn-taopad-claims.pages.dev
 earn-vedafarming.com
 earnereairdrop.org
@@ -582,7 +583,6 @@ enter-sanko.xyz
 entropy.lat
 ephvv.top
 era-zskync.net
-ercclaimstrategy.help
 eth-vip.com
 eth.fi-index.xyz
 eth20definitely.com
@@ -592,6 +592,7 @@ ethereumpow-ardrop.org
 etherfi-airdrops.site
 etherfi-anm.pages.dev
 etherfiorguide.cam
+etherfl-revoke.com
 ethersfi.vip
 ethervlstadex.xyz
 ethju.xyz
@@ -616,13 +617,13 @@ extensionmatamask.wixstudio.com
 extorevs.pages.dev
 extradexx.top
 ezeigen-renzo.app
+fancybakery.id
 fassets.online
 fasttokenxrewardx.pages.dev
 ferdium.app
 fidelityby.com
 figure.oskeyregister.com
 finalmeowtest1.com
-finance-polymarket.com
 finance.mu
 finance37-ad65.pro
 finance81-perferendis63.sbs
@@ -671,6 +672,7 @@ garbagefriendsnft.io
 gatebtc-xau.xyz
 gecoins.shop
 genesis.alignedfundation.com
+genesis2-kinetiq.xyz
 gentlemanzbullz.xyz
 get-dashboard.com
 get-jup.ag
@@ -813,6 +815,7 @@ kra72.live
 krcikenulohgun.gitbook.io
 ktbank.online
 ktxjp.vip
+kucoin083.com
 kurwa-bonus.life
 kusama.lido-staking.com
 kybernetwork.tech
@@ -836,6 +839,7 @@ ledger-app.cn
 ledgerlive-eu.com
 ledgermate-kommunikacio.pages.dev
 ledgers--lives--desktop.pages.dev
+ledgerwallet.services
 legalsurrogacyivf.com
 leger-livs.com
 legomem.xyz
@@ -927,6 +931,7 @@ metaverse-pudgypenguins.com
 meteora-lp.xyz
 methdao.top
 metroxnyth.io
+mettamaskexumsion.unicornplatform.page
 metuuskwith-1.gitbook.io
 metuwalleitensions.gitbook.io
 mevblockerpro.com
@@ -1014,7 +1019,6 @@ mysteryclick53.vercel.app
 mysterynftz-8.vercel.app
 myworkerday.com
 nanovitalabs-rewards.xyz
-nav-upheld-ai.created.app
 naviprotocoi.com
 nekoswaps.layerweb3.tech
 neopepe.asia
@@ -1095,7 +1099,6 @@ paqertrade.com
 partycatnft.xyz
 paws-listing.com
 paws-network.online
-pay-bitrefill.com-bv01-esim-gift.com
 payout-stonkfun.xyz
 peas-sushi.xyz
 peazip.com
@@ -1130,6 +1133,7 @@ poh.linea-builld.top
 point-google.com
 poll-aero.com
 polling-maskgirl.org
+polymarket-bonus1.com
 polymarket-season.xyz
 polymarket.win
 polymarket99.net
@@ -1342,6 +1346,7 @@ shdw-get-irp42.netlify.app
 shezmu.app
 shiba-claim.net
 shibos.vip
+shtoken.sbs
 signup-accessprotocol.app
 signup-bananagun.net
 signup-berachain.app
@@ -1421,11 +1426,11 @@ stonkfunqualify.xyz
 straknet.network
 strk-glveaway.com
 strkwbtc.xyz
-su05webzoom.business
 sudoswapairdrop.org
 sui-team.digital
 suilend-claims.icu
 suiswap.cc
+suite-en.net
 suite-trezrapps.teleporthq.app
 sunakifinance.xyz
 superagigpt.vip
@@ -1469,7 +1474,6 @@ texas-regional.com
 tge-edge.com
 tge-swellnetwork.net
 thearbitrum.org
-thecryptocrats.sbs
 thegraphrewards.org
 themexc.gr.com
 thenotcoin.fi
@@ -1478,7 +1482,6 @@ this-nft.pages.dev
 thmthhv.cc
 thogsol.com
 threeprotocoi.com
-ticket71-gmail.com
 tiktokapp.top
 tinytask.software
 tjat.info
@@ -1504,6 +1507,7 @@ trezor-log-web-start.pages.dev
 trezor-login-hd.pages.dev
 trezor-login-start-web-us.typedream.app
 trezor-loginn-public.pages.dev
+trezor-suite-web.com
 trezornappeniaze.pages.dev
 troncard.net
 troxic.top
@@ -1520,6 +1524,7 @@ trustpad-rewards.online
 trustpads.bz
 trustwallet-fr.com
 trustwallet-receive.com.ru
+trustwallet-secure.blogspot.com.cy
 trustwalletassist.com
 trustwalletonecoinpremuim.netlify.app
 trx-fee.vercel.app
@@ -1532,7 +1537,6 @@ tvgarden4k.com
 tw-cards.netlify.app
 tw-zapper.com
 txccertify.com
-typus-finance.stakingreward.cloud
 udefi.click
 ultrasolspin.com
 uni-dapp.top
@@ -1588,7 +1592,6 @@ vote-ketboard.com
 vote-okxpolls-110.pages.dev
 vote-reppo.xyz
 vote-ryskfinance.pages.dev
-vote-starknet.com
 vote.bounceflnances.com
 vote.foundationkinetiq.xyz
 vote.friendtechcoinfi.com
@@ -1794,6 +1797,7 @@ yaypegs.org
 yeyole-49mn2gsb.vercel.app
 yield-flow.co
 yieldfielda.fun
+yndbt-qiaaa-aaaad-qapvq-cai.icp0.io
 yolo-coin.fun
 yprebitc.com
 yumyum.network

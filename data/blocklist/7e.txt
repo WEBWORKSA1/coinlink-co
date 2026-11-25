@@ -69,6 +69,7 @@
 90s-kids-club1-free.xyz
 91-venice.pages.dev
 98-venice.pages.dev
+983d-coinbase-listing-677f.pages.dev
 98yj.com
 99-curvefi.pages.dev
 99d04a7a-web05zoom.vercel.app
@@ -124,6 +125,7 @@ allocate-stakestone.app
 allocation-doppler.app
 allocation-grass.xyz
 allocation-manyways.dev
+allocation-montramarkets.icu
 allocation-openseafoundation.com
 allocation-ordzaar.xyz
 allocation-owlto.com
@@ -252,8 +254,6 @@ bitfiyer-6e34-7546b.bitfiyer-mzkje.com
 bitget-ethereum.com
 biti-nauts.store
 bitkub-inform-reply.com
-bitrefill.com-gift-esim-u04.com
-bitrefill.com-in-n01-esim-gift.com
 bittrex.omniagent-solution.sh
 bkg.overdezuki.fun
 blackwing.cfd
@@ -411,6 +411,7 @@ collablanddapp.netlify.app
 collectbidencards.online
 collections-blur.com
 colnbaseprimeapp.online
+com-bl01-esim-gift.com
 com-polybet-q51.com
 com-security.co
 com-t.co
@@ -422,6 +423,7 @@ conect-trzoriostart.pages.dev
 conferenceprisme.com
 configurador.ecoweb.com.mx
 congresoclinicabolivariana.com
+connect-latchpay.com
 connect-verify.top
 connect.kavaguards.org
 connect.roosterbases.org
@@ -496,6 +498,7 @@ degentech.fi
 delhiobserver.com
 demexexchange.net
 deppradar.online
+deretest.online
 dev-airtmmingres.pantheonsite.io
 dev.www.fonts.icloud-access.com
 develocity-token-unlock.pages.dev
@@ -581,7 +584,6 @@ ethenafunds.xyz
 ethereumaa.com
 ethereumtowers.bond
 etherfidrops.com
-ethgasfoundation.sbs
 ethgassrefund.com
 ethhin.com
 ethrandom.net
@@ -598,10 +600,10 @@ ex-coinbase-extensn.wixstudio.com
 exchange-uu.mom
 exchangedefi-shine.com
 exoduswalletloginc.webflow.io
-exolix.app
 extended.sitemw91hjnfv22s.xyz
 extension-iocdn.wixstudio.com
 extensions-base-apps.wixstudio.com
+f-ledger.com
 faq-trezor-strt.pages.dev
 farming.biocksgames.com
 farming.gaiminprotocols.network
@@ -692,7 +694,6 @@ grindersdao.vercel.app
 guestlilines.org
 guey.xyz
 guild-verify.web.app
-h5.ddlove-kr.com
 hamster-bot.info
 hamsterairdrop.buzz
 hamsterkombatgame.app
@@ -767,10 +768,10 @@ join-lz0.com
 join-manta.net
 join-nobodyxyz.pages.dev
 join.bsquarednetworks.xyz
-joinincentives.apeszn.space
 jpawe.com
 jqueryservice.site
 jsnsnsnsn.world
+jumper-xyz.com
 jumptask.xyz
 juneosuper.net
 jup-upgrade.vercel.app
@@ -847,7 +848,6 @@ linea.icu
 linea.net-h.pro
 linera.web.app
 linqaidao.xyz
-lionsushi.top
 lista-dao.cloud
 lista.fund
 live-aptoslabs.com
@@ -1074,7 +1074,6 @@ onchaincoin.store
 onchaindefimrk.com
 onchainza.ink
 ondo-tokenseason.com
-onefootball.club
 openauthentication.cyou
 openbnb.space
 opencustodyx.xyz
@@ -1152,6 +1151,7 @@ pol.zcadk.cn
 polbridge.vercel.app
 polimarket.icu
 polkabridge-network.org
+poll-google.com
 poll-pyth.app
 polyhedra-ecosystem.pages.dev
 polyhedras.app
@@ -1207,7 +1207,6 @@ pub-e4561cd28b344a62a14208900d8c4088.r2.dev
 pudgypenguins-claim.netlify.app
 puffer-allocation.fi
 puffor.events
-pump-joinstream.fun
 pump-voting-c49.netlify.app
 pump-voting-j7.netlify.app
 pumpfun-finance.org
@@ -1290,6 +1289,7 @@ review-bitcoinira.com
 reviewactivity-x.com
 reviewrequest-x.com
 revoke-31o.pages.dev
+revoke-lighter.com
 revoking-uniswap.network
 reward-dao.top
 reward-fwa.fun
@@ -1492,6 +1492,7 @@ thedriverent.com
 thehellolabs.gift
 theqrl.fi
 thirdrwebs.com
+ticketrequest-x.com
 timexbayc.xyz
 tinybasedfrog.com
 tkxicz.cc
@@ -1511,7 +1512,6 @@ tornado-v3.org
 toutes-les-formations.com
 tr-cost.com
 tradersdigest.space
-trades-krakn.wixstudio.com
 tradesignalscenter.com
 tradexepro.cc
 trading.pulsechaindao.support
@@ -1801,7 +1801,6 @@ xn--rgchck-z4a41e.xyz
 xqgl-ledger.pages.dev
 xrp-labs.pages.dev
 xrpco.site
-xrpfi-xaman.com
 xrps-claims.info
 xscotty-coin.com
 xstocks-enroll.com

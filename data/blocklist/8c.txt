@@ -46,6 +46,7 @@
 42-usefelix.pages.dev
 43-proposal-paperstrategy.pages.dev
 44-jumpereco.pages.dev
+4812-colnbase-listings-4f65.pages.dev
 483763-coinbase.com
 4gbjoqs52gztsbktci2qgn373no4jd5e2lauab3adt3hytqwob3q.arweave.net
 5-argus.pages.dev
@@ -90,6 +91,7 @@ admin.mantle-airdrop.pw
 admin.sribwcng.lostalleresdeljardinerofloja.com
 admin.webdisk.static.celestiadrop.tinotis.com
 admin.ww12.bc-game.pics
+adobepage614.icu
 adsolutionsync.online
 adwavein.vercel.app
 ae888.cheap
@@ -229,7 +231,6 @@ atcbrokersllc.com
 atera-blockchain.us
 au-rippercasino.app
 auth-id-browser.info
-auth-monpay.wixstudio.com
 auth.immutable.com.spanakopita.store
 authtrscon.wealthnest.ltd
 authweb3rc.tk
@@ -336,7 +337,6 @@ cash-ape.fun
 cashcat-claim.xyz
 catesallocation.com
 cawdh.xyz
-cbinsurance-ledger.com
 cclportal.network
 cd3asdf.top
 cdn-ledgr-com-desktop.pages.dev
@@ -361,7 +361,6 @@ checker.mangonet.lat
 chests-tabi.com
 ciaim-neirocoins.net
 cijjz.lg898.top
-citrea.us
 ckrakenlogion.gitbook.io
 claim-0penseabox.web.app
 claim-7j.netlify.app
@@ -393,7 +392,6 @@ claim-suliend.top
 claim-sullend.space
 claim-svilend.hair
 claim-uniswapairdrops.sysfel.com.mx
-claim-wlfi.site
 claim-wolfgame.com
 claim-wormhole.pages.dev
 claim-wuffi.pages.dev
@@ -444,7 +442,6 @@ coinbasescan.pages.dev
 coinbasewallet-ptdapp.com
 coinexsx.com
 coingatese.com
-coingekx.com
 coinmarketcapvote.net
 coinmenders.pages.dev
 coinnbaase_prolggse.godaddysites.com
@@ -460,7 +457,10 @@ collabfarecreated.pages.dev
 collabland.api-guardian.net
 colladsverif.land
 com-9n0b3w.cyou
+com-bv01-esim-gift.com
+com-in-b01-esim-gift.com
 com-instant.beer
+com-p01-esim-gift.com
 community-uniswap.org
 communityvoterbinance.fun
 comnunity-pendle.org
@@ -561,7 +561,6 @@ doc-exd-us-en.pages.dev
 doc-exdus--web.pages.dev
 docs.new.login.lyncdiscover.www.pop.matthew24eleven.com
 documents05e.ribeiraopretopretendoirumdiaai.cfd
-dodoex.exchange
 doge-binance.cn
 doge-coin.ru
 dogecoin-doge.com
@@ -603,7 +602,6 @@ enroll.aerodromeai.com
 enroll.gcracademytokenfio.net
 enter-reformdao.com
 erachain.xyz
-ercassetsettleyieldframework.help
 eth-usdt.vip
 ethbz.net
 ethereum-token.online
@@ -827,6 +825,7 @@ kai-ken.life
 kajuu6ynfhcd2wuhuufwlorolsoya7d7g2dptn7hrqzeeegi4gca.arweave.net
 kbu34ixcbhsd235df.bio
 kcoinmanual.com
+keel-okx.com.cn
 kekistan-world.xyz
 kelp-v3.sbs
 kelpdao-airdrop.pages.dev
@@ -959,7 +958,6 @@ mettmskextns.webflow.io
 mgfr4krqbxrmdlhoxovu6u5xadqnaciboumlguekhnleeuialcjq.arweave.net
 mi4bk.cc
 micro-konnet.com
-microlive.us
 microsotf-o365aouth.com
 migrate-cellframe.tech
 migrate-syrup.net
@@ -1092,8 +1090,6 @@ omnibtx-claims.com
 omnicats.xyz
 onbeam.network
 ondofi.support
-ondofinance-foundation.com
-ondovoting.org
 onelistmarket.one
 online-treezr-suit.framer.ai
 onlinenode.pages.dev
@@ -1142,7 +1138,6 @@ paperhands-portfolio.pages.dev
 param-labs.digital
 pasific-manta-networks.pages.dev
 passwordbest.cc
-pay-bitrefill.com-gift-esim-aq04.com
 pegasus-ride.online
 peipeicoin.vercel.app
 pendletokens.finance
@@ -1153,6 +1148,7 @@ pepe-unchained-org.in
 pepebee.xyz
 pepedistribution.net
 pepestaking.vip.veefriends.ws
+pepetochecker.site
 pepeunchained-claim.web.app
 pepeunchained-token.web.app
 peputokenclaim.pages.dev
@@ -1178,6 +1174,7 @@ plo-guru.shop
 plume-network.vercel.app
 poii-hashai.app
 polkaclassic.finance
+poll-okxvote-582.pages.dev
 polling-etherfi.com
 polymarket-farcaster.pages.dev
 polymarket-invest-xyz-5odwy.pages.dev
@@ -1254,6 +1251,7 @@ rainbet-fi.com
 rainbet.gr.com
 rainfxclaim.com
 rationappverse-migrate-dapps.pages.dev
+raybdium.xyz
 raydium-swp.at
 raydiumlail.monster
 rb-zoom.com.cn
@@ -1306,7 +1304,6 @@ reward-umbraprivacy.xyz
 reward.scotyxtheapp.xyz
 rewards-apecoin.com
 rewards-decentraland.world
-rewards-flarenetworks.xyz
 rewards-jurassic.lat
 rewards-lido.app
 rewards-monprotocol.net
@@ -1353,7 +1350,6 @@ seamless-airdrop.pages.dev
 season3-etherflnance.com
 secret-pyth.com
 secure-admin-norply.online
-secure-en-up-huld-io.created.app
 securechainguard.onrender.com
 securemetamaskwalletsyn.run.place
 securetrumpaccount.net
@@ -1464,7 +1460,6 @@ sudo-swap.net
 suigrab.com
 sundog-airdrop.com
 sunwavetokens.com
-super-bonus-monster.beer
 superintelligence-po6.pages.dev
 superseed-presale.com
 superverse-revenue.com
@@ -1473,7 +1468,6 @@ support.debridgde.foundation
 support.secure.sitemaps.shibarium.icu
 svv-x-up-hold-com-x-adth.typedream.app
 swallowcells.xyz
-swap-rubic.click
 swapp-uni.xyz
 swapwoofi.com
 swellnetwcrk.com
@@ -1486,6 +1480,7 @@ syncronizeethereumwallet.pages.dev
 syncswap-found.xyz
 syncwallet.airdrops.su
 tahomint.com
+taichily.cc
 taichinhbidv.online
 taikofinance.cc
 taikorewards.com
@@ -1559,7 +1554,6 @@ tryring-ai.website
 tuhoster.com
 tup-proposal.com
 twt.trusecpad.top
-u06h.lat
 uctsv.com
 uittjj.pages.dev
 ult-trezor-io-start.pages.dev
@@ -1585,7 +1579,6 @@ us-changenow.at
 us-cme.com
 us-trezorsuite.org
 us05web-zoom.club
-us08webzoomurbanfm.online
 usdc.lat
 usdc23-airdrop.site
 usdcpromo.net
@@ -1634,7 +1627,6 @@ votes-pollsokx-119.pages.dev
 votes-uniswap.xyz
 voting-aixcb.com
 voting-firelightfoundation.xyz
-voting-flarenetwork.com
 vp64l5.com
 vr-check.online
 vvvirexapp.com
@@ -1646,7 +1638,6 @@ wallet-metamuskio.pages.dev
 walletconnect-5vi.pages.dev
 walletconnect-mz3.pages.dev
 walletconnectchecker.infinityfreeapp.com
-walletsolution.com
 walletweb305.top
 wallsttmemes.com
 wanmei-start.com
@@ -1660,7 +1651,6 @@ web-rabbyextension.mmm.page
 web.coreum.site
 web3apibc.gq
 web3box-giveaway.site
-web3bybitcommunityairdrop.sbs
 web3bybitwallet.netlify.app
 web3debug.xyz
 web3fivex.xyz

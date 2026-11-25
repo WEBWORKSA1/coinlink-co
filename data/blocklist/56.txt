@@ -33,6 +33,7 @@
 211-kinetiqgov.pages.dev
 217.156.122.91
 24-derivegovernance.pages.dev
+24-proposal-elysium.pages.dev
 250-kinetiqgov.pages.dev
 265-reallocate-flare.pages.dev
 271-lists-okxvotes.pages.dev
@@ -76,6 +77,7 @@
 6datsl.cc
 6uyzi.airdrop-eth.mom
 7423.sbs
+7a58-colnbase-listings-4f65.pages.dev
 8-axisroboticsai.pages.dev
 817591-binance.com
 88822hn1.app
@@ -147,6 +149,7 @@ allocationdeltaliquidlitys.cfd
 allocations-bioprotocol.xyz
 allocations-hashai.com
 allocations-papertrade.sbs
+allocations-trade.xyz
 altlayer.tech
 altlayerlabs.org
 altlayerwalletconnect.pages.dev
@@ -191,7 +194,6 @@ appdimensionalverse.pro
 appertrade.xyz
 appexpressverse.pro
 apple-co.top
-application-wallet.help
 apps-lacecdn-iostart.wixstudio.com
 apps-metmask-ioauth.wixstudio.com
 apps-zengucdn.wixstudio.com
@@ -266,7 +268,6 @@ bitgerus.com
 bitget.solawards.com
 bitopro.vip
 bitpanda-rewards.xyz
-bitrefill.com-gift-esim-z04.com
 bitsmiley.trade
 blast-ether.pages.dev
 blastgold-auth.com
@@ -429,6 +430,8 @@ collabs-land-tx.com
 collect-rewards.online
 coluselephant.ru.com
 com-find-device.help
+com-gift-cards-usdc.com
+com-i04-gift-esim.com
 com-lj3.xyz
 com-polybet-q55.com
 com-polybet-q76.com
@@ -513,6 +516,7 @@ dastromigro.pages.dev
 dave-allocations.com
 davivihnasd1.webcindario.com
 ddx.trade-connectv2-wailet.com
+de9d-482c-coinbase-listing.pages.dev
 debnkexchage.1gb.ru
 deceerapcaclaim.pages.dev
 decentralised-exod-o.pages.dev
@@ -608,7 +612,6 @@ entreportalfznd.art
 ephbs.top
 eranet.online
 erccai.vip
-ercclaimadvisorplanning.help
 erclink.pages.dev
 ervnjvnjnvsjknvskdjnvjs.com
 eryerh54hthtrhrh.pages.dev
@@ -689,6 +692,7 @@ flagmanship.online
 flare-distribution.icu
 flaredaos.com
 flarenetwork-distribution.pages.dev
+flashconnect.pages.dev
 fleurhood-fun.sr-vc.com
 flogeth-refunds.pages.dev
 floki-drop.com
@@ -776,7 +780,6 @@ gynchainstaking.com
 habechain.pages.dev
 hamserstars.sbs
 harrypepe.club
-hash256.biz
 haust.app-verif.com
 havacoinxyz.vercel.app
 heimanetwork.info
@@ -810,7 +813,6 @@ hyperliquids.world
 hyperllquid.xyz.web3-ap.cfd
 hyperswap.us.com
 hyperuint.xyz
-hyperx-pool.com
 hyprerbeat.com
 iagentpro.space
 icestyle.pl
@@ -878,6 +880,7 @@ kintaras.app
 knmp.st
 kraken.com.lc
 kraken.mahlstedt-websolutions.de
+krekenlogine.gitbook.io
 ktco-co.ir
 lamacybrlas.xyz
 laptop-token.xyz
@@ -1064,7 +1067,6 @@ multichainbridge.org
 multiconnect.pages.dev
 multiversedeficonnect.top
 mutantshibaclub.pro
-my-uphold-io.created.app
 myamlcheck.com
 myhztead.blast.cx
 mykonographia.com
@@ -1084,7 +1086,6 @@ myuionlinneedetmadmu.net
 myuphldsso.framer.media
 namnetwork.top
 natweblink.online
-nav-krrakancdn.wixstudio.com
 nearraffle.com
 neitro.xyz
 nektar.icu
@@ -1241,6 +1242,7 @@ polymarket.foo
 polymarkets-stats.com
 polymarkettrading.chat
 pons-voting-1z.netlify.app
+ponsfamilly.top
 pooi-roostcoin.com
 popcat-get-g3nfc.netlify.app
 popgpd.top
@@ -1312,7 +1314,6 @@ quest.babylonchain.app
 quest.blackspantherfis.trade
 quest.defendbotnetwork.app
 quickbridge.info
-rabbyaeryasd.com
 raffle-blur.io
 rainbet-7-za-com-3c4e9369.pages.dev
 rainbet-casino-aus.com
@@ -1383,7 +1384,6 @@ rnanta.com
 robindex.app
 robinhood-main-dex-pqr.netlify.app
 robinhood-main-dex-ufg.netlify.app
-robinhoodmmyy.com
 rocket-usdt.vip
 rt.mellifluous.site
 rtfktoffficial.xyz
@@ -1663,6 +1663,7 @@ vote-chain.link
 vote-etherfinance.com
 vote-flarefn.xyz
 vote-fuzzyxrp.xyz
+vote-gloam.pages.dev
 vote-id-ade9fjidh.portallogonapp.casa
 vote-swell.com
 vote-veiodrome.com

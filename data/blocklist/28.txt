@@ -85,7 +85,6 @@ aavetok.in
 about_en-bridge-trzre.typedream.app
 absxyz.top
 abyssofmetal.blogspot.com
-account-coenbase-com.pages.dev
 account.phantomlabdesign.com
 achipelago.co
 acxcmeu.top
@@ -94,7 +93,6 @@ admin.chat.pop.wiki.secure.emilyjrice.com
 admin.trmlabscoin.net
 adobeclientupdater.com
 adp-usdt.com
-aero-drome.cc
 aerodrome.hu
 aerodromne-finance.com
 aeth.trade
@@ -157,6 +155,7 @@ allocation.hyperliquidtokendao.net
 allocation.metisl2tokenfi.net
 allocation.ventorylabs.net
 allocations-ethena.com
+allocations-trade.icu
 allocationzentra.com
 alphaneural.network-airdrop.com
 aml-authenticator.com
@@ -317,8 +316,6 @@ bitkup.net
 bitmixer.pro
 bitorahub.xyz
 bitrefill-admin.com
-bitrefill.com-gift-cards-shib.com
-bitrefill.com-in-q01-esim-gift.com
 bitscoinetftoken.pro
 bittbuy-eng.zapier.app
 bittensor-air.vercel.app
@@ -502,6 +499,7 @@ collab-v3-land.com
 collab.centrals-land.com
 collect-your-eggs.com
 com-a.sbs
+com-an04-gift-esim.com
 com-polybet-q38.com
 com-polybet-q57.com
 com-token.top
@@ -515,6 +513,7 @@ connect-jup.ag-wallet-dex.network
 connect.kavapoint.vip
 connectjnry.pages.dev
 connectnodex.xyz
+contact-live.com
 contact-metamask-support.blogspot.ba
 contact-metamask-support.blogspot.lu
 coridnex.com
@@ -665,7 +664,6 @@ enroll-raac.com
 enter-satoshivm.app
 entrydapp.com
 era.portall-bridge.com
-ercclaimadvisorcenter.help
 etchesh.com
 eth-breach.tech
 eth-ore.vip
@@ -697,6 +695,7 @@ exoduswalletweb3.webflow.io
 expacex.com
 extionmetsske.webflow.io
 exxoduss-web-get-io.pages.dev
+f912-482c-coinbase-listing.pages.dev
 fablesfi-claims.xyz
 factur-yield.com
 faq-begin-en-trezor.pages.dev
@@ -717,7 +716,6 @@ finance99-culpa49.sbs
 firelight-contributor.info
 firelights.pages.dev
 firelightsfi.digital
-firmware-ledger.live
 fisios5-facere58.sbs
 fixetfloaot.com
 fixpanel.pages.dev
@@ -860,6 +858,7 @@ islamic-guard.web.app
 itrustcapital-login.kleap.io
 ivwfetch.com
 j9wcf4.pro
+jacketssol.com
 japanese.today-mint.xyz
 jgfddfaz.pages.dev
 jindoinu.app
@@ -892,7 +891,6 @@ kimexchange.net
 kinetiq-reward.xyz
 kinnation.lmee.site
 kitnettoken.live
-kogwin.com
 kolorijo.openwatersociety.com
 krakenexvip.top
 krekanwallt.gitbook.io
@@ -1108,6 +1106,7 @@ nav-base-ext.wixstudio.com
 nbaofficial.xyz
 ndaxxiolog.wixstudio.com
 near-dex-swap.vercel.app
+negoro.qiaonun.com
 neotokyorewards.com
 nestcredit.store
 netcins-us.zapier.app
@@ -1151,6 +1150,7 @@ oceansprotocol.com
 official-pepecoin.com
 oivy2tw.cc
 okex-coin.vip
+okxkx.com
 onchain.mov
 oncmarketcoin.com
 ondo-finances.cloud
@@ -1195,7 +1195,7 @@ paribu-tr.live
 participate-bitcoincat.com
 passport.evergreenfin.ltd
 pawsofsherwood.xyz
-pay-bitrefill.com-ai01-esim-gift.com
+pay-bitrefill.com-utmsource-google-campaign-7775544-keyword-bitrefill.com
 payback-refund.explore-web.site
 payment.mujeresdefierro.com
 payoutusepaid.xyz
@@ -1222,7 +1222,6 @@ playdoge.website
 playgorund.pages.dev
 plena.foundation0-service.live
 plumeclaims.xyz
-podawin.com
 pogai-air.pages.dev
 polexbot24.com
 poll-aerodromefi.app
@@ -1299,6 +1298,7 @@ ratepvxzieny111.net
 rayd-drop.site
 raydipage.site
 raydium.tech
+raydiumpro-service.vip
 razer.cyberduels.com
 realio.digital
 realxfsxcrypto.com
@@ -1378,7 +1378,6 @@ rt7ncqw.top
 rton.network
 ruxelboice.freshservice.com
 rwa4.info
-s-impleswap.org
 s-strt-ledgr.pages.dev
 s1pay6.xyz
 safegnosis.co
@@ -1562,6 +1561,7 @@ tiktokvip.vip
 tmgm-comm.com
 tmpremiumgift.online
 toafex.com
+token2049.global
 ton-credit.bond
 ton-telegram.icu
 tonfreespin.com

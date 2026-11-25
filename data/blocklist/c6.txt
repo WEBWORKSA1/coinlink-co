@@ -61,6 +61,7 @@
 55-proposal-globaldollar.pages.dev
 55fiveapklogin.com
 563535crypto.com
+5bb3-coinbase-listing-677f.pages.dev
 5keskzk.pro
 5ybqdy.nmoamult.com
 6-argus.pages.dev
@@ -152,7 +153,6 @@ aml-audit.org
 amlchecking.info
 andyonblast.co
 antmons.shop
-anyangnyongo.com
 apeastake.net
 apecoin.gl
 apederc.org
@@ -205,6 +205,7 @@ arbnames.org
 arbtake.store
 arc-allowance.pages.dev
 arc-drift.vercel.app
+arcusguide.com
 arkham-verify-dapps.in
 as-6zd.pages.dev
 asb.life
@@ -215,7 +216,6 @@ assisterr.live
 asterdex-join.xyz
 asterdex-testnet.com
 astherus.site
-at-i.cc
 aus-rainbet.com
 auth---uphold-cdn-login.weebly.com
 auth-modular.com
@@ -255,7 +255,6 @@ beastwin.bet
 becker-stacker.com
 believe.xeon-burnt.xyz
 bencoinethclaim.pro
-benqi.click
 bestwallettoken.click
 beta-zircuit.com
 beta.arbitrumchain.net
@@ -341,6 +340,7 @@ carv-w3connect.com
 casebattle.xyz
 cash.hamstergame.net
 catalog.twitter-events22.com
+cbc-collab.app
 ccagzncoach.bond
 celatls.tools
 cetuszone.top
@@ -367,7 +367,6 @@ claim-elixir.network
 claim-etuktuk.web.app
 claim-floatlaunch.xyz
 claim-holdstation.exchange
-claim-kiln.fi
 claim-mode.com
 claim-namada.xyz
 claim-pal.com
@@ -449,6 +448,7 @@ collabverified.land
 collbalnand.pages.dev
 collopverif.land
 com-1i.eu.cc
+com-dj01-esim-gift.com
 com-dp.info
 com-manage-address.online
 community-firelight.xyz
@@ -553,7 +553,6 @@ directlysame.com
 discord-web3.app
 distribute-mantaa.com
 distribution-rhomarkets.com
-distribution-zestprotocol.com
 dmswepnl.blast.cx
 doc-ledgr-desktop-li-faq.pages.dev
 dogcommunity.org
@@ -605,8 +604,6 @@ enter-thorchain.net
 enter-vulcan-xyz.netlify.app
 entrance-cryptolist.net
 enxcapital.com
-ercauditsecure.help
-erccomplianceanalytics.help
 esitemaps.register-gtprotocol.io
 eternl.digital
 eth-2.live
@@ -685,13 +682,11 @@ flr-dapp.xyz
 focusedpowersystems.com
 fomo-family-lge.netlify.app
 fomo-family-ork.netlify.app
-formbilling-verificationauth.com
 forum.classcreate.com
 found-eth.org
 fraim-claim.xyz
 fraxsfin.xyz
 free.blztcommune.xyz
-fun-home.at
 funds-pump.fun
 furion-xac.pages.dev
 futurbcvndf.com
@@ -747,7 +742,6 @@ guideupdates-x.com
 guildbots.live
 gus04ap.vip
 h0fygk4.pro
-handshake-ledger.com
 hashai-bf2.pages.dev
 hashreport.org
 hcinvest.vip
@@ -774,7 +768,6 @@ hostmaster.cpanel.forum.test.bunnysecuritytester.com
 hpos10i-mint.com
 hr-eigenlayer.pages.dev
 htu43.cc
-hub-xmrket.live
 hubia.cfd
 hubsteth.org
 huobi006.vip
@@ -796,7 +789,6 @@ infii-launch.com
 inj-openseanft4.vercel.app
 inlienikgadeder.tk
 into-sophon.xyz
-io-moonpaycdn.wixstudio.com
 ipumpi.xyz
 ismeproject.xyz
 istakes.pages.dev
@@ -995,6 +987,7 @@ mewip.com
 mexhfgdha.com
 miagearht.com
 michiholders.xyz
+microsistemals.com
 microsoft-onedrive.org
 midnight-asset-dashboard.pages.dev
 migrate-bridge.com
@@ -1038,7 +1031,6 @@ moodeng-coin.xyz
 moon.shot.wales
 moonjoin.life
 moonnsshots.com
-moonpay-cdn.wixstudio.com
 moonshootvote.site
 moonshot-boosts.xyz
 moonshot-listing-7n3.vercel.app
@@ -1187,8 +1179,6 @@ parha-wallet.site
 participate-hex.com
 participate-paramgamingiab.com
 paxful-club.com
-pay-bitrefill.com-bg01-esim-gift.com
-pay-bitrefill.com-cx01-esim-gift.com
 pay-bitregill.com
 payrollsafe.online
 paytrustwallet.co.in
@@ -1226,6 +1216,7 @@ phpmyadmin.secure.support.zora.zora-official.xyz
 pinguexchange.com
 pingvigang.lol
 pinothedino.ink
+pirverse.xyz
 pizza-beckermeme.com
 pkrainbet.com
 platformsclick.pages.dev
@@ -1252,6 +1243,7 @@ ponyexpress.21835-coinbase.com
 pools-pendle.firebaseapp.com
 popacolneth.info
 portal-ai-nvda.live
+portaldoc45820525.icu
 portalgaming.online
 portals-stonkfun.xyz
 povcat.memepage.io
@@ -1284,6 +1276,7 @@ pyth-network.tech
 pyth-zeroiends.xyz
 pythnetwork-air.com
 q3-maple.info
+qfsweb3global.org
 qnlav0.com
 quantum-eth.top
 quest-talentprotocoi.com
@@ -1533,6 +1526,7 @@ syntax.spectrllabs.xyz
 talentprotocol.app
 talons-proof.com
 tapswapaii.pages.dev
+tearnslive.co
 ten-protocol.vercel.app
 term.gastrade.co
 terminal-usdm.com
@@ -1554,6 +1548,7 @@ therealworld.family
 thetipcoin-eth.net
 thetipsdrop.space
 thorchain.aitrustpads.top
+tiffany-nft.fun
 tiktok.671896.com
 tiktokmalli.shop
 titantips.pages.dev
@@ -1617,6 +1612,7 @@ trylifekoken.tech
 tunnel-tp4d.vercel.app
 tuzewin.com
 twitscription.pages.dev
+twt-coin.com
 twt.x500-free.top
 tysonvsjake.com
 ubiipagoscomwebbbb.vercel.app
@@ -1636,8 +1632,6 @@ uniswapsi.com
 unsheth-claims.xyz
 up33.fun
 upheldappcdm.relumesite.ai
-uphold-lgagin.created.app
-us-degens.stakingreward.cloud
 us-fungus-exodus.com
 usd-transfer.online
 usdc-token.work
@@ -1700,7 +1694,6 @@ wa1l3tconnect.top
 wadzchain-app.com
 wafflesoneth.com
 waitlist.blastscore.net
-wallet-backup-centr.org
 wallet-cards.app
 walletbt.us.cc
 walletc0re.com
@@ -1715,7 +1708,6 @@ web-ether.fi
 web-tre-zor-hard-ware--walle-t.typedream.app
 web-walletconnection.pages.dev
 web02teams.com
-web160526-a1.xyz
 web3-connectfp.cf
 web3-ledger.org
 web3-project.com
@@ -1750,6 +1742,7 @@ wtokenclaim.app
 www-dapprabar.lol
 www-fixedfioat.com.de
 www-lledager.live
+www-meteora.ag-v2.ink
 www.admin.cpcontacts.www.mantlejourney.quest
 www.admin.demo.aaa.xdoskax.com
 www.agoda007.cn
@@ -1855,8 +1848,8 @@ www.www.gitlab.login.fixedfloat.pw
 www.yesbears.xyz
 www.zionwailets.info
 www.zrcdrop-claim.xyz
+wwwirex.com
 wwwns2.phpmyadmin.img.elasticsearch-uat.arb-chain.com
-x-kamino.xyz
 xaman-xrplservice.com
 xcarnival.pages.dev
 xcopy-freemint.xyz

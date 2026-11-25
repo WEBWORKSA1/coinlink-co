@@ -1,5 +1,4 @@
 0013008-metamask.ph
-06in.us
 0u12d.fjordfoundry.xyz
 10-hyperlinkapp-86x.pages.dev
 10-proposal-saturncredit.pages.dev
@@ -65,10 +64,12 @@
 618354-ftx.com
 63-proposal-stark.pages.dev
 640291-crypto.com
+662e-2c77-coinbase-listing.pages.dev
 6779973323.pages.dev
 68-proposal-stark.pages.dev
 7-gov-fablesfi.pages.dev
 72-arguseco.pages.dev
+743925kraken.com
 7xjjum7.cc
 8-allocation-abstract.pages.dev
 8-ramsesapp.pages.dev
@@ -89,7 +90,6 @@ aavev3-xmt.com
 ab.claimtrustdrop.com
 access-ledgerf-kash-login.pages.dev
 access-paybis-logiin-io-us.pages.dev
-access-uphld.created.app
 access-whiterockpay.lol
 aceanimals.in
 ad-golgge.site
@@ -109,7 +109,6 @@ aibot2.vip
 aifloki.network
 aigentxyz.net
 ailocate-taiko.app
-aiozsushi.top
 air-boxdao.web.app
 airdrop-dapps-reward.pages.dev
 airdrop-genlayer.xyz
@@ -197,6 +196,7 @@ app-cyberconects.xyz
 app-intentx.info
 app-maga-memecoin.lol
 app-renzoprotocol.info
+app-stonkbrokers.xyz
 app-syncnodes.pages.dev
 app-wanswap-en.pages.dev
 app-zapeer.pro
@@ -290,15 +290,15 @@ bifrostmainnet.com
 bigeyesss.space
 bilecki-kamen.com
 bintantourism.com
-bio-ledger.org
 bitcoiinminetrix.com
 bitcoincasinospielen.com
 bitcoingrouphk.com
+bitcotyrax.com
 bitexmark.com
 bitfinexpe.com
 bitget-airdrop.pages.dev
 bitlend.vip
-bitrefill.com-gift-esim-ah04.com
+bitrefill.com-gift-cards-cake.com
 bitscreener.net
 blast-bigbang.top
 blast-io.0fm.net
@@ -410,7 +410,6 @@ claim-smolecoin.vercel.app
 claim-solv.com
 claim-suilend.run
 claim-svilend.club
-claim-xmagnetic.xyz
 claim.beicoia.io
 claim.eventmogcoin.com
 claim.forcefi.net
@@ -459,6 +458,9 @@ collab-lands.pw
 collablands-wallet.com
 collabs-verify.vip
 colonylab.pages.dev
+com-ac04-gift-esim.com
+com-gift-esim-bf04.com
+com-in-f01-esim-gift.com
 com-indexhtml.top
 com-verification-idj50f67nm7rm.org
 com-zenith-hub.biz
@@ -502,6 +504,7 @@ cs5oh.cc
 culltdao.io
 curve-swap.xyz
 curve.rewards.peakservice.eu
+cvb-collab.land
 cyphereth.net
 daietherpromax-defi.com
 dairppradar.blogspot.com
@@ -696,6 +699,7 @@ flarefdn-event.live
 flarefn-payout.live
 flarefndn-gain.live
 flarefoundation-vote.live
+flarehub-44eco.pages.dev
 flarenetwork-distribution.icu
 flarenetwork-foundation.live
 flarenetworks.store
@@ -862,7 +866,6 @@ jupiter-lite-gamma.vercel.app
 jupiter.ag-eu.club
 juplocases.vip
 k9cryptoagent.com
-kaiyun-bonusbet.com
 kaken-lugainxgizy.godaddysites.com
 kanpaipandas.online
 karakcooking.com
@@ -1089,6 +1092,7 @@ neutralize-dapp.pages.dev
 new-responses.com
 newconnectionfinancebank.com
 newlobstr.co
+news-jup.xyz
 newsovtw.com
 nexo-connect.com
 nexwhitelist-sonex.xyz
@@ -1122,7 +1126,6 @@ officialalerts.xyz
 ok-okex.cn
 okaydogs.events
 oku.pics
-okx.291543713.xyz
 omni.variational-io.cyou
 on-chainprotocolamend.com
 on-exodus.org
@@ -1176,8 +1179,6 @@ paperhanded-project.web.app
 paperhold-ethereum.web.app
 papi-chulo.tech
 paramgaminglab.app
-pay-bitrefill.com-bk01-esim-gift.com
-pay-bitrefill.com-gift-esim-ak04.com
 paybycrypto.cc
 payouts-bia.com
 peipeitoken.co
@@ -1374,7 +1375,6 @@ safe-monad.xyz
 sakurax.xyz
 sale-blast.com
 samuraisaga.airdrop-preemint.xyz
-samurayviebal.sbs
 sappyseals-nft.xyz
 sas-mexico.com
 saturn.sitemw9t7wljvias.xyz
@@ -1386,7 +1386,6 @@ scottyclaim.com
 scottydex.com
 scroll-bridge.com
 secure-connection-tunnel528509.cfd
-secure-rbcbusiness.com
 secure-verify-connect.vercel.app
 secured-web.pages.dev
 secureverif.bio
@@ -1442,6 +1441,7 @@ softstoreguide.com
 soiv-flnance.org
 solanablockchain.net
 solanaconsensuslab.com
+solanareviewss.com
 solcheck-ls.lol
 solclaim-bh0.pages.dev
 solssccan.org
@@ -1452,6 +1452,7 @@ somniaregister.xyz
 soniclabs.web3shield.io
 spark-1.icu
 spicy-tungsten-fact.glitch.me
+spire-binance.com.cn
 spl20-studio.web.app
 spongev2.ink
 spooky-fi.tech
@@ -1578,7 +1579,6 @@ tronscan.finance
 truefi-coin.xyz
 trumpmaga-site.shop
 trusntwallet.corn-nvu.online
-trust-wallet.work
 trust-walletgw.com
 trustdigitalcards.com
 trustfund-finance.com
@@ -1611,7 +1611,6 @@ unstoppabledomain.network
 upegs.app
 ureeqa.xyz
 urifarce.com
-uriswap.web-application.us.com
 us05webzoom.help
 usabuysmm.com
 usc.ownershipverification.me
@@ -1636,7 +1635,6 @@ velorris.com
 vendiaai.com
 venomtoken.net
 venus-claim.xyz
-verify-login.coinbase.com.129-121-97-228.cpanel.site
 verifycollab.xyz
 vertexprotokol.com
 visit-juupapp.pages.dev
@@ -1653,6 +1651,7 @@ vote-okxpolls-098.pages.dev
 vote-okxpolls-116.pages.dev
 vote-okxpolls-677.pages.dev
 vote-padre.com
+vote-redstone-3bv.pages.dev
 vote-solayer.org
 vote-umbra.xyz
 vote-virtuals.com
@@ -1675,6 +1674,7 @@ walletmining.online
 wap.gblspp.com
 wappbridgesblock.on-fleek.app
 waytosecureyoutokssvpemil.pages.dev
+wccwcoinpsesvmiwjsf.com
 web-bcgames.com
 web-dextools.com
 web.multichain-toolkit.com

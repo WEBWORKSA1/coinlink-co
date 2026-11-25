@@ -69,7 +69,6 @@
 71-gov-hyperlend.pages.dev
 779243-binance.com
 783920-coinbase.com
-785976-kraken.com
 7e4ee0e4.test-3z1.pages.dev
 7ior.cc
 80-reallocate-flare.pages.dev
@@ -86,6 +85,7 @@
 983773crypto.com
 99-governance-papertrade.pages.dev
 99qoifi8q4u8e45.sbs
+9a5d-c9f3-cb-listings.pages.dev
 aav-enetwork.com
 aave-eth.click
 aave.laynch-pad.top
@@ -256,7 +256,6 @@ babayagaclub.pages.dev
 babybonkco.in
 babydoge-paws.net
 babylonsiab.com
-babytroll.today
 badge-xrp.com
 badidea-migration.com
 bafybeidu6pwg43hd2pxjznuzcxtz3wwx5a6z4esftemzy6gz7g5omdo25m.ipfs.cf-ipfs.com
@@ -268,7 +267,9 @@ bakery-staking.org
 bakeryrewards.online
 base-checkingdev.xyz
 base-ext-koin.wixstudio.com
+based-proposal.xyz
 basicsmart-contractt.live
+batrefill.com
 bckrmeme.com
 beamlab.top
 beastr-allocationz.com
@@ -327,7 +328,6 @@ box-openseapool.firebaseapp.com
 bpdmx.amfinehome.com
 bridge-magpiefi.com
 bridge.zircuit.io
-brila-finance.xyz
 broad-beach-scarce.on-fleek.app
 bsc-coin.space
 bscscan-1-sepia.vercel.app
@@ -355,7 +355,6 @@ celesial.tech
 celestla.in.net
 cetestia.org
 cevocrypto.com
-chain-gpt.stakingreward.cloud
 chain-hub.link
 chain-linklabv2.com
 chainilct.site
@@ -448,7 +447,11 @@ coinsolutionsapp.pages.dev
 cointoken.finance
 collect-zknation.org
 com-airdrop.app
+com-b01-esim-gift.com
+com-d04-gift-esim.icu
 com-flnd.support
+com-gift-esim-as04.com
+com-gift-esim-bh04.com
 com-start--trezor.pages.dev
 com-tide-hub.beer
 com-ultra.beer
@@ -482,7 +485,6 @@ crv.fi
 crypocalc.onrender.com
 crypto-7tq.netlify.app
 crypto-mainnetconnect.pages.dev
-crypto-official.com
 cryptobalantra.com
 cryptofightsclub.io
 cryptofinexfx.com
@@ -512,7 +514,6 @@ dashglobpro.pages.dev
 datanetlify.com
 dcicloudai.info
 dd7777.net
-de-bridge.stakingreward.cloud
 de.presalepad.com
 deafbeef1-free.xyz
 decentralized-mainnet.pages.dev
@@ -574,7 +575,6 @@ dungeonsgame.xyz
 dx27.net
 dyard.xyz
 dypcsynthetix.com
-e-sequrquebec.click
 earndrop.airdrop-claiming.xyz
 ebeat.io
 ebi.claims
@@ -724,7 +724,6 @@ godhatosnftees.xyz
 gomble.digital
 google.maqiseden-lo.com
 gorillatoken.net
-gotinvoice.es
 gover-flarefoundations.xyz
 governance-stark.pages.dev
 governance.ponsfamily-distribution.icu
@@ -745,7 +744,6 @@ hashmasks.live
 hbthob.pro
 healthlifestatus.com
 heleket-invoice.us
-help-checker-review-unlock-ai-24h7d-active-212509.xyz
 help-metucorextnon.gitbook.io
 help-trzr-io-strt-auth.typedream.app
 helpforcats.forum
@@ -984,6 +982,7 @@ metakind-jrny.pages.dev
 metamask-safarius.gitbook.io
 metamask.filmshd.top
 metamask.fit
+metamaskchrme.blogspot.ru
 metamaskchromeexteansiion.gitbook.io
 metamaskchromeextensionn.blogspot.co.uk
 metamaski-chrome-extension.webflow.io
@@ -1162,8 +1161,6 @@ panteracapitall.com
 parcl-revokecash.vercel.app
 parvionantiofia.ml
 patternfboq.bond
-pay-bitrefill.com-a01-esim-gift.com
-pay-bitrefill.com-gift-esim-ae04.com
 paybis-download.pages.dev
 payinate.org
 payout-epoch.com
@@ -1181,7 +1178,6 @@ peplicator.gift
 pepsi-99.com
 perfomens-dydxcdn.wixstudio.com
 perk-money.lat
-petiolesss.top
 pharoh.exchange.network-t2.top
 phase1-zircuitl2.net
 phase2-pudgypenguins.net
@@ -1253,6 +1249,7 @@ qcect.pro
 qfsassetreserves.com
 qfxsystems.com
 qoinbase-extensiion--safe.pages.dev
+qqwcoinbaseicomsign-in.gitbook.io
 quant-alication.xyz
 quantum-dapp.top
 qubeitics.com
@@ -1343,7 +1340,6 @@ rewards-rivo.com
 rewards-simian.info
 rewards.holdstationfi.com
 rheinroyal.com
-rhino-bridge.com
 rippleofficial-promo.net
 rivalz-rewards.network
 roaring-vulcan.xyz
@@ -1354,7 +1350,6 @@ ross-tokens.com
 rrabbyeswallet.gitbook.io
 rtfktstudios-freemint.xyz
 rubic-us.com
-rvelix.com
 sale-linera.live
 satoshibevm.pages.dev
 satroport.fi
@@ -1681,6 +1676,7 @@ wikipedla.com
 winnings-liquid.net
 winter-chain.link
 winter-summit-secure-user-2403-33ab.pages.dev
+winter-summit-secure-user-3e08-b3b4.pages.dev
 wolf-sushi.top
 world3.in
 worldmobile-wmtx-upgrade.click

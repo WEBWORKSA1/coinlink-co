@@ -26,12 +26,10 @@
 18-hub-derive.pages.dev
 183-curvefi.pages.dev
 195-lists-okxvotes.pages.dev
-1984742-coinbase.com
 199-kinetiqgov.pages.dev
 1hpz56lk8.mixing-it-up.com
 1incd.net
 1inch-io.blogspot.com
-1inch.eu.cc
 1inch.ownbitcoins.net
 2-gov-ramseseco.pages.dev
 202-lists-moonshot.pages.dev
@@ -241,6 +239,7 @@ basename.link
 bat11.cc
 bazeswap.top
 bcbbs-vip.asia
+bcf2-coinbase-listing-677f.pages.dev
 bckrscoins.top
 beefy.foundation-service.cfd
 beefy.org-d.pro
@@ -460,7 +459,6 @@ concretegovernance.xyz
 conn-whatsapp.com
 connect-collabland.ltd
 connect-metamask-airdrop.quest
-connect-protocol-flarenetworks.cfd
 connectsweb-s.com
 connectwalletfgyt.webflow.io
 consensys.airdropalerts.vip
@@ -477,12 +475,10 @@ coveenbasenroxogin.godaddysites.com
 cow-swop.com
 coworkingcomercio.com.br
 cp.twitter-events22.com
-cpanel.129-121-102-216.cprapid.com
 cr7drops.com
 crashcoinbase.com
 crates-deltaliqudity.app
 creatorbid.icu
-credit-tw.com
 crosschainchange.xyz
 cryptionacademy.com
 crypto-t2k.netlify.app
@@ -559,7 +555,6 @@ distribution-memeland.org
 distribution-mon.xyz
 distribution-opensea.firebaseapp.com
 docs-sign.io
-dodoex.trade
 dog-wif-coin.com
 dogc-sushi.top
 dogecoin20en.pages.dev
@@ -595,12 +590,10 @@ eigeniayer-mvp.net
 ekuboprotocol.net
 electricorp.com.ec
 elemettmarket.tech
-eligble-unlswap.pro
 eligibility-furies.xyz
 eligibility-nodepay.app
 eligibility-shido.com
 eligibility-swellnetwork.com
-elst.cc
 email-verify.online
 empyreais-event.com
 en-coral.com
@@ -654,6 +647,7 @@ exoduusweb3-wallets.gitbook.io
 explore-eigenlayerxyz.pages.dev
 explorer-bitaml.com
 extended.sitemw9t8jplazvd.xyz
+extendedapp-allocation.top
 fablesecosystem.com
 factur-secure.com
 familyilluvium.org
@@ -782,6 +776,7 @@ hyperfondation.com
 hyperlaneapp.com
 hyperliquid.company
 hyperliquid.digital
+hypersage.trade
 hyperstaking-fragmetric.com
 hz.xywkfc.vip
 hztexoc.com
@@ -858,11 +853,11 @@ keithgillonsol.co
 keplr-station.com
 keungz.livedropp.com
 kevcoin.com
+kinetiql.com
 kingtradersoptions.com
 kitchen-ledger-7f9.pages.dev
 kite.sushi-bar.cfd
 knightsofdegen.xyz
-kogesushi.top
 kpdue.vip
 kraken-----zerkalo.info
 krakenthecontrol2oficial.xyz
@@ -902,6 +897,7 @@ liberomigrate.site
 lido-defi-app.pages.dev
 lido.eu.com
 liga22.site
+lighster.xyz
 lightchainclaim.live
 likebnb27.top
 limitedwl.xyz
@@ -1014,6 +1010,7 @@ mintbitinauts.app
 mintpwt.im
 mlndofpepes.live
 mobile.test.admin.jadidpdf.com
+mods-land.com
 momoguro.connecting-wallet.xyz
 monad-q3.xyz
 monespaceverif10.com
@@ -1128,6 +1125,7 @@ ontodapp.xyz
 open-structure.com
 openclawxlive.top
 openprotocol.netlify.app
+opens-seyal1.liveblog365.com
 opensa.nft-wallet.finance
 opensaenftboxclaim.web.app
 opensea-checker.com
@@ -1171,7 +1169,7 @@ participate-maviagaming.net
 participate-sakumonsters.net
 partnership-script.com
 pass-asset.xyz
-pay-bitrefill.com-bw01-esim-gift.com
+pdfclick.icu
 pea-ty-th.cc
 peapodsfinance.org
 peipei.io
@@ -1317,6 +1315,7 @@ register.frogsonbase.com
 register.pacmoonprotocol.net
 registers-kinto.com
 regulacoin.com
+relaylink.space
 remas.ae
 remblocksolve.pages.dev
 renode.lol
@@ -1350,6 +1349,7 @@ robinhood-main-dex-sux.netlify.app
 robinhoodcoin.info
 robotsfarm.lol
 rocket-pool.top
+rocketnodesolver.com
 rocketpool.gift
 rocketqool.com
 rollercoin-hrt.pages.dev
@@ -1388,7 +1388,6 @@ scarysamurai.lol
 scope-scan.top
 scorpioncasinodapps.pages.dev
 scrol-claim.xyz
-scroll.exchange
 scrolli.space
 scrollzkpairdrop.com
 season2-blastl2.app
@@ -1450,7 +1449,6 @@ sonic.base.llc
 sonicclaim.xyz
 sonikcoin.world
 soniktokenfix.pages.dev
-sora-lab-airdrop.com
 sparkasse-regionale.de
 sparkfi-reward.today
 spatial-airdrop.xyz
@@ -1611,12 +1609,12 @@ unitoken.live
 unlswcp.xyz
 up33-allocations.icu
 update-img.vercel.app
-upheld-ai.created.app
 uponmost.ink
 uqhkzt4prlq6r6o43pwc7i3qf63o3oejewu3fpnwyzm5wfxbpaya.arweave.net
 uqllqo74ypxdbhz.makeup
 us-rebbyy-extnsions.wixstudio.com
 us05.app
+us07zoom.us
 usdcwall.com
 usdena.website
 usdt-eth-top.com
@@ -1626,6 +1624,7 @@ usdtcommunitygrant.us
 use-corn.network
 usecorn.run
 uselaunchapps.xyz
+usepackd.fun
 usepaid-inspect.xyz
 uwwsbkub-auto.1gb.ru
 v1-aave.org
@@ -1860,6 +1859,7 @@ xeth.info
 xitlke.com
 xn--conbae-x8a71115a.com.ph
 xn--ledge-bp1b.com
+xn--panckeswap-xfb.com
 xn--ptimism-00a.net
 xn--ruswlet-cwa24ft7dda.com
 xrp-event.net

@@ -69,11 +69,14 @@
 559-reallocate-flare.pages.dev
 5e-play.at
 62vmt16.com
+6576-fa8e-5133-c0inbase-list.pages.dev
+657a-coinbase-listing-677f.pages.dev
 65eb557ba15d9b659f809ffe--chromia-vault.netlify.app
 6cz8wh.top
 7-hub-venicegov.pages.dev
 70-jumperhub.pages.dev
 76597-robinhood.com
+782163-crypto.com
 783213-binance.com
 794018-crypto.com
 8-gov-paperstrade.pages.dev
@@ -186,7 +189,6 @@ app-dashbroad-xyro.sisulla.com
 app-degen.firebaseapp.com
 app-folks.icu
 app-galagames.world
-app-metacade.xyz
 app-metadao-f.top
 app-solvr-finance.com
 app-trezer-suiets.pages.dev
@@ -197,7 +199,6 @@ app-vote-flare-network-foundation.xyz
 app-zypher.pages.dev
 app.balancer.promo
 app.geqianxz19.xyz
-app.hypefndt.xyz
 app.jellyverse.net
 app.kamno.finance
 app.odoosxyz.io
@@ -290,7 +291,6 @@ benqiv2.com
 berachain-rewards.com
 best-pad.tech
 bestcoachingclass.com
-bin-hyper.com
 bitbuy.skywork.website
 bitcoindog.pages.dev
 bitcoinhypper.org
@@ -392,7 +392,6 @@ claim-send.gay
 claim-slerfwtf.app
 claim-stark.pages.dev
 claim-tevaera.xyz
-claim-unlswap.xyz
 claim.airdrop-app.icu
 claim.ethena-iabs.xyz
 claim.intia.live
@@ -442,11 +441,12 @@ cointrxb.top
 collab.validators-land.com
 collect-cult.com
 collectionseyans.quest
+com-de01-esim-gift.com
+com-in-m01-esim-gift.com
 comcast-coinbase.com
 commonchain.xyz
 compensationaave.xyz
 connect-1inch.com
-connect-flarenetworks.co
 connect-ledg-webapp.iodpstot.workers.dev
 connect-mexc.com.syncstatics.com
 connect-uniswaps-verify01a.com
@@ -514,7 +514,6 @@ de-bridge.io
 de-fi.click
 debnak.org
 debnk.com-wallet-block-defi.com
-debridge.exchange
 debtor-ftxltd.com
 decentraland-org.cartech.com.pt
 decentralizedaiapps.xyz
@@ -685,7 +684,6 @@ fugu.live
 fulldevbloksnodeboards.pages.dev
 fun-livve.xyz
 futurelqk.com
-fxproexwbs.com
 galasgames.com
 galaxies.orbitersnetworks.com
 game-metalist.com
@@ -846,7 +844,6 @@ layerzero-foundatlon.app
 layerzero-networks.com
 layerzerolab.work
 layerzreo-labs.io
-learn-moanpuy.wixstudio.com
 leavellinsurance.us
 ledger-c5c.pages.dev
 ledger-com-live.app
@@ -901,7 +898,6 @@ mail.azuki-beans.com
 mainan.shuinuanchuang.com
 mainnet-sophonspace.pages.dev
 makerdaovipv.online
-manage-coinpro-en-us.wixstudio.com
 manage.pancakswaip.com
 mandox-airdrops.org
 manta-live.com
@@ -1146,7 +1142,6 @@ patriotoneth-rewards.com
 paw-coins.events
 pawfuryxyz.live
 paxful.page
-pay-bitrefill.com-n01-esim-gift.com
 pcbrowser.cn
 peakprofitexchange.com
 pedokplz3n3xi5hui2ab7wyjh66l3eiubq6qrzljam7dueumvqgq.arweave.net
@@ -1176,7 +1171,6 @@ policyeplx.bond
 polmark26.xyz
 polygom.shop
 polyhd-event.xyz
-polymarket.org.es
 ponawin.com
 pons-voting-8x.netlify.app
 pons-voting-mh.netlify.app
@@ -1344,6 +1338,7 @@ scrollfoundations.net
 season2-mode.com
 season3-etherfinance.net
 season4-degen.tips
+sebastian-maximilian-theodore-von-habsburg-lorraine.pages.dev
 secure-msft.live
 secure2-reverifycoinbaseaccount.com
 securedsyncdap.pages.dev
@@ -1546,6 +1541,7 @@ turbo-claim.xyz
 tvl-pepecoin.app
 twitterblues.com
 twitterscanpass.xyz
+ubb-production.up.railway.app
 uidetmoa.com
 ultron-cash.live
 undeadblocks.do-minting.com
@@ -1567,12 +1563,10 @@ unstopable.domains
 unstoppabledesktop.com
 unstoppabledomains.trade
 upgrades-zksnyc.io
-upheldd.created.app
 urbannesthomes.run
 urolkee.net
 us-extnsionlaccs.wixstudio.com
 us-ledger-us.pages.dev
-us-nexus-mutuals.stakingreward.cloud
 us05webbzoom.click
 us06cloud.com
 us08-web-zoom.com
@@ -1587,8 +1581,6 @@ uteweb-online-lnfo.66-29-142-21.cprapid.com
 uugt9.app-odosi.xyz
 uwerxoffclaim.pages.dev
 uwv475.com
-vanq.one
-variational.events
 vaultredirect.com
 ve-chain.org
 velaexchange-v2.com
@@ -1598,6 +1590,7 @@ venverse.xyz
 verif-usdt.info
 verifiwesayone.vercel.app
 verify.unitee.online
+view-coiinbase-pro-app.pages.dev
 view.suithefriends.xyz
 visitshiba.org
 vltav-fondenic.com
@@ -1635,6 +1628,7 @@ wealthclub.pages.dev
 web3-connectfk.cf
 web3-eoxdus.framer.ai
 web3autotrading.live
+web3cold-backup.live
 web3defihub29.vip
 web3mysterybox.com
 webcamsdk-update.online

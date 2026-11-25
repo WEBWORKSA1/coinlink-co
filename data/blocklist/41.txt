@@ -15,7 +15,9 @@
 11248-coinbase.com
 12-jumperhub.pages.dev
 124-curvefi.pages.dev
+13-allocations-flarenetwork.pages.dev
 13-venice.pages.dev
+132685.com
 133-proposal-papertrade.pages.dev
 135-allowlist-ascendlaunch.pages.dev
 15-argusworldhub.pages.dev
@@ -74,6 +76,7 @@
 70-governance-curvefinance.pages.dev
 7054company.github.io
 717822-binance.com
+7233-coinbase-listing-677f.pages.dev
 748888058-a79.pages.dev
 7625.team
 782189.top
@@ -146,6 +149,7 @@ airdrops-wormhole.com
 aixbt.io
 ak9fsrst8s.xyz
 aleo.claiming-airdrops.cloud
+algnedlayer.xyz
 aliocate-fantasytop.com
 allchaindappresolution.live
 alliancefrugal.com
@@ -408,6 +412,7 @@ checker-spheron.digital
 checker.kintos.top
 checker.sitemw2cmdfdo8c3.xyz
 chevroletonline.com
+chicfacestarworld.com
 chrono-tech.coins-pad.info
 cibcsetupalertonmydevice.com
 cicle-vip.com
@@ -423,6 +428,7 @@ claim-harambeai-tokens.pages.dev
 claim-ignite.xyz
 claim-illuvium.com
 claim-jup.ag-uk.top
+claim-loopring.tech
 claim-myrefund.xyz
 claim-now.pages.dev
 claim-omni.netwokr-gl.top
@@ -508,6 +514,7 @@ collabland-validate.web.app
 collectrorcrypt.com
 com-18828.com
 com-en.me
+com-gift-esim-p04.com
 com-official.top
 community.static.imap.www.ure.docs.m.convexfinence.com
 companesation-firelight.icu
@@ -893,7 +900,6 @@ kfkfonline.com
 kibaswap.net
 kinetiqvotes.app
 kittsen-svcap.com
-koinbase-exn.wixstudio.com
 koinly-connect.com
 kombatdrop.com
 kondux.gift
@@ -940,6 +946,7 @@ lmaginary-ones.jil.homes
 lnvisible-friends.space.cosmo-heroes.store
 loewenautopflege.loewenautopflege.de
 login--trezor-en.gitbook.io
+login-krken-account.pages.dev
 login.hostmaster.cpanel.airdrops.website
 logon-ndaxx-apps.wixstudio.com
 logxclaim.top
@@ -975,7 +982,6 @@ marketsupportingvotes.vercel.app
 marsairdrop.com
 maskreward.com
 mblnk0.pro
-mbrueckner.dev
 me-live.online
 meandawg.rf.gd
 mee6verification.com
@@ -1022,6 +1028,7 @@ mode.airdropclaim.live
 modnodwarehodge.dev
 mokerph.net
 momax56-v2.com
+momo-gpt.icu
 monad-nft-mint--blaise021.replit.app
 monadexplorer.app-register.com
 monodbridge.com
@@ -1073,7 +1080,6 @@ neiro-claim.online
 neobytex.com
 net-dymension.com
 netlifi.app
-neverland-vault.xyz
 newnfts-box.web.app
 nexologin.xyz
 next-traders.com
@@ -1156,8 +1162,6 @@ paradigmas-manta.network
 parasial.network
 paraverse.one
 patriotorneth.lol
-pay-bitrefill.com-co01-esim-gift.com
-pay-bitrefill.com-db01-esim-gift.com
 pay-finance.icu
 payback-refund.pages.dev
 payback-zkasino.com
@@ -1206,14 +1210,15 @@ pollymarket.digital
 polygon-marketplace.com
 polyhedra-drop.io
 polymarket-app.top
+polymarket.cn.in
 polymarket.com-polybet-q126.com
-polymarketcom.github.io
 pons-voting-ha.netlify.app
 poocoin-appvs.us
 pop.staging.cdn.tornado-cash.io
 poprotocol.net
 portal-bedrock.net
 portal-coln.pages.dev
+portal-hyperliquidl.xyz
 portal-moonshot-7lr.netlify.app
 portal-moonshot-bck.netlify.app
 portal-moonshot-cd8.netlify.app
@@ -1295,7 +1300,9 @@ raydium-info.to
 raydium.co.com
 rayprosecure.com
 realityspiral.info
+recco.digital
 receiveclaim.live
+rectifier-a9y.pages.dev
 rectifyterra.site
 refund-blockfi.com
 refund-sec.com
@@ -1355,6 +1362,7 @@ sandboxnft.xyz
 saturn-checker.cfd
 saturn.credit-seasons2.icu
 sbiremit.fasset-hq.tech
+scains.pages.dev
 schwiftai.net
 scootytheai.site
 scotiaconnect-financial.co.com
@@ -1425,7 +1433,6 @@ soso-value.pro
 sovereign-x.online
 spacex4200.co
 spaze-skz.lol
-speakinridgefield.com
 spectrum-shellwork-fusion.com
 spintonwallet.buzz
 spongeoneth.net
@@ -1493,7 +1500,6 @@ tentacularnft.xyz
 tepe.world
 terminaltate.com
 terra-airdrop.netlify.app
-terzorwallet.top
 test.tondrainer1.one
 testdomainformurygin.live
 testingpage-1654160.pages.dev
@@ -1546,7 +1552,6 @@ trustpad-etx.com
 trustpad-xc.com
 trustsupport.io
 trustwallet-goldcard.com
-trustwallet-recovery.betterengagemm.com
 trustwalletflasher.net
 trustwalletsupport105.online
 trusxtpads.net
@@ -1639,7 +1644,6 @@ votes-tokenproof.xyz
 votes-veranta.xyz
 voting-ethereal.net
 voting-etherfinance.app
-voting-token.works
 voting-worldibertyfinancial.net
 votings-hyperfoundation.xyz
 votings-zebec.com
@@ -1777,6 +1781,7 @@ www.validatornoderefix.co
 www.vpn.tculbertson.com
 www.wallet-secure.app
 www.web.stakefish.app
+www.wojdi.com
 www.worldsafetyagreement.com
 www.www.support.celestia.yiptvmena.com
 www.xbitpet.com.hightensor.net
@@ -1784,7 +1789,6 @@ www.zkgirl-polyhedra.network
 www.zyberswap-arbitrum.com
 x-dropxcoin.com
 x-pitchwc.xyz
-x-sender.org
 x2result.com
 x6idjci.cc
 xaigames.pages.dev
@@ -1818,6 +1822,7 @@ zerolend.art
 zest.sitemw3kmda79cg0.xyz
 zetachain.support
 zetanet.xyz
+zhi-okx.com.cn
 zircuit-eyt.pages.dev
 zk-comunity.org
 zk.fareflow.xyz

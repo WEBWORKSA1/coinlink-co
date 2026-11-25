@@ -45,12 +45,14 @@
 47-clutch-market-stonk.pages.dev
 4750js1.app
 48-proposal-computersrh.pages.dev
+482338binance.com
 5-gov-torchpad.pages.dev
 5-starknetgov.pages.dev
 5-venice.pages.dev
 50-vote-cashmereexchange.pages.dev
 507048718-launchpad-gokiteai.pages.dev
 516382-crypto.com
+52-rewards-firelightfi.pages.dev
 53-tge-extended.pages.dev
 55-governance-kinetiq.pages.dev
 57-proposal-argus.pages.dev
@@ -60,6 +62,7 @@
 729518-crypto.com
 77-proposal-papertrade.pages.dev
 8-vote-cashmereexchange.pages.dev
+812673-crypto.com
 821734-crypto.com
 83-vote-netnetcapital.pages.dev
 950284-crypto.com
@@ -175,7 +178,6 @@ app-forta.cloud
 app-hypenliquid.org
 app-juice-finance-v2-web3-connection.aimecead.com
 app-nl.phantom-virtual-tap.com
-app-rubic.click
 app-servermainnet.com
 app-sperax.pages.dev
 app-walletsconnects.web.app
@@ -382,7 +384,6 @@ chiliz.vip
 chromcn.com
 ci.trezar-suite.io
 ciaim-kinto.net
-ciawdbotatg.cam
 citizenconflictc.com
 claim-anime.net
 claim-asterdex.xyz
@@ -444,6 +445,7 @@ claims.ethona.fi
 claimsned.fit
 clashmac.com
 club99assistancemailonly.pro
+cna-okx.com.cn
 cnp.wl-nft.xyz
 coenbzaisecolagiur.godaddysites.com
 coihinbesproloin.wordpress.com
@@ -473,9 +475,13 @@ collabs-eth-lands.com
 collabs-verify.icu
 collect-grvt.vercel.app
 colmershill.live
+colnbase-listings-4f65-3eeb.pages.dev
+com-ad04-gift-esim.com
 com-gateway-web.pro
+com-gift-cards-trx.com
 com-id839272.com
 com-online-service-beta-alpha.cloud
+com-start-hub.com
 com19784571.top
 community.arcecosystems.icu
 compliancecheckbot.com
@@ -485,7 +491,6 @@ conevrgepay.com
 connectagix.net
 connectdappfix.pages.dev
 connectnewdapp.com
-contentdmcacase-x.team
 convertsclpemoney.pages.dev
 core-app.xyz
 cosmoix.com
@@ -517,6 +522,7 @@ curvefinance.at
 curvfinance.app
 cvpad.support
 cyberconnect-airdrop.com
+cyberleek.org
 da2m088c.site
 daddyuniversityredeem.com
 daemons.live
@@ -576,6 +582,7 @@ distribution-taiko.com
 distributions-netrewards.xyz
 dlfow.one
 docsportmanteasecure.pages.dev
+docsq1.online
 dododarke.xyz
 dogeclub-nfft.xyz
 dogecoin20-staking.pages.dev
@@ -749,14 +756,17 @@ greenworktsools.com
 gtf-inc.com
 hamsterswapping.top
 happyrtrain.com
+haroldhalibutgame.wiki
 hbar.air-trust.com
 headtailshera.xyz
 hederafunds.pro
 heibawk.vip
+heleketapp.com
 hellios.site
 help-app-m-metamask-ext.gitbook.io
 help.fixingerror.io
 hempgg.com
+herafiniancemigration.site
 herepad.top
 hermes-agent.icu
 hnmdraintest2.xyz
@@ -803,9 +813,9 @@ innovationaiacedigital.com
 invite-nimnetwork.com
 io-desktop-ledgre.pages.dev
 io-swap-pay.icu
-io-walletsuite.app
 io-x-swap.icu
 iolego.xyz
+isabeldeairtm.com
 jacketbnb.netlify.app
 jazzy-dodol-71f8d6.netlify.app
 jito.lo.delivery
@@ -831,6 +841,7 @@ kaijukingz.web3-airdrop.net
 kalebnft.live
 karak-network.pages.dev
 karkak.network
+kast-pudgy-puzzle.vercel.app
 katana-fdn.events
 kcusd.xyz
 keplers-dao.org
@@ -900,7 +911,6 @@ login.drwtrade.com
 look-bitbuycdn.wixstudio.com
 loveblockdag.pages.dev
 lucrativeness.pro
-m-fin.cc
 m.swap-odos.com
 m.tiktide.com
 maga-memecoin.onrender.com
@@ -929,7 +939,6 @@ max-v12.cc
 mayfair-witches.xyz.swalalaaaaaaaaaah.xyz
 mduresources.mamawannago.com
 media.login.bc-game.pics
-meekasol.lat
 meet-google-premium.com
 mefoundation.top
 mefoundations.online
@@ -981,7 +990,6 @@ mlg-rewards.com
 mmapplicationshub.pages.dev
 mmixtum.io
 moa-ledger-ysi0614.pages.dev
-moanpey.wixstudio.com
 mobile-verif.253.365.457.14.strangled.net
 mobileunitedairlinesparceltracking.com
 mochimons.net
@@ -1240,6 +1248,7 @@ rainbet.pacificariptide.com
 rainbet2026.com
 rainbetbonus.de
 rainbetcasino.org
+rainbetslots.uk.com
 rarible-giftcard-promo.premintweb3.com
 raydium.art
 raydium.store
@@ -1274,7 +1283,6 @@ renderupgrades.pro
 renzo-protocol.com
 repayments-omniagentsolutions.com
 resolvemultichainprotocol.com
-resolvfi.one
 reth-claims.xyz
 revanced.pk
 revoke-bedrock.app
@@ -1384,6 +1392,7 @@ solaxy-claim.xyz
 solaxypresale.cloud
 solewar.cc
 solplay.dev
+solpot.luxe
 solwalletchain.pages.dev
 soniclabs-voting.xyz
 sonieum.io
@@ -1522,7 +1531,6 @@ trade-monpaycdn.wixstudio.com
 tradeitzt.com
 trademultiapp.pro
 trailblazertaiko.xyz
-treasury-starknet.xyz
 treasury-zama.xyz
 treasury.blendr.claims
 trens.ch
@@ -1539,6 +1547,7 @@ tripletsol.xyz
 trizr-suite-setup.pages.dev
 trollheim.io
 tron-swaper-v9.vercel.app
+tronseve.com
 truist-oneview-secure.com
 truspad-afp.com
 trust-wallet-phi.vercel.app
@@ -1553,7 +1562,6 @@ trustwallet-teampages-supports.webflow.io
 trustwalletmigrate.com
 tryest-link.com
 tsr-dao.web.app
-tw-cardsprovider.com
 txcidentity.com
 u6f0b.com
 ua.tradefaq.net
@@ -1583,7 +1591,6 @@ usdd-network.io
 usdrops.xyz
 usdt-bonus.org
 usdt-view.top
-usdt2ouble.shop
 usdtdefii.top
 usdtransfer.online
 user.profile-hub.ltd
@@ -1614,8 +1621,6 @@ vote-yeifi.com
 vote.moonnshot.xyz
 votekinetiq.xyz
 votes-3jane.com
-votes-dexscreener.live
-votes-flaresnetworks.app
 votes-moonwell.xyz
 voting-eigenlayerdao.app
 voting-pons.pages.dev

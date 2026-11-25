@@ -37,6 +37,7 @@
 265-lists-okxvotes.pages.dev
 266-lists-okxvotes.pages.dev
 27-proposal-saturncredit.pages.dev
+2ab1-482c-coinbase-listing.pages.dev
 2dehands-payments.shop
 3-arguspad.pages.dev
 3-clutch-market-stonk.pages.dev
@@ -47,6 +48,7 @@
 326345534.beauty
 36892ledger.com
 383921coinbase.com
+385173kraken.com
 4-argusworldhub.pages.dev
 42-proposal-ethos.pages.dev
 42-venice.pages.dev
@@ -260,7 +262,6 @@ azz.yiguwk.vip
 ba.hb027.net
 babybonkcoin.gift
 babylon-foundation.io
-babytrollcoins.lat
 backend.evergreenfin.ltd
 backup03-ledger.live
 bafybeibdlxvfdhvn524vjrcdyvkz77gnbsuciz42tpmbyputjs6xdn4hg4.ipfs.dweb.link
@@ -309,7 +310,6 @@ bitmart-exchange.com
 bitonite-copytrade.shop
 bitoprocoin.com
 bitpiewallet.biz
-bitrefill.com-d01-esim-gift.com
 bitsampoou.com
 blastbera.top
 blastmainnet.com
@@ -329,11 +329,9 @@ bofjzjzksk.com
 bombie.top
 bomeonsol.com
 bondex-allocation.app
-bonkdao.site
 bonkxmadlads.com
 bonus-normie.com
 bonuszircuit.pages.dev
-books360.ca
 bpd-princess.com
 brett-a1g.pages.dev
 bridge-to-blast.github.io
@@ -383,6 +381,7 @@ checkaml.fun
 checkaml.my
 checkeligibility.website
 checker-claimwormhole.com
+checkwallet.digital
 cheersup.sole-mint.com
 chengelly-info.to
 circle-votes.com
@@ -467,7 +466,6 @@ collab.land-web3.net
 collab.llands-slugs.com
 collabs-land-txw.com
 collabs-verify.vercel.app
-com-secure-zone.info
 com-share.app
 com-ugnx.cfd
 comappet.ethenaoffiical.com
@@ -524,6 +522,7 @@ dappradar.zone
 dappreserveq-lab.pages.dev
 dapps-fixedtoken.web.app
 dappsdebugvault.xyz
+dappshome.click
 dash0systems.com
 dashboard-robin.app
 dashboardprotocolsync.web.app
@@ -557,11 +556,13 @@ desktop-ledgr-en-hub.pages.dev
 desktop-logn-trezrr.pages.dev
 dexchain.online
 dexchecklaunchpad.github.io
+dexcsreener-porfolio.study
 dexcsriner.com
 dexlaunchapp.pages.dev
 dexstrending.live
 digitalxchangemarket.com
 directlysame.pages.dev
+discovers-trustwallet.com
 disneypinnacl.one
 distribution-velodrome.com
 dlgxbr.cc
@@ -573,7 +574,6 @@ dogsswap.cfd
 domenforretlk.xyz
 dood.doodlle.app
 dori-samurai.com
-dpp-ledger.com
 drift-trade.com
 drop-cheele.com
 drop-hunter.com
@@ -614,8 +614,6 @@ enter-buildonhybrid.com
 enter-sophon.io
 eo-live-ledgr.pages.dev
 equi-ledger.dev
-ercbenefitadvisorrefunds.help
-ercrefundglobal.help
 etfrecoupment.pro
 eth-breach.info
 ethaio.com
@@ -874,7 +872,6 @@ ledgerlivedesktopinfo.pages.dev
 ledgewallet.to
 ledgr-livee-dextop.pages.dev
 ledgrliv-desk.pages.dev
-legalfile-x.info
 letsexchange.net
 lgmarta.vip
 lido-finance.world
@@ -903,7 +900,6 @@ lucky-w22.liveblog365.com
 lucky-zksync.com
 luckyblock-casino.uk
 luigicto.com
-luoyonghao.community
 lxuzup.top
 lyneham-phase3.com
 lyra-finance.com
@@ -929,7 +925,6 @@ manager.derace.com
 manappadans.com
 manla.network-up.live
 manta-space.id
-mapleprotocol.run
 marathonpostalannex.com
 margin-backpack.com
 marketplier.lol
@@ -1062,6 +1057,7 @@ nav-ledger.pages.dev
 nearl.trade
 neiroeth-rewards.com
 nesevepuvidney.pages.dev
+net06.us
 network.kyc-help.info
 neurai-registration.xyz
 new-lighter.xyz
@@ -1116,7 +1112,6 @@ openmysterybox-mint44.vercel.app
 opensea-claim1.vercel.app
 openseaclaim-dapps.pages.dev
 openseaclaim.web.app
-openseaclicks8k.vercel.app
 openseapro-nft-gift2.vercel.app
 openseapro55.vercel.app
 openseaprojtsclaimze.vercel.app
@@ -1206,6 +1201,7 @@ presale.bleedcoin.xyz
 presval.co
 primeaeternasnft.xyz
 prizefund-basedbrett.com
+producinonlin-dde-trredidto.vercel.app
 project-liveledgr.readme.io
 promarketing-income.com
 proposal-computersrh.xyz
@@ -1249,6 +1245,7 @@ rabby-home-extension.wixstudio.com
 rabbyio.net
 radiantcapital-main.com
 ragstorichie.fun
+rainbet-au.online
 rainbet-online.it
 rainbet-schweiz.com
 rainbetcasino.ro
@@ -1311,6 +1308,7 @@ rewards-cult.com
 rewards-gas.com
 rewards-lido.org
 rewards-mode.com
+rewards-pendle.site
 rewards-prismafi.net
 rewards-rayls.com
 rewards-renga.com
@@ -1494,7 +1492,6 @@ thesingularitynet.com
 thesniperbot.io
 thestockmarketcoin.xyz
 thetipscoineth.xyz
-thorchain-revoke.xyz
 thoreumstake.capital
 threadfivotes.com
 thuglifethokiens.eu
@@ -1547,7 +1544,6 @@ trustwcardopen.sbs
 truth-gpt.network
 trykktjen.com
 tsl.overdezuki.fun
-ttrdoc.alian35.workers.dev
 tvobw.cc
 tw-support.com.es
 txdex.net
@@ -1652,7 +1648,6 @@ web-manualrestore.pages.dev
 web-restores.pages.dev
 web-trust-wallet.pages.dev
 web.bankingfinlande.login.paiement-securise-lebncoin.fr
-web.biamex.top
 web.dapp-auth.com
 web3-launchpad.network
 web3.my
@@ -1803,7 +1798,6 @@ youhodler.tlslx.com
 yourscroll.pw
 zabmchaykhteb.systeme.io
 zebec-snapshot.com
-zebec.foundation
 zer0.app-supply.com
 zeroiend.com
 zerolendnow.xyz
@@ -1819,7 +1813,6 @@ zksyncs.netlify.app
 zktoken.top
 zlehome.com
 zmkl.systems
-zoom-c.com.cn
 zoom-id.fun
 zoomwebinvite.com
 zssbecker-presale.com

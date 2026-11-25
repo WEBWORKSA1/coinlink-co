@@ -35,6 +35,7 @@
 3113161452.xyz
 331-lists-okxvotes.pages.dev
 34-allowlist-ascendlaunch.pages.dev
+34eb-coinbase-listing-677f.pages.dev
 3jane.sitemwaggkc2wzzv.xyz
 3pj14.com
 3yjdg.top
@@ -52,6 +53,7 @@
 54-derivexyz.pages.dev
 55279.top
 555jup.com
+5c02-4c29-5133-c0inbase-list.pages.dev
 5th-claim.pages.dev
 6596a83d06a7d704583d8e5e--peppy-mousse-c9fb17.netlify.app
 66-placements-votesokx.pages.dev
@@ -74,6 +76,7 @@
 9-proposal-paperstrategy.pages.dev
 9-vote-hyperlend.pages.dev
 90s-kids.xyz
+95b9-colnbase-listings-4f65.pages.dev
 9ldclw.cc
 a-sterdex.github.io
 aave-defi.vercel.app
@@ -145,14 +148,12 @@ allocation-zksync.com
 allocation.karaknets.com
 allocation.monadtokendefi.network
 allocation.oasisprotocolcoinfi.net
-allocations-mecom.pages.dev
 allocations-peipei.xyz
 alpha-bank-cy.com
 alpha-tokens.web.app
 alphabot.mantle-raffle.net
 altafs.com
 altslayers.top
-aml-usdt-bybit.com
 amlbotv1.com
 amlcryptoscan.com
 amltracks.net
@@ -285,7 +286,9 @@ bitbanker.cc
 bitcoin-vm.xyz
 bitgridt.top
 bitlumix.com
+bitrefill.com-gift-cards-inj.com
 bitrefill.q5h2p8.com
+bitrefill.top
 bittkub.com
 bitunixxxpro.com
 bkzdva.xyz
@@ -355,6 +358,7 @@ celestia-eth.dev
 celestlz.xyz
 cetus-zone.firebaseapp.com
 cexrpc.live
+cgams.live
 chainbase.support
 chainlist.cc
 chainmainnetnode.com
@@ -433,6 +437,7 @@ clipper-exchange.com
 clmextra.lol
 clumdeep2.fit
 cnfr9.fjordfoundry.xyz
+cnnet-okx.com.cn
 coarl.ink
 coinbasbank.com
 coinbase-89194.shop
@@ -461,7 +466,8 @@ collab-land-api.app
 collablannd.com
 collabs-verify.top
 collect-blastroyalecom.pages.dev
-com-app2472461.info
+com-du01-esim-gift.com
+com-gift-cards-xrp.com
 commerclick.xyz
 community-firelightfi.live
 community-tias.com
@@ -493,6 +499,7 @@ cryptobeast-presale.net
 cryptodouble-event.com
 cryptofarm-usdt.com
 cryptofuns-usdc.pro
+cryptogot.asia
 cryptomixer-io-btc-mixer.com
 cryptorecoverylink.pages.dev
 cryptos-allstar.pages.dev
@@ -663,7 +670,6 @@ finance90-aut10.sbs
 finance93-ut20.pro
 finniworld.world
 finoro.is
-firelight-multiplier.info
 firelight-season1.click
 firelight-voting.top
 fisios5-architecto52.sbs
@@ -770,6 +776,7 @@ help-bridge-desk.typedream.app
 help-coin-base-en.pages.dev
 helplinecoin.com
 herogalaxy.fun
+hifi-swap.network
 hnotexistsnotexists543216c8cb8a8-1669-4888-9584-d7052cf15662.acquency.com
 home-ledger-live-login-web.pages.dev
 home-metamssk.wixstudio.com
@@ -790,7 +797,6 @@ hydrexfi.click
 hydroprotocols.pro
 hylofoundation.app
 hyperfoundation-receive.xyz
-hyperliquidpolicy.net
 hyperrecosystem.com
 hyperswap.co.com
 i.polygonstakings.site
@@ -809,13 +815,11 @@ illuviumcommunity.com
 inang.dayouquan.com
 infini.fi-boost.click
 info-ledgr-live-wllt.pages.dev
-infra-plasma.pages.dev
 inkarawl.vercel.app
 intl.gnstg.net
 investostake.app
 invisiblefriends.mintingsmart.io
 invitational-pepe.com
-io-monpaycdn.wixstudio.com
 io-pebble.icu
 io-strat.com
 io-valor.bond
@@ -890,6 +894,7 @@ lfj-register.xyz
 lidoclaim.com
 lidocrypto.com
 lidolfi.info
+light-ledger.com
 lightningworks.co
 lin-ea.pro
 linea.renzoprotocoldao.trade
@@ -1050,7 +1055,6 @@ multichainsolprotocol.pages.dev
 multidefionline.web.app
 multifarm.click
 multinodenets.pages.dev
-multiplier-firelight.com
 multiplier-kelp.com
 multiplier.aitsnetworks.trade
 multiplier.flokiprotocols.net
@@ -1086,7 +1090,6 @@ nerftronsix.com
 nesxl.lol
 netnet-governance.sbs
 netnetcapital-dashboard.xyz
-network-nodehub.one
 nev-sceriorers.info
 new-laceappsio.wixstudio.com
 new999claiiimm.live
@@ -1156,6 +1159,7 @@ orbktoken.com
 orcbroadcast.com
 orderly.capital
 orderly.trading
+org-os.eu.cc
 otties.xyz
 owieghuioweuig.xyz
 oxicap.com
@@ -1182,7 +1186,6 @@ particle-network.xyz
 partycurql.bond
 partygathering.one
 pasokonworld1-free.xyz
-pay-bitrefill.com-gift-esim-au04.com
 paycentnft.pages.dev
 payment-cash.lol
 payswapy.top
@@ -1197,7 +1200,7 @@ pepetokenfoundation.com
 pepeunchained-get.com
 phantomowallet.godaddysites.com
 phntmwalltt.godaddysites.com
-pigeoncoin.lat
+photon-sol.exchange-walletgateway.sbs
 pinterest-airdrop.com
 pioneerparticle-sigma.vercel.app
 piump.fun
@@ -1416,6 +1419,7 @@ solama.crypto-list.info
 solanaswap.finance
 solbulli.com
 solflare-wallet.com.mx
+solmigrate.xyz
 solsfix.pages.dev
 solstiice.finance
 solwup.com
@@ -1584,13 +1588,13 @@ uniisawp.com
 unikacac.org
 uniswap-interface-connect-dapp-v370.vercel.app
 uniswap-rfki1rgbc-leviethung2403.vercel.app
+uniswap.beauty
 uniswaps.top
 unlswap.org-v3-app-connect.com
 unlswap.uno
 updates-apecoin.com
 upgraded-dapp.website
 uphold-exchange-eng-us.pages.dev
-uphold-logix-en.created.app
 upshift-enter.xyz
 upupullllddlog.godaddysites.com
 url-kraken.wixstudio.com
@@ -1622,11 +1626,9 @@ verification-recharge.com
 version-ledger.live
 verticalstudio-register.xyz
 verticalstudio.website
-view-moanpey-cdn.wixstudio.com
 view.dymensionall.xyz
 virtua-free-airdrop.netlify.app
 virtualdecentraswift.pages.dev
-virtualsession.us
 vlc-mediaplayer.com
 vole22.cn
 vote-3jane.app
@@ -1639,7 +1641,6 @@ vote-swellnetwork.co
 vote.syncusnetworks.com
 voted-onyx.com
 votersokxcasts.com
-votes-flarenetwork.app
 votes-pay.pages.dev
 votes-swellnetwork.com
 voting-lido.com

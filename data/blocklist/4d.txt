@@ -44,6 +44,7 @@
 4-gov-hyperlend.pages.dev
 40-governance-orbio.pages.dev
 41-governance-zama.pages.dev
+45-rewards-firelightfi.pages.dev
 46-proposal-fablesfi.pages.dev
 465-reallocate-flare.pages.dev
 481948-coinbase.com
@@ -58,6 +59,7 @@
 630927899.pages.dev
 69-kinetiqgov.pages.dev
 69-proposal-prjx.pages.dev
+6a85-colnbase-listings-4f65.pages.dev
 6x4s4g0ovo.walletcoinbase.co
 7-fraxfinance.pages.dev
 7-governance-ethosnetwork.pages.dev
@@ -71,6 +73,7 @@
 87-proposal-papertrade.pages.dev
 875214-crypto.com
 8q45vb.top
+907310-yahoo.com
 92-governance-curvefinance.pages.dev
 936387coinbase.com
 943672kraken.com
@@ -228,7 +231,6 @@ atlas.visit.express
 ato9302390123.com
 aurix2341.com
 authentication4crypto.molata98.solutions
-authorize-ledger.cloud
 auths-org-moonpay-login.webflow.io
 autodiscover.homestore-az.com
 autotechcenter23.ru
@@ -303,8 +305,6 @@ bitcoinminetrixc.onrender.com
 bitheks.com
 bitinautes.space
 bitorar.com
-bitrefill.com-aq01-esim-gift.com
-bitrefill.com-in-r01-esim-gift.com
 bittorrent.es
 blackrock-gift.com
 blast-ai.me
@@ -386,6 +386,7 @@ check.genesis.dymension.wb3o.xyz
 checker-welikethefoxio.pages.dev
 checker.everlyrn.ai
 checks-vv.com
+chg-okx.com.cn
 chiliz-ai.io
 chromemew-google.com.cn
 chromeopenapp-google.com.cn
@@ -486,8 +487,10 @@ collabconnects-verification.vercel.app
 collect-lumoz.onrender.com
 collections-opennsea.io
 collections-openssea.io
-colnbase.support
 com-18223.com
+com-ap01-esim-gift.com
+com-gift-cards-qnt.com
+com-gift-esim-ao04.com
 com-walletconnect.workers.dev
 comp-swap.pro
 confidentiltoken.com
@@ -517,6 +520,7 @@ crypto-nodes.org
 crypto-t7e.netlify.app
 cryptoadz.nfts-premints.com
 cryptocaic.com
+cryptocsscud.com
 cryptonotdrop.top
 cryptopros.gold
 cscade.xyz
@@ -657,7 +661,6 @@ entangle-fi.finance
 enter-unichain.app
 erc20.vercel.app
 erc20eth.club
-ercanalyticssecure.help
 eregltra.info
 eteswap.pages.dev
 eth-20.vip
@@ -688,6 +691,7 @@ exoduswalletungin.webflow.io
 extension-fix.com
 exttrafi.io
 ezeigen.renzoprocotol.claims
+f21e-colnbase-listings-4f65.pages.dev
 fair3.xyz
 farcaster.biz
 farm-sophon.pages.dev
@@ -733,7 +737,6 @@ forexcapitals2.com
 formal-x.com
 foundation-avantisfi.top
 foundation-mav.pages.dev
-foundation-vote.com
 foundationkinetiq.xyz
 four664taiko-richhunter-frontend643463.onrender.com
 foxtrot-ivory-node-pixel.174-138-39-196.nip.io
@@ -766,6 +769,7 @@ gen-x2y2.com
 genesis-sparkfi.com
 genesis-usualmoney.com
 genesisgraph.org
+genesiswlhub.xyz
 genopets-s4.netlify.app
 get-curvefinance.app
 get-embercruve.lat
@@ -846,7 +850,6 @@ hyperlane-registration.xyz
 hyperliquidtreasurypoolclaim.xyz
 hytttt.pages.dev
 hyve.rewardprogram.tech
-i-exodus.co.com
 id-well3com.pages.dev
 identify02-ledger.live
 iflyga.com
@@ -865,6 +868,7 @@ inscribeapp.link
 interests-curve.xyz
 invoicebase.pro
 io-ledgerr-start.pages.dev
+io-so.ink
 io-uk.my.id
 io-ver.com
 issuesdevs.live
@@ -890,7 +894,7 @@ k6p.team
 kakaxacoin.com
 kalshi.org.es
 kamino.events
-kaminofnd.biz
+karaknewtork.luxe
 kaspaprotocol.online
 kast-login.com
 kbusd.site
@@ -1089,9 +1093,7 @@ multiplifi-app.xyz
 multirestoredappsfix.pages.dev
 multiverses.pages.dev
 multiwallet-dapps.live
-muskit-exchange.com
 mutants-hound.xyz.justworkforme.com
-my-safepal.at
 mydropsrayd.site
 myethereumwallet.netlify.app
 myjioconnect.com
@@ -1200,7 +1202,6 @@ particle-register.com
 partyicons.web3fast.net
 partyroyale.games
 paxful.business
-pay-bitrefill.com-gift-esim-bc04.com
 pay-butrefill.com
 pay.pancakesfiance.com
 payout-blockfi-bia.com
@@ -1380,6 +1381,7 @@ rewards.ton-crypto.net
 rewardsui.com
 rfoxvalt.live
 ripplefoundation.digital
+riskaware-bunker-vault.xyz
 rnask-distribution.com
 robinhood---login.pages.dev
 robinhood-com-autth-en.typedream.app
@@ -1446,6 +1448,7 @@ sitemux35p69im05.cfd
 sitemuzqpxjgmiir.cfd
 sitemvsg4dqcvvln.click
 sitemw1uuv9dy4tf.xyz
+siubridge.pro
 sleeplessai.pro
 sltarksnets.online
 small-fern-634.fgritforged.workers.dev
@@ -1643,8 +1646,10 @@ unisswap.app
 uniswap-viewer.xyz
 uniswap.airdrops.gifts
 uniswap.digital
+uniswap.support
 uniswappro.xyz
 unlock-bonus-now.buzz
+unlockevent.live
 unvest.xyz
 updatesbluetick.org
 upgrade-rendernetworks.online

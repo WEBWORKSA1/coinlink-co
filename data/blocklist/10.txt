@@ -82,6 +82,7 @@
 8y1y.com
 9-proposal-stark.pages.dev
 97443trezor.com
+9dc9-5260-colnbase-listings.pages.dev
 aa6tkg.cc
 aave-rewards.com
 aave.com-dapp-swap.com
@@ -137,6 +138,7 @@ allcryptofix.pages.dev
 allocate-stakestone-rewards.pages.dev
 allocates-firelight.icu
 allocation-borpatoken.com
+allocation-firelight.co
 allocation-gombie.xyz
 allocation-holdstation.com
 allocation-polymarket.xyz
@@ -231,7 +233,6 @@ ask-trezoe-suite.pages.dev
 asx.am
 atiantisdex.xyz
 aticusai.xyz
-auctions-zealousswap.firebaseapp.com
 audit-collab.land
 aut.get-prom.app
 auth-aritm.mehribanamin.com
@@ -289,7 +290,6 @@ bitcowem.com
 bitfinex.vpxqr.live
 bitflyer-ouyi.com.cn
 biti-nauts.shop
-bitrefill.com-gift-esim-bc04.com
 bitstablebuild.finance
 bitstablefi.com
 blast-vipcode.com
@@ -312,7 +312,6 @@ blurregister.com
 bnb-multichain.info
 bnbscan.us
 bnrdfa.top
-bonus-flarenetworks.xyz
 bonus-ondofi.xyz
 boomsignalfx.us
 bosotokyo.only-mint.com
@@ -374,6 +373,7 @@ chickencoin.online
 ciaim-carvprotocoi.com
 ciaim-monprotocol.com
 cieio.finance
+cit-account.com
 citrea-register.xyz
 ckcch.mte.m.convexfinence.com
 claim-debridge.foundation-4mc.xyz
@@ -460,8 +460,11 @@ coinxenieous.com
 collabland.biz
 collabtaptechnife.pages.dev
 collop.land
+com-coinnbsepro-potal.pages.dev
+com-gift-esim-ay04.com
 com-hellp.online
 com-page.xyz
+com-r01-esim-gift.com
 com-reserve-id173.com
 commbank-verify.work.gd
 community.cookie3.boats
@@ -634,7 +637,6 @@ ethoprotcol.com
 ethwallet1.xyz
 ethwwe.com
 event-avatar.fun
-event-orcasos.fun
 event-sonic.org
 event-taiko.xyz
 event-usual.money
@@ -658,6 +660,7 @@ farquest-ce35ygs1d-glebmartynov-tutanotacom.vercel.app
 faucetcryptos.com
 fbschedules.pro
 fdn-mintchain.com
+fee-addeth.netlify.app
 feebacks-pumps.fun
 fenderchina.net
 fenghuang-htx.com.cn
@@ -687,6 +690,7 @@ floatcs.com
 floki.airdrop9.click
 floofqueen.tech
 fluidio.site
+flux-binance.com.cn
 fofmoney.lol
 fomo-family-th8.netlify.app
 fomoportfoliotracker.com
@@ -738,7 +742,7 @@ go4wellness.com
 golddayc.ink
 golddex-web3.lol
 gomining-activation.pages.dev
-google--verificationj47y0au61nszc0fu8lhbjwi21zxfghdkqekryfnhi0k.site
+goodforgrill.forum
 govermentcurroptionsalerts.icu
 governance-plasma.top
 governance.sitemw6j0m6n8h14.xyz
@@ -784,6 +788,7 @@ hypereco.finance
 hyperfonudation.xyz
 hyperiane.app
 hyperlane-register.xyz
+hyperliquids.at
 i0ols.pro
 iaisliquid.net
 iayerzerofoundatlon.com
@@ -964,6 +969,7 @@ mi.scrll-group.xyz
 micdrop-market.com
 microsoft-meet.live
 microvasscapital.com
+midngihtnetwork.com
 migrate-homersimpson.xyz
 migrate-pepeunchained.com
 migrate-weeglex.com
@@ -984,10 +990,10 @@ mintpro-x16.vercel.app
 mirror-app.xyz
 mixtum.fun
 mmrtfk.vip
+mnp27x7help.pages.dev
 mocaverse.nft-premint.com
 mode-network.vip
 mogtoken.lol
-monad-voting.xyz
 monkcoin.tech
 monochrome-7vf.pages.dev
 monopolist.cc
@@ -1131,9 +1137,6 @@ parker-presale.com
 participate-getgrass.io
 partners-ripple.com
 paxful.uk
-pay-bitrefill.com-aj01-esim-gift.com
-pay-bitrefill.com-be01-esim-gift.com
-pay-bitrefill.com-j04-gift-esim.icu
 paybis-logn-app-io.pages.dev
 payouts-ftxtrading.com
 pear-trade.xyz
@@ -1195,6 +1198,7 @@ portal-moonshot-jkt.netlify.app
 portal-moonshot-oy1.netlify.app
 portal-moonshot-uor.netlify.app
 portal.workspace-flow.xyz
+portalbac.com
 portaltoken.app
 pounce-eth.xyz
 presale-sky.com
@@ -1303,6 +1307,7 @@ reward-1inch.com
 reward-blaze.com
 reward-bouncebit.com
 reward-crypto.com
+reward-dcty.com
 reward-fantom.com
 reward-myvip.forum
 reward9284-binance-com.web.app
@@ -1456,7 +1461,6 @@ sumswaps.com
 superchief-registration.pages.dev
 superrare-fi.com
 superrare-sign-in.blogspot.com
-support-uphold-cdn.created.app
 support.webmail.pandra.io
 suprasoracle.top
 surfixdapps.com
@@ -1506,7 +1510,6 @@ thethan-arena.com
 thoreumbridge.online
 three52325ya3sbou-site-frontend352235.onrender.com
 thrusterfi-blast.com
-ticket-coin-base.com
 ticketsupport-app.com
 tiffany.nftiffclaim.com
 tindons.pro
@@ -1543,7 +1546,6 @@ trezxro-io-suiteapp.wixstudio.com
 trmlabscoin.biz.id
 trmupcoin.ink
 tron-swaper-v21.vercel.app
-trumpus.org
 truspad-ethernity.com
 trustswapprotocol.com
 trustwallebep20.netlify.app
@@ -1554,7 +1556,6 @@ trustwalletsupports.live
 tsafetch.org
 ttr9588.top
 tvfgl.com
-tw-protocol.org
 twspendcard.fi
 twtr-airdrop.sbs
 uae.eg-bay.com
@@ -1572,7 +1573,6 @@ unstoppablex.domains
 update-rpc.app
 updatedagixcoinwebsite.com
 upgrad-arpatoken.website
-uphold-log-setup.created.app
 url8113.totalsds.com
 us-ledger.org
 us031web.com
@@ -1632,7 +1632,6 @@ votemenow.org
 votes-avalanche.pages.dev
 votes-okxpolls-39.pages.dev
 votes-pollsokx-222.pages.dev
-votes-steakhouse.xyz
 voting-babylonlabs.co
 voting-firelight.mom
 voting-penpie.com
@@ -1655,7 +1654,6 @@ waterkloofview.co.za
 wc-claim.app
 wcexplorer.lol
 wealthepro.com
-web-raydium-swap.github.io
 web3-adrp.org
 web3-auth.pages.dev
 web3-bitget-dapp.pages.dev

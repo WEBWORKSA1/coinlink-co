@@ -21,6 +21,7 @@
 185-196-11-177.cprapid.com
 1bybitpro.co
 1coin.votetolist.app
+1inchh-stepper-no.vercel.app
 2-governance-ptahtrade.pages.dev
 2023trustpad.top
 21-proposal-computersrh.pages.dev
@@ -28,6 +29,7 @@
 223715-crypto.com
 25-vote-argusworld.pages.dev
 265-allowlist-ascendlaunch.pages.dev
+27-allocations-flarenetwork.pages.dev
 28-argusworldhub.pages.dev
 28-proposals-papertrade.pages.dev
 282-kinetiqgov.pages.dev
@@ -51,10 +53,12 @@
 42-kinetiqgov.pages.dev
 47-0xfluid.pages.dev
 47-checker-standx.pages.dev
+48e2-colnbase-listings-4f65.pages.dev
 48i2wcbjr2gvwyx.fun
 4jhwiw.cyou
 50-argusworld.pages.dev
 500dexdrops.top
+501029-crypto.com
 54-gov-curvefi.pages.dev
 54-governance-venice.pages.dev
 54-proposal-prjx.pages.dev
@@ -80,12 +84,10 @@
 75-netnet.pages.dev
 76-app-treadgov.pages.dev
 788857-supportportal.com
-8473-kraken.com
 873274-crypto.com
 891031-coinbase.com
 91-saturncredit.pages.dev
 95-proposal-globaldollar.pages.dev
-971022.xyz
 983781crypto.com
 99bitcoinss.com
 9bx22d.pro
@@ -138,6 +140,7 @@ allo-xyz.com
 allocate-aave.org
 allocate-pawscoin.com
 allocation-bondex.com
+allocation-ethenaecosystem.icu
 allocation-madscientists.com
 allocation-s3etherfi.net
 allocation-standardreserve.top
@@ -169,8 +172,10 @@ apeonefone.com
 apeterminal-atx.io
 app-apyx.site
 app-arcade.xyz
+app-coinbasesproo.gitbook.io
 app-dexnetwork.com
 app-hypercwap.exchange
+app-hyperfndt.xyz
 app-hyperlend.click
 app-ledgr-wllet.pages.dev
 app-magaeth.com
@@ -197,7 +202,6 @@ appdolomite.io
 appealqueue-x.com
 appleecoins.store
 appoved-api.pages.dev
-apps-moonpayio.wixstudio.com
 apps-portalcoin.com
 appswebstore.com
 appunifiedversal.org
@@ -249,6 +253,7 @@ axieinfinity-web3rmint.com.boredapevachtclub.com
 azuki.com.vc
 azuki.mintingsmart.io
 b.era-proposal.com
+b3b0-colnbase-listings-4f65.pages.dev
 babydoge.tech
 babydogv2.com
 babylon-register-faucetpass-verify.vercel.app
@@ -293,7 +298,6 @@ bite-meme.live
 bitinteractivebrokers.org
 bitpanda-wallet.com
 bitpathq.top
-bitrefill.com-gift-esim-au04.com
 bitscopesigma.blogspot.com
 bittboob.com
 bittensorai.us
@@ -486,6 +490,7 @@ collab.roles-give.com
 collect-6tp.pages.dev
 collector-debank.com
 collngecko.net
+com-aa01-esim-gift.com
 com-connects-online.sbs
 com-heroes.app
 com-polybet-q47.com
@@ -542,7 +547,6 @@ dao-renzoprotocoi.com
 daobase.daobases.run
 daokucoin.com
 dapp-lido.net
-dapp-v3.io
 dapphubmodule.com
 dappradar.live
 dapps-wormhole.pages.dev
@@ -571,6 +575,7 @@ defillama.web3-cab.org
 defituna.org
 dellance.eu
 deployable-revshares.pages.dev
+deribits.club
 desk-metamask.gitbook.io
 devsecnode.xyz
 dex-panelvouch.site
@@ -585,7 +590,6 @@ distribution-moon.com
 distribution-singularity.com
 dmailnetwork.com
 docs-exdua-web.pages.dev
-docs-solana.com
 docusign-fast.com
 docxls-shar.net
 dogeai.autos
@@ -605,6 +609,7 @@ drops-opensea.io
 dune-ledger.pages.dev
 dvsvvg.pages.dev
 dxe.guru
+e8f9-coinbase-listing-677f.pages.dev
 early-prometheanedsaga.lol
 earndrop.claim-airdrops.cc
 echo-8g3.pages.dev
@@ -627,7 +632,6 @@ enter-chainlink.co
 enter-onchaincoin.com
 epmprime.pro
 eqweqweqwewq.com
-erccompliancecredits.help
 ercfz.com
 eth-87.com
 eth-cex.site
@@ -768,6 +772,7 @@ healhequlity.com
 heedong.org
 help-eng-coiinbasehelp-cdn.groovehq.com
 help-metimetsonn.gitbook.io
+helpteam-binance.com
 heroesofmavias.com
 hex-pulsechain.com
 hifirisealphalobstark.pages.dev
@@ -933,7 +938,6 @@ manta-l2.network
 mantarnetworks.org
 marketcouncil.digital
 maskmeta.xyz
-mayanswap.com
 mcmperu.com
 mdex.me
 mebedex.com
@@ -969,7 +973,6 @@ mevservice.com
 mewsol.xyz
 mgxsnft.live
 miaerghenehvetoo.com
-microsoft-desk.com
 microsoftmeet.com
 migrate-fqs.pages.dev
 migrate-payainetwork.com
@@ -996,7 +999,6 @@ mobi-wanqiu.com
 mocafoundation.events
 mode-networks.web3-connections.org
 monad.global5-meta.live
-monolend.money
 moonbirds.swapfy.xyz
 moonshot-listing-rym.netlify.app
 moonshot-voting-1r.netlify.app
@@ -1028,7 +1030,6 @@ multiplier-degen.xyz
 multiplier-moonberg.com
 multiplier-solvdao.com
 multiplier.aitprtocols.network
-multiply-firelight.info
 multitamp.pages.dev
 muradethcoin.com
 muradofficial.top
@@ -1107,7 +1108,6 @@ okx-compliance.cc
 omtch.network
 onchain-caq.pages.dev
 ondofinance-claim.com
-onmi.variatonal.org
 onuniswap.com
 opensea-listing.v6.navy
 opensea-nftgift12.vercel.app
@@ -1141,7 +1141,6 @@ parallel.planetfall.world
 parlaymatch.io
 partners-zerolend.network
 pax-f.netlify.app
-pay-bitrefill.com-ax04-gift-esim.com
 paybis-loginn.pages.dev
 paywide.xyz
 pell.website
@@ -1179,6 +1178,7 @@ polterairdrop.com
 polygmatic-network.com
 polygon-nft.top
 polyhedras.net
+polymarket-manual.pages.dev
 polymarket.chozne.com
 polymarket.mom
 polymarketplayer.pages.dev
@@ -1431,7 +1431,6 @@ store.mail.home.m.trustwallet.mangocytec.com
 straight-activity-broad.on-fleek.app
 sui-ido.vercel.app
 sui-network-airdropweb3.yes.bj
-sui-wallet.stakingreward.cloud
 suites-treazr.pages.dev
 summerfl.net
 sundayzoo.luckymint.space
@@ -1442,6 +1441,7 @@ support.luksonetwork.com
 survey-optimism.tech
 survily.site
 sushisvvvap.sbs
+svgweb.ink
 swaggywhales.wl-web.co
 swanbitcoin-mail.com
 swap.v3sushi.cc
@@ -1539,7 +1539,6 @@ universalconnect-hub.pages.dev
 unstoppabledomains-pudgy.com
 unswvp.org
 up32photography.com
-updates-ankr.com
 uploaded-api.pages.dev
 us-kalshi.net
 us-ownership.live
@@ -1567,6 +1566,7 @@ v09-05-411e72.sbs
 v1-agent.com
 v2-1inch.co.com
 v2-1inch.com
+v2-perps.luxe
 vancedapk.com
 venice-concierge.pages.dev
 ventopal.com
@@ -1758,7 +1758,6 @@ x-multidrop.club
 x-sale.run
 x2crypt.com
 xaiodysseymint.com
-xamanwallet.digital
 xanan-votes.live
 xn--11ba9gaab3dcc.xn--i1b6b1a6a2e
 xn--aav-mra.net

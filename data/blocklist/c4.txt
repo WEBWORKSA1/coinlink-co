@@ -193,7 +193,6 @@ audius.cc
 auth-trezor-login-en.typedream.app
 auth.tokensync.tech
 authweb3yl.tk
-authwlt-validate.vercel.app
 authyystable.pages.dev
 autoresolvefix.pages.dev
 autoshark.foundation
@@ -252,7 +251,6 @@ bitget.blog
 bitget5.net
 bitgets.co
 bitgetweb.top
-bitrefill.com-by01-esim-gift.com
 bitrefrll.com
 bitsvest.lat
 bitweb3git.vercel.app
@@ -308,7 +306,6 @@ business-aml.com
 bv.qu94.com
 bxatt.top
 bybit.us.cc
-byvotes.pro
 cableone.co.ke
 cakefixerwallet.com
 cakewalletlabs.com
@@ -426,6 +423,7 @@ collectify.finance
 collections-opensea.com
 collectotcrypt.com
 com-159924.id
+com-ab04-gift-esim.com
 com-polybet-q80.com
 com-secure.biz
 comesm.com
@@ -586,7 +584,6 @@ eo-ledgrwllet.pages.dev
 eoidjfjejskkk.icu
 eoive.com
 erc-claim.net
-ercclaimplanning.help
 ercs.world
 erin3.info
 esxxnsg.top
@@ -599,7 +596,6 @@ ether30.pages.dev
 etherclaim.online
 ethereum20coin.info
 ethereumpaperwallet.com
-ethereumpriceusd.net
 etherex-airdrop.xyz
 etherfi.finance
 etherfi.one
@@ -789,6 +785,7 @@ incentive-pendle.com
 incentives-pendie.finance
 indemnify-omniagent.com
 info-fightout.com
+ingridmedicalaesthetics.org
 injectivecoin.org
 injektive.info
 innovationex.site
@@ -897,7 +894,7 @@ liveman.biz
 lizard-rewards.top
 lnk3connect.com
 lnsurecoverageassets.com
-lob0ai.com
+loggin-pro-coin-base-us.pages.dev
 login-trezor-io-cdn.pages.dev
 login.app.eserciziomging.login.secure.amlsecure.org
 login.thefoundation.es
@@ -1158,7 +1155,6 @@ partyhat.live
 patriots-reward.info
 pawfury.in
 pawnsapp.pro
-pay-bitrefill.com-v01-esim-gift.com
 pdli.top
 peakdefi.net
 peapodsmerge.com
@@ -1563,7 +1559,7 @@ trustvirtualcard.net
 trustwallet-kor.com
 trustwallet.0902preaira.live
 trustwalletrestore.catalyztfx.com
-trustwalletvip.win
+trxs-swap.com
 tsyb5iqp4udjb6bzjjcz6nifwe2grhqd26hqzfg7ohzuhawoq3pq.arweave.net
 twcards.sbs
 twitchain.online
@@ -1591,10 +1587,8 @@ unitos.net
 univ2mainnet.finance
 univ4labs.xyz
 unlswap.org-app.network
-up-holdd-io.created.app
+update2-center.com
 uphold-design-auth.tem3.io
-uphold-loges.created.app
-uphold-login-org.created.app
 url-base-extensions.wixstudio.com
 us-ledgr-logins.pages.dev
 us-robinnhoods.wixstudio.com
@@ -1614,6 +1608,7 @@ v5l6ubd5hd.com
 validator-gig5.vercel.app
 validator-stake.com
 validatorsocket.xyz
+valley-ledger.com
 vasetrucklando.pages.dev
 vaultbidarena.com
 veiodrome-finance.com

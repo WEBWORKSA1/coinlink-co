@@ -56,7 +56,6 @@
 49485-trezor.io
 5-42-199-100.plesk.page
 5-gov-argus.pages.dev
-528840-coinspot.com
 594939.com
 6-proposal-computersrh.pages.dev
 628192coinbase.com
@@ -107,6 +106,7 @@ aevoexchang.cc
 agfdevelopers.com
 ai-evm.airdrops-ak.lol
 ai-hub.icu
+ai-polyagent.vercel.app
 ai-smart-trade.com
 ai.nodes-ai.org
 aicryptosfxtrading.com
@@ -172,6 +172,7 @@ api10-kava.web.app
 app-cadabra.finance
 app-debridge.com
 app-ethena.pro
+app-exxodas-en.pages.dev
 app-gaala-gaames.online
 app-kaspa.net
 app-lava.com
@@ -210,7 +211,6 @@ appdashboardgm.com
 appdogs.one
 appeal-standx.com
 appnetworksupport.pages.dev
-apps-krkanepro.wixstudio.com
 apps-ledgrlive-guide.pages.dev
 apps-suitestrxor.wixstudio.com
 appsio.top
@@ -287,8 +287,6 @@ bitfinexnow.com
 bitget.eu.cc
 bitmex-crypto-exchange.com
 bitpoeps.com
-bitrefill.com-ag01-esim-gift.com
-bitrefill.com-gift-cards-trx.com
 bkoksfi.com
 black-rock.app
 blast-bridge.to
@@ -346,6 +344,7 @@ cafe-casin.com
 cake-airdrops.com
 cantonesecat.com
 capcutforpc.store
+card-trustwal.fun
 cards-zebec.info
 casadoventomgsf.blogspot.com
 casinorainbet.com
@@ -438,7 +437,6 @@ clearpoints.online
 click1aqui.ingresar121.repl.co
 clickmints-here7.vercel.app
 cloudproject162.com
-coachjv.org
 cobasibraz.blogspot.com
 coin-doodles.com
 coin-graph.com
@@ -454,11 +452,13 @@ collab-safu-land.com
 collab.land-bot-role.com
 collab.lands.la
 collabland-security.net
+com-aq04-gift-esim.com
+com-ea01-esim-gift.com
+com-gift-esim-bk04.com
 com-id321257.help
 com-log-in.info
 com-neural.beer
 com-polybet-q23.com
-com-profile.at
 com-workspace.com
 commbank-netsupport-on.line.pm
 community-zircuit.net
@@ -543,6 +543,7 @@ dexlaunchpad.org
 dexrpdapps.pages.dev
 dexscreneree.com
 dextool-fix.pages.dev
+dfllrna.luxe
 dhedge.app
 digidaigaku-hub.app
 diones.xyz
@@ -600,8 +601,6 @@ enter-layer3.co
 enter-zero.network
 entrance-matrica.io
 eos.airdrop-tokens.com
-ercadvisorrefunds.help
-ercassetsettlelinkyield.help
 erctn.top
 escalate-trezor.co.uk
 escortbabeyleon.com
@@ -666,7 +665,6 @@ fetchether.com
 fetcoin.site
 fi-token.luxe
 fieldsyncs.vercel.app
-fiipcash.com
 finance-kinetiqfnd.xyz
 finance-wc.ink
 finance92-necessitatibus79.sbs
@@ -741,7 +739,6 @@ gitcoins.exchange
 gitlab.gitlab.git.git.munin.kubersvvap.com
 gitlawb.app
 giveaway-chaingpt.org
-globeprwire.com
 gmmx.io
 goaskclaim.xyz
 gobplants.ae
@@ -1069,7 +1066,6 @@ neotoken.run
 nettwork.site
 network-lidofi.com
 network-pro.luxe
-neverland-dust.xyz
 new-bridge-mainnet.com
 new.getcosmi.xyz
 newcontractsmigration.website
@@ -1147,6 +1143,7 @@ paidnotice-x.com
 pancake-claim.vercel.app
 pancakeswap-v3.com
 pancakeswap.center
+pancakeswapgo.cc
 pancakeswwap.digital
 pancakswaip.com
 pandacasino.top
@@ -1157,7 +1154,6 @@ participate-scroll.app
 partner-trust.net
 partners.zerolend.trading
 paxful88.live
-pay-bitrefill.com-ds01-esim-gift.com
 pcpgxr.top
 pencsbvep.com
 pendle-7t5.pages.dev
@@ -1247,6 +1243,7 @@ pub-ca6d7d8675dd45108fa537483184ae24.r2.dev
 pudgy-9re.pages.dev
 pudgytokenrewards.onrender.com
 puffeer.fi
+pumg.fun
 pump-fun-bb5.pages.dev
 pump-voting-5l.netlify.app
 pump.fun-life.xyz
@@ -1426,7 +1423,6 @@ sol-connect-center.com
 sol-finder.cc
 sol.eigenlayer.tech
 solana-box.web.app
-solar-fluxnexus.xyz
 solburn.online
 solresolvedex.pages.dev
 solscan-search.website
@@ -1517,6 +1513,7 @@ teslacoinclaims.vercel.app
 teslagiving.io
 testdomainhole2.com
 testnet-euphoria.finance
+tge-gliderfi.icu
 tge-multipli.fun
 thearchub.xyz
 theatomicwallet.com
@@ -1573,7 +1570,6 @@ trustwallet-mysterybox-103.vercel.app
 trustwallets.br.com
 tryingfixedxl.pages.dev
 turbo-reward.pages.dev
-tw-vcc.com
 ty7g.cc
 uforce.im
 uionlinedetmaea.com
@@ -1586,6 +1582,7 @@ unimevbot.info
 unionbuiid.com
 uniswapdex.org
 unlswap.tech
+unstake-eigencloud.live
 updatedalucoinwebsite.com
 uphold-logio-web.created.app
 uphold-safevault.com
@@ -1594,7 +1591,6 @@ upvote-shop.xyz
 uriypl.top
 urolkee.com
 us-iorabby-apps.wixstudio.com
-us04web-zoom-workspace9786677402028402.online
 usd-bep20.network
 usdt-scan.net
 usdt-wallet.com

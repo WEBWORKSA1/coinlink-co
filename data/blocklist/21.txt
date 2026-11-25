@@ -274,8 +274,6 @@ bitdoctor.vercel.app
 bitdogeio.vercel.app
 bitgettu.com
 bitipe.com.cn
-bitrefill.com-d04-gift-esim.com
-bitrefill.com-gift-cards-atom.com
 bitsmiley-launchpad.build
 blackrock-token.com
 blast-list.pages.dev
@@ -425,6 +423,7 @@ cointracex-vip.com
 com-blltcupn-net.1gb.ru
 com-cyber-hub.beer
 com-free-pro.bond
+com-gift-esim-aj04.com
 com-polybet-q70.com
 commbank-aierts-on.line.pm
 compile-service.pages.dev
@@ -474,6 +473,7 @@ cybox.online
 czrinj.com
 d-bank.pages.dev
 d1019.usdt6188.top
+d296-colnbase-listings-4f65.pages.dev
 dapdocuconnect.pages.dev
 dapp.everpaw.xyz
 dapp.ocdashboard.xyz
@@ -502,7 +502,6 @@ deficrypto.vip
 defiillama.com
 defimatrix.xyz
 defiming.vip
-defiwallets.xyz
 degenwariors.xyz
 degods.bio
 delabs.digital
@@ -648,7 +647,6 @@ finance97-eum43.sbs
 finance98-et4.pro
 finance98-in80.sbs
 fiokiinu.live
-fiona-v7.top
 firelightecosystem.asia
 firewall-coinbase.com
 fivamdefi.net
@@ -764,6 +762,7 @@ hylo.quest
 hylperfinance.network
 hyopertestd.com
 hyperfoundation-snapshots.xyz
+hyperliqudl.xyz
 hyperswap.vip
 id3457.cardstrust.org
 idme.stellarholdings.site
@@ -803,7 +802,6 @@ jupusd.app
 k90irc66opncjfd.click
 kaicatclaim.pages.dev
 kaihu-tmgm.com
-kalshi.com.in
 kamablaharris.xyz
 kamino-fi.network
 kavasave.xyz
@@ -1069,6 +1067,7 @@ normiebase-wtf.web.app
 notcloud.biz
 notcoinclaim.xyz
 novainnovationeb3.xyz
+now-gg.vercel.app
 now.modey-groups.world
 ns0.twitter-eventt22.com
 nufi.ctmgga.com
@@ -1146,8 +1145,6 @@ park-linea.org
 participate-magamemecoin.com
 partnership-bombcrypto.com
 pawfuryweb.pages.dev
-pay-bitrefill.com-ai04-gift-esim.com
-pay-bitrefill.com-dj01-esim-gift.com
 paybis-logi-ot.pages.dev
 payments-cryptomus.com
 payout-blockfi.com
@@ -1209,7 +1206,6 @@ presale-rollblock.world
 presale-scorpion-casino-claim.pages.dev
 presale.gigantic-rebirth.com
 presale.magebtc-register.com
-pridefx-trade.info
 private-sync.pages.dev
 private.quilter-ltd.biz
 privnote.co
@@ -1252,7 +1248,6 @@ quickie.pages.dev
 quicknode.fonhon.com
 r2.app-withdraw.com
 rabby-new.at
-rabby.com.co
 raca-3.live
 racoontap.shop
 rainbet-no-deposit-bonus.click
@@ -1356,6 +1351,7 @@ season1-becker.com
 season4-degencoinbase.com
 season4-degentokenbase.net
 securecustomer-coinbase.com
+security-trustwallet.blogspot.com
 seedifiy.co
 seelies-nft.xyz
 seidrop.world
@@ -1511,6 +1507,7 @@ trumpwlalet.com
 truspad-ubix.com
 trust-coins.cc
 trust-wallet-ai.up.railway.app
+trustinc.cc
 trustpad2022.top
 trustswalletcard.net
 trustwallet-c25.pages.dev
@@ -1535,8 +1532,6 @@ universalsolutionnode.site
 unlswap.org-app-v3.help
 unwasp.org
 upgrade-degen.fun
-uphld-log.created.app
-uphold-nav.created.app
 upihold-wallet-web.created.app
 us-tangem-wallet.net
 us03bin.us
@@ -1548,7 +1543,6 @@ usdt-transfer-bep20.network
 usdtmining6.com
 usdtshield.com
 usmanta.network
-usrxcoins.lat
 uss-phantom-s.pages.dev
 uss-phntom-oi.pages.dev
 uwumigrate.fun
@@ -1776,6 +1770,7 @@ xn--coinba-8ua94g.com.ph
 xn--egenlayer-05a.xyz
 xn--rotplatforms-14b.com
 xn--stadrlabs-e4a.com
+xn--wlletconnect-ynb.com
 xtjmd.com
 xywi.xyz
 y6.09na.com

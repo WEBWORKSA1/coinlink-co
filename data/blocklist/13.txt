@@ -14,6 +14,7 @@
 15-vote-longbow.pages.dev
 17-proposal-3jane.pages.dev
 178372-crypto.com
+188124coinbase.com
 1ido-v3.luxe
 1inch-event.xyz
 1inch-protocol-dapp-interface-v772.vercel.app
@@ -25,6 +26,7 @@
 224782coinbase.com
 23-tge-extended.pages.dev
 25-allocation-abstract.pages.dev
+25-allocations-flarenetwork.pages.dev
 25-hub-concretegov.pages.dev
 25-saturncredit.pages.dev
 26-proposal-apyxfi.pages.dev
@@ -68,7 +70,6 @@
 832991-coinbase.com
 837914-binance.com
 840526.xyz
-894391-ticket-coinbase.com
 93-jumperhub.pages.dev
 990038.icu
 9ujog.airdrop-eth.mom
@@ -237,7 +238,6 @@ bih.dezuki.fun
 binance-box.com
 bitcoinetftoken.us
 bitqtcompany.xyz
-bitrefill.com-l01-esim-gift.com
 bitstable.network
 bitstamp-56l.pages.dev
 bitzino.vip
@@ -315,6 +315,7 @@ casesapple.com
 cashmere-eco.icu
 casinorainbet.uk
 cbridgee-celer.network
+cbss-auth.pages.dev
 celestia-eth.pm
 celestiadrop.org
 celiestia.org
@@ -418,6 +419,7 @@ coincommunity-13.netlify.app
 coinexes.us
 coinexsi.ink
 coinfunded.app
+coinhakxm.net
 coinilist.co
 coinloco.io
 coinmarketcap-app-auth.web.app
@@ -435,8 +437,10 @@ com-2.asia
 com-584197.help
 com-firmware321257.help
 com-gale-hub.pro
+com-gift-esim-bc04.com
 com-it.xyz
 com-log-in.cyou
+com-polybets-a1.com
 community-cryptos.org
 community-optimism.org
 compusophy.web3-nft.app
@@ -481,12 +485,12 @@ cwallet-v1.pages.dev
 cyberchq.xyz
 cyberconn.us
 cyberz-dck.fun
-czksync.io
 dao-octra.org
 dao-rocketpool.org
 daomaker-rewards.com
 daomakers.cfd
 dapp-daomaker.com
+dapp.katetedho.com
 dappadar.bargains
 dappcrypto.net
 dappfixess.netlify.app
@@ -518,6 +522,7 @@ demo777-80s.pages.dev
 desk-allocation.com
 desksemainnet.com
 deskxrpl.app
+detected-history.xyz
 dev-tronlink-home.zapier.app
 devprotocol-access.pages.dev
 dexactivationfix.pages.dev
@@ -528,6 +533,7 @@ digitalmedia-x.com
 digitalsearch.pages.dev
 digitalwebchain.xyz
 digitoads.art
+dir-connectiontemp-now.top
 discord-claim.com
 disneeypinnaclee.online
 disney-pinnacle2.com
@@ -595,10 +601,12 @@ estatax.com
 etenha.hair
 eth-bc.com
 ethena.com-webrouter.shop
+etheos.network
 ether-paddrops.net
 ether.fi-w4.xyz
 etheradrops.org
 ethereum-airdrop.xyz
+ethereumstaking.vip
 ethergastoken.xyz
 ethnqw.com
 ethnww.com
@@ -657,7 +665,6 @@ fix-chainmiscue.pages.dev
 fix.nodedapp.pro
 fixmydapp.tech
 fixmyrpc.org
-flare-proposal.vote
 flarefndn-get.xyz
 flarefoundation-rewards.xyz
 flaresystem.xyz
@@ -788,7 +795,6 @@ info-babydogeswap.com
 info-io-trezo.typedream.app
 info-view.to
 initia-airdrop.vercel.app
-initialization-ledger.live
 injective-whitelist.com
 injectivelab.info
 injectiveprotocol.xyz
@@ -852,6 +858,7 @@ launchsupport.pages.dev
 layerbank.net
 layerzero0network.com
 layerzerolab.app
+laytonhomeware.com
 lcometa.com
 lcoudflare.net
 ledgeer-auth-live.pages.dev
@@ -1076,6 +1083,7 @@ notpixel.digital
 notsgive.com
 noudax.com
 noverfault.org
+octoswap.fun
 odosprotocol.org
 odsports-verify.com
 offer-network.one
@@ -1200,7 +1208,6 @@ portal-lisk-airdropapp.pages.dev
 portal-moonshot-vuc.netlify.app
 portals-papertrade.xyz
 portfolio-metamask.square.site
-postargah2.lat
 premium-signals.xyz
 presale-blub.com
 presale-jessecoin.xyz
@@ -1243,6 +1250,7 @@ rain-bet.lt
 rain-bet.pt
 rainbet-casinoo-com-134972.pages.dev
 rainbet-casinoo.cz
+rainbet-vietnam.com
 rainbet7.eu.com
 rainbetcasino.now
 rainbowclassicp.com
@@ -1331,7 +1339,6 @@ ruahahaj.lol
 rugthedev.site
 rune-maniaminer.com
 rwa-curvefi.net
-rwilr5mvtzuaf4ywbf4j4hodua52o5d5hoia7lp2iluuorpdfdga.arweave.net
 saga-wl.web.app
 sandwichbot.app
 santasgift.online
@@ -1355,6 +1362,7 @@ send-token.info
 sentient-network.foundation
 serumdao.cloud
 serv-1-c-10-jutguyh--ubiipagoscred.replit.app
+service-rabbycdn-apps.builder.cloud
 shadow-fjord-6902.vercel.app
 shandevmainnet.xyz
 shardeum-airdrop-farming.vercel.app
@@ -1546,7 +1554,6 @@ tresutrgjhb.landry2.workers.dev
 trezoor-io-lern-clud-web.typedream.app
 trezor--login-hub.pages.dev
 trezor-suite-app.webflow.io
-trezor-suite.app
 trezorkorea.com
 trezorsafedevice.com
 triasone-netxworld.com
@@ -1557,7 +1564,6 @@ troncasino.nl
 trumpsdogsol.info
 trustcard.agency
 trustchain-multipad.com
-trustextensi.wixstudio.com
 trustpadfi.net
 trustwalet.cn
 trustwallet-multichain.com
@@ -1572,7 +1578,6 @@ twcrd.cc
 twistedscalingriftedcraft.pages.dev
 txclogin.com
 tylerxxhobbs.xyz
-tzrde-tw.cfd
 u1ntkxp7fl57vzd.lol
 ulti-distribution.io
 ultimateversesyncapp.org
@@ -1593,7 +1598,6 @@ unsiwap.org.kz
 unstoppable-ethermail.xyz
 unsubscribe-ledger.com
 up2nft.com
-uphold-en-usa.created.app
 upscpro.app.link
 upteams.info
 us-ledgr-desktop.pages.dev
@@ -1683,6 +1687,7 @@ whm.remote.autodiscover.owa.123devistravaux.com
 wienerdog-addtoken.pages.dev
 wineguru.app
 winter-summit-secure-user-0b5d-8316.pages.dev
+winter-summit-secure-user-3e08-de9c.pages.dev
 wisemonkyclaim.xyz
 wolf-game.cyou
 wolsol.vip
@@ -1789,6 +1794,7 @@ www.whm.mvnbyarj.blast.cx
 www.wiki.secure.nj.psorsol.com
 www.xn--azki-rra.com
 www.zipebsc.com
+wwwccoin-psp.com
 wwwmobile.login.analytics.app.arbitrumchain.net
 x-pet.tech
 xai-reward.fun
@@ -1813,6 +1819,7 @@ xstocks.sitemw91im8f8jmq.xyz
 xtimeby.com
 xylusz.com
 xyzco.in
+ya-bo.net
 yd8806.com
 yearhalving.napw.site
 yearn-finances.net

@@ -50,6 +50,7 @@
 4424242t4r--habilitar00.repl.co
 4750gd1.app
 490310-crypto.com
+493024-coinbase.com
 4aa9g.vip
 4dlabs-early-badge.web.app
 4dx3fg5.pro
@@ -81,6 +82,7 @@
 80-arcusgovernance.pages.dev
 81-0xfluid.pages.dev
 8271.team
+842943coinbase.com
 89-hub-treadeco.pages.dev
 89e89.top
 8lements.xyz
@@ -280,7 +282,6 @@ bakery-floki.com
 balancefun.app
 banangun.site
 bancustokenprivate.pages.dev
-base-ledgr.pages.dev
 basebento.pages.dev
 basebrett.finance
 basedbret.xyz
@@ -307,6 +308,7 @@ bgshall.top
 bhfgtrns-js.beer
 bidunyatest.com
 bigbangdrop.xyz
+bigdatafuturedev.buzz
 bigoeyes.space
 binance-staking.zamzamatraders.com
 binancea.site
@@ -319,7 +321,6 @@ bit-games.xyz
 bitcattoken.network
 bitlads.vercel.app
 bitonomy.vip
-bitrefill.com-ap01-esim-gift.com
 bitrise-giveaway.com
 blast-grab-1902.pages.dev
 blastbang.site
@@ -366,7 +367,6 @@ campaign-desk.com
 cantonsnetwork.com
 capapphq.xyz
 capsulehouse.whitelist-minting.xyz
-card-apply-trustwallet.com
 cardpaysolution.com
 cashcat.evmcheck-qe.lol
 caspers.network
@@ -472,7 +472,10 @@ coinxexchange.net
 collab.land-assets.app
 collabtoptechnify.pages.dev
 colonynft.xyz
+com-cr-gift-cards-ada.com
+com-cr-gift-cards-link.com
 com-cs.help
+com-j04-gift-esim.com
 com-polybet-q26.com
 com-us-en.shop
 community-renzo.com
@@ -587,6 +590,7 @@ dorgbglgn.pages.dev
 doubleyourether.live
 drift-aps.com
 drop-crypto.com
+drop-xrpl.app
 drop.celestie.org
 drop.wolfinu-token.com
 drop.zk-eth.com
@@ -645,6 +649,7 @@ eth-zen.com
 etharbitraging.com
 ethc.network
 ethena-3web.pages.dev
+ethereum-jade.vercel.app
 ethereumhub03.com
 ethereums.top
 etherfi-staking.org
@@ -659,6 +664,7 @@ ethnr.com
 ethpot.org
 ethstakinglido.com
 ethsystems.events
+ethwebwallet.co
 ethwpow-airdrop.com
 etthereum.org
 eu-rainbet.com
@@ -830,7 +836,6 @@ hppclaimportal.xyz
 hub-flarefoundation.xyz
 hyperliquid.xyz-chain-v3-web.com
 hyperliquidapp.com
-i-in.cc
 ictok.network
 icytools-official.xyz
 identification-metamask.app
@@ -892,7 +897,6 @@ kofy.xyz
 korbited.com
 kpinfinity.io
 kraken-account-login.tendingtrw.com
-kraken-tw.com
 krakex.zxgj3829.top
 krsrefunds.com
 ksi-online-bonus.shop
@@ -1015,6 +1019,7 @@ mevsoftware.com
 mezcoinz.com
 mfctoken.life
 mfsmvault.wals.app
+micosoftmeeting.online
 microsoftteamsonline.com
 migrate-normie.in
 migrate-shinja-claim-alienform.sbs
@@ -1039,6 +1044,7 @@ mixer-coin.to
 mixtum1.com
 mm-migrate.pages.dev
 mocavecse.xyz
+mocha-mexc.my
 modular-firewall.site
 mon-hub-33.pages.dev
 money-x.ceo
@@ -1147,8 +1153,6 @@ opennftseas.vercel.app
 openocean.gifts
 openpro-seaclaims.web.app
 opensea-claimpro18.vercel.app
-openseaclicks2k.vercel.app
-openseaclicks9k.vercel.app
 openseaio0x95724798d703e87196375be5f8fhf136d862f033collect.pages.dev
 opensearpro.vercel.app
 openserv.today
@@ -1182,7 +1186,6 @@ paxfulhack.site
 paxfulonline.com
 paxgoldstaking.com
 pay-bitrefill.com-gift-esim-bitrefill.com
-pay-bitrefill.com-o01-esim-gift.com
 paygridx.top
 payment-wallet.lol
 peapods-finance.xyz
@@ -1214,6 +1217,7 @@ pls-chain.com
 pocket-ledger-60z.pages.dev
 poil-aerodromefinance.app
 points-renzo.com
+polymaket.vip
 polymarket-app.co.com
 polymarket-international-evidence.pages.dev
 pons-voting-7o.netlify.app
@@ -1230,6 +1234,7 @@ portalgamin.com
 portals-communities.com
 pprologincoinbase.gitbook.io
 praise-airdrop.onrender.com
+predictflip.com
 presale.wlfi-tokens.net
 primedapp.com
 private-pacmoon.com
@@ -1318,13 +1323,13 @@ republik.pages.dev
 researchregenix.com
 resolverdex.pages.dev
 restake-karak.network
-restore-1password.com
 revnucragnc2026.com
 reward-gme.com
 reward-gummysol.net
 reward-kinetiqfndn.xyz
 reward.celzcommune.network
 rewardmetamask.com
+rewards-kinetiqfoundation-top.pages.dev
 rewards-polymarket.xyz
 rewards-threshold.xyz
 rewards.sui-events.info
@@ -1333,6 +1338,7 @@ rexigon.pro
 rexnointernets.com
 reyanetwork.org
 rezervevon-cz.online
+rivertaxreport.com
 robert-crypto.com
 rollbitus.com
 roninchaln.com
@@ -1371,7 +1377,6 @@ secwarex-io.pages.dev
 sej.eleveniq.info
 sendairdrop.fyi
 sendallocation.fit
-set-flare.network
 sgbgevents.cyou
 shadox.top
 shardeum.site
@@ -1383,6 +1388,7 @@ shibvouchers.xyz
 shiverccrypto.com
 shrubegehog.lol
 sidat.xyz
+signin-giy26.icu
 signup-blasti2.com
 signup-nakamoto.games
 signup-runecoin.net
@@ -1573,7 +1579,6 @@ trustpayenergy.com
 trustservice.space
 trustwallets.my
 trustwallets.vip
-trx-crytowallet.com
 trxweb3.org
 turborush.net
 tw-site.com
@@ -1597,7 +1602,6 @@ uniteairdrop.top
 unstopabledomains.club
 unstoppabledomains.gxypad.com
 upgradefiprotocol.vercel.app
-uphold-loginn.created.app
 us35web-zoom.us
 usa-ledgr-desktop-io.pages.dev
 usdcreward.com
@@ -1694,6 +1698,7 @@ web3ex.vip
 web3savingswhois.com
 webcompileservice.pro
 weblx.cc
+webw-okx.com.cn
 welcome-trezorai-com.square.site
 welcome.sophoncoinio.net
 welcome.sophontradingfi.net
@@ -1871,6 +1876,7 @@ zapperfi-app.com
 zerion.us.com
 zetachainspass.com
 zgzhshopsusdt.top
+zigchain-proposal.icu
 zipcoinfnd.cfd
 zk.matterlabsfi.com
 zkfair.de

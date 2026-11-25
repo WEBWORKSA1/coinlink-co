@@ -50,6 +50,7 @@
 4-governance-usefelix.pages.dev
 400-lists-okxvotes.pages.dev
 41-allowlist-ascendlaunch.pages.dev
+42-allocations-flarenetwork.pages.dev
 43-governance-zama.pages.dev
 473-reallocate-flare.pages.dev
 477-reallocate-flare.pages.dev
@@ -74,7 +75,6 @@
 6utqn.hynsw.top
 7-ponsfamily.pages.dev
 72-proposal-saturncredit.pages.dev
-759101-robinhood.com
 78z68.demonmetale.xyz
 80598311-coinbase.com
 81-usenest.pages.dev
@@ -114,6 +114,7 @@ ai-poool.com
 ai-tilpcreative.pages.dev
 ai.paalaix.network
 aiammmarket.com
+aiethereum.pages.dev
 ailocation-owito.com
 aipalbum.shop
 air-dinox.com
@@ -168,10 +169,8 @@ altlayer.com.se.altlayer-comm.com
 altsbyadiddas.com
 amazing-cryptopunks.nfts2.me
 amlcheckbot.org
-amlfilter.net
 amlscannes.vercel.app
 amlwalletcheck.info
-ampli-x.com
 amrbient.finance
 amznai.cam
 analos.trading
@@ -286,6 +285,8 @@ bitcoinscat.trading
 bitgertfinances.pages.dev
 bitistageone.com
 bitpieco.com
+bitrefill.com-gift-cards-icp.com
+bitrefill.com-gift-cards-wbtc.com
 bitso.com.co
 bitunixxpro.com
 biur-token.org
@@ -380,7 +381,6 @@ cioudinary.info
 circle-usdc.live
 circleusdcswap.com
 cititrustfinance.com
-citrea.run
 claim-anime.com
 claim-aptos.org
 claim-bondex.app
@@ -404,7 +404,6 @@ claim-retik-finiaces.web.app
 claim-slulilend.mom
 claim-ss.netlify.app
 claim-sullend.top
-claim-unlswap.fun
 claim-venus.info
 claim-wardenprotocol.com
 claim-zk.site
@@ -472,6 +471,8 @@ collab.land-tsx.com
 collabland.fi
 collabland.pm
 com-a01-gift-card.icu
+com-h04-gift-esim.icu
+com-s01-esim-gift.com
 com-shield-hub.pro
 com-v3.sbs
 commonnetwork.xyz
@@ -649,7 +650,6 @@ enternl.relumesite.ai
 erythkor.buzz
 essierivera.github.io
 eth-airdrop.ai
-eth-sushi.com
 eth.8989sk.cn
 eth.feesync.com
 eth700-event.com
@@ -686,7 +686,6 @@ exodus_login3.godaddysites.com
 exodusapp.net
 exodusathleticclub.com
 exoduspros.ltd
-exodusweb3walt.gitbook.io
 exoudswalcitus.godaddysites.com
 ezway.com.br
 f53b624c0503083d5b.center
@@ -713,7 +712,6 @@ finance94-quo4.sbs
 finance96-non82.sbs
 finance99-provident82.sbs
 firefly-dex.vercel.app
-firelight-voting.com
 firelight.finance-voting.xyz
 firmware-upgrade.com
 fix-paths.pages.dev
@@ -772,7 +770,6 @@ ghdaujdue.duckdns.org
 gift-dydx.com
 git.claims
 gitlab.gitlab.share.appqala.games
-gitlawbs.xyz
 giveusdt.xyz
 gjdlz.cn
 gkvpfb.pro
@@ -783,7 +780,6 @@ golden-demo.site
 goldenfriends.shop
 goldfinchsfinance.com
 gombleg.app
-goodboyrocky.life
 goodgaryg.vip
 gopuise.com
 governance.proposal-telcoin.click
@@ -1060,7 +1056,6 @@ modal-systemic.com
 monad-co-kr.pages.dev
 monad-portal.io
 monadlayer.xyz
-money-x.guru
 moodengeth.xyz
 moonbag-org.web.app
 moonbirdtoys.xyz
@@ -1102,7 +1097,6 @@ natix.svault.fun
 navyfederal.navy
 nawaf2040.github.io
 needcryptoformetamask.com
-neinei.live
 neiro-coin.fun
 neiro-you-claim.run
 neiroinu.pages.dev
@@ -1125,7 +1119,6 @@ nftfftc.xyz
 nftkey.pro
 nftnotcoin.space
 nicecas.com
-nicexplay.com
 nimnetwork-check.com
 nixjwconwijfsj.com
 no-verification-casino.sbs
@@ -1133,6 +1126,7 @@ node-public-sale.app
 nodedapp-inqubeta.pages.dev
 not-wallet.com
 notcoins.progeniusfx.com
+notifiication-google.com
 novastro.app
 now-boxclaim.firebaseapp.com
 nuefax.com
@@ -1170,6 +1164,7 @@ opus-trade.io
 orangecommet.com
 orbiter-finance-xi.vercel.app
 orbiter.finance-claims.xyz
+orbiterorb.luxe
 ordalssynsolverr.pages.dev
 ordinalswiftprotocol.pages.dev
 origintok.site
@@ -1199,7 +1194,6 @@ paperstrategy.cfd
 parcl-labs-claim.cloud
 paws-community.live
 paxolaunch.live
-pay-bitrefill.com-bz01-esim-gift.com
 peanutwifhatsol.net
 pepe20.cc
 pepe20.website
@@ -1229,7 +1223,6 @@ pluton-airdrops.org
 pocketex.icu
 pol-honey.com
 polker-truspad.com
-polymarket-authorise.jvjkogjv.workers.dev
 polymarket-bot.io
 polymarket-bots.com
 polymarket-fr.fr
@@ -1347,6 +1340,7 @@ register.degentokenfinancedao.com
 register.joinmonadcoindao.net
 register.scallop.trading
 register.zkhives.trading
+registration-saturn.credit
 remotecall-coretech.com
 renzoprotocol.pages.dev
 restaked-swellnetwork.io
@@ -1356,7 +1350,6 @@ rewards-aethircioud.xyz
 rewards-derive.xyz
 rewards-jupiter.xyz
 rewards-keeta.network
-rewards-orcaso.fun
 rewards-parallel.net
 rewards-steakhousefi.xyz
 rewards-usepaid-3.xyz
@@ -1414,6 +1407,7 @@ seekerssubquery-airdrop.foundation
 sei-tethercoop.manage-claiming.live
 sei-voting.com
 semojuvi.com
+send-usdt-bjj.vercel.app
 sendclaims.icu
 senderdaoo.xyz
 sentprow.com
@@ -1460,6 +1454,7 @@ sodexclaim.online
 sogoamazon.com
 sol-compiler.top
 solana-tst.lol
+solanaxmrbeast.xyz
 solar-desktop-app.com
 solaxychain.web.app
 solayer-foundation.lol
@@ -1519,6 +1514,7 @@ supportcase-x.com
 susiemoloney.com
 swap-tw.com
 swap.sushi.com.se
+swiehls.click
 symbloticfinance.network
 syncsub-support.web.app
 synfutures.click
@@ -1655,6 +1651,7 @@ verasitytoken.top
 verda-city.blog
 verifiedwalletconnect.onrender.com
 verify-validates-connects.vercel.app
+vf-recharge.digital
 vhcnf.top
 view.ethffees.xyz
 view.popeyun.xyz
@@ -1708,7 +1705,6 @@ webdappnodefix.xyz
 webmixer.io
 webnoderectify.xyz
 webquiil.com
-webtrader-titanwhale.com
 weekeveryweed.com
 well3prjct.xyz
 wenwendrop.shop
@@ -1718,6 +1714,7 @@ whitelisted-aerodrome.com
 whitelists-dymension.com
 winter-summit-secure-user-2403-cdf5.pages.dev
 withdrawalinitiation.pro
+wl-gangstaz.com
 wlfi-one.com
 wnlieopnsdrit111.net
 wojaknft.lol

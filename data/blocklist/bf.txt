@@ -15,9 +15,9 @@
 163394coinbase.com
 165-stonkbroker-clutchmarkets.pages.dev
 17-ethenagov.pages.dev
+18-allocations-flarenetwork.pages.dev
 189-governance-curvefinance.pages.dev
 19-governance-orbio.pages.dev
-1dollarairdrop.pages.dev
 1inchswap.app
 1mkalgw.pro
 2024usdc.com
@@ -28,7 +28,6 @@
 25-longxyz.pages.dev
 26-gov-hyperlend.pages.dev
 27-tge-extended.pages.dev
-284824-ledger.com
 29-governance-hyperlend.pages.dev
 2eyu3b27kwdqzna3f4mysr4orncup7i3guyygijsue3uwklajhva.arweave.net
 2xrp.net
@@ -63,6 +62,7 @@
 77-arguseco.pages.dev
 8-torchpadgov.pages.dev
 839172-ledger.com
+8612-fa8e-5133-c0inbase-list.pages.dev
 88-proposal-saturncredit.pages.dev
 8bjhk.pro
 8payclaim.netlify.app
@@ -268,9 +268,6 @@ bitcoinbsc.cash
 bitcoinminetrixx-claim.pages.dev
 bitmex-htx.cn
 bitpieim.cn
-bitrefill.com-bl04-gift-esim.com
-bitrefill.com-gift-esim-ao04.com
-bitrefill.com-m01-esim-gift.com
 bitrivals.icodrop.pro
 bittam.top
 bittdoctor.com
@@ -565,6 +562,7 @@ encouraging-entertaining-poison.glitch.me
 eng-base-extensions.wixstudio.com
 eng-ledgrecom-start.pages.dev
 eng-trezorwallet.pages.dev
+enkixyz.luxe
 enlisting-lineabuild.net
 enlists-veda.xyz
 enroll-sunrise.info
@@ -606,6 +604,7 @@ evm-webnode.tech
 evmos.claims
 evosdefis.tech
 exchange-dydx.xyz
+exchange-socket.sbs
 exchange.lc
 exclusive-blast.com
 exodas-wallt-sso.pages.dev
@@ -665,7 +664,6 @@ futuurdeswr.com
 fxaxb.com
 fxrmay-a73jotc0.vercel.app
 fzu0.cc
-g3eukmthplm2rlmdy4murml25gn4tnlwtor3b6ybduar3oeijvna.arweave.net
 gabrielgiraldo.com
 gaimin.lol
 galaxy.shidodefi.info
@@ -694,7 +692,6 @@ git.hosting.stakegannble.com
 glitchbykayn.com
 gmkvyenq6pte2fjykuelupzep2foqxt6i4ddjgs2o3ddtrvhq6mq.arweave.net
 gmoeee.com
-go-uphold-us.zapier.app
 goblintown.yourminting.xyz
 goldevents-blast.cloud
 goldfinder.org
@@ -728,7 +725,6 @@ hedgeye.app
 hehe-dapps.pages.dev
 hellcase.com.mx
 hellobitmk.com
-help-unlock-centre.cloud
 herdgiez.com
 hitbtsc.com
 hive-swap.com
@@ -867,9 +863,7 @@ linkhub.vip
 liquid-perk.org
 liquidclaim.com
 liquidprotocol.vip
-live-app-access.com
 lnjs.ink
-lobstrwalletiu.webflow.io
 login-notify-x.com
 login.api.cpanel.fluffies.io
 lootusdt.online
@@ -927,6 +921,7 @@ metamask.global
 metamask.run
 metamaskhchromeh.gitbook.io
 metamaskkextenssion.gitbook.io
+metamasklogink.blogspot.is
 metamasklogink.blogspot.rs
 metamaskschromxtension.gitbook.io
 metamaskwalletextensio.webflow.io
@@ -1029,6 +1024,7 @@ new.suithefrensii.cc
 newwhitelistdex.pages.dev
 nft-airdropgive.xyz
 nft-creso.com
+nft-og.sbs
 nft.lifestylefever.com
 nfts-satoshivm.io
 nftscollecttrumpcards.com
@@ -1061,7 +1057,6 @@ obsidian-os.uz
 oeth.app
 officialape.com
 oganoma.net
-okx.com.ag
 okx.mooo.com
 okxbnb92.top
 okxrewards.pages.dev
@@ -1122,8 +1117,6 @@ participate-merkl.xyz
 pawfury.eu
 paws-babydoge.com
 paws.communltis.com
-pay-bitrefill.com-ao04-gift-esim.com
-pay-bitrefill.com-cp01-esim-gift.com
 paybis-login.pages.dev
 payshield.pro
 pbhspvid.azcappy.com
@@ -1174,6 +1167,7 @@ poolboxmint.web.app
 pop.forum.ns.mail.mailgw.mintlearn.com
 porkcoins.top
 portal-firelightfinance.com
+portal-flare.xiaoa.link
 portalbn.com
 portaltmgmm.com
 power-paddy.com
@@ -1182,7 +1176,6 @@ predragvukasinovic.com
 premint-chainssaw.xyz
 presale-dogdog.pages.dev
 presale-joingrapes.com
-presale-ozakai.live
 presale.bfdcoin.xyz
 presales-monprotocolapp.pages.dev
 profitability-ooue.online
@@ -1199,7 +1192,6 @@ proposalsfablesfi.xyz
 protocol-bouncebit.net
 protolnodewallets.pages.dev
 pryzm-3i8.pages.dev
-pub-b3a5733620d548a3bb070f10c1d69e56.r2.dev
 pudgypenguins-vote.com
 pudgyypenguins.xyz
 puff-verse.netlify.app
@@ -1228,6 +1220,7 @@ rainbet-8oz.pages.dev
 rainbet-it.eu.com
 rainbet1.mobi
 rainbetenespana.com
+rainbetoffiziell.com
 rainbets.vip
 rainbetsplash-at-23453.pages.dev
 rare-looks.org
@@ -1328,14 +1321,12 @@ shakespay.info
 shbshootout.live
 shibabone.org
 shiboshls.com
-shiftinvalefield.com
 shironekoclaim.xyz
 shlibtariun.com
 shojiira.xyz
 signup-chainlink.app
 signup-gamee.com
 signup-layerzero.net
-signup-meta-mask-io.pages.dev
 signup-paramiabs.app
 signup-pythnetwork.com
 silentsnapshots.online
@@ -1358,6 +1349,7 @@ snxdistribution.com
 sofamonsxyz.com
 soil-airdrop-app.pages.dev
 sol-memecoin-allocation.netlify.app
+sol-stream.cc
 solana-of.netlify.app
 solbullish.pro
 solflux.cc
@@ -1375,7 +1367,6 @@ sso--ndax-opp-cdn---authd.webflow.io
 sso-coinbase-com-cdn-x--auth.typedream.app
 sso-login-kucoin.pages.dev
 sso-uphold-com-cdn-a-app.tem3.io
-sso-uphuld-cdn.created.app
 ssolanamobile.com
 ssssssss-8oh.pages.dev
 stablecoinalerts.org
@@ -1434,6 +1425,7 @@ support.genesis.celestia.casa
 supportreceive-x.com
 swag-rewards.com
 swap-mogulproductions.com
+swap-zone.luxe
 swapgetpankceike.xyz
 swapssage.com
 swasti-presale.com
@@ -1505,7 +1497,6 @@ transfer-kampanii.site
 treasury-arbitrum.xyz
 treasury.bakeryswapcoin.com
 treasury.ethertokendao.network
-treasurys-pool-flare.network
 treehouseproject.xyz
 trezar.app-suite.org
 trezor-bridgb.pages.dev
@@ -1552,10 +1543,9 @@ unstakeoldpool.fixerror.io
 unstopable-domain.xyz
 unstoppabledomainsweb3.com
 unstopparblesdomains.com
+upconecete.at
 updatetrezor.com
-uphold-wallts.created.app
 uqc-truspad.com
-us-eigenfoundation.stakingreward.cloud
 us-polymarket.org
 us-web5.us
 us01meet.vu
@@ -1800,7 +1790,6 @@ xarnan.at
 xavowin.com
 xn--fixedflot-71a.com
 xn--itcoin-v6a.co
-xn--lder-bva9f.com
 xpoints.fun
 xsktkar.cf
 xstocks-voting.cfd

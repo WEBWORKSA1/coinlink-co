@@ -25,6 +25,7 @@
 193-curvefi.pages.dev
 195-curvefi.pages.dev
 198-reallocate-flare.pages.dev
+1982-482c-coinbase-listing.pages.dev
 1bc29b36f623ba82aaf6724fd3b16718.netlify.app
 1juice.network
 1raydium.sbs
@@ -57,8 +58,10 @@
 4-checker-standx.pages.dev
 40-orbioeco.pages.dev
 422-curvefi.pages.dev
+42a8-colnbase-listings-4f65.pages.dev
 43xcj.icu
 48-governance-netnetcap.pages.dev
+484743-crypto.com
 492018-crypto.com
 5-allocation-yieldfields.pages.dev
 5-gov-concrete.pages.dev
@@ -387,6 +390,7 @@ chainlink-network.net
 chainswap.website
 chat.webexodus.store
 check-jumper.app
+check.gateway-superlend.com
 checklist118.it
 checkpoly.xyz
 cheemspets.xyz
@@ -472,7 +476,9 @@ collabs-connect-lands.vercel.app
 collect-bckr.com
 collector-beanz.com
 collecttrumpcard.vip
+com-az04-gift-esim.com
 com-bp93321.co
+com-bq01-esim-gift.com
 com-omni-hub.biz
 com-polybet-q49.com
 com-restore.id
@@ -558,6 +564,7 @@ demo.app.www.www.hostmaster.autoconfig.mail.nutravitalis.pro
 demo009097.pages.dev
 deqen.tips
 derivesxyz.sbs
+dex.variatlional.net
 digidaigaku.co
 digidaigaku.nfts-premints.com
 digitaldropshipaja.com
@@ -644,6 +651,7 @@ ethergas-refund.pages.dev
 etherium.trading
 etherscan-kb.pages.dev
 ethmp.org
+ethnokyc.exchange
 etholdier.xyz
 ethtq.com
 etokensolana.pshp.com.pk
@@ -670,7 +678,6 @@ exodusweyuibtewallet.webflow.io
 exoswap.xyz
 ext-usrabbyapps.wixstudio.com
 extended.exchange-distribution.click
-f4wkg7hupzrgrz7oghzgtr4kkxw3wvd4naz6cdbhilpc4uakklhq.arweave.net
 fafy.xyz
 fairict.com
 faq-paybislogin-en-us.pages.dev
@@ -970,6 +977,7 @@ metamask-loxginn.gitbook.io
 metamask-recover.help
 metamask-verify-winbet83.ph
 metamask4.cc
+metamaskchromeextensionn.blogspot.co.ke
 metamaskcromeextsnt.gitbook.io
 metamaskerlogus.gitbook.io
 metamasksubdomain.web01.site-manager.eu
@@ -1016,7 +1024,6 @@ moca-id.myvegasbusiness.com
 mockcapital.pages.dev
 mog-reward.com
 mogmemecoin.xyz
-monad-distributions.xyz
 monke.cc
 monkey.airdrop7.click
 monsterra-launchpad.com
@@ -1174,7 +1181,6 @@ paradigm-manta.com
 participate-xendfinance.app
 partners-ilait.xyz
 pastafariancoin.loyaltybonus.tech
-pay-bitrefill.com-bi01-esim-gift.com
 paybislogin.pages.dev
 payment.plexus-airdrop.today
 payments.platform-feature.dev.carry1st.com
@@ -1230,7 +1236,6 @@ portal-moonshot-qf2.netlify.app
 position-air.com
 powerofpub.vip
 premint-mint.xyz
-premium0peanseamint1.vercel.app
 presale-bazinga.com
 presale.foxylineadefi.net
 prjx.info
@@ -1249,7 +1254,6 @@ protocol-seedifyfund.net
 psyopclaim.site
 psyops-claim.xyz
 pub-04d374bc3c5846c5b2be121fb89a8304.r2.dev
-pub-85806531be9942d384f5836309e452a2.r2.dev
 publicsale-dogcoin.app
 pudgyeggs.xyz
 pudgyonsol.xyz
@@ -1361,6 +1365,7 @@ ryan-eth.com
 s1-korprotocol.com
 sachicoins.xyz
 safemoonnfts.com
+safepal-us.com
 saga-get.site
 saldaoio.com
 sale.5thscape.live
@@ -1448,7 +1453,6 @@ spectrallabs.app
 spinsols.top
 spongev2.link
 sso-help--kraken--login.webflow.io
-sso-uphld-com-auth.created.app
 staging.juneus.com
 stake-aixcbcapital.com
 stake-live.app
@@ -1478,6 +1482,7 @@ submit.padre.news
 subtitlebank.net
 suddenwealth.cfd
 sudoswaphome.com
+sui-swap.io
 suilend-clain.cfd
 suite-us-trezor.pages.dev
 sujgflwjigfewliufghwlf.life
@@ -1603,7 +1608,6 @@ uniswap.org-site-v3-defi.net
 unitedhybrid.nft-premint.com
 univ4hub.store
 unlimitedmarketaccess.com
-uphold-net.created.app
 us055web-zoom.live
 usa-blockfi.com
 usdai-proposal.icu
@@ -1625,6 +1629,7 @@ vaedox.com
 vaixentity.com
 variaitional.io
 variatilnal.io
+variationall.com
 vaultmatrix.info
 veda-enroll.xyz
 veiaexchange.com
@@ -1722,6 +1727,7 @@ www-yuga.com
 www.1block.art
 www.45-61-136-141.cprapid.com
 www.99presale-claims.network
+www.aatias.co.il
 www.airdrop.plotsfinance.net
 www.allchainrestore.site
 www.allswellhome.vidgateway.com

@@ -143,7 +143,6 @@ aixbt.quest
 ajxg.cc
 akibcalledbeast.com
 akroncomms.pages.dev
-algo-ledger.com
 alienxbox.web.app
 allgoodemails.com
 allocate-driftprotocol.com
@@ -302,7 +301,6 @@ bitcasino.one
 bitcoincash.blog
 bitcoinreflection.com
 bitme2.com
-bitrefill.com-gift-esim-p04.com
 bitrock-app.org
 bitsswapper.com
 bkreviews.shop
@@ -364,7 +362,6 @@ call-on.online
 camaroterj-ticketm.online
 capitalsusa.com
 capnco.cfd
-careers-ibm.co
 casinorainbet.nl
 catslaplive.com
 cbpro-int.com
@@ -494,7 +491,10 @@ collectiondapps.pages.dev
 collecttion.store
 colngecko.pro
 colnmarketcap-4q.netlify.app
+com-dn01-esim-gift.com
 com-ec1a1.lol
+com-gift-cards-btc.com
+com-gift-esim-ap04.com
 combotoken.network
 comelot-exchanges.com
 community-ethena.app
@@ -546,6 +546,7 @@ curvefinance.digital
 curvefinance.network
 curves-finance.com
 cybersecuritylearning.apexdigitalcorporation.com
+dacitycoinsol.com
 dagomeme.site
 dai56789.top
 daily-ledger-ch3.pages.dev
@@ -665,6 +666,7 @@ ethdrop.vercel.app
 ethective.com
 ethenafoundation.org
 ether.fi-lp.xyz
+ethereumswarmgirushin.blogspot.com
 ethereumtoken.pages.dev
 ethergasredeem.xyz
 ethgas.vercel.app
@@ -784,7 +786,6 @@ glhfers.co
 glutcoin.vip
 gluvextopinai.com
 gme-oneth.com
-gmohc.com
 goldenswap.net
 goneurai-rewards.com
 goodbooms.top
@@ -837,7 +838,6 @@ hyperdashs.com
 hyperkliquid.xyz
 hyperlinkxyz.online
 hyperliquid-airdrop2.pages.dev
-i-nt.cc
 icchatva.com
 icloudapple.us
 illuvium.selfip.com
@@ -932,7 +932,6 @@ legioncc.click
 lesgarconsbarbiersop.com
 lgcynetwork.vercel.app
 lgnsorigindefi.click
-licensure-ledger.com
 lid0.vercel.app
 lido-node.vercel.app
 lido.ventures
@@ -965,6 +964,7 @@ loveinternationalaustralia.org
 loyals.uno
 lrt-eigenlayer.xyz
 luckyblock.tech
+lumen-okx.com.cn
 m.chsizzy.top
 m4t5e-7iaaa-aaaaj-az67q-cai.icp0.io
 m86u4j4f0b.pro
@@ -993,6 +993,7 @@ matemskloggn.webflow.io
 maxiofficial.online
 mcsbnfb.xyz
 mediavalidation-x.com
+medinnovatehub.com
 meetamascromextens.webflow.io
 melbertoja.com
 memecoin-farmer.com
@@ -1017,6 +1018,7 @@ metatokendrop.com
 methimesioxteison.gitbook.io
 metiamask.com
 mettamask.io
+mettamaskilguina.gitbook.io
 mexcapps.cc
 mfercoin.fun
 miao-solana.com
@@ -1125,6 +1127,7 @@ notairx.xyz
 notco.tech
 notcoinawards.website
 notexistscoinbase.bmgp.com
+novafuturetechdev.buzz
 novatornado.cash
 now.mondex.icu
 nxmorv.site
@@ -1154,7 +1157,6 @@ optimism-base.com
 optimism-fd.com
 optimism.top
 optimistm.xyz
-origindefi-bonus.lol
 osero.top
 ouyi1inch.top
 owlgang.club
@@ -1175,7 +1177,6 @@ paperhands-halo.pages.dev
 paperholders-net.web.app
 parcakeswap-finance.com
 pasqualeparisi.com
-pay-bitrefill.com-gift-esim-w04.com
 payout-greenside.pro
 payward.events
 pazowin.com
@@ -1229,7 +1230,6 @@ potralbridge.com
 poubex.com
 premint-sale.xyz
 premintclub.xyz
-presale-remittix.app
 presale.boroviktokendefi.com
 presale.gummyonbasecoindefi.xyz
 presale.ksicryptocoin.events
@@ -1424,6 +1424,7 @@ solanarefund.info
 solmaxpad.com
 solpump.live
 solsure.io
+solution-database.xyz
 solv-flnance.org
 solv.lat
 sorteo.click
@@ -1473,6 +1474,7 @@ stellarap.top
 stellernetworkfix.digital
 steth.live
 stonerapeclub-freemint.xyz
+stop-trezor.io
 storj-lab.tech
 storybets.casino
 streampump.fun
@@ -1508,7 +1510,6 @@ synchronizewallets.pages.dev
 syncswap-tethercollab.manage-claiming.live
 syncswap.portal-zksync.xyz
 szn2-bckr.com
-t-inve.cc
 tablchain.app
 tabz-nft.xyz
 task-fantasytop.com
@@ -1519,7 +1520,6 @@ teams6web.com
 tebot.top
 teleportdaoclaims.pages.dev
 templepharmacy-world.vercel.app
-tesorro365.trade
 test-kraccount.krakenus.cz
 test-serve.pages.dev
 testnet.niilion.com
@@ -1605,7 +1605,6 @@ uniswapp.org
 unizwap-org.pages.dev
 unstoppabled.xyz
 uog.overdezuki.fun
-uphold-logn-en.created.app
 us-en-cloud-bitgets-hlep.pages.dev
 us-guarda.at
 us05st1meetingroom.us
@@ -1816,6 +1815,7 @@ xrpl-invite.com
 xxbl7w6r3t6upheasglzrgbl76oswygucy5cjhrf7inxuxdsxu5a.arweave.net
 xxoswaptoken.xyz
 xxqgxl.clicks.mlsend.com
+ya-bo-la.net
 yayocorp.com
 yoloholiday.sole-mint.com
 yomofficial.events
@@ -1825,7 +1825,6 @@ yuan-paygroup.com
 zaar-superfi.com
 zanza-bonus.com
 zenithloops.ltd
-zeopox.com
 zerion.us.org
 zestprotocol-proposal.cfd
 zetachain.org-b.click

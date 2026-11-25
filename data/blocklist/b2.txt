@@ -76,7 +76,6 @@
 990034.icu
 9dr7.cc
 a-phantumwallet.godaddysites.com
-aave-app.org
 aave-box.com
 aave-dashboard.com
 aave-vote.io
@@ -151,6 +150,7 @@ allocation.monadtokendaofi.net
 alphabot-app.xyz
 alt-laeyer.xyz
 altdotfun-vote.xyz
+altlayer.study
 ami-coinbase.live
 amino-rewards.com
 amlanalysis.org
@@ -185,6 +185,7 @@ app-flaregovernance.xyz
 app-games-kn5.com
 app-getrxusd.xyz
 app-holdium.pages.dev
+app-hype.xyz
 app-linea.co
 app-odosxyz.vercel.app
 app-oplimism.io
@@ -447,7 +448,6 @@ cloud-ledgerr-info.pages.dev
 club-htx.com
 clusters.exchange
 co.llab-verify.top
-coachjv.net
 code.blast-drops.com
 coin-base-pro-logn-io.pages.dev
 coinbase-authorize.co
@@ -561,7 +561,6 @@ dmail-claim.pages.dev
 dmitricherniak.xyz
 dmmbitcoin.org
 documentation-lybra.network
-dodoex.xyz
 dogsnotco.club
 doodles.mintingsmart.io
 dookeydashmeta.com
@@ -604,7 +603,6 @@ en-trzor-io-start.framer.ai
 en-upheld-us.created.app
 en-us-coinbse-extnson.pages.dev
 en.login.secure.amlsecure.org
-eng--uphuld.created.app
 engage-safe.com
 engcoinbse.wixstudio.com
 enggmergeapps.com
@@ -619,7 +617,6 @@ enter-optimism.xyz
 entry-bitget.com.cn
 enusexodus.wixstudio.com
 erc20.site
-ercaccountexpertcashyield.help
 ercusdt21.com
 et-bounty.com
 eth-jpyy.com
@@ -750,6 +747,7 @@ hamsterbonus.fun
 hansterkombat.xyz
 hashresponder.info
 hdstream2.com
+help-krkenlogn.pages.dev
 help.maindex.io
 hodlhindsight.com
 hollow-coat-immense.on-fleek.app
@@ -774,7 +772,6 @@ hyprerswap.com
 i4jh16.com
 iclaims49.vercel.app
 icomarks.fun
-id.phantm.me
 ide-remix-ethereum.icu
 ideggenai.site
 iensprotocol.co
@@ -857,6 +854,7 @@ kstar-nft.quest
 kta.us.cc
 ktx-app.cc
 ku-cinlogginsef.godaddysites.com
+kucoin236.com
 kucoinblock.com
 kucoinevents.com
 kufrex.com
@@ -890,7 +888,6 @@ leimar0.blogspot.com
 letsexchange.app
 licoin.net
 lido-airdrop-portal.web.app
-lido-rewards.xyz
 lidoconnect.fi
 lidofi-eth2.com
 lidorium-lab.com
@@ -1023,6 +1020,7 @@ mtsn1pnd.web.id
 multibitstaking.com
 multichain-en-protocol.org
 multichain-tokenguidelauncp.shop
+multichaindefisavers.xyz
 multichainsfix.com
 multichinpros.shop
 multidappconnectingblockchains.xyz
@@ -1096,7 +1094,6 @@ onchabbvcde.com
 onchaincryptowallet.com
 ondofinance-claim.in
 ondoperps.shop
-ondovoting.com
 oneinch.link
 ons-okx.com.cn
 opensaebox.vercel.app
@@ -1183,6 +1180,7 @@ plkamoon-presale.com
 plum-antelope-493818.hostingersite.com
 plunodeaisgrifted.info
 pluschainauth.top
+poah-genesis.netlify.app
 podari-me.com
 poh.llnea.xyz
 polkergame.netlify.app
@@ -1679,7 +1677,6 @@ whitelist-welikethefox.com
 whitelisting-sea.com
 whm.mail.register-radiant.com
 whopconnect-verify.github.io
-wildcard.mokasl.riversidea.com
 winspin.me
 winter-sappyseals.com
 wisemonkymeme.pages.dev
@@ -1858,7 +1855,6 @@ znode.rlvalz.space
 zoom-meeting.invite-us.workers.dev
 zoom-update.live
 zoomconferenceapp.com
-zoompalert.win
 zoraco.co
 zsxxlyfs.com
 zyberswap.xyz

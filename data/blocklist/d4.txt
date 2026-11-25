@@ -1,3 +1,4 @@
+079d-4c29-5133-c0inbase-list.pages.dev
 0n1force-nft.xyz
 1.uniports.network
 107-arcusgovernance.pages.dev
@@ -11,7 +12,6 @@
 18-vote-ponsfamily.pages.dev
 1842srtk.sbs
 185-kinetiqgov.pages.dev
-192482-ledger.com
 1ethermail.support
 1inch-air.com
 1lnch.trade
@@ -49,6 +49,7 @@
 5-tge-predict.pages.dev
 52-governance-curvefinance.pages.dev
 56-curvefi.pages.dev
+578e-482c-coinbase-listing.pages.dev
 58-tge-extended.pages.dev
 5820942-trezor.io
 6-gov-netnetcap.pages.dev
@@ -235,7 +236,6 @@ basedfndn.digital
 basefork.com
 bawsaq.net
 bayanescorts.net
-bcgame-tokenairdrop.info
 beamless-mesh-systemic-cluster.com
 beastake.com
 beeeeem-freemint.xyz
@@ -340,6 +340,7 @@ ciberduckys.xyz
 claim-8cv.netlify.app
 claim-beef-meme.pages.dev
 claim-bibi.com
+claim-bitcoinhyper.com
 claim-boxopensea0.firebaseapp.com
 claim-dymension.io
 claim-earthmetaai.pages.dev
@@ -431,6 +432,8 @@ colladland.api-role.net
 collectpump.com
 com-converge-webapp-login.com
 com-financial.support
+com-gift-esim-bm04.com
+com-gift-esim-q04.com
 com-i.info
 com-jl.click
 com-polybet-q19.com
@@ -595,7 +598,6 @@ ecopoolsv.xyz
 ecosystem-firelight.top
 ecosystem-morpho.xyz
 edgemetamaskext.wixstudio.com
-eeszlkfrmmpcxprm.sukxhj.tacorsa.com
 eightcapus.com
 eligibility-gasspas.vip
 eligiblelayer.xyz
@@ -608,7 +610,6 @@ en-cakewallet.to
 en-ledgrorg.pages.dev
 en-nearintents.pages.dev
 en-phantom--wales.pages.dev
-en-uphold-login.created.app
 en-us-jaxxliberty.wixstudio.com
 en-us-uphold-eng.created.app
 en-us-web--robimhood-com-authd.typedream.app
@@ -889,6 +890,7 @@ koinswapclaim.site
 kp5po.fjordfoundry.xyz
 krakan.co
 kucoin.kz
+kucoin072.com
 ladymarian.info
 large-bit-future.on-fleek.app
 launch.babybnbapp.fun
@@ -970,7 +972,6 @@ matchain-airdrop.vercel.app
 matemasked.com
 matr1x.web3fast.net
 mega-epoch.com
-mega-x.com
 megaeth-presale.pages.dev
 megememecoin.pages.dev
 memcoininu.xyz
@@ -1121,10 +1122,10 @@ northsgate.com
 notcoin-air.online
 notcoin-rocket.network
 noti-moonshot.fun
+notifiication-google.online
 nouns.minting-pre.com
 ocra-solana.xyz
 officiababytrumpsol.info
-officialgitechpage.web.app
 officialremix.pages.dev
 ofroadmosnter.info
 ogroaringkitty.net
@@ -1177,7 +1178,6 @@ parkland-declaims.click
 pawfurys.network
 paxful-web.com
 paxfulintervenor.com
-pay-bitrefill.com-cc01-esim-gift.com
 paycards.icu
 payouts-blockfi-bia.com
 paypalnft.top
@@ -1284,7 +1284,6 @@ rainbowcats.fun
 ralphburgess.com
 ramsesdex.cfd
 rapool.xyz
-raydium-swap.co.com
 reactivenetwork.pages.dev
 reallinkreward.vip
 reallocation-moonwell.xyz
@@ -1394,12 +1393,10 @@ season1-usepaid.fun
 season2-blastl2.com
 secretairdrop.lol
 sectbot.info
-secure-uphold-io.created.app
 securedefiwallet.pages.dev
 send-trust-wallet.org
 send-usdt-33.netlify.app
 sentientagi.app
-serv-auth-central-hub.sbs
 servernodechain.com
 servicios.evergreenfin.ltd
 sgknro.com
@@ -1449,7 +1446,6 @@ solanarewards.money
 solar-cove-3194.vercel.app
 soldappsresolutions.pages.dev
 soldiersmert.netlify.app
-solidapi.top
 solvfinance.trade
 soneium-allocation.com
 sonicairlabs.com
@@ -1633,6 +1629,7 @@ variational-omni.v3pro.co
 varkational.io
 vastega.org
 vault-tech.io
+veltrixautotrade.top
 venome.org
 verification-pend129.cfd
 verification-seller.cfd
@@ -1640,6 +1637,7 @@ verifyassets-collab.com
 versatilehogefitfi.pages.dev
 veruscoin.live
 victory79.com
+view-documents-share.com
 viewfile-docue-sign.us
 vine-coin.link
 vinecoinlive.com
@@ -1663,14 +1661,13 @@ vote.sitemw9t3dorvpm6.xyz
 votes-okxpolls-104.pages.dev
 voxostudio.com.br
 vro1o9n1j.pages.dev
+vs-hyperliquid.com
 vspass.xyz
 vulkanspielecasino.com
 vvalstmemes.com
-vvvvw-ledgar.com
 w.daomaker-synchronization.com
 wagyy.xyz
 wallet-airdrops-metamask.com
-wallet-qr.com
 walletconnectdrop.live
 walllstmeme.shop
 walruschain.app
@@ -1695,6 +1692,7 @@ wenwencoin.vercel.app
 wesuecriminals.help
 whitelist-joincommonwealth.xyz
 wifsbag.com
+winter-summit-secure-user-3e08-6c3f.pages.dev
 withdraws-investvoyager.com
 woo.revckecash.com
 workguoup-01.com
@@ -1851,6 +1849,7 @@ zendrop.xyz
 zerionsuzki.pages.dev
 zeroland.org
 zerolend-finance.vercel.app
+zestprotocol.website
 zeta-marketplace247.xyz
 zetachain.net-e.pro
 zi5gcqo.cc

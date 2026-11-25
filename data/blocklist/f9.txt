@@ -60,6 +60,7 @@
 374722-ledger.com
 374832coinbase.com
 38-governance-kinetiq.pages.dev
+393843coinbase.com
 397-reallocate-flare.pages.dev
 4-gov-veniceai.pages.dev
 40-vote-ponsfamily.pages.dev
@@ -168,6 +169,7 @@ allocation.juicesfis.trade
 allocation.mocaversedao.events
 allocationdymension.xyz
 allocations-usdai.fun
+allocations-xstocks.xyz
 almanak.lol
 alphabetnetwork.info
 alphasteemloom.pages.dev
@@ -242,6 +244,7 @@ archltex.tech
 arkham-ai.com
 arkm.t-wallets.top
 art.optinnism.com
+arteoros.com
 artoscoin.com
 asset-babyioniabs.org
 assetvalidations.info
@@ -250,8 +253,6 @@ aszbap.com
 atec.network
 athene.events
 audius-verification.com
-auth-upheld-sso-en.created.app
-auth-upholld.created.app
 authweb3sz.cf
 availprcject.com
 avaxrats.xyz
@@ -306,7 +307,6 @@ bitget-help.pages.dev
 bitget.mba
 bitget.work
 bitrefill-bonus.lovable.app
-bitrefill.com-gift-esim-am04.com
 blast-bridge-ui.netlify.app
 blast-l2invite.com
 blaster.events
@@ -501,6 +501,7 @@ colonyename.ru
 com-6k8n.lol
 com-a.xin
 com-ledger.com
+com-o04-gift-esim.icu
 com-webapps.com
 communitmetaverify.com
 community-xrpl.com
@@ -514,7 +515,6 @@ connect-hyperbolic.xyz
 connect-meteora.wixstudio.com
 connect-teams.icu
 connectsmartdapps.com
-convergewithvelix.com
 cornerlayer.xyz
 cornerswaps.me
 cowswap-roi.com
@@ -649,7 +649,6 @@ enssomynetcoinapps.wixstudio.com
 enter-code-cdn.info
 enter-venus.org
 erc-fix.onrender.com
-ercrefundpartners.help
 escalates-x.com
 etfs-grayscale.com
 eth-cros.com
@@ -759,6 +758,7 @@ futureyieldinvestment.com
 fxdx-claim.live
 fynestx.cc
 g2ho.cc
+gaidiz.blog
 galxe.campaign-launch.quest
 gamble.claims
 gamdomcom.com
@@ -798,6 +798,7 @@ governance.yieldbasis-allocations.top
 grass-foundation.pro
 grassfoundation.vip
 grok-erc.dev
+grokie.solroom.cc
 gt-protocol.live
 gtastarock.com
 gtcfxlq.com
@@ -809,7 +810,6 @@ hamster-airdrop.cfd
 hamsterkombat-6w4.pages.dev
 hamsterkombatv2.sbs
 haovv.app
-havspuyq5ghavspuyq5ghavspuyq5ghavspuyq5g.wait.prime-tex.com
 hdaiqfnumber.bond
 hdfidhiwuaf.lol
 hedgies4more.com
@@ -867,7 +867,6 @@ initia.click
 initiafdn.app
 insureconcrete.com
 interests-yieldbasis.life
-intro-uphload.created.app
 inzyseqdkzpwpfc.space
 io-c.lol
 io-change.beer
@@ -896,6 +895,7 @@ jupiter-rewards.click
 jupiter-solution.link
 jupiter.in.net
 jupiterclaim.live
+juplter.solroom.cc
 kaito.events
 kanpaipandas.site
 kaspa-org.events
@@ -970,6 +970,7 @@ looks-rarer.com
 loyal-coin.in
 loyals.promo
 luckhunter.icu
+luna-deployer.trade
 lxlxj.pro
 m-svipcoin.com
 m.blocxhuba.com
@@ -1204,8 +1205,6 @@ participate-flarefoundation.xyz
 pauly-drop.com
 pawpenny.xyz
 paxful-trade.com
-pay-bitrefill.com-c01-esim-gift.com
-pay-bitrefill.com-gift-esim-bd04.com
 paybox.live
 pc-apps.org
 pcylccity.com
@@ -1294,10 +1293,10 @@ pulsechain.one
 pumanitropass.com
 pump-voting-ny.netlify.app
 pumpbroadcast.live
+pumpcommunitypointsdashboard-kmwsd-jzfsdj58.netlify.app
 pumpfun-7s0.pages.dev
 punks2023.xyz
 pupmfun.trade
-purplebitcoin.sbs
 putrug.top
 puvez.com
 puzzlemania0g.xyz
@@ -1321,6 +1320,7 @@ radiant-capital-defi.com
 radiantcapital.money
 rain-betcasino-com-4tu.pages.dev
 rain-io.pages.dev
+rainbet-promo-code.com
 rainbet-suisse.ch
 rainbetit.it
 rainbets-casino-aus.com

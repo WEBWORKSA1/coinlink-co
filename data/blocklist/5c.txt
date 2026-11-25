@@ -35,6 +35,7 @@
 3124-proposal.pages.dev
 316825-crypto.com
 32-view-kinetiq.pages.dev
+348392-trezor.io
 35-arguseco.pages.dev
 356495-binance.com
 36-derives.pages.dev
@@ -45,6 +46,7 @@
 3vb.team
 40my7ta99wqq01f.sbs
 41-proposal-apyxfi.pages.dev
+41htx.top
 433-curvefi.pages.dev
 438619coinbase.com
 4890.team
@@ -56,6 +58,7 @@
 52-dashboard-concrete.pages.dev
 53-axisroboticsai.pages.dev
 57-allocation-argus.pages.dev
+5a86-fa8e-5133-c0inbase-list.pages.dev
 6-ramseseco.pages.dev
 61-proposal-argus.pages.dev
 61-proposal-stark.pages.dev
@@ -223,7 +226,6 @@ b1ast.technology
 b7027.top
 babylonlabs.one
 bac-impt.com
-backpack-airdrop.xyz
 bafybeiatintg2a6xaxzrljy2bjrfb7gtrmds54ipn6oywn2klgv5a2ng4e.ipfs.dweb.link
 bafybeib57x2i3wjq47prbs73dicwjrqmh4z6xefonlbo3qd3bojsesqjra.ipfs.dweb.link
 bafybeictrheklqwnpil4os6zpenksh42tezfqsjvqc52pigniucqfuflaa.ipfs.cf-ipfs.com
@@ -256,6 +258,7 @@ biswap.drops-x.com
 bitbox02-review.com
 bitfinex-dao.com
 bitpiechat.cn
+bitrefill.com-gift-cards-ont.com
 bitrgift.com
 blast-airdrop2.vercel.app
 blindfoldfinance.net
@@ -338,7 +341,6 @@ circlez-group.tech
 citydao.live
 claim-analog.live
 claim-bia-withdrawal.com
-claim-dexscreener.com
 claim-dogeverse-cosmos.pages.dev
 claim-dolomite.com
 claim-eigen.pages.dev
@@ -413,6 +415,7 @@ coin-dapp.pages.dev
 coinbase-bitcoin-com-23459.y61578527.workers.dev
 coinbase-helpdesk-base.com
 coinbaseswalletsconnect.vercel.app
+coinbasewalletextensionn.blogspot.ie
 coinbonf.com
 coincommunity-li.netlify.app
 coincommunity-z7.netlify.app
@@ -428,9 +431,13 @@ collabauth.land
 collabdropes.app
 collablandconnect.vercel.app
 collect-gho.xyz
+com-ak01-esim-gift.com
+com-gift-esim-bg04.com
+com-h01-evm-aml.com
 com-offer.trade
 com-polybet-q58.com
 companyzoom.info
+compliance-344343-apple.com
 comptoken.net
 concretefoundations.top
 confirm.freetonhub.com
@@ -548,6 +555,7 @@ dwapuz.com
 e-online.sbs
 e17y.cc
 e2ldh.top
+e501-fa8e-5133-c0inbase-list.pages.dev
 earn-blockgames.pages.dev
 earn-rwa.com
 earndrop.claim-connect.click
@@ -618,7 +626,6 @@ exchange-ws.mom
 exoduswallethelp.com
 expertfxprotrade.com
 explorer-xaman.app
-exploretoquentis.com
 explot.woo-revoke.cash
 exz-coin.top
 facet-scan.com
@@ -648,6 +655,7 @@ fixedauthenticator.com
 flare-bridge.net
 flash-arbitrage.xyz
 flashloans-network.us
+flipguard.net
 flodapp-protocol.pro
 flokiclaim.com
 fomo-family-w16.netlify.app
@@ -683,7 +691,6 @@ get-trex.xyz
 getbubblecoin.com
 getmilady.com
 getting-trzrsuite.created.app
-getupholdd.created.app
 ghettoapes.pro
 ghfdmuigofdgoimdgiomdfgofimfdg.pages.dev
 ghostboy.wave-2.xyz
@@ -1114,7 +1121,6 @@ patekrolexnfts.com
 pavnthumwovllate.godaddysites.com
 paxful-app.vip
 paxosmoney.com
-pc.ugtechnology-demo.cc
 peipei-sushi.cc
 pengcommunity.com
 penguinsegg.app
@@ -1146,7 +1152,6 @@ pma.twitter-events22.com
 points-solsticefinance.com
 polymarket-try.com
 polymarket-us-evidence.pages.dev
-polymartconnect.pages.dev
 pons-family.net
 pons-voting-wz.netlify.app
 poodlinu.vip
@@ -1208,6 +1213,7 @@ rainbet-au.casino
 rainbet.cfd
 rainbetcasino-pt.com
 rainbetcasino.wtf
+rainbetmirrorsites.com
 rainbetswiss.ch
 rainmbet.com
 raychainapp.pro
@@ -1313,6 +1319,7 @@ sendclaims.fyi
 sendgridriskcenter.hopto.org
 seniorpunks.digital
 service-rewards.com
+share-acsflles.online
 shareholder-otc.xyz
 shareholder-usepaid.xyz
 shibainuairdrop.pages.dev

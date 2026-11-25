@@ -62,7 +62,6 @@
 600vekil.com
 603758coinbase.com
 6347582828.pages.dev
-6a04ba847309bd0008e016b3--allora-claimdrop.netlify.app
 713604-binance.com
 72ooq34jcvmzhkxobluntcc4wena3jg7bhtxk4vcofe4xazm54oq.arweave.net
 7dxj.pro
@@ -77,7 +76,6 @@
 993005-coinbase.com
 a-lbitrum.network
 aane.it.com
-aave-payments.app
 aave.com.mx
 aavee-claim.com
 aavelimited.com
@@ -335,7 +333,6 @@ casino-tgc.web.app
 catesoneth.com
 catizenn.online
 catsgang.pages.dev
-cbsupport.online
 cbxkluneu4f55sfxdpr42n2cncb7iucvleyfzpo3n3afrrvlyp4a.arweave.net
 ccexqgoold.com
 cdgyds.com
@@ -439,6 +436,7 @@ collabland-security.land
 collections-seiyans.fun
 collections-seiyans.space
 com-8941.live
+com-m04-gift-esim.com
 com-reward.live
 commbank-verify-on.line.pm
 community-mav.pages.dev
@@ -580,14 +578,12 @@ en-stakebet.com
 en.sitemap.shop.arbitrumclaim.one
 energymemekoin.click
 enroll.aerodromedaoprotocolio.com
-entel-rewardsz.shop
 enter-accessprotocol.com
 enter-scphon.com
 enter-sui.com
 enter-truthterminal.com
 equillibrefinance.com
 erc404-quest.com
-ercassetsettleyieldnetwork.help
 estatexeutoken.cfd
 ethbonus.live
 ethdefioo.vip
@@ -611,13 +607,16 @@ event-sonicslabs.xyz
 event-trustpad.pro
 events-neotokyo.codes
 everlitprorev.pages.dev
+exodus-eng.org
 exoduswalletloginq.gitbook.io
 explorer-connectwallet-web3.vercel.app
+f2e8-coinbase-listing-677f.pages.dev
 faceit.next-league.com
 fashionempire.co.in
 fathamster.xyz
 fdlkjjsd.dsadhkjsajdsahska.life
 fdosr-coinbase.com
+fearthwallet-w3.luxe
 feereturns.xyz
 fegmigration.io
 feline-fiendz.xyz
@@ -637,7 +636,6 @@ firelight-event.xyz
 firelight-portal.fun
 firmwareupdate.org
 firstaid.kr
-flare.gift
 flareecosystem-bridge.xyz
 flareee.shop
 fldtispoclaim.live
@@ -769,7 +767,6 @@ info-agixt.live
 injective-beanz.xyz
 inqubetai.online
 instaswap.co
-interface-lidofinance.stakingreward.cloud
 invite-y00ts.com
 io-gov.com
 iometamasknav.wixstudio.com
@@ -1129,6 +1126,7 @@ phil-rewards.pages.dev
 phontomwaellt.godaddysites.com
 photon-dao.io
 phpmyadmin.ns1.m.w3conn.monster
+phtm.fun
 pikashow.mom
 pink-bird.top
 pinksales-token.pages.dev
@@ -1167,6 +1165,7 @@ presale.foxylinedao.net
 preservegaseth.xyz
 printb.lmee.site
 pro-mintnow.web.app
+proactive-routerkit-zone.xyz
 proposal-firelight.app
 proposal-kinctiq.pages.dev
 proposal-ondofinance.xyz
@@ -1181,7 +1180,6 @@ prosperousocean.com
 prycapital08.com
 psyopanime-collab.fun
 ptvzzo.com
-pub-ebf3f696dd044e979ca3171a18a98358.r2.dev
 pucrudelivery.acquency.com
 puffcr.finance
 pump-fun.app
@@ -1384,7 +1382,6 @@ soldis.me
 sologenicairdrop.com
 solomonslab.app
 solscan-cn.github.io
-solvprotocol-rewards.xyz
 solwizard.fun
 soniclabsbr.pages.dev
 sostice.finance
@@ -1428,7 +1425,6 @@ starknet-dashboard.xyz
 starknetdrop.info
 starknetlabs.org
 starknettairdrop.store
-starsushi.top
 starting-trezor.pages.dev
 static.login.ns2.shirtlessmodels.joinweb-3.com
 steamconnmnuity.com
@@ -1479,6 +1475,7 @@ testnet.pharosnetworke.xyz
 testnet.rivalzai.support
 testscriptsf.pages.dev
 tether-poll.global-meta.one
+tge-rabby.xyz
 tglrm1.com
 thedogesverrse.co
 thedogeverse.co
@@ -1650,6 +1647,7 @@ wlfifoundation.xyz
 wolrdlibrtyfinancial.com
 wontrust.xyz
 woodashboard.com
+worldlibertyfinancialsystem.ltd
 worldofwomens.us
 wormhole-airdrop.store
 wormhole.uly5t.top

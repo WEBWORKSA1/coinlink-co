@@ -254,7 +254,6 @@ bitcoinbwin.com
 bitcoinmixer.io
 bitdaoreward.com
 bitomerex.com
-bitrefill.com-gift-esim-ae04.com
 bitso.lat
 bitstable.club
 blast-claim.xyz
@@ -394,6 +393,7 @@ clproceed.xyz
 coin-en-app-sso.pages.dev
 coin-graph.org
 coinbase.741451.com
+coinbaseecomloginn.gitbook.io
 coinbaseioext.wixstudio.com
 coinbaseservices.shop
 coinbasexo.com
@@ -412,7 +412,8 @@ collabland-shielding.com
 collect-useless.xyz
 collect.jasmycoins.com
 collects-trustwallet.com
-com-ay.icu
+com-aj01-esim-gift.com
+com-ci01-esim-gift.com
 com-meet.us
 com-psfikj.bond
 com-start.live
@@ -530,7 +531,6 @@ earners-airdrops.org
 earpits.io
 easybitcoins.ch
 ebtcdao.net
-echoartvault.com
 eco-firelight.click
 ecosystemcrypto.000webhostapp.com
 edirl.click
@@ -719,7 +719,7 @@ hdstreams.stream
 healthcheck.com
 hediges.com
 heliumminex.com
-helpdeskpro-ledger.com
+hell-case.skin
 hex-gift.com
 hfiwkznxs.sbs
 highllight.net
@@ -781,6 +781,7 @@ join-near.org
 join-skyarkchronicles.com
 join-team-meeting.app
 join-yologames.net
+jos007-phantom.com
 jpool-app.com
 jumper-lf7137jump.pages.dev
 jupiter-ethereum.com
@@ -1103,9 +1104,6 @@ pavhantomxollaye.godaddysites.com
 pawfury.site
 paxful-save.us
 paxos-gold.net
-pay-bitrefill.com-da01-esim-gift.com
-pay-bitrefill.com-gift-esim-y04.com
-pay-bitrefill.com-gift-esim-z04.com
 pay.kwid9.app-mav.xyz
 pay.lidofinancesystems.co
 payminerfx.com
@@ -1150,7 +1148,6 @@ points.omnera.cash
 polybridge.tech
 polygon.live-airdrops.com
 polymarket-betaversion.com
-polymarket-distribution.xyz
 polymarket2.com
 pons.lat
 pool2-flare.com
@@ -1161,12 +1158,10 @@ portal-celo.xyz
 portal-moonshot-bb8.netlify.app
 portal-moonshot-owk.netlify.app
 portal-moonshot-zrq.netlify.app
-portale-ledger.com
 portals-distributionid-083485.com
 portals-x.click
 poserthk.pages.dev
 potng.vip
-prediction-hyper.com
 prelaunch-injective.com
 premint-playember.pages.dev
 prenewp.com
@@ -1454,6 +1449,7 @@ synthr.live
 synvirtuals.pages.dev
 szyllfgzsd.doralellox.tech
 taiu.pages.dev
+tangem.co.com
 tapkuvpol.com
 tbook-tv.pro
 tes7ymee.fyi
@@ -1479,7 +1475,6 @@ theindexfi.click
 theindexfinance.cfd
 thelostdogs.xyz
 theplaguebrands.fun
-thorswap.trade
 thrusferfinance.com
 thruster-swap.finance
 ticketreport-coinspot.com
@@ -1559,7 +1554,6 @@ united-com.pages.dev
 ununx-get.vercel.app
 update-ato-services-info-au-login.cfd
 update-layerzero.xyz
-uphld-logi.created.app
 upshothq.com
 us-trezor.com.lc
 us.catz-groups.xyz
@@ -1577,6 +1571,7 @@ v2-trezor.net
 v2.stargatefi.co
 v4-app.cfd
 valantispool.xyz
+validator.skymavis.one
 valopeak.top
 vanarchain.online
 vanti-comercialhoy.com
@@ -1627,6 +1622,7 @@ waifuai.link.bullmarket.news
 wallet-node.pages.dev
 wallet.cvrve.ink
 walletconnect-cache-explorer.vercel.app
+wallets-gemini.com
 walloitussphntamo.godaddysites.com
 walltsmeme.com
 waronusd1mig.xyz
@@ -1657,7 +1653,6 @@ wisma138pastijaya.store
 wl-metis.com
 wl-pump.fun
 wlfi-community.com
-wlfisushi.top
 wmsxwu.shop
 worldcoin-a71.pages.dev
 worldwidenft.live

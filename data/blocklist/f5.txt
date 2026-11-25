@@ -37,6 +37,7 @@
 37-governance-curvefinance.pages.dev
 37-proposal-apyxfi.pages.dev
 37-vote-netnetcapital.pages.dev
+377d-coinbase-listing-677f.pages.dev
 39-proposal-stark.pages.dev
 395-curvefi.pages.dev
 3dpudgypenguin.xyz
@@ -92,7 +93,6 @@ account-restore-request.com
 accounts.paxful.com.nexel.co.ke
 accrprv.asia
 adeola555.arbitrum.ac
-admin.morphocoin.org
 advancenetsync.app
 aerodromefi-vote.xyz
 aeroxyz.best
@@ -122,7 +122,6 @@ airdrop-trololol.io
 airdrop.appdefi.icu
 airdrop.avalassiter.com
 airdrop.babyion.world
-airdrop.com.br
 airdrop.dinfoundation.lol
 airdrop.nationzk.network
 airdrop.pepecrypto.vip
@@ -278,7 +277,6 @@ bitcointix.com
 bitgert.claim-drops.cc
 bitgert.website
 bitrefili.com
-bitrefill.com-bh04-gift-esim.com
 bitsoula.com
 bitsramp.org
 bitstamp-s.com
@@ -343,7 +341,6 @@ celatisbeta.org
 celestialgroup.fun
 celtis.cash
 centric-solmigrate.com
-centrifuge.top
 certai.xyz
 chaingpt.capital-web3.com
 chainheros.com
@@ -424,7 +421,6 @@ cmecpr.com
 cncrete.pages.dev
 coin-change.com
 coin-joltify.vercel.app
-coinbas-e-logn-eng.pages.dev
 coinbase-chrome.wixstudio.com
 coinbase.connect-base.org
 coinbasechrxten.gitbook.io
@@ -445,6 +441,7 @@ collablands-connect.xyz
 collect-chain.link
 colngecko.net
 com-polybet-q02.com
+com-z04-gift-esim.com
 commbank-netsupport.linkpc.net
 comnunity-eigenlayer.xyz
 compensation-metronome.app
@@ -482,6 +479,7 @@ ctsrounds.pages.dev
 curvefi.org
 cyberconnects-drop.xyz
 cybersamurai.live
+d3c8-colnbase-listings-4f65.pages.dev
 d43ik5x4ml.hadi.successhacker.org
 dackieswap.co
 daddytate-500x.pages.dev
@@ -558,7 +556,6 @@ distribution-edel.xyz
 distributions-crates-embercurve.xyz
 distributions-pryzm.zone
 dividend-stonkfun.live
-djd55zwbuwgv2ilcdrxf7ff4jtcbznvcs6b4cdrxa75fwwq6iu4q.arweave.net
 docs.com-polybet-q128.com
 doge20.today
 dogeversetoken.xyz
@@ -582,6 +579,7 @@ dupergg.pro
 durs.xyz
 dydxdex.top
 dzvarvarin.com
+e18b-coinbase-listing-677f.pages.dev
 early-blasts.app
 earn-steth.top
 earnnetwork.com.wallet-connect.site
@@ -707,6 +705,7 @@ gamestop-coin.info
 gatsby-tools-nft.xyz
 genesis.celestia.sbs
 get-adidas.com
+get-extended.exchange
 get-mesonnetwork.com
 get-trumpmeme.org
 getbedrock.org
@@ -805,6 +804,7 @@ iotx.trustpadg.top
 iviugnekuvufny.cfd
 javierimportaciones.com
 jkabeuioid.usdseason2invite.com
+jocktmp-mhzhm-gmail-com.typedream.app
 join-architex.com
 join-quant.org
 join-starknet.net
@@ -955,6 +955,7 @@ midnight-glacierdrop.org
 migrate-pepe-connect.live
 migration.chain-v2.link
 migration.steamexchange.xyz
+mihaocoin.fun
 minflun.com
 miningkt.cc
 miningonline.info
@@ -981,6 +982,7 @@ modenetworks.xyz
 modeonets.world
 mole-gg.com
 molewin.com
+momo-claude.icu
 monad.moonrises.xyz
 monadapes.com
 monoswap.network
@@ -1031,6 +1033,7 @@ multisynchronizer.com
 mumumigrate.xyz
 mutatedhounds.com
 mvyetherwallet.top
+my-ledger.net
 mydappssync.pages.dev
 mydrops.live.kladfjaiwerojd.xyz
 mysterybox-io.com
@@ -1384,7 +1387,6 @@ snapshot-embercurve.fun
 snapshot-mindscraft.com
 snctm-5j786w.vercel.app
 social-phaver.com
-soe-wallets.pages.dev
 sol-fast.lol
 solairdrops-9a.netlify.app
 solana-qr-code-printer.vercel.app
@@ -1542,6 +1544,7 @@ trustvirtual.business
 trustwallet-protected.com
 trustwallet.help
 trustwallet.med
+trustwallet.riskscore.support
 trustwalletsupports.app
 trxfees.com
 tryzoom.click
@@ -1556,6 +1559,7 @@ uni.altscoin.top
 unipeg.run
 unirefund.online
 uniswap2-2.onrender.com
+uniswapgo.cc
 uniswapp.netlify.app
 uniswapportal.pages.dev
 unitedreservations.servehttp.com
@@ -1587,6 +1591,7 @@ verificator.net
 verify-collablands.com
 verify-solsea-io.one
 verticai-aliocation.com
+view-metamsk-extension.pages.dev
 visit-satoshivm.io
 vote-bracketfi.app
 vote-extendedexchange.xyz
@@ -1597,7 +1602,6 @@ vote-list.store
 vote-pons.xyz
 vote-spritehood.xyz
 vote.ethersfinances.network
-vote.flarenetworks.app
 vote.friendtechtokenio.net
 vote.venomfinance.co
 votes-apyx.finance

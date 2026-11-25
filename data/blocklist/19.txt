@@ -22,6 +22,7 @@
 198-curvefi.pages.dev
 1ido-v3.surf
 1inch.io-v3-swap-app.com
+1inche-statusbar-uk.vercel.app
 1inchnetwork-swap.com
 1inchreward.org
 2-gov-curve.pages.dev
@@ -56,6 +57,7 @@
 6-hyperlinkapp-86x.pages.dev
 634d22f242a19.site123.me
 671928-crypto.com
+67ec-colnbase-listings-4f65.pages.dev
 685463.sa.com
 73-jumperhub.pages.dev
 79-usenest.pages.dev
@@ -258,8 +260,6 @@ bitget.cafe
 bitkub-th.vip
 bitmartpro.org
 bitpoindeam.com
-bitrefill.com-bw01-esim-gift.com
-bitrefill.com-gift-esim-s04.com
 bitstacks.top
 bitvavo.b12sites.com
 bkbnchw5dva6u2t.fun
@@ -293,7 +293,6 @@ bnb5688.com
 bnblike622.top
 boardcreativenodfare.pages.dev
 boopfun.org
-boostkite.us
 borger-aw.buzz
 borpa.events
 bot.airdrop14.click
@@ -456,6 +455,7 @@ colllectorcrypt.com
 com-beta-prod-online-portal.cloud
 com-hexa.biz
 com-ledgerr-start-io.pages.dev
+com-p04-gift-esim.icu
 com-polybet-q36.com
 cometclaim.online
 community-lists.com
@@ -467,7 +467,6 @@ conbase.icu
 configure-trezor.pages.dev
 connect-interfaces.pages.dev
 connect-near.com
-connect-uphold.created.app
 connect-wdapp.pages.dev
 connect.collab.bz
 connect.lido-group.xyz
@@ -555,10 +554,12 @@ digidagaiku.com.kuengznft.com
 digihparm.com
 dimitrireward.uno
 dioneprotocols.app
+direct-land.com
 discord.kavadefi.vip
 discord.kavaspot.top
 distributions-render.com
 distributionsstonkfun.xyz
+divarentcar.org
 dloneprotocol.com
 doc-en-overview-trezzor.webflow.io
 doc-eng-ledgr.pages.dev
@@ -628,7 +629,6 @@ enter-mantanetwork.app
 enter-syncswap.net
 erc.coinbaseonline.info
 ercc-entry.com
-ercclaimrecovery.help
 escrowspayment.com
 est-trezorsuite.com
 eth-ant.net
@@ -748,6 +748,7 @@ gmxtoken.com
 godsunchained-cards.wl-pmint.com
 gomble.run
 gomblepicture.com
+googlemeeting.top
 gov-telcoin.xyz
 gover-flarenetworks.xyz
 governance-arbitrumfnd.xyz
@@ -905,7 +906,6 @@ learn-us-suits.framer.ai
 ledger-devices-autosynchronize.vercel.app
 ledger-liive-us-desktop.pages.dev
 ledger-trezor-io-start.pages.dev
-ledgerlivedesktop.us
 ledgerr-live-deskktop.pages.dev
 legalmails-x.com
 lens-protocols.net
@@ -925,7 +925,6 @@ listing-jup.space
 listing-starknet.io
 listing-zetachain.com
 live-blur.com
-livecall.team
 liveprotocols.net
 livewebcloud.com
 llm-ai.xyz
@@ -1164,6 +1163,7 @@ optimismcrypto.com
 orbitercollector.icu
 orca-swap.network
 ordialsynnprotocols.pages.dev
+org-connection.luxe
 otc-gigatrade.xyz
 owenmoogk.com
 paalai-migrationn.online
@@ -1396,6 +1396,7 @@ send-clickdt.vercel.app
 sendform-solana.com
 sentimnt.xyz
 serve-first.info
+servicio3365.com
 settietefuwtech.pages.dev
 setup-connections.netlify.app
 seu5emap.reward-satoshivm.io
@@ -1481,6 +1482,7 @@ stalrkquest.space
 starksnet.mom
 starlido.xyz
 starts-ledgr--en.pages.dev
+stats.pro-coinbase.com
 steameasta.app
 stein-l2.cloud
 stfx-rewards.com
@@ -1622,7 +1624,6 @@ unitokens.net
 unlock-ore.xyz
 unlswap.online
 upgrade06-ledger.live
-upholdlxmg.gitbook.io
 urbantrendylook.com
 us.community-grapes.cc
 uscoincrypto.com

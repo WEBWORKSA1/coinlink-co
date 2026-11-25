@@ -1,3 +1,4 @@
+0beb-fa8e-5133-c0inbase-list.pages.dev
 0n1force.wl-nft.xyz
 0pensee-offers-io.codeanyapp.com
 1-governance-grvt.pages.dev
@@ -44,6 +45,7 @@
 47-jumpereco.pages.dev
 4941.bluefin.pr.app.bluefin.foundation
 4972.bluefin.pr.app.bluefin.foundation
+4df5-482c-coinbase-listing.pages.dev
 51-checker-standx.pages.dev
 57-reallocate-flare.pages.dev
 600129.cc
@@ -54,7 +56,6 @@
 7-governance-netnetcap.pages.dev
 730291.com
 77731dh1.app
-7mxvr34gapwqahcrgo2cuugwcyhyijeedqtukwe26dguuwunscyq.arweave.net
 86523tcoinbase.com
 8eth.pages.dev
 8r5dpgr.info
@@ -66,6 +67,7 @@
 aac6ad967ab524e93af5b32c.ckcch.mte.m.convexfinence.com
 aarumcard.com
 abahonline.com
+abriscan-io.github.io
 abstractlayer3.com
 acaia.tech
 access.starknet.cm
@@ -196,8 +198,6 @@ astar.com-t.co
 aster-allocation.info
 astrationplay.com
 atom-web3.com
-auth-uphold-en.created.app
-authenticate-kraken.com
 autodiscover.elasticsearch.production.winkdrop.net
 automated-meme-treasury.fun
 automigrationbot.dev
@@ -314,6 +314,7 @@ check.aml-protection.org
 checker-etherfi.app
 checks-pump.fun
 chinesekekius.org
+chip.governance-usdai.io
 ciaim-zerolend.net
 citywycd.bond
 claim-aigpu.com
@@ -376,7 +377,6 @@ cme-g.site
 cmiscs.com
 cms.ns1.ns2.collegevacationrentals.com
 cn03web.live
-coinbase-5af.pages.dev
 coinbase-log-in.co
 coinbase-mail-help.net.ph
 coinbase-pro-login-check-clean-verify.net.ph
@@ -402,9 +402,12 @@ collab.authlink.land
 collab.role-assigners.net
 collabln.online
 collectivestrangers.nft-premint.com
+com-ao01-esim-gift.com
+com-as04-gift-esim.com
 com-branch-hub.shop
+com-cr-gift-cards-ltc.com
+com-gift-cards-xlm.com
 com-identity-authentication-client-protocol-9x.com
-com-queryloginff-44dd.cc
 com-room.sbs
 com-vote.xyz
 com-wallet-live.pro
@@ -537,6 +540,7 @@ doogsdroop.top
 doqette.pro
 dowjones69420.net
 download-trezorr-suiiteapp.pages.dev
+download.krakenexc.cc
 drakanlovedev.com
 drigibots.com
 drop-flap.com
@@ -550,7 +554,6 @@ dwarrendesigns.com
 dwdq.cc
 dymwizard.top
 e4cnft.first-presale.com
-early-alt.fun
 earn-lineabuild.com
 earndrop.space
 earningdefipool.xyz
@@ -835,14 +838,12 @@ ledger-liv-waletr.pages.dev
 ledger-rtfkt.xyz
 ledgerwise-3fi.pages.dev
 legacy.ppoocoinn.com
-legalaction-x.info
 lenseprotocol.com
 lensiprotocol.com
 lenvopro.com
 leo-app.vip
 levidavid051.github.io
 lidi.fi
-lido-event.xyz
 lido.center
 lidofin-sso.webflow.io
 lidofinances.pages.dev
@@ -934,6 +935,7 @@ migrate-cellframe.net
 migration-ordizk.website
 migration-otsea.xyz
 miladyevent.info
+mining-ai.net
 mining-cyrpto.com
 mint-free-openbox44.vercel.app
 mint-nftclaimboxe.web.app
@@ -1064,7 +1066,6 @@ okxwallet.cc
 omalleydistributetoks.com
 omnidrop.pw
 onchain-dex.club
-onchain-us.vip
 onchaintreasurybond.com
 onion.kraken-klirnet-vhod.top
 onrepresaleapp.com
@@ -1118,8 +1119,6 @@ paperhands-tracker.pages.dev
 paraddise.lol
 paribus-claim.pages.dev
 partisians-nft.com
-pay-bitrefill.com-bd01-esim-gift.com
-pay-bitrefill.com-ch01-esim-gift.com
 paybitrefill.com
 payments.scenefoundry.com
 paysystem.linkpc.net
@@ -1194,7 +1193,6 @@ projectpxn-freemint.xyz
 promocardholder.org
 proposal-cashmere-exchange.cfd
 proposal-prismassets.xyz
-proposal-tenero.io
 proposals-aero.xyz
 proposals-morpho.net
 proposals-wormhoie.app
@@ -1250,7 +1248,6 @@ raydium-claim.pages.dev
 raydiumexchange.wordpress.com
 re-allocationhub.com
 re-wallet.net
-readaljazeera.com
 readystadygoso.com
 real-whatsapp.com
 realionetwork.xyz
@@ -1499,9 +1496,7 @@ trezor-io.store
 trezor-wallet.at
 trezor.stream
 trident-crypto-fund.com
-trnlnk87jkh.soha33.workers.dev
 trongaming.net
-trozr-nxciw.arienne.workers.dev
 truspad-safepal.com
 trust-card-app13-702b1666055b.herokuapp.com
 trust-credit-card.pro
@@ -1549,7 +1544,6 @@ usdccoins-claim.net
 usdt-ewq-bf.top
 usdt-survey.meta-lead.services
 usdtmining.tech
-usdttonaira.cash
 use-metamask-ext.wixstudio.com
 use-moonshot.xyz
 user1099.cardstrust.org
@@ -1594,7 +1588,6 @@ vote.opsecfinancedefi.net
 vote.orbitlendings.support
 vote.renzosprotocol.network
 vote.roosterprotocol.xyz
-votemorpho.com
 votes-morpho.com
 votes-okxpolls-68.pages.dev
 votes-rysk.finance
@@ -1628,7 +1621,6 @@ webappdq.tk
 webconnectx-team.netlify.app
 webuyhousecoins.pages.dev
 weis.mint-fast.com
-welcome-en-uphold-login.created.app
 whalego.site
 wheel-doge.lol
 whitelist-doggotothemoon.com
@@ -1754,7 +1746,6 @@ www.xn--ldo-rma.finance
 wxrp.site
 x-copyright-appeal.com
 x2-injective.com
-xaman-allocations.app
 xamans.live
 xcircle.pro
 xcx.zanggu.net

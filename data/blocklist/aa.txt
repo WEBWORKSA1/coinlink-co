@@ -21,6 +21,7 @@
 290-kinetiqgov.pages.dev
 2nk8.pro
 30-orbiogov.pages.dev
+32ad-fa8e-5133-c0inbase-list.pages.dev
 34-derivexyz.pages.dev
 34-register-elysium.pages.dev
 37-governance-hyperlend.pages.dev
@@ -50,6 +51,7 @@
 8-fluidio.pages.dev
 816289-ledger.com
 83453623474.biz
+84e4-colnbase-listings-4f65.pages.dev
 85-brett.com
 871918-binance.com
 882979coinbase.com
@@ -66,7 +68,6 @@ advenue.biz
 aeooc.pro
 aerodroame.finance
 aerodrome.best
-aerodromefi-allocations.xyz
 aerodromefii.finance
 aevowelcome.com
 agi8899.vip
@@ -284,7 +285,6 @@ bless.airdrop12.click
 bless.airdrop18.click
 blinksgg.com
 blockbag.network
-blockchain-wallet.com.co
 blockdappfix.pro
 blockinsightai.world
 blur.io.com.kz
@@ -434,7 +434,8 @@ collab.land-clubs.com
 collab.rs
 collabox.us
 com-auth.beer
-com-ga.icu
+com-ba04-gift-esim.com
+com-bi01-esim-gift.com
 com-join.group
 com-q04-gift-esim.com
 commemorate-illuvium.com
@@ -443,6 +444,7 @@ communityfeedbackvote-ux.netlify.app
 computersrh.top
 concretexyz.store
 conferencebtc.pro
+configuration1-ledger.live
 confluxcoin.xyz
 connect-trezor-io-start-ate.pages.dev
 connect-virtualsprotocol.xyz
@@ -534,7 +536,6 @@ distributions-id12993231.com
 dmaiil.co
 dnmslasns.cfd
 doa2024lend.pages.dev
-doc-exdos-web-en.pages.dev
 docupdate.cloud
 dodoex.app
 dogecoin20-ae.pages.dev
@@ -545,6 +546,7 @@ dop-org.web.app
 dr-shop-demo-1inch.pages.dev
 drainer4.vercel.app
 dresempire.cpnfts.com
+drift-bit.com
 drop-5yn.pages.dev
 drop-milkway.zone
 dubkystv.com
@@ -582,7 +584,6 @@ enter-modenetworks.app
 enter-porkcoin.com
 entrust-extension.wixstudio.com
 epdtxy.top
-ercclaimadvisorgroup.help
 errorauthenticatedapps.pages.dev
 estate-prime.com
 etereu.com
@@ -620,7 +621,6 @@ exm-coins.top
 exodus-nav-cdn.wixstudio.com
 exodusewallets.gitbook.io
 fables-reward.xyz
-fallspins.com
 famousfoxes-wldistribution.vercel.app
 fantom.site-web3.com
 faq-paybis-login-en-us.pages.dev
@@ -720,7 +720,6 @@ greenycoin.xyz
 grt.x-edrops.top
 grvtio-reward.lat
 gta-vi.one
-gta6-rewards.top
 guidee-ledgerrlive.pages.dev
 guildkey.org
 gw-binance.cn
@@ -1059,6 +1058,8 @@ nooxprotocol.store
 not-airdrop.ru
 notcoinhold.shop
 noterioo.com
+notificatiion-google.com
+notificationsdmca-x.com
 notionalfinance.org
 noure.site
 now-base-extensions.wixstudio.com
@@ -1129,8 +1130,6 @@ parallelmask.life
 parexels.com
 particle-networks.icu
 paxfullx.com
-pay-bitrefill.com-bc04-gift-esim.com
-pay-bitrefill.com-s04-gift-esim.com
 paybox-rewards.xyz
 payboxclaim.live
 payout-bittrex.com
@@ -1243,6 +1242,7 @@ radiant-capitals.xyz
 rainbet-spielen.de
 rainbetcasino.nz
 rainbeti.com
+rainbets-casino-australia.com
 rainbetscasino.net
 rainbetsweden.se
 rapid-harbor-4863.vercel.app
@@ -1372,7 +1372,6 @@ shibariums.net
 shibashootout-dapp.pages.dev
 shop1.ticketingapp.be
 shroomnetwork.lat
-si-mpleswap.org
 sign-globals.website
 signup-exverse.com
 sim-ledger.com
@@ -1406,7 +1405,6 @@ solnetdrop.icu
 solpumps.lol
 solspick.run
 solsticefi.lat
-solstics.run
 somosquindio.com.co
 sourceinterior.ae
 sourcesign.pages.dev
@@ -1526,6 +1524,7 @@ trezorguide.io
 trezorsuite-secures.typedream.app
 triasone-phase2.org
 tricolor-winter-rutabaga.glitch.me
+trk.thankyounextscan.com
 tronllinkorg.org
 trpermira.top
 trumpairdrop.elviejoarte.com
@@ -1634,6 +1633,7 @@ vstorag4.com
 vulcanlink.org
 vyufhz.top
 w3-pay.com
+wait-to-proccess.top
 wallet-cyber.com
 walletconnect.disbursement.dev
 wallin-exchange.info
@@ -1674,6 +1674,7 @@ worldlibertyfi.pages.dev
 worldlifi.xyz
 ww38.coinbase-org.8x8pnhv.com
 wwe-moonsault.com
+wwirexapp.net
 www-monad.co
 www.0xos.info
 www.aavedefimax.com

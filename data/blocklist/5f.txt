@@ -51,7 +51,6 @@
 28-proposal-globaldollar.pages.dev
 280-lists-okxvotes.pages.dev
 292-kinetiqgov.pages.dev
-2fn6.com
 2mvycda.icu
 3-ethenagovern.pages.dev
 31-hub-treadeco.pages.dev
@@ -86,6 +85,7 @@
 885788.app
 886585-binance.com
 889819-ledger.com
+890382-crypto.com
 8cclo9w.pro
 9-allocation-yieldfields.pages.dev
 914583-crypto.com
@@ -223,6 +223,7 @@ asterdexdapps.pages.dev
 asterscz-allocationed.xyz
 atomic-coin.com
 atomik.cc
+aurafi.study
 auth---trzorsuite.webflow.io
 auth-identity.com
 auth-paybis-login-io-us.pages.dev
@@ -281,9 +282,7 @@ bitcoinmintrix.info
 bitfiyer-3e23-b6de5.bitfiyer-mzkje.com
 bitigift.com
 bitlino.today
-bitmartbtc.com
 bitnaf.com
-bitrefill.com-q01-esim-gift.com
 bitsouyn.com
 bk-7339-j.vercel.app
 black.blust-up.com
@@ -359,6 +358,7 @@ cheapairoffers.com
 checker-mavyrk.xyz
 checker-zora.lol
 cheqdnetwork.pages.dev
+chicfaceskin.com
 chiliz.site
 chintaisnexus.com
 chookyrecord.com
@@ -380,7 +380,6 @@ claim-megaeth-airdrop.info
 claim-nft.com.ape-nft.org
 claim-orbiter.finance
 claim-pudgypinguins.com
-claim-rlusd.club
 claim-sentient.pages.dev
 claim-slulilend.gay
 claim-sonicslabs.app
@@ -450,6 +449,7 @@ com-polybet-q33.com
 com-polybet-q73.com
 com-stack.beer
 com-visual-web.bond
+com-y04-gift-esim.com
 community.ab7b123ef47170333in.webexodus.store
 communitydailyvotelisting.lat
 compensation-kybernetwork.com
@@ -460,7 +460,6 @@ connect-pundu.io
 connect-safe.global
 connect.land.net.pl
 connectionat1.top
-connectwallet.ihabtech3.workers.dev
 connext-net.com
 connexts.network
 contact-unlock-supporst-service.co
@@ -661,7 +660,6 @@ finance35-impedit67.sbs
 finance81-ea6.sbs
 finance92-ipsa74.sbs
 firelight-governance.digital
-firelight-phase2.live
 firelightfinance-tokens.app
 firmware-app.com
 fiuff.xyz
@@ -808,6 +806,7 @@ io-starts-trezncdn.wixstudio.com
 io-starts.download
 io-true-web.bond
 jacxxio-liberty-apps.wixstudio.com
+jagent.moonstacknodes.xyz
 jamecomfi.pages.dev
 jd8l6p.cyou
 jellyjelly.web.app
@@ -957,7 +956,6 @@ microsoft3.sbs
 migrate-grt2.com
 migrate-secondfi.sbs
 migrate-tsuka.org
-migratesol.world
 migration-agint.xyz
 migration-kiloex.xyz
 migration.mevfree.xyz
@@ -1081,7 +1079,6 @@ official-trezor.kleap.io
 official-veda.xyz
 oidjud.com
 oksdwdo.cyou
-on05.eu
 onchaincoin.gg
 onehavro.com
 oneworldrealtor.com
@@ -1132,7 +1129,6 @@ pauly-rich.com
 pawx.launchpadex.com
 paxfulaccounts.com
 paxgold-binance.com.cn
-pay-bitrefill.com-dk01-esim-gift.com
 payyvote.com
 pb8d5v1hyjs0.njhmfno.ru
 pcci.top
@@ -1221,8 +1217,8 @@ pubgypenguin.xyz
 pudgypenguins.avail.claims
 pudgypenguins.gifts
 pudgytrait.xyz
-pump-watchstreams.fun
 pumpfun-claims.com
+pumpswap-stream.solroom.cc
 pyht-network.com
 pyr-distribute.com
 pyth-7cc.pages.dev
@@ -1434,7 +1430,6 @@ spx69o0.com
 spz6900.com
 ssi.sosovalye.xyz
 sso---robinhiood-logiin.webflow.io
-sso-upheldlogin.created.app
 ssoapphdappcdn.wixstudio.com
 stake-auth1.blogspot.com
 stake-injective.online
@@ -1549,6 +1544,7 @@ trippy-labs.com
 trmlabscoin.web.id
 tron-swaper-v17.vercel.app
 tron-swaper-v50.vercel.app
+tronifv.com
 trp-lido.fi
 trump-vibes-vault.es
 trumpem.xyz
@@ -1564,7 +1560,7 @@ trxgas.pro
 trxnvalid.pages.dev
 tsuis.hk
 tt-app.info
-tw-finance.org
+tw-binance.cn
 twc-crypto.com
 txnsolver.com
 tykes.claims
@@ -1575,7 +1571,6 @@ ul05webzoom.com
 unc6x.info
 unibathceramic.com
 unibotapp.tech
-unichaincoin.xyz
 uniglobecapitals.com
 unigraph.org
 unipegv4.info
@@ -1669,6 +1664,7 @@ whitelists-finalbosu.com
 wide-beach-melodic.on-fleek.app
 win-nft.click
 windows-application-pc.com
+winter-summit-secure-user-3e08-bdde.pages.dev
 wire-tw.org
 wishlist-gvrt.com
 wl.pixelxmeme.com
@@ -1801,6 +1797,7 @@ zksynclaim.pages.dev
 zksyrnc.io
 zoom.capital
 zoomcloudconnect.com
+zoon-live.com
 zsteth.top
 zusagamb.com
 zyrender.com

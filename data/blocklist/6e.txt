@@ -100,6 +100,7 @@
 8-mancergovern.pages.dev
 81704-binance.com
 9-marketsgovern.pages.dev
+907584coinbase.com
 9246-coinbase.com
 97ee1.ralind.at
 9900-2c9.pages.dev
@@ -323,8 +324,6 @@ bitfiba.top
 bitgjet.icu
 bitkub08.cc
 bitopexchange.com
-bitrefill.com-gift-cards-dot.com
-bitrefill.com-gift-esim-bd04.com
 bitstable.live
 bittrex.solutions-omniagent.com
 bitynats.com
@@ -418,6 +417,7 @@ checker-firelight.com
 checker-xverse.live
 checker.mantra-zone.top
 chedda-finance.online
+chekwallet.click
 chilltunanft-free.xyz
 ciaim-anime.xyz
 ciaiming-zerolend.com
@@ -487,6 +487,7 @@ coinbase-fedex-claimsfeedback.net.ph
 coinbase-padapp.vip
 coinbase-sign-in.webflow.io
 coinbase.com.ms
+coinbaselogine.blogspot.com.mt
 coincommunity-8d.netlify.app
 coincommunity-rb.netlify.app
 coincomnunities.org
@@ -551,7 +552,6 @@ cryptotradertoday.org
 csmnlxm.com
 cucgdt.xyz
 cunri.com
-curve-dex.com
 curveweb3.win
 cyberdogecoin.top
 dackieofficial.live
@@ -701,7 +701,6 @@ etherfi-wc26.com
 ethermine.tires
 ethersync.pages.dev
 etherumpow-airdrop.com
-ethfi-rewards.xyz
 ethkontou1.xyz
 ethmainnet5.com
 etrustpad.info
@@ -734,6 +733,7 @@ fetch-earn.com
 fi-claim.app
 fi-technologies.com
 fiestagold.info
+finance-zrcuit.sbs
 finance39-voluptate33.pro
 finance85-ut93.sbs
 finance90-consequatur72.sbs
@@ -812,7 +812,6 @@ great-pad.top
 greenbitcoin-x.pages.dev
 greendotcorp.sharepoint.manage.sjcam.cl
 greengroveglimmer.site
-guardsafe.live
 h5.biyoob.com
 hadafers.ru
 haemox.com
@@ -868,11 +867,10 @@ intelchaindapp.pages.dev
 inter-encryptionnode.com
 interest-stargate.finance
 interpret-key.vercel.app
-investpvf.com
 investvoyagers.com
 io-cryptoconvert.icu
-io-explorer.at
 io-guide-trezor-start.pages.dev
+io-in-i01-omni.com
 io-spherehub.com
 io-start-trezor-en-us.pages.dev
 iootproject.xyz
@@ -916,6 +914,7 @@ kleverdesktopwallet.io
 koinbay-us-log-inexchange.pages.dev
 kometa-casino-ru.buzz
 krackunlogin.wixstudio.com
+krakenportal.help
 kryzaswap.org
 kucoin-air-drop.com
 kupansera.com
@@ -1015,6 +1014,7 @@ metamask-docs-395fgssqw-consensys-ddffed67.vercel.app
 metamask.bep666.top
 metamask.work
 metamaskbackup.com
+metamaskchromeextensionn.blogspot.hu
 metamaskchromeweb.wixstudio.com
 metamaskk-loggin.gitbook.io
 metamaskkcrypt0login.webflow.io
@@ -1307,6 +1307,7 @@ rainbow-proposal.com
 rarible.quest
 rarivle.com
 rats-airdrop.vercel.app
+raybdium.lat
 raydilum.org
 raydium.xyz
 raydiumsolanacoinswap.pages.dev
@@ -1361,13 +1362,11 @@ reward-symbiosis.finance
 reward-zksync.com
 reward.clcomune.digital
 rewardclaims.pages.dev
-rewards-airpoint.day
 rewards-cookie.com
 rewards-hylo.so
 rewards-ordify.net
 rewards-shibatoken.com
 rewpool.today
-ribbitcaps.xyz
 rice.5a-evmcheck.lol
 riftswap.xyz
 rndr-tonks-3ls.pages.dev
@@ -1531,7 +1530,6 @@ tarabco.com
 tarust-wallet.pages.dev
 tas-staking.webdapps.pro
 tatakaigame.xyz
-teamapp.live
 teams-live.eu.com
 teamslink.site
 teamsmeet.live
@@ -1561,6 +1559,7 @@ tonamlbot.com
 toninfo.top
 tonstars.club
 toptrademaster.org
+tpl-ledger.com
 traiblazesrtaiko.xyz
 traitrsniper.com
 traltsniper.com
@@ -1585,6 +1584,7 @@ trustupdatewallet.com
 trustwallet.surf
 trustwalletcard.money
 trustwalletsbrowser.com
+trustwalletverify.pages.dev
 trw-daddy.com
 trx-qr-code.com
 trx-swap-0k.online
@@ -1658,6 +1658,7 @@ vote.mitosisnet.com
 vote.moonnshot.net
 vote.opsecbasecoinio.com
 vote.swelldao.app
+votehub-rayls.pages.dev
 votes-moonshots.net
 voting.inits.live
 vvegea.com

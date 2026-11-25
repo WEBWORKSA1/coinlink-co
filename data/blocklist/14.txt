@@ -67,7 +67,8 @@
 8sy8s.vip
 9-governance-jumpereco.pages.dev
 90-arcusgovernance.pages.dev
-987235-gemini.com
+927301coinbase.com
+93de-coinbase-listing-677f.pages.dev
 9ebank.github.io
 aave.markets
 access-fablesfi.xyz
@@ -195,7 +196,6 @@ arbitrumdrop.xyz
 arbitum-network.org
 arbitumlab.com
 arcananetwork.net
-arcdomains-fkjbxqbmtg.edgeone.app
 area.kixyedge.com
 artyfactreward.live
 ascendexmagic.com
@@ -203,6 +203,7 @@ asterdex-transfer.app
 astervote.xyz
 astheriax.org
 astraone.website
+attachment-gmail.com
 aurainfinity.xyz
 auth-artela.vercel.app
 auth-ledger-live-app-eng-us.pages.dev
@@ -218,7 +219,6 @@ azuki.freemint-webs.com
 azukihilumia.com
 babyioniabs.co
 backpack-exchange.web.app
-backpackaward.pages.dev
 bafybeidilcmgzdynrbbhuwqv5qa2eyohhafyhd2nbph7bq77i6rfk6yl2q.ipfs.dweb.link
 bafybeifytlxrttpsjdltz5xicggyefov2ezlkeflwioesikig32l4ukriy.ipfs.dweb.link
 bahrainverifiedz.com
@@ -316,6 +316,7 @@ buildoncreative.pages.dev
 buleii.net
 bull-bears.com
 burly-ivy-guavaberry.glitch.me
+buytrx.bz
 bybt-us.pages.dev
 cacoisquarecdn-apps.wixstudio.com
 cadadra.sbs
@@ -432,8 +433,8 @@ coinstarbizz.gitbook.io
 coizngecko.click
 colinbese-nft.com
 collect.elixirspotion.com
-com-app-live.pro
 com-finds.us
+com-gift-esim-ac04.com
 com-home.io
 com-id-1882773.info
 com-live-start.app
@@ -574,7 +575,6 @@ enter-trenches.com
 enter-vulcan.net
 era.caidera.digital
 erc20-beckr.top
-ercclaimgateway.help
 es-coinbase.com
 es-rainbet.com
 etbkwf.com
@@ -735,7 +735,6 @@ home-netcoin.square.site
 home-trustio-apps.wixstudio.com
 home.earnair.xyz
 home.greenbitcion.site
-honeybee369vault-lobstrvault.cloud
 honeypot.support
 hoopa-claim.xyz
 hpaper.co
@@ -933,6 +932,7 @@ metacene.finance
 metahorse.vercel.app
 metakozo.com
 metamask.io.connect-crm.web.tr
+metamaskchrme.blogspot.in
 metamaskcomlogin.gitbook.io
 metamaskemailverification.online
 metasmasks.com
@@ -942,6 +942,7 @@ metemskaxtension.gitbook.io
 meteora-com.store
 meteorag.lat
 metis-eyx.pages.dev
+microsoff365live.com
 microsofts.mom
 migrate-layerai.live
 migrate.app-onino.com
@@ -1003,6 +1004,7 @@ multi-swift.pages.dev
 multiapi.network
 multibit-pd.web.app
 multichainclaim.pages.dev
+multidappsy.club
 multiplier.zeroilends.net
 multiversecanais.me
 munkonft.xyz
@@ -1035,7 +1037,6 @@ nesa-foundation.one
 nethyphen.netlify.app
 netnetcapitalholder.xyz
 new-linea.build
-new-solscan.gr.com
 new.auth.ns1.chat.cpanel.2023.rolebite.com
 new.cybduckty.cc
 new.scrollti.com
@@ -1082,6 +1083,7 @@ open-linea.com
 open-sea-network.com
 open-sea.jp.net
 opendata.click
+openfxpro.online
 opensaprojects.vercel.app
 opensea-dez.pages.dev
 opensea-event.com
@@ -1129,7 +1131,6 @@ partnership-zerolend.com
 partnershlp-satoshivm.com
 pass-sushi.com
 paxfulpay.com
-pay-bitrefill.com-gift-esim-r04.com
 pay.zkpolyhedra.net
 paytrace-app.co.com
 payu-coin.com
@@ -1156,7 +1157,6 @@ pinksale-finance-solana-launchpadangryslerf.pages.dev
 pinksale-financelaunchpad0x8e26eeb32c5a032256-razzberryinu.pages.dev
 pipsoasis.live
 piteas.com
-pitsushi.top
 piyptq.top
 plantonanimalfarmss.pages.dev
 playbux-airdrop.vercel.app
@@ -1171,6 +1171,7 @@ plusmrs.vip
 pmnkqxuw.bond
 pollymarket-promocode.icu
 polymarket-plus-site.pages.dev
+polymarket-trade.biz
 polymarketchile.cl
 pond-x.com
 ponke-claim.netlify.app
@@ -1212,6 +1213,7 @@ pulsechaintoken.pages.dev
 pulsechaintool.com
 pump.fun-live.cx
 pumpfun-bonus.info
+pumpstreamingx.fun
 pumpviewer.fun
 pusd.plueme.org
 pyth.foundation1-web3.live
@@ -1549,7 +1551,6 @@ uniswap.loan
 uniswup-v3.org
 unswappe.com
 uosolutions.site
-uphold-wallet-world.created.app
 uranus-coin.io
 us-exxodusweb.pages.dev
 usdbonus.net
@@ -1570,7 +1571,6 @@ v2cyberworld.com
 v3singularity.net
 vairational.io
 validatemyapps.org
-variationals.com
 variationsl.io
 variatonal.netlify.app
 vaultcraftio.com
@@ -1642,6 +1642,7 @@ whatsapp-upro.vip
 whatsapp.sseetgykxpnwiwr.com
 whm.autodiscover.cpanel.webdisk.webmail.mail.www.opennseq.com
 winter-summit-secure-user-2403-3905.pages.dev
+winter-summit-secure-user-3e08-eef9.pages.dev
 winvex.cc
 wkhyi2tdqzxha8.com
 wolfskull.info
@@ -1766,7 +1767,6 @@ www.wl-catcoin.com
 www.wsm-web3casino.tech
 www.www.logln.blockcnaln.com.daimlerdockerexample.com
 www.wwwpancakeswap.finance.dpddiesel.com.br
-x-help.plus
 x1e6h.cc
 xaman-voting.org
 xautgold.org
@@ -1791,6 +1791,7 @@ zaepper-connect.com
 zama.claims
 zeriondapp.netlify.app
 zetachain.foundation
+zhizhuzhibo-yahoo.com.cn
 zhun-raybet.com
 zintechchains.angn.site
 zk-sync-rewards.org

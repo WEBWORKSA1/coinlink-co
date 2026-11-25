@@ -62,6 +62,7 @@
 6-proposal-extendedexchange.pages.dev
 618347-binance.com
 62-gliderfi.pages.dev
+689b-482c-coinbase-listing.pages.dev
 692417.com
 7-governance-aero.pages.dev
 7-netnet.pages.dev
@@ -86,7 +87,6 @@ aavev3-ong.com
 access-nodeportal.pages.dev
 account-okx.online
 accountcentre-coinbase.com
-across-protocols.stakingreward.host
 acrossto.org
 activatenodes.icu
 actiweb3.com
@@ -168,6 +168,7 @@ amemecoinrh.com
 americangiveaway.live
 amlbotcheck.website
 amlmonitor.pages.dev
+amrbentaleb.github.io
 analytics-zksync.vercel.app
 andytokens.co
 animalfarmapp-defi.org
@@ -246,6 +247,7 @@ azuki.gift
 azukielementals.pages.dev
 azureninjas.netlify.app
 azurostake.app
+b088-fa8e-5133-c0inbase-list.pages.dev
 babydogea.xyz
 babyy00ts.com
 babyy00ts.netlify.app
@@ -256,10 +258,12 @@ bafybeigs2hmq2n56m3xa4wnrdnq4st7clj2yrs3a7m6btvrbcpa4lsitvy.ipfs.fleek.cool
 bafybeihvxklrc7n65ahbssc4rg4dqezt2q44ezdfij5p5wlbpsdhayexsi.ipfs.cf-ipfs.com
 bakerswaps-matic.com
 bakery-safemoon.org
+bakeryswap.cc
 bakeryswap.org-29.xyz
 bakeryswapb.com
 bananasgun.io
 basebridges.org
+baseguard.one
 baseschain.com
 basesnamed.org
 battleslayers.com
@@ -291,8 +295,6 @@ bitcoiinminetrix.pages.dev
 bitcoinbird.io
 bitcoinmoon.finance
 bitpay.com.de
-bitrefill.com-gift-cards-ton.com
-bitrefill.com-in-w01-esim-gift.com
 bizboxtv.su
 bjlzvoplan.bond
 blast.bridge-l2.io
@@ -338,6 +340,7 @@ byexcoin.cc
 bytedrop.cfd
 bytegig.pages.dev
 bytezing.shop
+c663-482c-coinbase-listing.pages.dev
 cakewallet-web.co.com
 capcutnext.com
 capitalmarketspro.co
@@ -457,7 +460,6 @@ com-direct-hub.pro
 com-ledger-lyve.pages.dev
 com-rewards.info
 comizbiiezsignin.gitbook.io
-communication-securauth.com
 compensatione-apyx.finance
 concrete-xi.vercel.app
 conference-google.com
@@ -475,7 +477,7 @@ crashing-finland-shallow.on-fleek.app
 crestlet.online
 crr3uov.cc
 crypto-hcb.netlify.app
-crypto-support-center.net
+crypto-ledger.app
 cryptobr.exchange
 cryptobsc17.top
 cryptocheck-politie.com
@@ -534,6 +536,7 @@ delegateio.vercel.app
 demand-imaginary.com
 demo-diu2.onrender.com
 dengibing.ru
+derivev.xyz
 desatex.com
 descriptionconnect.onrender.com
 desk-monad.com
@@ -548,7 +551,6 @@ dioneproto.com
 diosgenesis.netlify.app
 discordmint.com
 disneypinacle.one
-distribution-basedfoundation.com
 distribution-monad.info
 distribution-usefelix.xyz
 dn.stadersdao.online
@@ -689,6 +691,7 @@ floklta.org
 flooringservicecalifornia.com
 flufstamps.com
 fomo-voting-gd.netlify.app
+fomo.solpitch.cc
 forums.cpcontacts.gitlab.mobile.login.ssh.auth.mantle-airdrop.pw
 foundation-promotion.io
 fourmmemes.me
@@ -951,7 +954,6 @@ marginbet.cc
 marketlistingsupport.digital
 marloon.net
 maskmeta.fun
-mav.exchange
 maviacity.com
 me-solflare.org
 me.lavzen.xyz
@@ -984,6 +986,7 @@ metamasklogingf.gitbook.io
 metamaskluogin.gitbook.io
 metamaskromextec.webflow.io
 metameasioaskmxtension.gitbook.io
+metammask-us-login.gitbook.io
 metamsklogunexx.godaddysites.com
 meteora-ag2.vercel.app
 metis-air.com
@@ -1030,6 +1033,7 @@ modenetwork.eu
 modenetwork.me
 modenetwork.pics
 modeproject.life
+moduleblfrost.com
 mogcoin.biz
 molcasinomaldives.bet
 mon-votes-33.pages.dev
@@ -1072,6 +1076,7 @@ multiplier.zerolendprotocol.claims
 mutantboxnft.com
 mweb384501qwx.vercel.app
 my-att.net
+my-tronlink.io
 my.sonlclabs.site
 myctherwallet.com
 mydappfi.com
@@ -1113,7 +1118,6 @@ officialtrojanitraderbot.icu
 olympus-dao.com
 olympusdao-v2.net
 onchainxsummers.xyz
-ondo-rewards.xyz
 ondofin-ance.github.io
 openclawxonline.top
 opensaee.vercel.app
@@ -1141,7 +1145,6 @@ orgnft.me
 orion-protocol.space
 otseamigration.pages.dev
 ouderraadsrco.be
-ovandex.com
 owlto-app.finance
 owltofinance.github.io
 oxproeliptic-server.web.app
@@ -1285,6 +1288,7 @@ rainbetcasino.cz
 rainbetlogin.com
 rainbetslogin-org.pages.dev
 rainbetsplash.us
+rainbetvip-au.com
 rapid-appsmultiverse.pages.dev
 rawconnect.info
 rctymain.pages.dev
@@ -1354,6 +1358,7 @@ ripple.uno
 rivalz-rewards.xyz
 riveras.online
 rizzmascto.com
+rkz-okx.com.cn
 robinhood-iho64hk6.netlify.app
 rocketpools.xyz
 rocky-allocate.com
@@ -1402,7 +1407,6 @@ security-auth.cyou
 secwarex-claim.vercel.app
 seed-wooden-course.glitch.me
 sei-whitelists.net
-selfiedog.player2.world
 send-on-sui.fyi
 sentioclaim.online
 setupmev.com
@@ -1410,7 +1414,6 @@ sfcomeca.net
 shardeum.online
 sharkcatsolanas.pages.dev
 shibacrew.net
-shiftinforest.com
 shitcointerminal.live
 shl78vit4j666bg.baby
 shop.app1.internal.jacobsevart.com
@@ -1556,7 +1559,6 @@ tonraffles.one
 tonraffles.pro
 toobit99.vip
 tornadoethlimo.pages.dev
-trade-kraknepro.wixstudio.com
 tradecapital-ltd.com
 traderoom.pro
 trading.pulsechaindao.network
@@ -1580,6 +1582,7 @@ trustcsdesk.online
 trustexk.com
 trustwallet-nvidia-dlscord.com.ph
 trustwallet.com.dr-hashemipsy.com
+trustwalletpayment.help
 tryingfixedv.pages.dev
 twitterchip.mangocytec.com
 twtairdrop.free.nf
@@ -1604,9 +1607,7 @@ unsiwap.app.com.kz
 unsiwaps-exchange.com
 update-trust.online
 uphold--cloud.created.app
-upholdauthlogn.created.app
 upholld-web-en.created.app
-us-curvefinance.stakingreward.cloud
 us-defipool.com
 us-lace.com
 us-metamask.shop
@@ -1700,8 +1701,8 @@ whitelist.tryringai.online
 whitelistbridge.com
 whitelists-metamask.com
 wienerdog-in.pages.dev
+winter-summit-secure-user-3e08-3b73.pages.dev
 wl-deseason.com
-wlfischedules-unlock.xyz
 wlylklsuch.bond
 worldcup16teams.com
 wormhole-presales.vercel.app

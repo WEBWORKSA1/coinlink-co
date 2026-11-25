@@ -1,3 +1,5 @@
+0gmail.biz
+0gmail.email
 0n1ordinalsb.xyz
 0x-protocol.com
 0x0-coin.net
@@ -20,6 +22,7 @@
 2.vu
 20-proposal-elysium.pages.dev
 226-reallocate-flare.pages.dev
+22c9-coinbase-listing-677f.pages.dev
 247currency.org
 24ftx.top
 263-reallocate-flare.pages.dev
@@ -52,6 +55,7 @@
 500yours.top
 5262.bluefin.pr.app.bluefin.foundation
 53-app-ethersfi.pages.dev
+53-rewards-firelightfi.pages.dev
 54-gov-argus.pages.dev
 5516934534.pages.dev
 58574kraken.com
@@ -62,7 +66,6 @@
 6-proposal-synthra.pages.dev
 600268.cc
 60080gx1.app
-614171-ledger.com
 7-proposal-stark.pages.dev
 75963.shop
 78-vote-cashmereexchange.pages.dev
@@ -260,7 +263,6 @@ bankofamericachat.com
 base-user-extension.wixstudio.com
 base.lightningbounties.com
 baseapps.info
-based-rewards.xyz
 based.one-ecosystem.xyz
 basedbret.click
 bdexuk.top
@@ -285,7 +287,6 @@ bitfrost.finance
 bitget-auth.cfd
 bitgreen.pro
 bitiglobe.com
-bitrefill.com-m04-gift-esim.icu
 biumcrypto.com
 biur.network
 biuwhale.com
@@ -317,7 +318,6 @@ bonkthedog.app
 bonus-community.net
 bonus-flr.xyz
 bookofeth-event.com
-boostzrous.us
 box-ripple.com
 box-web3.xyz
 boysclub-andys.com
@@ -340,6 +340,7 @@ c4jvjm2njyd7dhxynjitlveyzq6uv3z42d7nfketd6b5k5o3gaaa.arweave.net
 cadenceprotocol.co
 cake-distribution-g1ay.vercel.app
 calendly.com.se
+cao-okx.com.cn
 cardanolite.pages.dev
 cardstrustwallet.info
 cashcatreward.live
@@ -440,13 +441,13 @@ cliam.esolanapos.app
 cloud-metamask-hub.wixstudio.com
 co11njar.com
 codesecure.sbs
-coiinbase-page.created.app
 coin-commerce.com
 coin-payments.net
 coin-trader.top
 coinbase-352.pages.dev
 coinbase-bitmartacr.com
 coinbase-enverify.com
+coinbase.835462.com
 coinbasedefi.cloud
 coinbasewalletdelink.com
 coinbasewalletrestore.vercel.app
@@ -469,6 +470,7 @@ collabland.role-server.com
 collectible-porsche.com
 collectvox.wlmints.xyz
 com-18867.com
+com-cv01-esim-gift.com
 com-gift-esim-o04.com
 com-open.beer
 com-polybet-q95.com
@@ -516,8 +518,10 @@ customwedd.shop
 cx12376.tw1.ru
 cyberconeect.top
 cyq.akaric.fun
+d0fe-fa8e-5133-c0inbase-list.pages.dev
 daddytateonsolana.net
 daily-trx-rewards.icu
+dalott-venturelimited.com
 dao-aave.com
 dao-usualmoney.net
 dapp-polymarket.com
@@ -629,7 +633,6 @@ enter-pacmoon.com
 enter-rabbyio.com
 ephci.top
 epluswallet.com
-erccompliancefocus.help
 erx20.com
 etfswappresale.website
 ethdefiso.vip
@@ -757,7 +760,6 @@ governance-stonkbrokers.pages.dev
 governance-zebec.network
 governance.sitemw4wti94vv6r.xyz
 governance.yieldbasis-proposal.top
-grok-x.com
 groksol.fun
 guzelstore.net
 haedal-protocol.site
@@ -876,7 +878,6 @@ ledgrstarted-io.pages.dev
 ledncryptocompany.org
 lenshandles-pass.com
 lfg-jup-ag-uprock-airdrop.pages.dev
-lfjdex.org
 lg6juc.cc
 lido.airdrops-event.com
 lidofi.net
@@ -970,6 +971,7 @@ mexc-airdrop.com
 mfsmvault.wal-app.top
 mg-land.xyz
 mi.scrollorigzk.xyz
+microsoftonline-ms.com
 microsoftt.work
 midnighgt.com
 migrate-fwx.com
@@ -1017,7 +1019,6 @@ msweb3.click
 muhw2n5g7kxiu3d.mom
 multichainsync.vercel.app
 multiconnect-metamsk.pages.dev
-multiplier-aave.xyz
 multiplier-getfioki.net
 multiswapbsc.online
 multizchainz.top
@@ -1157,7 +1158,6 @@ pepenode-claim.xyz
 pepsicollections.com
 permitwoo.org
 phantomwallet-ioz.godaddysites.com
-phanton-wallet.webflow.io
 phase1-flarefnd.live
 phase2-flarefdn.live
 phatttemwaa1let.godaddysites.com
@@ -1183,6 +1183,7 @@ poli-hashai.app
 poll-python.net
 polyhedraz.network
 polymakrets.com
+polymarket-bot.pages.dev
 polymarket-en.firebaseapp.com
 polymarket-ooh.pages.dev
 polymarketswitzerland.ch
@@ -1223,12 +1224,9 @@ proposal-infrared.xyz
 proposal-jumperxyz.pages.dev
 proposal-konnex.world
 proposal-netnet.live
-proposal-river.xyz
 proposal-solv.com
-proposals-arc.network
 propose-ath.com
 protocol-carv.app
-protocol-flarenetworks.xyz
 protocolniftygateways.com
 psychome.xyz
 pub-2eef0dd9364d4248b298f5e4c6db0eb4.r2.dev
@@ -1245,6 +1243,7 @@ pumanitrotoken.com
 pump-voting-0i.netlify.app
 pump-voting-xr.netlify.app
 pump.fun-streamis.live
+pump.sol-stream.cc
 pump.solstreaminglive.xyz
 pumpbtc.art
 pumpbtc.finance
@@ -1344,7 +1343,6 @@ rocketlegacygame.com
 rokusdexnode.pages.dev
 rolexmint.com
 rollbit.rest
-royacex.com
 rpchubrepair.com
 rpcsyctoolsprotocol.com
 rwa-xau.cam
@@ -1360,7 +1358,6 @@ sandbox.gifts
 sappydiamond.xyz
 sappyseals-freemint.xyz
 scapesmania-claim.pages.dev
-scarymazememe.lol
 scim.peancakfiance.com
 scotyitheai.site
 scroll-airdrop-3.nfts2.me
@@ -1456,7 +1453,6 @@ still-clickto-to.vercel.app
 ston.farm
 stonk-funs.xyz
 storys.network
-strata-rewards.xyz
 streamyard.im
 strwairdrop.com
 sui.starspad.top
@@ -1504,6 +1500,7 @@ token-airdrop.com
 token-firelight.finance
 token-galxe.net
 token-xamanwallet.pro
+token2049.triplora.xyz
 tokenu.top
 tokifinance.xyz
 ton-airdrop-token.vercel.app
@@ -1562,13 +1559,13 @@ uniarbitrages.org
 unidrop.tech
 unifierapp.online
 uniswap-crypto.pages.dev
-uniswap-web.org
 uniswaps.life
 unitrade-defi.org.uniswap-nft.com
 universalstabilizer.pk
 update09-ledger.live
 upgradmysafemeta.com
 uphold-log-in-app.tem3.io
+us-east-1-a389479491a2281b.s3.us-east-1.amazonaws.com
 us-trust-wallet.pages.dev
 us.stonzgroup.life
 usa-whatsapp.com

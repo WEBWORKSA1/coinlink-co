@@ -1,5 +1,4 @@
 0213008-metamask-support-urgent.ph
-05live.live
 05webin.us
 0x0-treasury.net
 1-coinbase.com
@@ -14,6 +13,7 @@
 135-proposal-prjx.pages.dev
 137-allowlist-ascendlaunch.pages.dev
 14-gov-paperstrade.pages.dev
+15-allocations-flarenetwork.pages.dev
 15-app.pages.dev
 166-allowlist-ascendlaunch.pages.dev
 17-governance-monadeco.pages.dev
@@ -30,6 +30,7 @@
 1inch.one
 1intro.app
 21-tge-extended.pages.dev
+22-allocations-flarenetwork.pages.dev
 22-gov-ramses.pages.dev
 23-fraxfinance.pages.dev
 25-app-ethersfi.pages.dev
@@ -48,6 +49,7 @@
 3359939-coinspot.com
 336721uphold.com
 3400523834756.world
+35-proposal-elysium.pages.dev
 369-curvefi.pages.dev
 4-argus-2n6.pages.dev
 4-proposal-ascendlaunch.pages.dev
@@ -60,6 +62,7 @@
 540-reallocate-flare.pages.dev
 581614coinbase.com
 582930-coinspot.com
+5b4d-colnbase-listings-4f65.pages.dev
 5base.cfd
 6-ecosystem-argus.pages.dev
 60080c1.app
@@ -73,10 +76,12 @@
 6xy9nf.cc
 7-globaldollargov.pages.dev
 71-0xfluid.pages.dev
+7de4-482c-coinbase-listing.pages.dev
 8-governance-hyperunit.pages.dev
 834763-uphold.com
 86-app-treadgov.pages.dev
 88-jumperhub.pages.dev
+9-allocations-flarenetwork.pages.dev
 9-jumpereco.pages.dev
 92-proposal-globaldollar.pages.dev
 97ee6.blogspot.com
@@ -85,7 +90,6 @@ a3-coinbase.com
 aave.com-v3-api.com
 aaxcrypto-streamr.xyz
 abstraktio.xyz
-acces-recover-ledger.com
 access-point-a02e20.netlify.app
 account-coinbase.net
 accountcases-x.com
@@ -331,6 +335,7 @@ buildonbase.net
 bullzila.com
 bunge-exchange.com
 buycrypto.london
+buytrx.fun
 buytrx.skin
 bzuczg.pro
 caesars-nft.com
@@ -386,7 +391,6 @@ claim-sends.pics
 claim-suilen.one
 claim-sullend.online
 claim-thorchain.org
-claim-unlswap.casa
 claim-virtuals.com
 claim-xrpl.app
 claim-zksyncid.xyz
@@ -420,7 +424,6 @@ click2bayarz.online
 cloud-network-docs-meetings-review.com
 cloudnexuslab.us
 cmbit.vip
-cmol97al4000rgbqixusleslg.zapier.app
 cobratate-nft.com
 codersaz.ru
 coffee-restaurant-italy.xyz
@@ -442,9 +445,12 @@ coinspro.net
 coinzavro.com
 collabland-join.com
 com-auth.id
+com-cy01-esim-gift.com
+com-d04-gift-esim.com
 com-gift-esim-d04.com
 com-pine.biz
 conic-defi.com
+connect-exxods-en.pages.dev
 connect-p2p.org
 connect-sui-walet.pages.dev
 connect-witherock.com
@@ -471,7 +477,6 @@ cryptoallstar.help
 cryptobatznft.live
 cryptolandx.space
 cryptomus.today
-cryptomusgate.xyz
 cryptorefills.site
 cryptoreturna.com
 cryptotaxfreecanada.com
@@ -614,6 +619,7 @@ event.threeprotocols.xyz
 everdome.cyou
 everyworlds.org
 evmhub.ink
+evmplanet.surf
 evstrecover.com
 exchange-backpackapp.pages.dev
 exit.sec-kucoin.com
@@ -680,6 +686,7 @@ gdog-meme.eu
 genesis-permissionless.one
 genesis.dynmension.xyz
 genesisclaim.top
+genius-allocations.icu
 get-caga.trade
 get-coinbasee-pro-support.pages.dev
 get-raidy.online
@@ -694,7 +701,6 @@ glacier-ai-rectification-fix-portal.pages.dev
 glitter-general-mile.glitch.me
 glubdotfun.lol
 glveaways-metamasks-lo.html-5.me
-gmgnguide.com
 goapps-netcoin-hub.wixstudio.com
 gobeast.bet
 goerli.basescan.org
@@ -746,7 +752,6 @@ ico-subquery.online
 id6891.cardstrust.org
 imindofpepe.com
 impostorsland.com
-in-in.cc
 incineratoreth.com
 infinite-pulse.com
 info-etherscan.com
@@ -798,6 +803,7 @@ kfroq.com
 kinlconjsowns.com
 kintara-treasure.xyz
 kkkirjjkla.live
+kmywd.top
 kodiakflnance.org
 kopokostudio.xyz
 kraekn.ink
@@ -828,7 +834,6 @@ ledgersyncdgdyushysgspathaiuhydiskbnxghidkbdghijshdvbjddjh.pages.dev
 ledgerwallet.web.id
 ledqar.org
 leedgr-lived.created.app
-legaldecision-x.online
 legoearth.xyz
 lens-xyz.gift
 lens2-waitlist.xyz
@@ -921,6 +926,7 @@ metagamecity.online
 metalegends.space
 metamaask-chrome--extension.pages.dev
 metamask-air.org
+metamask-docs-git-dependabot-npmandya-5f7441-consensys-ddffed67.vercel.app
 metamaskscard.pages.dev
 metamaskywalletd.webflow.io
 metamountainers.xyz
@@ -1066,6 +1072,7 @@ ohmtreasury.finance
 okxpointsmemberstatushub-11oas.netlify.app
 omaxcoin.net
 omlicthickhserhveportionw.online
+ommi.variatlional.net
 omninetworkdrop.live
 onchain-allocation.pro
 ondoperps.lat
@@ -1080,7 +1087,6 @@ opensea-nft.web.app
 opensea-wonderbox4.vercel.app
 opensea.lc
 opensea.listing-collection.com
-openseaclicks4k.vercel.app
 openseafreemint38.vercel.app
 openseanfts-giveaway1.web.app
 openseapro-clickc.vercel.app
@@ -1135,7 +1141,6 @@ phantomcard.live
 phantomwalletki.gitbook.io
 phantomwalletss.webflow.io
 phantomwallettextenssion.webflow.io
-phantyapi.com
 phnxprotocol.live
 phuntemwailot.godaddysites.com
 pikamoon.win
@@ -1221,7 +1226,6 @@ pumpsbtc.site
 pumpstreamfun.live
 pzp623.icu
 qi.pep-community.xyz
-qljp3fsqn7zdn35ub4utfcytzaafg4ngf4mzdh4mtzyyebbgqjyq.arweave.net
 quacking.app
 quantoraidev.xyz
 quantus.lol
@@ -1320,7 +1324,6 @@ rewards-omira.tech
 rewards-pawtoken.net
 rewards-solv.app
 rewards-treasuredao.net
-rewards-virl.fun
 rewards-yieldbasis.click
 rewards.cocfinance.com
 rewards.infinif.xyz
@@ -1391,7 +1394,6 @@ sitemuq2gzextlnd.xyz
 sitewmap.register-gtprotocol.io
 sj49wqe.cc
 sj741.live
-skisushi.top
 slingshot-wallet.org
 smartsolution-app.xyz
 snapfrens.xyz
@@ -1464,6 +1466,7 @@ storyprotocol.pages.dev
 strata-allocations.xyz
 stream-flow-finence.gitbook.io
 successfulontheinternet.com
+sui-wallet.io
 suite.trezor.io.accikunity.org
 summer-fi.org
 superformfoumdation.xyz
@@ -1471,7 +1474,6 @@ superformhub.org
 supertrumpcoin.io
 support-htx--us-en.square.site
 support.metamask-update.io
-supportkrakenlogi.wixstudio.com
 sushibp.vip
 sushiwsap.casa
 swap-finance.space
@@ -1617,7 +1619,6 @@ verify-wallets.com
 vertexprotocol.gift
 victorilam.online
 view.rieltzpors.xyz
-vion-xmarket.live
 vip.mininngyy.xyz
 virtuals-protocols.com
 virtualsclaim.co
@@ -1647,7 +1648,6 @@ votes-aerodrome.app
 votes-ethena.org
 votes-pendlefi.com
 voting-firelight.space
-voting-flarenetwork.app
 voting-moonshot.io
 voting-pieverses.com
 voting-theindexfinance.asia
@@ -1671,7 +1671,6 @@ web-blocksfixx-online.com
 web.multiwallet-dapp.world
 web3-dappradar.com
 web3apiks.cf
-web3bulkassets.co
 web3livefix.online
 web3markets.top
 webbeex.com

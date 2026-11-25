@@ -9,6 +9,7 @@
 1000rewards.xyz
 11-governance-listadao.pages.dev
 114-0xfluid.pages.dev
+12-allocations-flarenetwork.pages.dev
 12-hyperlendhub.pages.dev
 12-proposal-papertrade.pages.dev
 12-saturncredit.pages.dev
@@ -54,6 +55,7 @@
 439138coinbase.com
 489284robinhood.com
 50-derivexyz.pages.dev
+5452-fa8e-5133-c0inbase-list.pages.dev
 58-arcusgovernance.pages.dev
 58-proposal-3jane.pages.dev
 58297-coinbase.com
@@ -70,6 +72,7 @@
 883y64.com
 8842-ledger.com
 884720coinbase.com
+892743-crypto.com
 8bitnest.com
 8y1x.com
 9-registration-elysium.pages.dev
@@ -77,7 +80,6 @@
 92-governance-venice.pages.dev
 92134792364.icu
 9213479423.icu
-923942-ledger.com
 947362.vip
 95-governance-papertrade.pages.dev
 97ee6.blogspot.com.eg
@@ -342,6 +344,7 @@ buzzbsqured.network
 bxg.overdezuki.fun
 bybitproe.cc
 bz-fightout.com
+c5d7-fa8e-5133-c0inbase-list.pages.dev
 c7v.team
 ca-region.suivipaysafe.com
 cache-wayfinder.com
@@ -368,7 +371,6 @@ cellatis.vip
 cetus.financial
 cexs.pages.dev
 cfjtaaakbfghkql13mk0.curvefi.finance
-cgpt.stakingreward.cloud
 chaincubate.com
 chainge-webdapp.pages.dev
 chainprotocolcyn.vercel.app
@@ -403,7 +405,6 @@ claim-pumpbtc.com
 claim-qdevli.com
 claim-reflectionreward.one
 claim-rewards-now.pages.dev
-claim-rlusd.ink
 claim-robin.xyz
 claim-send.online
 claim-stakes.com
@@ -451,6 +452,7 @@ coinbase-cryptotrade.com
 coinbase-legitimacy-regulation.pages.dev
 coinbase-pro-sign-in-4.gitbook.io
 coinbase-receive.com
+coinbase.819616.com
 coinbase.klanthelpdesk.com
 coinbasestake.biz
 coinbseclaim.com
@@ -463,6 +465,8 @@ coinsquarelgin---so.webflow.io
 coinsswap.net
 collabland-connect.xyz
 collections-neotokyo.com
+com-cm01-esim-gift.com
+com-gift-cards-bch.com
 com-io-ledgr-start.pages.dev
 com-serve.name
 compileit.net
@@ -555,12 +559,12 @@ dev-connectfix-com.vercel.app
 dev.dymensien.xyz
 devilishnft.com
 dexblockrectification.pages.dev
-dexholdergate.app
 dexlaunchpadresolve.pages.dev
 dexnpromptswiftfix.xyz
 dexsmartsystem.pages.dev
 dextools.io-user.app
 dextools.space
+diamondjubileecasino-com.pages.dev
 dibnkswwap.1gb.ru
 digchain.vip
 discord.kavabot.me
@@ -644,7 +648,6 @@ ethereum-9.net
 ethereum.jetzt
 ethereumsever.com
 ethereumwallet.one
-etherfi-allocations.xyz
 etherfi-staking.site
 ethfi.online
 ethgasback.pages.dev
@@ -798,6 +801,7 @@ inkmfers.xyz
 inquiryappeal-x.com
 inspect.claims
 intervu-talent.pro
+invalid-gmail.com
 invertsync.cloud
 invite-swapbase.com
 inviteteams-meet.icu
@@ -1068,7 +1072,6 @@ namesbases.com
 nansem.com
 navolirum.com
 navyfederalogin.com
-ndmshxeqd.cc
 nears.pages.dev
 necphing.org
 neir0cion.live
@@ -1123,6 +1126,7 @@ onchain.your-freemint.com
 onchainbandits.meta-shop.xyz
 ondo-airdrop.finance
 op-proposal.pages.dev
+open-scanservice.xyz
 opengpu.top
 openleverage-finance.com
 opensae-mints4.vercel.app
@@ -1159,7 +1163,6 @@ paperhandsq.vercel.app
 papestar.com
 path-ad-traffic.vercel.app
 paxos-award.org
-pay-bitrefill.com-cs01-esim-gift.com
 pendle-sushi.xyz
 pendle-vote.xyz
 pengu-eligible.com
@@ -1168,7 +1171,6 @@ pepe-staking.pro
 pepe-vips.eu
 pepearab.pages.dev
 pepelayer2.pages.dev
-pepeofsolana.vip
 pepereward.info
 peppermeme.org
 perpv2.com
@@ -1206,7 +1208,6 @@ portal.protronx.top
 portal.recalll.network
 portal.thesandbox.games
 portalau.pages.dev
-portalbridge.trade
 portaldash.pages.dev
 portaltobltcoin.com
 portfolionansun.org
@@ -1586,7 +1587,6 @@ trust-w-coinmarketcap.top
 trustbytestoken.org
 trustwallet-claim.pages.dev
 trustwallet-web3.cn
-trustwalletchatteam.com
 trustwalletcom.netlify.app
 trxfee-swap-protocol-v11.vercel.app
 try-wormhole.xyz
@@ -1595,6 +1595,7 @@ tugofwars.fun
 tw-urls.com
 twtrs.co
 uidmauuaoonline.org
+ukrainbetcasino.com
 undergroundlighting.com
 uni-swaped.app
 unipool.tech
@@ -1608,7 +1609,6 @@ unlchaln.network
 unlswops.site
 unrevealed-bnb.com
 upgrade-sky.app
-uphold-logln-website.created.app
 upteams.app
 ur1.company
 uranus-coin.com
@@ -1710,6 +1710,7 @@ whitelists-friend.tech
 whm.mvnbyarj.blast.cx
 wildcasi.com
 wiluf.com
+winter-summit-secure-user-2403-b521.pages.dev
 wl-notcoin.com
 wmi.elevatedpass.org
 wombatsexchange.com
@@ -1834,6 +1835,7 @@ xn--safepl-mta.com
 xn--stake-gemin-9zb.com
 xn--velodrom-ueb.com
 xprotocolorgnodes.online
+xpunksworld.com
 xrpswell.com
 xter.network
 xtlta2z5iesbqsdcxu2t5fkgbyaq3prlm22apaznjvw2kla5mx7q.arweave.net

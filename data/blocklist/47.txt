@@ -268,9 +268,6 @@ bitcompounds.com
 bitgetwallet.buzz
 bitichoices.com
 bitlunax.com
-bitrefill.com-ak01-esim-gift.com
-bitrefill.com-c01-esim-gift.com
-bitrefill.com-t04-gift-esim.com
 bits-claim.vercel.app
 blabsrr.com
 blastercoin.site
@@ -311,7 +308,6 @@ bst.overdezuki.fun
 btc-promotion.com
 bulei-claim.xyz
 bulla.su-shi.lat
-bungee.finance
 buy-ait-tokren.pages.dev
 buzzu.us
 c.ollabs.land
@@ -443,6 +439,7 @@ collab-fast-land.com
 collab.landsecurebot.com
 collab.scans-land.com
 com-1337.top
+com-a26-gift-card.com
 connect-nuklai.com
 connect-protocol.com
 connect.qfsrapid.com
@@ -465,7 +462,6 @@ cryptik.buzz
 cryptindexfiltrade.pages.dev
 crypto-3rv.netlify.app
 cryptowenx.us
-csmoney.gr.com
 curve.net-y.vip
 curvefy.com
 cuvedx.co
@@ -583,7 +579,6 @@ enter-orbiter.com
 enzymer.life
 eosai.top
 erc-20nodeethash.icu
-ercclaimsource.help
 estate-ledger-staging.pages.dev
 estifham.tech
 etftherfi.com
@@ -663,6 +658,7 @@ ftx.claim.cab
 fund-investvoyager.com
 futuresdaqrh.com
 futuresheigesdo.xyz
+g-479357.com
 g-confirms.net
 g4398bg895ghhg5h.shop
 galaaxeegal.com
@@ -706,6 +702,7 @@ green-code-e3c.cf-uh86vtx1.workers.dev
 griffaincto.com
 grvtio.cfd
 gt-protocol.trading
+gta6phone.net
 hachi.coinvote.trade
 happypotters.art
 hdstreamz.online
@@ -750,7 +747,6 @@ ikigaiboxnft.com
 imfsupportservice.org
 imperialdriverealty.com
 imtoken.org.cn
-in06.us
 indexcoop.pics
 inephpxl3fsatoefqc23hz7yl55zfs6tjf36onr53wvowyfvshiq.arweave.net
 info-us-ledgrcom-start.pages.dev
@@ -769,6 +765,7 @@ jianime.nft-premint.xyz
 jito-airdrops.network
 join-aerodrome.co
 join-falconfi.com
+join-latchpay.com
 join-nim.network
 join-roninchain.network
 join.launchpad-etherfi.app
@@ -845,6 +842,7 @@ lowfeescanner.website
 lr5d.cc
 lreth.org
 lucky-nftbox4.vercel.app
+m.io-moonpaycdn.wixstudio.com
 m365online-microsoft.cam
 magiceden.launchbtc.xyz
 magpliexyz.pro
@@ -956,6 +954,7 @@ moonshot-voting-z3.netlify.app
 moonshot-voting-zdv.netlify.app
 moonshots-vote.net
 morgan-share-hub.vercel.app
+morplho.com
 mothercoin.xyz
 motionlndustries.com
 movementnetwork-claim.pages.dev
@@ -996,6 +995,7 @@ neir0eth.org
 netmindai.foundation
 netnetcapital-portals.xyz
 netnetcapitalfinance.xyz
+network-pro.study
 new.asdsadkjdgfhgfhg.xyz
 newsignlauch.pages.dev
 newt-foundation.net
@@ -1093,7 +1093,6 @@ pawscommunity.net
 pawscommunity.xyz
 pawsofsherwood.fun
 pawzones.net.safemooninu.net
-pay-bitrefill.com-cu01-esim-gift.com
 pears-mainnets.com
 peckye.com
 pendie-ecostystem.net
@@ -1135,6 +1134,7 @@ pnfbhz.cc
 pokt-network.com
 policy-hyperliquidgov.icu
 policy-x.help
+polmarkets.com
 poloniex-app.co
 polygon916.com
 polymarket-betting.us
@@ -1154,6 +1154,7 @@ portal-smogtoken.tech
 portal.scrollzkp.claims
 portfolio-metamaskapp.com
 potal-firelight.digital
+potrfolio.luxe
 ppeq.cc
 pratino.icu
 premint-nft.xyz
@@ -1173,6 +1174,7 @@ proposal-kinetiq.cfd
 proposals-ether.fi
 protocol-unlock.com
 protocoldap.pages.dev
+ptilaria.ink
 pub-0249788ee1634bd4b1530759b4d2f3d4.r2.dev
 publicslaeliberty.pages.dev
 pudgy-penguins.rewaard.tech
@@ -1309,7 +1311,6 @@ season4-degentoken.app
 secloakbkt.fly.storage.tigris.dev
 secure.user-collab.land
 securepipfinance.com
-securewallet-robinhood.com
 security-flarenetwork.top
 seedifyfun.network
 sentora-votes.xyz
@@ -1339,6 +1340,7 @@ skjda1254bf754.pages.dev
 skyecosystem.foundation
 skyrainbet.app
 skytopia1.vercel.app
+sl-okx.com.cn
 slingshotcrypto-claim.com
 smart-pool-6a.cf-z3ugrtw5.workers.dev
 smartcoinportal.firebaseapp.com
@@ -1501,7 +1503,6 @@ tubbycatsnfft.xyz
 turbotoken-tips.xyz
 tvl-wlficoins.app
 twolego.xyz
-twt-wallet.live
 ujzhhxp360vz6ng.space
 uni-arbitrage.info
 unibot.news
@@ -1517,7 +1518,6 @@ uniswops-connect.com
 updated-notice.org
 uphold.com.sc
 uphold.com.vc
-upold-us-cnada.created.app
 us-ledgor-start-com.square.site
 us-lido.fi
 us-moonpay.wixstudio.com
@@ -1530,7 +1530,6 @@ usersupport-blockchain.cfd
 usesplitholder.xyz
 usphsntomwallot.godaddysites.com
 usual-eligible.com
-v2-quickswap.click
 v2-trezor.com
 v2-tronbridge.com
 v2-zkmls.com
@@ -1565,6 +1564,7 @@ vote-buildoneigen.net
 vote-id-lcihmk7c4.portallogonapp.beer
 vote-id-y1w7palh1b.portallogonapp.beer
 vote-monad.xyz
+vote-proposal-3.pages.dev
 vote-starkbtc.com
 vote-swellnetwork.net
 vote-trillions.pages.dev
@@ -1593,6 +1593,7 @@ warnerbros-nft.com
 wdefi7.xyz
 web--metamask.com
 web-io-trezor-r-sta-rt-doc.typedream.app
+web-uniswap.at
 web3-integration.pages.dev
 web3-token.com
 web3cryptoplanes.com

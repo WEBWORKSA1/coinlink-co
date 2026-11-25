@@ -56,6 +56,7 @@
 52353-crypto.com
 53-transfer.serveuser.com
 548773gemini.com
+581243gemini.com
 6-clutch-market-stonk.pages.dev
 64-derivexyz.pages.dev
 652812-coinbase.com
@@ -72,6 +73,7 @@
 79-view-kinetiq.pages.dev
 81-governance-papertrade.pages.dev
 855okx.com
+8607-f0d3-cb-listings.pages.dev
 8fd1d2464e155c.com
 9-cashmere-eco.pages.dev
 9-gov-ponsfamily.pages.dev
@@ -98,7 +100,6 @@ acrossnetwork.net
 activities.fourpaws64.com
 admin.diolube.buazu.com
 admin.san.965aeadca754e1589a.aaa.zkbridqe.com
-aerodromefi-claims.xyz
 aerofinance.net
 aethir.com.co
 aevostake.top
@@ -223,6 +224,7 @@ atomic-safe.at
 atomicwallet.readme.io
 audius-earn.com
 audius.site
+auth-metmaskio.wixsite.com
 authenticate-ledger.app
 authentification-collab.land
 authorization31-ledger.live
@@ -313,7 +315,6 @@ bwifhat.com
 bwsninja.info
 byomako.pages.dev
 bytefix-app.vercel.app
-c-cl.cc
 c4gyz.pro
 cabinrentalsnc.com
 caga-start.web.app
@@ -406,6 +407,7 @@ classicshib.vip
 claudes.chainmail.cloud
 clayme.xyz
 clear-lab-d06.cf-k10d62ev.workers.dev
+clearpool-finance.info
 client-5bg.pages.dev
 cliudflare.net
 cloud-io-tre-zor.typedream.app
@@ -413,6 +415,7 @@ cloud-quickq.com.cn
 cn-biance.com.cn
 cnear.com
 co-web-ledger-live-login.typedream.app
+cobalt-okx.com.cn
 coin.eth-wallet.top
 coinbas-extension.com
 coinbase-accounts.com
@@ -434,6 +437,7 @@ coldie3d.io
 collabland.elementfx.com
 com-accounts-auth.app
 com-get.my.id
+com-gift-esim-ah04.com
 community-sale.zama.onl
 communityhold.info
 communityvote.xyz
@@ -787,6 +791,7 @@ incentives-arbitrum.app
 infamouzltd.xyz
 injective.web32-foundation.xyz
 insightsmartproject.com
+instantprovalvereg.xyz
 integrity-ledger.live
 interact-io-ledgrlive.pages.dev
 interactive-brokers.top
@@ -928,6 +933,7 @@ marginfi-noderepair.pages.dev
 mask-gift.com
 maskchains.xyz
 maskofficial.xyz
+matrix-migrate.pages.dev
 mayimeetyou.network
 mbaeth.com
 me7q1.demonmetale.xyz
@@ -954,6 +960,7 @@ metaio-extession.webflow.io
 metalcore.bond
 metamasak-wallet.godaddysites.com
 metamask-dapp.pages.dev
+metamaskinc.blogspot.be
 metamaskkchrormeextension.gitbook.io
 metamasklogin.live
 metamaskloginbrz.gitbook.io
@@ -1167,7 +1174,6 @@ parallelfi.net
 pass-degods.net
 paxos-gold.com
 paxosgold.org
-pay-bitrefill.com-cj01-esim-gift.com
 paybiss-login.pages.dev
 payementsecured.com
 pdbtagix.org
@@ -1186,7 +1192,6 @@ pepewarsdrop.pro
 peppercoin.site
 perks-ether.fi
 phantombranch.online
-phantomwalletbr.site
 phase1-blast.org
 pikachuclaim.live
 pikamoons.io
@@ -1354,6 +1359,7 @@ rubiwellet.webflow.io
 runxinshicai.com
 s1-firelight.xyz
 s2gpin.com
+safe-ruleset-base.online
 safemoonnft.com
 sahodayapuducherry.org
 saitachain-com.pages.dev
@@ -1379,6 +1385,7 @@ send-bnb.co
 send-bnb1net.surge.sh
 sent.quicktent.org
 sf-seedify.com
+sg-solutions.net
 shareholders-netnet.capital
 sharpai.online
 shibaswap.tech
@@ -1444,7 +1451,7 @@ squiggies.io
 sralnapadik.pages.dev
 ss-start-ttrzor-com.webflow.io
 sso-trezr-secure-suite.square.site
-sso-uphold-com-auth-t-cod.typedream.app
+sso-wel-kraknlogn.pages.dev
 ssostarts-trezocdn.wixstudio.com
 ssouphold-en.meku.app
 ssv.events
@@ -1464,14 +1471,12 @@ staking.cow.trading
 staking.yoraclefitrade.app
 stakingrevest-finance.live
 staknet.space
-starcomplete.xyz
 stargate-protocol.finance
 stargate.financev2.app
 stargete-finance.com
 starknet.pics
 starry-nft.com
 start-liverabby-apps.wixstudio.com
-startup.web3-world.com
 stealthsunshineworld.app
 steamcommunityxown.top
 steamcomnmutily.ru
@@ -1649,7 +1654,6 @@ vote-okxpolls-913.pages.dev
 vote-palm.com
 vote-pendlefinancesl.xyz
 vote-proposal-65.pages.dev
-vote-trade.xyz
 vote.bitstablez.net
 voteflr.site
 votes-babylonlabs.co

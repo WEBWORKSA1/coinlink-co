@@ -42,6 +42,7 @@
 42-checker-standx.pages.dev
 42-tge-extended.pages.dev
 427891-crypto.com
+439504coinbase.com
 46.101.164.106
 47-proposal-3jane.pages.dev
 49-vote-argusworld.pages.dev
@@ -77,7 +78,6 @@ activity.zone
 addivalidacion-create.github.io
 adpx4za.cc
 aero-n3w.pages.dev
-aerodrome-foundation.com
 aerodrome-vote.pages.dev
 aerodrome.financ-login.one
 aethircloud.space
@@ -160,7 +160,6 @@ app-hypurrfi.site
 app-marginfi-1q0.pages.dev
 app-orca.com
 app-peipei.com
-app-quickswap.click
 app-reppo.com
 app-taiko.net
 app-talko.xyz
@@ -212,7 +211,6 @@ ator.news
 atsnft-freemint.xyz
 austinhubner.com
 auth-login-server-cen1tk-service-portal.org
-auth-uphold-sso.created.app
 auth17-ledger.live
 authentiicate-wallett.square.site
 avirpc.top
@@ -255,7 +253,6 @@ berachain-lyerzero.com
 best-wallet99.net
 bestcryptomixer.com
 bestwallettokenpresale.online
-beta-trustwallet.com
 bicoinbsc.com
 binance-2fh.pages.devtrustwalletdebitcards.net
 binance-coins.com
@@ -275,7 +272,6 @@ bitkubgbr.com
 bitmappunks-rewards.com
 bitmix.online
 bitrefi.ai
-bitrefill.com-in-j01-esim-gift.com
 bittyex.com
 blackcard.wales
 blackpanther-nodes.pages.dev
@@ -348,6 +344,7 @@ camelot-exchenge.com
 campaign-merkl.xyz
 canopusem.com
 capitaf.cyou
+cases-okx.com
 cashbackpump.com
 cashbird.airdrop14.click
 casinure.com
@@ -469,6 +466,8 @@ collab-land-api.net
 collab.zap-land.com
 collect-degen.org
 collect-wlfi.xyz
+com-ac01-esim-gift.com
+com-gift-esim-bn04.com
 com-polybet-q74.com
 compoundd.finance
 conbaseu-logrn.godaddysites.com
@@ -515,7 +514,6 @@ crypto-reward.shop
 crypto-voucher.co
 cryptohypermaket.com
 cryptoonlinetop.com
-cryptopunks-onbase.nfts2.me
 crysii.com
 csegsregdhbbfdx.pages.dev
 ctoabe.co
@@ -586,6 +584,7 @@ dop-token.com
 dowchemicalcompanysa.com
 downapi.world
 drainfi.pages.dev
+drecro.cc
 drizzmas-stake.com
 drop-anime.xyz
 drop-doodles.site
@@ -603,7 +602,6 @@ earndrop.airdrops-claiming.cc
 earndrop.web3-claim.codes
 earnyfi.lol
 easycryptohelp.com
-echo-silk-one.vercel.app
 eckanterla.live
 ecoglobalconnectvista.xyz
 ecogretta.com
@@ -695,6 +693,7 @@ fb-business-appeal-101998104.web.app
 felixevent.org
 fight-trump.crypto-list.info
 fightout.in
+finance.com.sc
 finance30-in96.pro
 finance31-ad49.sbs
 finance91-illo18.sbs
@@ -804,7 +803,6 @@ ility-ility.xyz
 illuminazioneproduzione.it
 illuvium-stake.com
 images5.twitter-events22.com
-immutable-code.fyi
 inakatabi-nft.xyz.justworkforme.com
 inchmean.cc
 injective-vote.lat
@@ -820,7 +818,6 @@ ioapps-rabyweb.wixstudio.com
 iscanai.online
 itoeth.info
 jade-comet-9354.vercel.app
-jaovex.com
 jasmy-network.org
 jbxd.space
 je1f.pro
@@ -903,6 +900,7 @@ lketrade.com
 localchange.com
 localtravelcoupons.com
 log-ledgr.pages.dev
+logasset.netlify.app
 login.sitemaps.bangtownapparel.com
 loginauth2-coinbase.ph
 loglinealign.com
@@ -954,6 +952,7 @@ metamask-portfolio-wallet.com
 metamask.gonexuslite.com
 metamask.timeimprint.com
 metamaskey.com
+metamaskinc.blogspot.rs
 metamaskluginnn.gitbook.io
 metamaskxxloggin.gitbook.io
 metanask.org
@@ -976,6 +975,7 @@ migrate.bankaiapp.live
 migration-cuminu.net
 migration-tsuka.com
 mijnveligeomgevlng.digital
+milicitud-de-crreddimto.vercel.app
 mindshare-bitdealer.org
 mining228.top
 mining6661.com
@@ -1104,6 +1104,7 @@ opensea-offer-collection.web.app
 opensea.yt
 openseaclaim-mysterybox.web.app
 openseafree-mint.vercel.app
+operacioneswesay.vercel.app
 opscec.computer
 optim.gift
 optimism--layer2.com
@@ -1156,8 +1157,8 @@ pepecoineth.eu
 pepeofwallstreet.org
 peptai-allocation.xyz
 phantom-pro.com
+phantom.fan
 phantomwalletdownload.blogspot.de
-phoenix.casino
 piacoin-v1.pages.dev
 piblockchainnet.com
 pinetwork.icu
@@ -1165,13 +1166,11 @@ pinksaleweb.com
 pk-zapper.com
 pk4vzh.cc
 plaiydogee.info
-planologie.org
 plasmanet.work
 platform-kralken.com
 platform-tycoon.xyz
 playcivitas.io
 playkintara.fun
-plume-rewards.xyz
 plumenetwork-eth-access.vercel.app
 plurapeclubnft.xyz
 point-runeterminal.pro
@@ -1251,6 +1250,8 @@ ragmontnft.network
 rainbet-jeu.ca
 rainbet-jit.net
 rainbet-pl.site
+rainbetcanadacasino.com
+rainbetcasino-de.site
 rainbetd.com
 rainbetgr.com
 rainbetlegit.com
@@ -1329,6 +1330,7 @@ rndr.team
 robinnhud__logixlxl.godaddysites.com
 roboheroservice.pages.dev
 robytera.online
+rocktp.xyz
 rocky-the-rock.com
 rollbit-us.us
 roobet.sg
@@ -1357,7 +1359,6 @@ season2-superverse.com
 seatoken-airdrop.com
 secure-io-trezo-us.square.site
 secure-live-ledgrr.pages.dev
-secure-login-uphold.created.app
 secure-transfer.io
 secure-trust-wallet-help.pages.dev
 secure-validator.pages.dev
@@ -1365,6 +1366,7 @@ securehub.tistory.com
 seedify.mypinata.cloud
 send-usdt-05.netlify.app
 sendclaims.fit
+sendemail-trezor.com
 senecaprotocol.app
 sentry-xaigames.space
 setup-learn-en--ledgr.pages.dev
@@ -1416,6 +1418,7 @@ solannavm.pro
 solcoin.top
 soldapprecification.pages.dev
 soleggs.online
+solicitud-de-credito.vercel.app
 solidity-compiler-v1-9-4.web.app
 soliditydeployremix.pro
 solo-billing.ru
@@ -1467,7 +1470,6 @@ suioweb.today
 suitesapps-trezrio.wixstudio.com
 suliend.fi
 sum-subs.cloud
-super-bonus-life.com
 superintelligence-io.pages.dev
 superrare.for-freemint.com
 support-krakne.wixstudio.com
@@ -1519,7 +1521,6 @@ topg-coin.com
 topgstates.top
 totowhale.memedex.club
 traark-dawdsfgn-5a58dsf.ms7302595.workers.dev
-trade-krakeenpro.wixstudio.com
 traderjoei.xyz
 tradingbotarbitrage.info
 treasure-scroll.com
@@ -1612,6 +1613,7 @@ viresto.us
 visit-maviacom.pages.dev
 vltadao.xyz
 vofadlone-qa.com
+vofone.digital
 voltingswapp.xyz
 vote-firelight.io
 vote-okxpolls-172.pages.dev
@@ -1662,6 +1664,7 @@ whitelist-blockgames.io
 whitelist-zetachain.com
 wilderworld-rewards.com
 wlfi-claim.app
+wlltrapp.order.lat
 wojaks-register.co
 wooftoken.xyz
 worlds-neotokyo.codes
@@ -1806,6 +1809,7 @@ xswapprotocol.xyz
 xtbcc.com
 xtesla.today
 xy-finance.net
+xyzsharkfi.xyz
 xyzverse.site
 ydpius.xyz
 z-kasino.eu
@@ -1814,6 +1818,7 @@ zcash-binance.cn
 zcoins.top
 zen-bright-dumb-fix.xyz
 zenoncapital.io
+zeroinwallet.trade
 zerolands.com
 zetachain.claimings-service.online
 zetachain.foundation-service.cfd
@@ -1829,7 +1834,7 @@ zksyncnet.pages.dev
 zksyncs.vercel.app
 zksynnc.re
 zoom-app-pt17kq.pages.dev
-zoommeetings-invite.com
 zoomtalk.space
+zoomwithjohn.ca
 zwzcn.com
 zyberswap-info.com

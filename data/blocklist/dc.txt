@@ -34,6 +34,7 @@
 31-saturncredit.pages.dev
 32-placement-votesokx.pages.dev
 32-reallocation-concrete.pages.dev
+3377sports-htx.com.cn
 344881-crypto.com
 3582993-coinspot.com
 39-proposal-papertrade.pages.dev
@@ -43,6 +44,7 @@
 4-longxyz.pages.dev
 4-mainnet-elysium.pages.dev
 40-gov-argus.pages.dev
+41-rewards-firelightfi.pages.dev
 46-venice.pages.dev
 47-allowlist-ascendlaunch.pages.dev
 5-governance-treadfi.pages.dev
@@ -88,6 +90,7 @@ adidas-ape.com
 ads.0gfoundation.guru
 aerodeome.finance
 aerodromefi-voting.xyz
+aerodrorne.luxe
 aevo-airdropsxyz.pages.dev
 aevo-staking.com
 afcoc.xyz
@@ -275,8 +278,6 @@ bitfinex.fun
 bithumb-binance.cn
 bitkubcco.com
 bitmain.center
-bitrefill.com-av04-gift-esim.com
-bitrefill.com-gift-esim-r04.com
 bitrock.gift
 bittensor-wallet.org
 bittrex-omnisagentsolutions.com
@@ -329,7 +330,6 @@ build-tge.com
 bullvers.icu
 bullxbot.pages.dev
 bungexchenge.com
-buole.xyz
 burningwars.xyz
 burrrd.xyz
 buwes.com
@@ -465,6 +465,7 @@ com-8h28b3.cyou
 com-claimprize.click
 com-exchange-q-web3-chrome.com
 com-golden-net.pro
+com-in-o01-esim-gift.com
 com-lightning.biz
 com-login.lat
 communityvotings.net
@@ -575,6 +576,7 @@ dream-giris.art
 drift-sol.click
 dropmnt.com
 dtkl.shop
+duekf.lol
 dunesnetwork.pages.dev
 durev-airdrop.com
 dymesnion.pages.dev
@@ -623,7 +625,6 @@ enter-derivexyz.lat
 enter-longbowlend.sbs
 enter-usefelix.com
 enter-zignaly.com
-ercanalyticsrefunds.help
 esjsdbvsdvbsidvsdvhbsdhv.com
 eternlwallet.com
 eth-bekaryswap.org
@@ -685,7 +686,6 @@ firelight-updates.live
 firelightfoundation.top
 fixerrorr.dev
 flafis.xyz
-flare-multiplier.info
 flarefn-sync.live
 flarefoundation.forum
 flashswap.pages.dev
@@ -758,6 +758,7 @@ help.fixingerror.org
 hespress-news.s3-website.eu-north-1.amazonaws.com
 hextok.com
 highticket.app
+hj-okx.com.cn
 hkinu.network
 hodld.tips
 hodlonsoi.vip
@@ -1015,7 +1016,6 @@ moonshot-voting-k7g.netlify.app
 moonshot-voting-r2vxrb.netlify.app
 moonshot-voting-ts.netlify.app
 morlho.org
-morphoseason.com
 mortpho.org
 most-cat-huge.on-fleek.app
 movingproforward.net
@@ -1133,10 +1133,6 @@ particulares-linha.103-155-93-228.plesk.page
 paxose.com
 paxosreward.com
 pay-bitrefiil.com
-pay-bitrefill.com-cm01-esim-gift.com
-pay-bitrefill.com-d04-gift-esim.com
-pay-bitrefill.com-de01-esim-gift.com
-pay-bitrefill.com-gift-esim-ag04.com
 pay-ftxlimited.com
 pay.register-snapsolana.com
 paysellcoin.com
@@ -1160,7 +1156,6 @@ plaguebrands.fun
 plasma-haven-d08.pages.dev
 plasmachecks.com
 platform-usrabby-app.wixstudio.com
-play.twitbit.in
 plrguru.shop
 plumenetwork-distribution.xyz
 plumenetwork-web3-chain.vercel.app
@@ -1170,7 +1165,6 @@ polling-safe.com
 polygon-bonus.com
 polymarket-canada.com
 polymarket-ch.ch
-polymarket.org.uk
 polymarkets.one
 polymm.com
 pons-voting-bf.netlify.app
@@ -1240,6 +1234,7 @@ r8jqhx.pro
 rabbyecosystem.com
 raffle-namelessnft.com
 raiden-bot.xyz
+rain-bet-co-uk.pages.dev
 rainbet-australia-casino.com
 rainbet-jp.com
 rainbet-magyar.com
@@ -1255,11 +1250,12 @@ ray.earnincentive.xyz
 raydium-debugs.pages.dev
 raydium-swp.com
 raydiumnet.work
-rby-uiuisan.sadiyaha01.workers.dev
 reallocation-jup.fun
+realtimefuturedev.buzz
 recoverysolution1.com
 recoveryui.site
 rectifymultichaindapp.com
+rectifysvalidations.live
 redeem-getgrass.com
 ref61223-crypto-app.com
 ref7xjq3vmt5kpz8.com
@@ -1331,6 +1327,7 @@ robotsfarm.net
 rolimons.net
 roostonbases.com
 roxexchange.com
+royal-capaz-ex.com
 rpc-berachain.link
 rpcservicetool.com
 ruabby-wallet.gitbook.io
@@ -1662,7 +1659,6 @@ web-apps-metmaskext.wixstudio.com
 web-extension-trust.wixstudio.com
 web-gamdom.com
 web.communicationhub.vip
-web03us.sbs
 web3-checkout.com
 web3claim.onrender.com
 web3crypto.pics
@@ -1853,6 +1849,7 @@ yootseth.xyz
 yuvrajproductions.com
 z6wxwbpojzotp5p.space
 zaptest.pages.dev
+zcat-token.cfd
 zentiant.io
 zerofilmy.com
 zeroknowledgesync.com

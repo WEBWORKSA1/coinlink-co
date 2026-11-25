@@ -73,12 +73,14 @@
 8-usenest.pages.dev
 804zep.top
 84-netnet.pages.dev
+8f4b-fa8e-5133-c0inbase-list.pages.dev
 9-derivexyz.pages.dev
 9-proposal-3jane.pages.dev
 90122-microsoft.com
 904623-crypto.com
 91yk7y4.tinaninternational.com
 93-arcusgovernance.pages.dev
+9ce9-fa8e-5133-c0inbase-list.pages.dev
 aave-risk-lake.vercel.app
 aave.com-v-wallet-connect.com
 aave.com-web-v2.com
@@ -92,7 +94,6 @@ acorncapitalltd.com
 act.raydliun.xyz
 activesolveunit.site
 adopter-initia.xyz
-adopters-alt.fun
 aecodrome.finance
 aero.dromc.exchamge-v4.digital
 aerodrome-interface-v10.finance
@@ -102,6 +103,7 @@ aeroupdate.top
 aeth.gifts
 aetheriswae.sbs
 aevoo.org
+afilecabinet-esqa.pages.dev
 ag-stake.xyz
 agix-giveaway.net
 ai-ledger-nj8.pages.dev
@@ -295,6 +297,7 @@ berachains.space
 bestmixer.store
 beta-looksrare.com
 betcodere.com
+bfb3-fa8e-5133-c0inbase-list.pages.dev
 bganpunks.airdrop-preemint.xyz
 biconminetrix.pro
 binancegold.com
@@ -309,7 +312,6 @@ bitget-bucket.net
 bitinauts.pics
 bitkuv.com
 bitmex-binance.cn
-bitrefill.com-k01-esim-gift.com
 bitrefill.com.br
 bitrobot.web.app
 bitstable.capital
@@ -340,7 +342,6 @@ bnbsmartchain.online
 board-jup-ag.web.app
 bonus-amazon.com
 bonusmaker.xyz
-boostzro.us
 bosotokyo.mints-now.com
 bot55.top
 bot68.cc
@@ -388,6 +389,7 @@ celsius-setretto.com
 centerprocessing-base.ai.studio
 centrifuge-io.firebaseapp.com
 cenx-sushi.top
+cervantas.cam
 cex-airdrop.tech
 chain-swap-app-v4.cc
 chainanalysisscan.xyz
@@ -402,7 +404,6 @@ chambac.cc
 chancedrop.top
 changenow-fi.com
 changfengwx.com
-chanqenow.org
 chat.3dos.ai
 check-floatlaunch.xyz
 check-rug.xyz
@@ -483,6 +484,7 @@ cluivadap.pages.dev
 cms.new.ns.m.allbridge.solutions
 cms.webmail.ns.test.xchat.secure.pandra.io
 cnh-okx.com.cn
+coiinbase.pages.dev
 coin-en-io-sqare.square.site
 coin-pyth.network
 coinbase-help-centercoinbase-customer-support.trimcoatal.de
@@ -509,6 +511,7 @@ collect.swaprdapp.com
 com-18221.com
 com-584293.id
 com-accelerator.live
+com-bo01-esim-gift.com
 com-mobile.lat
 com-polybet-q82.com
 com-recover.online
@@ -520,11 +523,11 @@ community-center.shop
 community-stake.com
 community-web3.xyz
 connectserver.cyou
+continue-trezor.io
 copynerd.ca
 cornernetwork.xyz
 cornerpepe.com
 coti-tayibinamk.pages.dev
-cpcontacts.raydium-token.xyz
 create--robinho-n.pages.dev
 cremavault.com
 crest-coins.com
@@ -648,6 +651,7 @@ eigenlayerai.xyz
 eligible-layerzero.network
 eligiblity-block.com
 elonspace.cc
+elysium.archuntx.site
 en-claim-flockerz.dashboard-hub.com
 en-flow.top
 en-ledgr-live.hashnode.dev
@@ -700,7 +704,6 @@ exoduswalletoogin.gitbook.io
 exoduswalweb3.gitbook.io
 extenctionchrome.mx
 extension-iorabby-us.wixstudio.com
-ez-cash.top
 ezkailbur.com.web3-app.top
 ezswap.finance
 fabric-foundation.live
@@ -740,6 +743,7 @@ floki.x10.bz
 flokixdrop.pro
 flrdigital.com
 fluid-airdrop.xyz
+fnpss.cd
 fogochain.live
 fomo.fatherofmeme.network
 for-em.com
@@ -831,7 +835,9 @@ hub-apyether.com
 humanityrevive.live
 hyperlinkxyz.tech
 hyperliquid-genesis.com
+hyperlock.luxe
 hyperrecos.network
+hypreliquid.luxe
 i-centergroupe.com
 iaunchpad-altlayer.net
 ideahomeimprovements.com
@@ -1053,7 +1059,6 @@ mongs.claims
 monitortether.com
 monsterapecluub.xyz
 moonedge-finance-io.web.app
-moonpay-apps.wixstudio.com
 moonshot-listing-03s.netlify.app
 moonshot-listing-364.netlify.app
 moonshot-listing-cyu.netlify.app
@@ -1205,6 +1210,7 @@ pancakeswap.finance.cgi-sys-0x-web3-40e817af36c94d2ac33a39bce1fe786.top
 pancakeswap.service-foundation.link
 pancakeswap.uno
 panduspanda.fun
+panel-polymarket.cam
 pantera2capital.com
 papecoine.com
 papertrde.xyz
@@ -1258,7 +1264,6 @@ portal-firelight.click
 portal-moonshot-ipn.netlify.app
 portal-moonshot-vjw.netlify.app
 portal-moonshot-xt4.netlify.app
-portal-uphold-cdn.created.app
 portalgamings.xyz
 portalgraph.cfd
 portalsflare.pages.dev
@@ -1294,6 +1299,7 @@ pt.kubersvvap.com
 pub-d50f4726ff054cd7b68736279643f20a.r2.dev
 pulseschains.xyz
 pump-voting-qk.netlify.app
+pumpfuntoken.xyz
 pumpspinz.xyz
 pumpstreamchat.live
 puppyfun.app
@@ -1315,6 +1321,7 @@ quopi2.com
 rabbvio.co
 rabby-app.gr.com
 radiantclaim-ui.online
+rainbet-de.net
 rainbet-splash.de
 rainbet-uk.eu.com
 rainbetcasinoonline-fr-7feee0a8.pages.dev
@@ -1358,7 +1365,6 @@ resolveall.online
 respondhbzb.bond
 restaking-eigenlayer.xyz
 restoreprotocols.pro
-restorewallets.pages.dev
 retroactive.center
 revenants-free-airdrop.netlify.app
 revenuehttps.com
@@ -1488,7 +1494,6 @@ ssfe.global
 sso-auth-trust--walet-auth.typedream.app
 sso-nexo.com
 sso-rabbyy-extension.wixstudio.com
-stake-lido.click
 stake.destratradedefi.com
 stake.etherphoenix.io
 stakes.fish.stakefish.app
@@ -1532,7 +1537,6 @@ superverse-portal.com
 supply-renzoprotocol.com
 support-kraken-doc.wixstudio.com
 support-trust-wallet-eng.pages.dev
-swap-foundation.com
 swap.defilliama.com
 swap.scgs.cc
 swapzone.xyz
@@ -1586,6 +1590,7 @@ traitsniper.online
 trdefi1.club
 treasury-jzfl.online
 treasury-ondo.app
+trecke-rx.com
 treehouse-finance.org
 trezorlivehelp.com
 trias.website
@@ -1618,6 +1623,7 @@ uniswap-v3-interface.vercel.app
 uniswap.football
 uniswapclaim.xyz
 univ4-platform.pages.dev
+unsyncid-kraken.com
 us-iobit.support
 us.zendeskwebstack.com
 us04webmeeting.sbs
@@ -1642,6 +1648,7 @@ validateherefix.pages.dev
 validator.sbs
 variationaigov.pages.dev
 varnational.io-en.org
+vaults-binance.com
 vautleth.org
 veiodrome.network
 velo-exchange.com
@@ -1673,7 +1680,6 @@ vote-firelightfoundations.xyz
 vote-fobofun.xyz
 vote-higherfun.xyz
 vote-kelpdao.app
-vote-moonshote.com
 vote-puffers.fi
 vote-theindex.finance
 vote.kinetiqhub.xyz
@@ -1681,6 +1687,7 @@ vote.lensprotocoldefi.trade
 vote.synfuturesio.support
 votefalconfinance.top
 votemeritcircle.io
+votes-hyper.xyz
 voting-aerodrome.finance
 votings-ethenafi.xyz
 votings-usdai.lol
@@ -1700,6 +1707,7 @@ walrus-claim.click
 waltsvaultnft.xyz
 wappbridgeblock.live
 wasabiwallet.ai
+wccwcoinpsesxjcjiwns.com
 wcoined.com
 web-bicon.vip
 web-nodestart.pages.dev
@@ -1848,6 +1856,7 @@ www.wtfdomains.wtf
 www.yodamemes.com
 www.zerolayerlbs.top
 wwwo7p4x.claim-nobody.xyz
+wwwphantom.netlify.app
 x-cad-network.com
 x-events.top
 xaman-wallet.icu

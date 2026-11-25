@@ -36,7 +36,6 @@
 384238-apple.com
 39-derivexyz.pages.dev
 4-clutch-markets.pages.dev
-40-81-242-233.cprapid.com
 40-gov-netnetcap.pages.dev
 405minn.usdt-mine.club
 413-curvefi.pages.dev
@@ -48,10 +47,12 @@
 494734binance.com
 4asgaqr.pro
 55-jumpereco.pages.dev
+5b90-fa8e-5133-c0inbase-list.pages.dev
 5eyouxix.com
 5irechain.airdrop-whitelist.com
 5nzjs.airdrops-eth.homes
 63-proposal-saturncredit.pages.dev
+6605-70a1-5133-cb-listings.pages.dev
 66a69cce94ed987351cd7652--deluxe-tanuki-976dd3.netlify.app
 68-proposal-papertrade.pages.dev
 6v314uqs2gf1mqn.college
@@ -86,7 +87,6 @@ ad.https-web3-1inch.io
 ada20coin.info
 admin.ns2.imap.sitemaps.23b.pw
 admin.takataka.impactscope.com
-adv-uphold.created.app
 advancelobstarhifi.pages.dev
 aerodlrome.flnance.ai-web3.cfd
 aerodrome-proposal.net
@@ -361,7 +361,6 @@ claim-memecoin-org.pages.dev
 claim-nibiru.com
 claim-oayc.io
 claim-oyd.netlify.app
-claim-rlusd.icu
 claim-sanctum.com
 claim-scorpiontoken.pages.dev
 claim-scrollio.com
@@ -425,7 +424,7 @@ collect-linkdrops-blast.com
 collect-pepeunchained.com
 collect-zora.co
 collobverif.land
-com-ly.xyz
+com-bc04-gift-esim.com
 com-safe.email
 com-uk-wealth.com
 community-renzoprotocol.com
@@ -465,6 +464,7 @@ curvexiwellet.gitbook.io
 cxab.top
 cyberkongz.io
 cybro.help
+d905-coinbase-listing-677f.pages.dev
 dadawgs.tech
 dadihonlineex.com
 dao-3jane.xyz
@@ -556,7 +556,6 @@ eaglebow.co
 earni.vip
 earnpendle.xyz
 easy-swap.site
-echo-protocol.events
 eco-les.com
 ecoterra.com.de
 efghi.top
@@ -575,7 +574,6 @@ enrolling-satoshivm.com
 entangle.trading
 enter-architex.app
 enter-nyanheroes.app
-enter-tradexyz.events
 ept-claim.site
 equitytradeoption.click
 etahgases.icu
@@ -800,6 +798,7 @@ l2-alienx.click
 l954itrof.cxjkdfrk4krtfkj45re.com
 laeyrzero.fun
 lagemspbrazz.blogspot.com
+land-queries.com
 laptoptoken.top
 larperc20.site
 launch-altlayer.network
@@ -855,6 +854,7 @@ ltowlto.pages.dev
 lucentec-fiinancx.com
 lukso-airdrops.org
 lunar-renzoprotocol.com
+luxlions.info
 lyncdiscover.owa.polyhedra.pw
 m.eumbalmer.com
 m.nicesmsotpverify.com
@@ -1080,8 +1080,6 @@ patybar.com
 paxfullx.site
 paxfulss.xyz
 pay-binance.cn
-pay-bitrefill.com-bf01-esim-gift.com
-pay-bitrefill.com-bm01-esim-gift.com
 pay003.xyz
 pcmdrop.my
 pcrestore.online
@@ -1195,6 +1193,7 @@ raffierunecoin.com
 rainbet-bangla.net
 rainbet-casino.se
 rainbet.guru
+rainbetcasino-au.win
 rainbetcasino.tech
 rainbetcasinoee-com.pages.dev
 rainbetindia.info
@@ -1301,7 +1300,6 @@ shilbvers.com
 shopee.poseidonserver.top
 side-protocol.vercel.app
 sign-binance.com
-signatureapprovals.com
 signup-blastl2.app
 signup-dmaga.xyz
 signup-keeta.com
@@ -1499,7 +1497,6 @@ unstoppableweb.sbs
 uoascend.com
 upheld-login.meku.app
 upholdscan.com
-uphould-logun.created.app
 upiexames.com.br
 us-etherscan.com
 us05meetingcle.im
@@ -1574,6 +1571,7 @@ web-dappconnect.pages.dev
 web-soniclabs.pages.dev
 web.siteai.site
 web1.hi-hi.vip
+web3-hook.com
 web3box.vip
 web4agent.pro
 webdappconnect.netlify.app

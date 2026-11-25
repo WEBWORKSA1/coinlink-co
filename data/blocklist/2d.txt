@@ -61,7 +61,6 @@
 82-governance-jumperapp.pages.dev
 855757.app
 883y60.com
-891064coinbase.com
 92134790173.cyou
 921840-crypto.com
 928732coinbase.com
@@ -291,7 +290,6 @@ bitlayer.app
 bitly.ws
 bitmainchainfix.pages.dev
 bitpayconnect.world
-bitrefill.com-gift-esim-aw04.com
 bitstable.events
 bittensor-dapp.io
 bittron.co
@@ -473,6 +471,8 @@ collabland-wallet-ui-bw7.pages.dev
 collablands-connects.ltd
 com-airdrops.com
 com-assets.sbs
+com-ch01-esim-gift.com
+com-gift-cards-zil.com
 com-uy.top
 com-wbm.cfd
 community-alignedlayer.xyz
@@ -504,6 +504,7 @@ curve-finance.live
 curve.net-t.click
 cutishes.com
 cyberconnect.ws
+d040-colnbase-listings-4f65.pages.dev
 dao-bnbchain.org
 dao-hydrex.cloud
 dapp-collab.com
@@ -587,6 +588,7 @@ ecosystems-based.cyou
 ecoterra-app.online
 ecsdapp.com
 edenhordenft.xyz
+edxmweb.com
 ee-zee.com
 efinity-io.events
 ehtere.fi
@@ -645,7 +647,6 @@ exodus-wallet.website
 expertlive.in
 explorewithzara.com
 extension-uniswap.app
-ez-cash.lifestyle
 fabiw.com
 family-ledger-bfr.pages.dev
 faq-trustwallet.pages.dev
@@ -708,6 +709,7 @@ gas.ethreturned.xyz
 gb84bg48b4nh94h4.homes
 genesis-firelightfi.app
 genesis-hyperliquid.claims
+genius-vote.pages.dev
 genoverse.bio
 geomettrydashapk.com
 get-ansem.com
@@ -794,6 +796,7 @@ instant-chnagelly.wixstudio.com
 integradeddapp.pages.dev
 integrationvercelclaim.top
 intiia.pages.dev
+io-in-k01-omni.com
 io-paycrypto.icu
 io-swapnow.com
 iog.lol
@@ -842,7 +845,6 @@ kijoma.shop
 kinetiqxyz.lat
 kk-okx.cn
 kolesoebanoe.buzz
-kraken-contacts.com
 kraken.vg
 krakenwalleteth.com
 krd662.it
@@ -955,6 +957,7 @@ metaclaim.vercel.app
 metacoin-wallets.com
 metakrew.site
 metamakwaallextension.webflow.io
+metamasck-loggin05.godaddysites.com
 metamask-card.tech
 metamask-community.ct.ws
 metamask-dnx.pages.dev
@@ -963,6 +966,7 @@ metamask-reward.com
 metamask-verify-1111zyntop.ph
 metamask.gallery
 metamask.io-sc.ru
+metamask_login3.godaddysites.com
 metamasklottery.com
 metamaskwalletcustomerservice.blogspot.co.ke
 metaverse.adidasgo.pro
@@ -975,6 +979,7 @@ metropolis-worldnft.xyz
 metropolyclaim.xyz
 mev-arbitrage.info
 mfi-air.web.app
+mfimedicalinc.com
 mfrnfts.xyz
 microran0192.com
 microsoftsupport.digital
@@ -1177,7 +1182,6 @@ ponsfamliy.com
 portal-moonshot-ge9.netlify.app
 portal-moonshot-gzf.netlify.app
 portal-moonshot-x0g.netlify.app
-portal-uphuld-start-io.created.app
 portal.dev-crt.nl
 portalcoin-launch.com
 portalcoindao.xyz
@@ -1250,6 +1254,7 @@ rainbet-casino-cz.com
 rainbet-choix.com
 rainbet-hu.romeisttiketi.pro
 rainbet-uk-casino.com
+rainbetalternatives.com
 rainbetcasino-es.com
 rainbetcasinoofficial.it
 rainbetcode.com
@@ -1400,6 +1405,7 @@ solairdrops-df.netlify.app
 solaxy.games
 solflare.mainnet-live.com
 solmigrate.fun
+solswap.study
 solu-ai.xyz
 solvalidate.xyz
 somnia.app-senc.com
@@ -1545,7 +1551,6 @@ trustpad-app.pages.dev
 trustpade-netvrk.com
 trustpr.vip
 trustspendcards.com
-trustwalletdesk.com
 trustwalletlogin.blogspot.com.br
 trustwalletts.org
 ttrezorr-briidge.pages.dev
@@ -1618,7 +1623,6 @@ vote-id-nq57xjbj5.portallogonapp.surf
 vote-mantrachain.co
 vote-multiversex.com
 vote-ondo.com
-vote-portal-flaresnetwork.app
 vote-proposal-33.pages.dev
 vote-smapocke.pages.dev
 vote-tutorialtoken.com
@@ -1678,6 +1682,7 @@ worldclaim.art
 worldcozy.com
 worldscoin-ba1f7.web.app
 wormhole-dev.netlify.app
+wormhole-votes.pages.dev
 wormhole.free-claiming.site
 wouo.com.br
 wpaycommunity.pages.dev
@@ -1811,7 +1816,6 @@ xn--monshots-w3a.com
 xn--moonshts-5rb.com
 xn--mooshos-5jb6z.net
 xn--onkey-k0a.com
-xn--wechat-u47r.com
 xrp-rewards-check.com
 xrp2web.xyz
 xrpl-batch.xyz
@@ -1831,9 +1835,11 @@ zard.best
 zcat.meme
 zebec-io.cloud
 zenlion.wl-official.com
+zentrical.net
 zeroiend.finance
 zetas-chains.org
 zeufax.com
+zk-sync.work
 zk-zircuit.app
 zkasino.airdrops.homes
 zkcync-wallet-1.gitbook.io

@@ -11,6 +11,7 @@
 121-curvefi.pages.dev
 122513ledger.com
 125-arcusgovernance.pages.dev
+125551kraken.com
 13-derivexyz-6ky.pages.dev
 130-stonkbroker-clutchmarkets.pages.dev
 1353615coinbase.com
@@ -33,6 +34,7 @@
 26-vote-orbio.pages.dev
 27-longxyz.pages.dev
 271-curvefi.pages.dev
+2922-coinbase-listing-677f.pages.dev
 3-arguspadgov.pages.dev
 3-ethenamoney.pages.dev
 3-vote-zesteco.pages.dev
@@ -47,7 +49,6 @@
 4-aave-allocations.pages.dev
 4-gov-curvefi.pages.dev
 4-hub-zamaecosystem.pages.dev
-411308-coinbase.com
 43-governance-kinetiq.pages.dev
 47-view-kinetiq.pages.dev
 472-reallocate-flare.pages.dev
@@ -77,6 +78,7 @@
 83-governance-treadfi.pages.dev
 879122kraken.com
 9-gov-paperstrade.pages.dev
+915653coinbase.com
 920ufpp8g.mxkg2.ru
 925873coinbase.com
 976597-binance.com
@@ -97,7 +99,6 @@ aerodrome-finances.com
 aerodrone.trade
 aethstake.com
 affyn.website
-ai-claim.live
 ai.digidaigakus.com
 aicuioin.com
 aidogie-connects.xyz
@@ -235,7 +236,6 @@ autoexchange.space
 avax-swap.com
 avaxreward.org
 avril15.live
-awardsfk.sbs
 axionglobalfinance.xyz
 axstokenlab.top
 azuki.web3fast.net
@@ -290,7 +290,6 @@ biti-nauts.sbs
 bitmappunk.com
 bitpanda-einloggen.pages.dev
 bitqoventra.com
-bitrefill.com-bp01-esim-gift.com
 bitstamp-login-en.blogspot.com
 bittcooinbsc.com
 bittensor-wallet.com
@@ -452,6 +451,8 @@ collect-trumpcard.xyz
 colnbase-supports.com
 colngekco.net
 com-7c2z.lol
+com-gift-cards-ada.com
+com-gift-esim-ag04.com
 com-payorder72829.lol
 com-polybet-q37.com
 com-trust-hub.pro
@@ -467,6 +468,7 @@ connect.collab-community.land
 connector-wkox.vercel.app
 connexcapital.net
 constart-control.app
+contact-metamask-support.blogspot.ae
 cookiecommunity.org
 cpanel.pop3.auth.speedycrm.curvae.fi
 crayfniy.cc
@@ -634,6 +636,7 @@ exchange-dfyn.pages.dev
 explainthisbob.claims
 exprespecsk.sbs
 extrateonsols.pages.dev
+exxods-io-app.pages.dev
 ezzy.web3-airdrop.net
 facebook-app.icu
 fadsa3reawer.myvnc.com
@@ -687,6 +690,7 @@ froykec.fun
 fuelreward.online
 fukduksmint.com
 fund-loss-investigation.metamask.au
+fungamesclub.online
 fusionist.for-mint.xyz
 fusionist.gift
 fwogsolana.xyz
@@ -736,7 +740,6 @@ gramstake.io
 greedotsupportx.instanthq.com
 greenytoken.xyz
 grokcoinmeme.net
-growinmeadowvale.com
 gss666.com
 gtcfcx.com
 guaranteed-cryptofinance.com
@@ -816,7 +819,6 @@ jumperapp.click
 jup-airdrop-58r.pages.dev
 jup.ag-rewards.app
 jupiag.com
-jupiter-swap.gr.com
 jupjup6.com
 jupjup9.com
 juppyrewards.cc
@@ -937,6 +939,7 @@ maviagame-freemint.xyz
 maxmint-zora.co
 maynahfairmask.synology-diskstation.de
 mediareport-x.com
+meditechgear.com
 meetamask-logen.pages.dev
 meete.live
 mefaverse.live
@@ -964,6 +967,7 @@ metta-coin.com
 metuamaseklaugim.webflow.io
 mewccrypto.cloud
 mewccrypto.co
+microsoft-support.help
 microsoftfileoffline.top
 microsofthosts.com
 migrate-catgirl.com
@@ -1141,6 +1145,7 @@ phase1-firelight.xyz
 phase2-firelight.icu
 phtm-distribution.com
 pikashowtv.net.co
+ping-okx.com.cn
 pinksalesystem.com
 pixelss.xyz
 playsonala.xyz
@@ -1193,7 +1198,6 @@ proposals-morpho.org
 proposals-telcoin.info
 psyop.community
 pubgjoz.zyns.com
-pudgy-panguins.github.io
 pudgy-penguins.online
 pudgyeggs.com
 pufferfl.support
@@ -1218,6 +1222,7 @@ quests-plumenetwork.app
 quickevents.one
 qwcnfts.xyz
 rabbyy-apps.mythex.ai
+rain-bet.com.de
 rainbeet.ca
 rainbet1-dk.com
 rainbetcasinosk.com
@@ -1311,7 +1316,6 @@ season3-modenetwork.pages.dev
 seasons-etherfi.xyz
 secured-log.pages.dev
 secureddapps.com
-security-xaman.com
 seedify-bnb.pages.dev
 seedizfyi.com
 seiswap.glitch.me
@@ -1447,6 +1451,7 @@ tapswapai.app
 taxcalculator-cb.com
 technicalresolve-node.pages.dev
 tectum.aircoins.top
+temple321.bar
 temporal-purple-dash.glitch.me
 tensorspaceai.com
 tentestnetprotocol.vercel.app
@@ -1497,7 +1502,6 @@ treasury-swarms.com
 treasurycenter-mtb.org
 treehope.cc
 trendsfun.xyz
-tresor-suite-io.pages.dev
 trest-wallett.pages.dev
 trez-suit-insert.pages.dev
 trezo-compare.framer.ai
@@ -1543,6 +1547,7 @@ update-across.app
 upgrade-arc.tech
 upsso-uphouldapps.teleporthq.app
 us-funrize.org
+us-trustapps.framer.website
 us.monz-group.cc
 us007webzoom.us
 usdai-allocations.cfd
@@ -1572,6 +1577,7 @@ vip.s-g-x-enterprises.com
 virtualboxx.cn
 virusworld.web3-airdrop.net
 visionlido.net
+vitalwaveabyo.com
 vitecoin.vip
 viysrbyrrsvrirsinylfyudluyxkyrzxyrgvulyhgxryskftdryk.pages.dev
 vkidalawa.za.com
@@ -1780,6 +1786,7 @@ xrimerfa.com
 xrp-swell.com
 xrpl-chain-reward.com
 xrplabs.app
+xscapevault.info
 xtoken-project.online
 xworld-games.com
 xy-finance.pages.dev

@@ -44,6 +44,7 @@
 339599-coinspot.com
 37-0xfluid.pages.dev
 370492-crypto.com
+389203coinbase.com
 3jane-proposal.xyz
 4-preview-derivexyz.pages.dev
 4-vote-netnet.pages.dev
@@ -59,9 +60,12 @@
 6-fx-aladdin.pages.dev
 60-proposal-argus.pages.dev
 64-dashboard-concrete.pages.dev
+675a-fa8e-5133-c0inbase-list.pages.dev
 6a1ce0003e15a30008ac0ea3--allora-claimdrop.netlify.app
 71-jumperhub.pages.dev
 72-governance-orbio.pages.dev
+7353-colnbase-listings-4f65.pages.dev
+752515-robinhood.com
 79-proposal-globaldollar.pages.dev
 79.137.202.34.sslip.io
 8-derivexyz-6ky.pages.dev
@@ -133,6 +137,7 @@ airdrops-apecoin.com
 airdrops-usdt.info
 airtm.help
 airtm.ulitey.com
+aistakpowers.top
 aiw3.live
 aizentra.one
 akidcalledbeast.org
@@ -221,11 +226,9 @@ arbitrum-reclaim.com
 arbitrum-rewards.com
 arbitrum.live
 arbitrum.tty.cx
-arbitrumbridgesapp.pro
 arbitruns.com
 arbsswap.shop
 arbtrum-layer2.com
-area.alliswestpro500.com
 arkham-intelligences.com
 armory.xn--jonvalhalla-0zb.com
 artblock-gazers.xyz
@@ -288,8 +291,6 @@ bitbox.pages.dev
 bitcase.org
 bitcoin-minetrix.pages.dev
 bitcoinefttokkens.com
-bitrefill.com-gift-esim-aj04.com
-bitrefill.com-in-m01-esim-gift.com
 bitstable-finance.pro
 bivf0we.cc
 blasermoon.com
@@ -801,6 +802,7 @@ join-shibarium.com
 join.venom-mainnet.com
 joinbencoin-migrate.pages.dev
 joingrapecoin.app
+jordan-coinbase.com
 jtoget.net
 julce-finne-onnection-onlin-we3-g5c0qc.shahtush.com
 jup-catsapp.org
@@ -945,6 +947,7 @@ metamask-zb.xyz
 metamask.walllllprotect.com
 metamaska.io
 metamaskextensioun.webflow.io
+metamasklogink.blogspot.mx
 metamsk-chrm-exten.gitbook.io
 metashima.xyz
 metaverse-illuvium.com
@@ -1105,7 +1108,6 @@ ordinal-ape.com
 otherside.gl
 outlook.bunnysecuritytester.com
 owoto-flnnec.one
-ox-g.cc
 oxyaupgrade.com
 paal-activity.co
 page-exodus-en.pages.dev
@@ -1125,7 +1127,6 @@ paws-babydogecommunity.xyz
 paws-community.site
 paxful-payment.com
 paxfulus.com
-pay-bitrefill.com-s01-esim-gift.com
 pay.ffoundation.io
 payout-securesignal.com
 pekingmonsters.live
@@ -1168,6 +1169,7 @@ pond0xrefund.com
 pons-voting-hk.netlify.app
 portal-ait.tech
 portal-beefy.com
+portal-latchpay.com
 portal-moonshot-3md.netlify.app
 portal-moonshot-6qh.netlify.app
 portal-moonshot-l7t.netlify.app
@@ -1175,7 +1177,6 @@ portal-moonshot-lar.netlify.app
 portal-moonshot-n26.netlify.app
 portal-moonshot-xqq.netlify.app
 portalgaming-air.com
-premium0peanseamint9.vercel.app
 presaerch-nft.netlify.app
 presale-onchaincoins.com
 presale-thepandaworld.pages.dev
@@ -1317,7 +1318,6 @@ ripple-meet.com
 ripple.com-finance.icu
 ripplebonus.net
 ripplxrp.com
-riseupmeadow.com
 rivusdao.events
 rndrop.com
 robinhood-5clfo7jm.netlify.app
@@ -1370,6 +1370,7 @@ send-usdt-guide.vercel.app
 sentientagi.network
 servicelinkup.ddns.net
 settings-coinbase.com
+sgvwebx.co
 sharelive365.com
 sharkcatcoinsol.com
 sharpe.aitlaunchpad.network
@@ -1485,7 +1486,6 @@ sunpump.win
 sunpumpn.com
 sunswap.cc
 supersporte-hr.com
-support-case-kraken.com
 support-htx--io.square.site
 support-walletconnect.com
 survey-aptoslabs.net
@@ -1520,6 +1520,7 @@ testauikg-8uv.pages.dev
 testing-com.sbs
 testnet-securitize.com
 testwebsiteeeee221.com
+testxuests1777.com
 tfuturesco.com
 tge.layersoph.online
 thechosen1s.xyz
@@ -1616,6 +1617,7 @@ v3-migration-reward.pages.dev
 v8888.sbs
 validatornetwork.pages.dev
 vana.events
+varialtonal.xyz
 variational.omni-challenge.com
 varitaional.io
 vela-exchange-swap.com
@@ -1692,6 +1694,7 @@ whitelist-intellixprotocol.com
 whitelist-makerdaospark.com
 wigowsap.casa
 wildcard-beacon-router.vercel.app
+winter-summit-secure-user-3e08-dafc.pages.dev
 wl-strk.com
 wl-xterio.com
 wlficlaimed.xyz
@@ -1826,6 +1829,7 @@ xemnode.top
 xhkqtl.top
 xinhuozig.vip
 xion-airdrop.xyz
+xlmwallet.pages.dev
 xmagnetic.org.im
 xn--changnow-reb.io
 xn--coinbe-0ta41715a.com.ph

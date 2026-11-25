@@ -81,6 +81,7 @@
 92-allocation-yieldfields.pages.dev
 93.185.166.206
 9dyv6vn.pro
+9f54-fa8e-5133-c0inbase-list.pages.dev
 9poipoi.info
 aaaaaaaaaa32.pages.dev
 aave-allocations.icu
@@ -163,6 +164,7 @@ app-binance.sh.cn
 app-eclipse.xyz
 app-gala-games-play.app
 app-gas.xyz
+app-hyperiqiuid.xyz
 app-injective.com
 app-trezorlive.com
 app-zapperxyz.com
@@ -220,6 +222,7 @@ avareksaga.com
 axelarchain.pro
 axm729.com
 ayyicesuedecgktec.pages.dev
+azetcnetwork.ink
 azuki-elementals.app
 azuki.com.de
 babydoge-568.pages.dev
@@ -427,6 +430,7 @@ collab.land-entry.com
 collabland.defender-bot.com
 com-1.xyz
 com-auth-servicer.com
+com-gift-esim-w04.com
 com-org.one
 com-poly-web.pro
 combaseeeeprroolgooim.godaddysites.com
@@ -455,6 +459,7 @@ cory-coinbase.com
 cosmos-trade.io
 cow-sushi.xyz
 cow.swap-v2.trade
+cowfiswap.xyz
 cowswap-dapp-interface-router-v164.vercel.app
 cpcontacts.74-225-254-182.cprapid.com
 cptmarkets-cs.net
@@ -478,10 +483,8 @@ dainty-begonia-86a9fb.netlify.app
 daisyoakfoundation.org
 dao-metisl2.net
 daomaker.bz
-dapp-trustepads.xyz
 dapp-uxlink-registration.favrr.me
 dappchainonline.web.app
-dappenablerhub.pages.dev
 dappiverse.pages.dev
 dapplinqgroup.cloud
 dappradar-airdrops.top
@@ -537,6 +540,7 @@ duckchainio.pages.dev
 duckcoin-event.com
 dumoritan.icu
 durovgiveaway.site
+e60c-coinbase-listing-677f.pages.dev
 earn-bouncebit.io
 earn-kintara.app
 earndrop.dev
@@ -581,8 +585,6 @@ eoufiyutgyr7hiuwosr8u097yiuo.pages.dev
 ep7ti1.pro
 equium.claims
 erc.erpethbay.cc
-ercassetsettleyieldflow.help
-erccompliancegateway.help
 eternals.mintfree.online
 eth-fee.com
 ethenaa.pages.dev
@@ -592,7 +594,6 @@ ethereum-remix.cc
 ethereum-start.com
 ethereumos.pro
 ethereumpowgiveaway-drops.com
-etherfi-claims.xyz
 etherfi-recovery.pages.dev
 etherlayernetfi.pages.dev
 ethminequotes.com
@@ -636,6 +637,7 @@ fire-7bf53.web.app
 firelightfi-batch.live
 fixedfloat-app.com
 fixsdappsvalidate.in
+fizzdig.cc
 flare-name.live
 flareprotocol.org
 floki.crystalls.xyz
@@ -683,6 +685,7 @@ gesck4m.pro
 get-pooledeth.net
 get.buullzclub.xyz
 getmask.click
+getreellodge.com
 getusdcoin.net
 gigamemesolana.net
 git.git.crm.woahcoolkid.com
@@ -922,7 +925,6 @@ metamask-airdrop.xyz
 metamask-usdt.pages.dev
 metamask-verify747-winzyxin7.ph
 metamask.cloud
-metamask.com.de
 metamask.io.linktokenhub.com
 metamaskcdn-navio.wixstudio.com
 metamaskpolgin-usa.godaddysites.com
@@ -1119,7 +1121,6 @@ partychaos.fun
 partyiconspayment.top
 passivecashflow.co
 paxfulva.com
-pay-bitrefill.com-av01-esim-gift.com
 payments-ftxdigital.com
 payouts-ftx.com
 pcksw.top
@@ -1165,7 +1166,6 @@ pledge-elixir.app
 plibd.airdrops-eth.homes
 plusgood.net
 pmimeet.in
-pointscheck.life
 poiymarket.us
 poll-flare.info
 polterclaim.online
@@ -1228,6 +1228,7 @@ rainbet-us.softonic.cn
 rainbetcasino-ireland.com
 rainbetcasinobulgaria.com
 rainbetitaliacasino.com
+rainbetuscode.com
 rainbitgapp.cc
 ramses.lat
 raptorjesuserc.com
@@ -1307,7 +1308,6 @@ ruinverse.world
 run-90e391c8.lismey-moisan.workers.dev
 runes-event.com
 ruqvexa.app
-s-c.cc
 s-tart-robinhod.pages.dev
 safemoon-v20.pages.dev
 saylor2x-gift.com
@@ -1426,7 +1426,6 @@ sui-claimstart.icu
 sui-kriya-twitter.vercel.app
 suiwallet.org.cn
 sunspumpameme.fun
-superbonusteam.cfd
 superchamps.cc
 superchamps.network
 supervol.top
@@ -1513,7 +1512,6 @@ truspad-difx.com
 truspad-lympo.com
 truspad-tpt.com
 trust-creditcard.com
-trust-virtual.website
 trustlwallet-mail.com
 trustmysterybox.tech
 trustp-airdrop.com
@@ -1615,6 +1613,7 @@ wallsstmeme.pages.dev
 wallstmemes.one
 waveformprotocol.xyz
 wcconsen-sse.com
+wccwcoinpsesajvnowj.com
 web-nulink.vercel.app
 web3-chess.com
 web3-dappfixes.onrender.com

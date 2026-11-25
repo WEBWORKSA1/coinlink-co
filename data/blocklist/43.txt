@@ -36,6 +36,7 @@
 234657.digital
 24-virtualsvote.pages.dev
 285-lists-okxvotes.pages.dev
+29-proposal-elysium.pages.dev
 295-proposal-prjx.pages.dev
 2ndtrip-otherside.com.collab-land-api.net
 30-allowlist-ascendlaunch.pages.dev
@@ -61,6 +62,7 @@
 51-vote-orbio.pages.dev
 52yxjs.cn
 534245google.com
+5752-fa8e-5133-c0inbase-list.pages.dev
 5thscape.one
 60-placements-votesokx.pages.dev
 6000jup.com
@@ -94,7 +96,6 @@ activedappnet.com
 admin.staging.community.remote.lostalleresdeljardinerofloja.com
 admin.ww1.minipepe.gold
 aerodrome.pics
-aerostake.cc
 aevo.xlaunch-pads.xyz
 aevvo.pro
 afterhjuuu.bond
@@ -147,7 +148,6 @@ alphascan.cloud
 altavagroup2-free.xyz
 altprotocol.pages.dev
 alvaprotocol.com
-am-yaequb.com
 aml-3az.pages.dev
 aml-detect.com
 amlprotection.com
@@ -325,6 +325,7 @@ bullbitcoin-desktop.com
 burger-goblin.wtf
 buy-imlitp.tech
 by-bit.pro
+c63f-4c29-5133-c0inbase-list.pages.dev
 cagricola-pt.online
 cake-giveaway.com
 cambridgetraders.com
@@ -360,7 +361,6 @@ checker.sitemvxrtx5ay1jd.xyz
 childrens-aid-foundation.crypto-pad.online
 choose-kinetiqfnd.xyz
 chootherescue.live
-chrome-metawallet.wixstudio.com
 chromies-artblocks.live
 chromies.live
 ciaim-roost.wtf
@@ -454,6 +454,7 @@ coldcard.site
 coldwallets-coinbase.com
 collect-neotokyo.codes
 colonisemars.live
+com-cr-gift-cards-sol.com
 com-polybet-q61.com
 combonetwork.xyz
 cominternational.cc
@@ -593,7 +594,6 @@ enter-uniswap.com
 enter-usepaid.app
 entering-mantagaiaxies.com
 equinixinc.netlify.app
-ercadvisorysecure.help
 eth-che.shop
 eth-community.net
 ethbot-arbitrages.com
@@ -635,6 +635,7 @@ expulserevs.pages.dev
 extension-iorabbynav.wixstudio.com
 extradety.top
 fables-votes.pages.dev
+famcapitalna.com
 fancybears.do-minting.com
 faq-eng-trezzr-web.typedream.app
 farm-lootbot.xyz
@@ -943,6 +944,7 @@ metamask-airdrop.top
 metamask-verify747-winzyxbn4.ph
 metamask-verify747-winzyxdn5.ph
 metamask5.io
+metamaskextensuiin.gitbook.io
 metamasklogginn.wordpress.com
 metamaskvalidation.sensoryworks.com
 metamonopoly.only-mint.xyz
@@ -1017,10 +1019,10 @@ motirex.com
 mp7tf.demonmetale.xyz
 mqcrypto.com
 ms.usdenas.store
+ms365outlook.com
 mscster.com
 mtrc-team.web.app
 muitipiier-paramgamingiab.com
-multi-firelight.info
 multichain-tokenguidehelp.net
 multichain-web.org
 multichainmigration.website
@@ -1137,7 +1139,6 @@ paperhands.in
 paperstrategy.lat
 parsec.foundation
 participate-jito.com
-pay-bitrefill.com-az01-esim-gift.com
 pay.aptosconnect.net
 paymentcredicuotas-com.ar.cl
 payrealfixrpl.com
@@ -1202,11 +1203,9 @@ pro-krakencom.wixstudio.com
 projectguardian.cc
 projects-dev.pages.dev
 projects-interfaces.pages.dev
-projectxdex.org
 promo-figure.com
 proofplatform.site
 proposal-dqn.com
-proposal-flarenetwork.app
 proposal-layerzero.com
 proposal-swell.network
 proshielded.com
@@ -1426,7 +1425,6 @@ spongtoken.shop
 sprint-otc.com
 sprintswap.io
 squireldegens.com
-stablecoins-coinbase.com
 staemcommunitly.net.ru
 stake-etuktuk-io.pages.dev
 stake-litentry.net
@@ -1449,6 +1447,7 @@ stylebyzara.com
 sui-coins.website
 suiexchange.online
 suiswap.pages.dev
+suite-en.app
 sunpump.casa
 super-bridge.xyz
 supercoreinchtrade.pages.dev
@@ -1483,6 +1482,7 @@ taskgridy.top
 taskon-bitkeepdrop.in.net
 teams05live.us.com
 teamsinvitez.top
+telcom.stream
 terminals-trustwallet.com
 terra.limited
 tesla-stock-trading-voltera-capital-markets.sbs
@@ -1493,7 +1493,6 @@ testnet.monadexplorer.top
 testsdisk.com
 tether-study.web3-invite.live
 tge--firelight.xyz
-tge-solsticefinance.com
 tgyma.pro
 the-heist-nana.web.app
 theaccessdex.com

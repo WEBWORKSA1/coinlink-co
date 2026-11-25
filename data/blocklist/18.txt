@@ -61,12 +61,12 @@
 53-app-treadgov.pages.dev
 53-checker-standx.pages.dev
 56-hub-treadeco.pages.dev
-571951-crypto.com
 573440d2-df13-499c-bf7c-3d0d3d0ad594.dragonswaps.io
 6-allocation-argus.pages.dev
 61-governance-venice.pages.dev
 66-allocation-yieldfields.pages.dev
 68-proposal-saturncredit.pages.dev
+68959.cfd
 69-venice.pages.dev
 7-proposal-3jane.pages.dev
 72-placements-votesokx.pages.dev
@@ -147,7 +147,6 @@ allocation-moodengsol.com
 allocation-ordo.xyz
 allocation-ponsfamily.xyz
 allocation-solv.app
-allocation-variational.app
 allocation.oraprotocol.claims
 allocation.paallai.claims
 allocation.venomsprotocols.network
@@ -208,6 +207,7 @@ app.nodego.asia
 app.piasmafdn.top
 app.sitemw6v8b6qbbdz.xyz
 app.stellaswap.com.app-sys-x12-web3-40e817af36c94d2ac33a39bce1fe786.top
+app.trustvell.com
 app.veinamarket.com
 appbabylonlabs-vote.top
 appblever.xyz
@@ -238,7 +238,6 @@ ashisc.com
 assets-eigen.com
 assets-kucoin.com
 asterdexvote.today
-attention-coinbase.com
 aurk.io
 auth----sso-app-cdn---kucion.webflow.io
 auth--connection.com
@@ -250,7 +249,6 @@ automatonsai.online
 automigratesync.pages.dev
 avaxex.com
 aveprotocol.com
-avntsushi.top
 axieinfinity.godaddysites.com
 axiom.gift
 ay06.lsrn.mom
@@ -275,7 +273,6 @@ barsttew442.top
 based-punks.com
 basedbreff.pages.dev
 basedbrettokens.web.app
-basedfoundation-rewards.xyz
 basefxo.com
 baseid.equipementdemesure.com
 beckr-erc20.top
@@ -296,9 +293,6 @@ bitgetwallet.top
 bitisnats.com
 bitlayer.fi
 bitpiewallet.shop
-bitrefill.com-bd04-gift-esim.com
-bitrefill.com-bs01-esim-gift.com
-bitrefill.com-gift-cards-arb.com
 biur-nfts.io
 blackedtrump.com
 blast-points.net
@@ -427,7 +421,6 @@ claimtheblessnetworkrewards.xyz
 claimwallst.com
 clientes.evergreenfin.ltd
 cloud-lab-4a1.cf-1mcsd7mb.workers.dev
-coachjvinvest.com
 codingscopstech.site
 coinbase-connect-wallet.pages.dev
 coinbase-otc.com
@@ -443,8 +436,8 @@ collab-connectors.top
 collab.land-get-role.com
 collabland-assests.xyz
 collect-pendle.com
+com-cr-gift-cards-shib.com
 com-desktop.mom
-com-live-app.online
 comesm.net
 community-flarenetwork.click
 community.autoconfig.m.typhoon-wallet.com
@@ -486,7 +479,6 @@ cryptopunkliquidstaking.xyz
 cryptoresolve.tech
 cryptoszone.net
 crystalized-designs.com
-curve-finance.at
 curve-valuevault.top
 curve.foundation3-service.link
 curvefinance.markets
@@ -603,7 +595,6 @@ ens-eth.tech
 enter-citrea.xyz
 ependle.fi
 erc20fixchain.com
-erccomplianceexperts.help
 eth-20ach.com
 eth-degods.com
 ethben.bio
@@ -766,7 +757,6 @@ illuvium-now.com
 illuviumbeta.online
 im1ciis.tinaninternational.com
 imaginaryones.trading
-inads0324.click
 indemnify-bia.com
 indexrequestverse.pages.dev
 india-token-clame.site
@@ -936,7 +926,6 @@ meta-neotokyocodescom.pages.dev
 metacards.org
 metamak-extensn.wixstudio.com
 metamak.ru
-metamask-cn.at
 metamask-docs-law86jwel-consensys-ddffed67.vercel.app
 metamask-verify-1111baccaratspinxspinxnow.ph
 metamaskin.wordpress.com
@@ -1077,6 +1066,7 @@ okafq4.top
 oksdwa.cyou
 oksdwg.bond
 omni-network-gyk.com
+online-inv.click
 online-omben-crypto.lol
 open-base-sites.wixstudio.com
 open-mysteryclaim.vercel.app
@@ -1138,7 +1128,6 @@ papu-game.com
 paramdigitalnetwork.com
 patriotlx.online
 pawsspin.website
-pay-bitrefill.com-cf01-esim-gift.com
 pay.invoice-checkout.com
 pay.pepsico.live
 paybis.cc
@@ -1307,7 +1296,6 @@ reward-jup.app
 reward-spx6900.com
 reward-usesplit.xyz
 rewardnetwork.online
-rewards-dexscreener.com
 rewards-jupiter.org
 rewards-oasis.app
 rewards-orbit.network
@@ -1496,7 +1484,6 @@ sui-swap.com
 suiet-app.pages.dev
 suilend.site
 suite-trezrapps.b12sites.com
-superbonusteam.com
 superforn.io
 supportpalestine.xyz
 sushiswap.com.mx
@@ -1518,7 +1505,6 @@ syntheitix.com
 syrup.maqle.finance
 sysxes.com
 szn4-tensor.com
-tamatonga.team
 targettrade.me
 tashiperk.xyz
 tcghz.com
@@ -1591,7 +1577,6 @@ trust-wallet-chrome-guuide.pages.dev
 trust.wallet.com-reset-seed-two-factor-authentication202600444.ck.mvwwnyq.com
 trustepad.se
 trustpad-pancakeswap.com
-trustpaycard.net
 trustpud.life
 trustrecovery.net
 trustus.kleap.io
@@ -1731,7 +1716,6 @@ webdisk.forum.api.www.email.larimarresort.com
 webmcc.com
 webnetsync.pages.dev
 webnodepad.pages.dev
-webofficialreward.com
 webrectification.pages.dev
 weinbau-schiel.at
 welcome-ledgr-faqs.pages.dev

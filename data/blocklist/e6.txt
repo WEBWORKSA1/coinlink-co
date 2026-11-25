@@ -81,7 +81,6 @@ aerodromegroup.com
 aevoo.uk
 afknd.pro
 agenda.pw
-aggiornamento-ledger.io
 agoda.ycs.my.id
 agreement-ftx.com
 ai.larange.xyz
@@ -185,6 +184,7 @@ application-hubsg.pages.dev
 appliedprimate.org
 apps-aerodrone.com
 apps-firelightfi.xyz
+apps-tangem.com
 apps-turtle.xyz
 appupshift.finance
 apyether.app
@@ -335,6 +335,7 @@ cakedapees.xyz
 calderalabs.xyz
 cannabis-healthreward.kedv.site
 capital-top-sunqavex.sbs
+carekaiermed.com
 carprocoin.com
 carv-protocol.com
 cas.evergreenfin.ltd
@@ -384,7 +385,6 @@ claim-initiaxyz.pages.dev
 claim-mmfinance.pages.dev
 claim-monopoly.xyz
 claim-nexo.info
-claim-nexus.xyz
 claim-nodepay.app
 claim-optimismdao.net
 claim-peng.netlify.app
@@ -480,6 +480,8 @@ collablands-connect.info
 collabs-connects-lands.vercel.app
 collect-zksync.com
 colngeccko.org
+com-bh04-gift-esim.com
+com-cr-gift-cards-eth6.com
 com-info.site
 com-trio.beer
 community-chain.link
@@ -489,6 +491,7 @@ comvexfimance.network-w3.world
 concretexyz.site
 connectgala.com
 cooinspoo.com
+coomese.cc
 cornmex.com
 cotiwallet.org
 cow-finance.click
@@ -764,7 +767,6 @@ hamsterkombat.events
 happy-zksync.com
 hedera.web3fast.net
 hedron-airdrop.com
-help-metaxsioe.gitbook.io
 helpcast.forum
 helps-suite-web.framer.ai
 hermeticafi.com
@@ -852,9 +854,11 @@ kntqstaking.app
 kobakobauri.github.io
 kraiikenloe.gitbook.io
 kraken-drop.xyz
+krakennowlog.gitbook.io
 krrakeen.wixstudio.com
 ks8084.icu
 kucoin.sh
+kyberwsap.luxe
 l2-alienx.xyz
 l3e7.org
 labxpro.xyz
@@ -1048,6 +1052,7 @@ msimapp.vip
 msteams-meeting.com.cn
 msteamsbookingz.top
 mtamesklggin.webflow.io
+mtamswlt-nasl082.akil43.workers.dev
 mubarak-ct.com
 muitiplier-unisat.app
 multgates.pages.dev
@@ -1114,7 +1119,6 @@ official-ledger.io
 og-purpe.xyz
 okcniinc.top
 okx.observer
-olstice.finance
 omnigenesisnetwork.com
 oooo-money.vercel.app
 openclawxlive.fun
@@ -1164,7 +1168,6 @@ partycasino-bet.com
 pass-degenape.com
 patrioterc20-quest.com
 paxfui2024.net
-pay-bitrefill.com-di01-esim-gift.com
 pay.okx-pay.app
 paymode.icu
 pdaotok.network
@@ -1211,7 +1214,6 @@ polkatrade-47ba6.web.app
 poll-xaman.app
 polymarket-predict.gr.com
 polymarkethelp.center
-polyprime.live
 ponke.website
 pons-voting-5s.netlify.app
 pons-voting-ap.netlify.app
@@ -1273,6 +1275,7 @@ rainbet-ie.org
 rainbet.casino
 rainbet.inc
 rainbet.mobi
+rainbetguide.com
 rainbetonline-ar.com
 rangoswap.com
 rdb.elevatedpass.org
@@ -1282,7 +1285,6 @@ reallocation-omninetwork.com
 reallocation-tea.xyz
 rebasedex.cloud
 receiveaavecoin.com
-recovery-pump.fun
 rectlaunchapp.pages.dev
 red90914294.com
 redstone-defi.mypinata.cloud
@@ -1314,7 +1316,6 @@ register.mocaversenft.com
 register.scaliatokendefi.app
 register.zerolendtokendefi.com
 registerpepe.com
-registration-alt.fun
 registration-monadxyz.com
 remythnft.com
 renqiiio.com
@@ -1325,6 +1326,7 @@ resolverportal.pages.dev
 resolverprotocol.pages.dev
 resolverstring.pages.dev
 resourcedapps.pages.dev
+restoremymac.org
 reviewresolutionpro.support
 revoke.cfd
 revokecash-web3.org
@@ -1432,6 +1434,7 @@ snap-layerzeronetwork.pages.dev
 snapshot-arcium.com
 solairdrops-t2.netlify.app
 solairdrops-w7.netlify.app
+solars-land.com
 soldapp-web.pages.dev
 solflare-vip.com
 sollutiondashboard.live
@@ -1490,7 +1493,6 @@ suites-treizer.pages.dev
 sunflowercrypto.online
 sunrise-enroll.xyz
 sunrisedefi.foundation
-superbonuslife.cfd
 support-ldger.wixstudio.com
 survey-chainlink.com
 sushidex.lat
@@ -1607,7 +1609,6 @@ updated-ivory-nine.vercel.app
 updatedapi3coinwebsite.com
 updates-gemini.com
 updatesmedia-x.com
-upholdin.created.app
 us-rabbywallet.com
 us.login-pollymarket.cam
 us.mclaudtechnology.com
@@ -1819,6 +1820,7 @@ www.x2-y2market.site
 www.x2y2.art
 www.zealy.lo.l2-app.cfd
 www.zoetoken.pro
+wwwccoin-psw.com
 wxmoney.pages.dev
 x-presale-platform.com
 x027.cc

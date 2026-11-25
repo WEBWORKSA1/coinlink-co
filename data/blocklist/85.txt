@@ -45,6 +45,7 @@
 3582993-trezor.io
 360browserr.com
 362-reallocate-flare.pages.dev
+3689-colnbase-listings-4f65.pages.dev
 4-mantle-allocations.pages.dev
 437emqj4ddldqp4e3k5crqqi6mvoiuauxvrpgghzws4n62gt7sba.arweave.net
 48-proposal-3jane.pages.dev
@@ -173,6 +174,7 @@ app-eignelayer.xyz
 app-furucomblo-dashnroad-finance.9onbir.com
 app-heyaura.xyz
 app-jumper.xyz
+app-ledger.st
 app-lido-fi.com
 app-radiant-capital.netlify.app
 app-revert.com
@@ -388,6 +390,7 @@ claim.tokentable.lol
 claim.whitestake.cc
 claim.zetrange.xyz
 claimdogee.xyz
+claimerasolana.xyz
 claimethereum.com
 claimpage-renzoprotocol.pages.dev
 claimpancakeswapairdrop.vercel.app
@@ -444,6 +447,9 @@ collab.role-assign.net
 collab.sol-land.com
 collect-drop-opensea.pages.dev
 colngeckoo.net
+com-bz01-esim-gift.com
+com-db01-esim-gift.com
+com-ec01-esim-gift.com
 com-swap.site
 com-true.beer
 com-verify-zone.pro
@@ -590,6 +596,7 @@ elonxerc.com
 elysiumecosystem.app
 en-trxore-cdm.wixstudio.com
 encryptionstar.com
+eng-extnsion-cdn.apper.so
 eng-rebbycdn.wixstudio.com
 eng-shibaswap.com
 engdydxx-swap.wixstudio.com
@@ -623,6 +630,7 @@ etherfi.lol
 etherproject.xyz
 etherscan.com.mx
 etheruegases.xyz
+ethiopiannewsa.online
 ethmainnet68.com
 ethrewards.pro
 ethtake.org
@@ -799,6 +807,7 @@ integratedschain.rf.gd
 interactivebrokers.app
 internetgenrationalerc.netlify.app
 intract-io.xyz
+investnetwork.live
 invitation-ethena.com
 invites.curvance.pw
 invoices-binance.com
@@ -864,7 +873,6 @@ layerzrochain.net
 ldo-provision.com
 learn-coinbas-pro.wixstudio.com
 ledgeerio-docs-desktop.pages.dev
-ledgerofficial.co.uk
 ledgerwallet-app.cn
 ledgr-desktop-rn.pages.dev
 ledgr-walletask.pages.dev
@@ -970,6 +978,7 @@ mint-zkfair.pages.dev
 mint.blasethzk.cc
 mint.suithefrensii.biz
 mirror-optmism.io
+mk-yahoo.com.cn
 mollyonmonad.xyz
 mon-epoch.com
 monad-desk.com
@@ -1159,6 +1168,7 @@ presale-slothana.com
 presale.beckercoins.network
 presale.thekittycoin.org
 press-wps.com.cn
+privacy-ledger.click
 pro-boxmint.firebaseapp.com
 proappa-metamaskext.wixstudio.com
 probablynothingnft.live
@@ -1297,7 +1307,6 @@ scapeauthyresolve.net
 scatter-mondomegabits.art
 scottytheai.top
 scrollfoundation.app
-sd-i.cc
 seamarket-io.com
 searlleed.shop
 season1-ponsfamily.com
@@ -1313,6 +1322,7 @@ seedinfy.com
 seiyans-claim.xyz
 send-check.xyz
 server-11-collab.land
+sg-metamask.com
 shadow-token.tech
 shapeshnift.click
 shardeum.manage-claims.live
@@ -1474,13 +1484,11 @@ trigger-reward.store
 tron-rental-v24.vercel.app
 tronvolt.org
 trouscan.github.io
-trumpbillionairesclub.quest
 trumpsfaucet.icu
 trumpwifelon.info
 trust--wallet-run.pages.dev
 trust-dz2.pages.dev
 trust-web3.cyou
-trust-web3.org
 trustwallet-card.co
 trustwalletpayments.online
 trxdr.com
@@ -1512,7 +1520,6 @@ uniswaphr.site
 uniswaptokens.pages.dev
 uniswep-fi.com
 universal-ultrarazorappverse.pro
-unlock-worldlibertyfinancial.live
 uno.nodeop.network
 updatehelseno.com
 us-ledger-com-strt.pages.dev
@@ -1738,6 +1745,7 @@ xarb.top
 xcrypto-s.top
 xeetsol.com
 xen2.pages.dev
+xhypersystem.xyz
 xn--btref-n4ae6ea.com
 xn--mcaa-5s5azg.com
 xn--monshot-vote-sib.xyz
@@ -1756,7 +1764,6 @@ xuauc.cc
 xvbeam.com
 xylsbenopjtcxqjzncdlsix55mrdb2yxudjxtlftrg7mxvanjsaq.arweave.net
 xzv7jg5yoi5pv7pn4iv5rt5wyccqg4wiamnqxpcughl3n5cievda.arweave.net
-yaecoin.sbs
 yeran.trade
 yfx.fi
 yieldbasis-allocation.bond

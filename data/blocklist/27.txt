@@ -1,3 +1,4 @@
+0089-4c29-5133-c0inbase-list.pages.dev
 038617-crypto.com
 0g-33r.pages.dev
 0s-us.com
@@ -83,7 +84,6 @@ aave.run
 aavegovernance.fun
 aavehub.tech
 ab-rewards.xyz
-acces-service.com
 access-kraken-en.pages.dev
 access-zetachain.pages.dev
 accountrevive.pages.dev
@@ -224,6 +224,7 @@ autosharkfinance.xyz
 avaxdrop.org
 awards-rekt.com
 axefinance.ai
+axodus-home-pages.pages.dev
 azex-testnet.xyz
 azukieelements.site
 azukishilumia.com
@@ -429,6 +430,7 @@ coinbasewallet.services
 coinbxcewalet.gitbook.io
 coincommerce.org
 coinexai.biz
+coinexse.co
 coinezusa-play.xyz
 coinloco.cc
 coinmultifix.vercel.app
@@ -436,11 +438,14 @@ coinsolutionssync.pages.dev
 cointelegraph.live
 collab.web-role.com
 collabland-verify.org
+com-aj04-gift-esim.com
+com-ck01-esim-gift.com
 com-gift-esim-m04.com
 com-logln.cyou
 com-polybet-q102.com
 com-verification.center
 com-voting.xyz
+com-z01-esim-gift.com
 comopund.finance
 compoundfenence.org
 con.webticonsene.icu
@@ -515,6 +520,7 @@ dezentracore.one
 dinero-claim.xyz
 dinosnft.netlify.app
 discord.vulcan-syncronization.com
+discovery-erp.com
 disneypinnacle-us.web.app
 disneypinnacle.vip
 disputecontents-x.com
@@ -565,6 +571,7 @@ eligibility-modenetwork.com
 eligibility.mavedrop.xyz
 eligibility.xrader.xyz
 elonx.pw
+elysium-ecoboost.top
 en-coinn-base-strt.pages.dev
 en-jaxx-libertyapps.wixstudio.com
 en-pepecoin.xyz
@@ -576,8 +583,6 @@ enroll.gcracademynetworkfinance.com
 enter-shironeko.net
 equilibriaclaim.finance
 equnarc.cc
-ercassetsettleyieldlink.help
-ercclaimservices.help
 es-rainbets-com.pages.dev
 eternalai.events
 etharscan.io
@@ -630,7 +635,6 @@ finceptor-app.pages.dev
 firelighttablestairs.autos
 firmsync.pages.dev
 firmware-webtnt.com
-first-ledger.us
 fix.gxdapp.com
 flarechains.com
 flaredirect.network
@@ -756,7 +760,6 @@ hypurrnft.org
 hyrperlend.fi
 i.fidelityoption-ios.com
 ico-paperfnd.com
-ikenga.dev
 illuvium.io.app-sys-x3-web3-40e817af36c94d2ac33a39bce1fe786.top
 imagilnaryones.com
 imk.akaric.fun
@@ -774,7 +777,6 @@ intro-en-bridge-io-trezr.pages.dev
 invisiblefriends.livesmintnfts.com
 inviteblast.xyz
 io-coin-change.icu
-io-discover.at
 io-exosdusweb.pages.dev
 istanbul-nft-metachain.pzz.pages.dev
 itgroupmessaggio.com
@@ -802,7 +804,6 @@ jupclaim.pro
 jupitermobile.yaslabs.dev.br
 jupuary-jup.ag
 kai-ken.cloud
-kaiyun-bonus.com
 kamino.live
 kaminofinancelab.cloud
 kangarooz.bond
@@ -818,7 +819,6 @@ kernelprotocol.network
 kf3uzrg.cc
 kipv5.com
 kira-token.com
-kkrnlogun.gitbook.io
 klausmeme.fun
 klmnop.pages.dev
 knownorigin.info
@@ -862,6 +862,7 @@ legacyprimevest.com
 legendyokai.com
 lehger-desktop.com
 lepverlive.com
+leroy-calfeutrage.ca
 letmeeventyou.com
 levoeimya.com
 libertexal.com
@@ -984,7 +985,6 @@ moon.airdrop-live.online
 moonbirds.fyi
 moonpay-commerce-git-fix-com2-1089-disabled-netw-b80dff-heliofi.vercel.app
 moonpay.jimdosite.com
-moonpy-nav.wixstudio.com
 moonshot-listing-69p.vercel.app
 moonshot-listing-ukv.netlify.app
 moonshot-listings-eid.netlify.app
@@ -1075,6 +1075,7 @@ online.openseagifters.buzz
 onreclaimpro.com
 open-sea-mystery.com
 openbox-clickclaim.vercel.app
+opendocument1.icu
 opensea-giftbox-weld.vercel.app
 opensea-mintfree018.vercel.app
 opensea-nftgift14.vercel.app
@@ -1118,12 +1119,9 @@ participate-magamemecoin.app
 partlcle.network
 patex.web3-defi.net
 pawfurry.cloud
-pay-bitrefill.com-af01-esim-gift.com
-pay-bitrefill.com-am01-esim-gift.com
 paymentbin.xyz
 payou.pages.dev
 paypalweb3connectapp.pages.dev
-pc.axeldeal.com
 pc.ex1eevioaixcut2ep21.cc
 pcaytzr.cc
 pellairdrop.website
@@ -1149,7 +1147,6 @@ phantum-wialletus.godaddysites.com
 pharos-presale.com
 phryges.website
 phunmtimwalvct.godaddysites.com
-pihntamwalletx.gitbook.io
 pikapepetoken.com
 pixona.xyz
 pjubdhhnejs.online
@@ -1169,7 +1166,6 @@ pomkori.org
 pond-0x.web.app
 ponke-claim.site
 pons-voting-c0.netlify.app
-portal-uphold-web-us.created.app
 portals-papertrade.com
 positionexchange.org
 presale-digitap.app
@@ -1437,7 +1433,6 @@ strawberry-ia.web.app
 strideinscribeclaim.pages.dev
 strknet-wbtc.xyz
 studio-oshilabs.web.app
-su05webzoom.su
 sudrlink.net
 sui-wallet.pages.dev
 suiblockchain.info
@@ -1544,9 +1539,7 @@ universalbridge.net
 unstoppabledomains.services
 upgrade-makerdao-sky.sbs
 uphold-login-wallet-login.com
-upholdlogn.created.app
 urmentloetclaim.icu
-us-doublezeros.stakingreward.cloud
 us37jab7q3.cfd
 usdc-holders.com
 usdtclaim.in
@@ -1554,7 +1547,6 @@ ussxhws.top
 usuaimoney.pages.dev
 usual-protocol.xyz
 utjz.pro
-v-sushuswap.gr.com
 v1zerolend.pages.dev
 v22-dappconnection.com
 vancouvernftart.live
@@ -1603,7 +1595,6 @@ walietsconnect.network
 wallet-io-ledgre.pages.dev
 wallet-migration-aps.pages.dev
 wallet-protocol-proxy.vercel.app
-walletaccountverification.com
 walletconnectjo.gq
 walletconnecttf.gq
 wallethabbo.com

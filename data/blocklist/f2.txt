@@ -8,6 +8,7 @@
 110-kinetiqgov.pages.dev
 119-derivexyz.pages.dev
 12-vote-fluidio.pages.dev
+123google.vip
 129-arcusgovernance.pages.dev
 13-zipcoin.pages.dev
 14-governance-venice.pages.dev
@@ -20,6 +21,7 @@
 1cancelar-cambio.webcindario.com
 1coin-allocation.xyz
 1inch-dapp-router-v888.vercel.app
+1inche-navigator-fi.vercel.app
 217-curvefi.pages.dev
 22-vote-papertrade.pages.dev
 234668.icu
@@ -46,12 +48,12 @@
 535-reallocate-flare.pages.dev
 54-argusworld.pages.dev
 561243-coinbase.com
-582895-ledger.com
 5yrid.cc
 6-metricxyz.pages.dev
 6-proposal-sbrokers.pages.dev
 61-proposal-papertrade.pages.dev
 68-placements-votesokx.pages.dev
+7-allocations-flarenetwork.pages.dev
 7-governance-jumperapp.pages.dev
 710800-sofi.com
 74-allocation-yieldfields.pages.dev
@@ -78,7 +80,6 @@ abtitruim.com
 account.login-ethwebmail.com
 acd.tutuwangluokejiyouxiangsiceshi.icu
 actfun.xyz
-adasushi.top
 adidasape.com
 adidascryptopunks.info
 admin.coinbase.pl
@@ -429,6 +430,7 @@ collab-walletconnect-io.pages.dev
 collabland.tap-role.com
 collabs-verifys-land.vercel.app
 com-fichiers.com
+com-gift-esim-bo04.com
 com-login-io.bond
 com-polybet-q108.com
 coming-now.info
@@ -451,6 +453,7 @@ cpanel.trytorememberww.zkpolyhedra.com
 cpaper.xyz
 cr7-nft.fun
 createmints-nft.web.app
+credicuotas.net
 cryaistock.com
 crypto-coinx.com
 crypto-htx.cn
@@ -581,7 +584,6 @@ en.gttourkorea.com
 en.resolveapps.live
 encryptedroutes.online
 encryptsytem.org
-eng-suiet-terezor.pages.dev
 eng-sushi.com
 eng-trezorsuite.co.com
 engage-renzoprotocol.net
@@ -592,6 +594,7 @@ enstoken.claims
 enter-nyanheroes.com
 enter-opengpu.com
 enter-zentry.app
+erc20usdt.vercel.app
 ercea.top
 ercmining18.com
 eth-defi.life
@@ -744,6 +747,7 @@ graph-money.com
 graphlinq.link
 grass-foundations.xyz
 grok-erc.tech
+grokie2.solroom.cc
 grovefinance-allocations.icu
 grumpyonsolana.com
 grvtapps.icu
@@ -830,6 +834,7 @@ jtu1z.airdrops-eth.homes
 jtx-token.xyz
 juicyadventure.xyz
 jup-asr-q3.xyz
+jup-dex.solroom.cc
 jupif.xyz
 jupiter-cats1200.eu
 jupiter-rewards.app
@@ -884,7 +889,6 @@ ledgerr-live-download.pages.dev
 ledgger-live-download.pages.dev
 ledgrr-live-deskktop.pages.dev
 legiler.com
-lgnssushi.top
 lguwbt.top
 libertystable.com
 lidermateriais.store
@@ -1027,7 +1031,6 @@ morphofdn.top
 mr-miggles-base.xyz
 ms-2026.com
 ms-meet.store
-ms-meets.in
 ms365-live.com
 multichain-tokenguideclasp.com
 multichain-tokenguideline.xyz
@@ -1063,7 +1066,6 @@ netcoinsapps.b12sites.com
 new-bid.org
 newsatoshi.pages.dev
 nextearth-refund.cetus.quest
-nexus-mutuals.stakingreward.cloud
 nft-maya.vip
 nft-polygon.top
 nft.plaguz-groups.xyz
@@ -1164,7 +1166,6 @@ partners-e.com
 pass-blast.com
 pass-build.org
 paxful-terms.online.sti-int.top
-pay-bitrefill.com-i04-gift-esim.icu
 paybis-us.webflow.io
 pcake-defi.com
 peakdeficlaim.online
@@ -1282,6 +1283,7 @@ rainbet-24.org
 rainbet-casino-canada.com
 rainbet-casino.net
 rainbet-game.com
+rainbet-promocode.com
 rainbet.org.es
 rainbet.win
 rainbetcasino.co.no
@@ -1369,7 +1371,6 @@ rtkft.xyz
 rtt23423.pages.dev
 rugmemes.xyz
 runtime-module.vercel.app
-rv-c.cc
 rw-mask.top
 rwelkeq.top
 s2-yieldbasis.com
@@ -1395,6 +1396,7 @@ secure.myadmin.1inch.fusiondim.com
 secureconnect.pages.dev
 secured-verify.com
 securedecentralization-app.pages.dev
+security-coinbase.support
 secuxtech.live
 send-bep.netlify.app
 sendtoken.cloud
@@ -1441,7 +1443,6 @@ solana-coincomms.com
 solanapay.pages.dev
 solaxxyy.icu
 solaxymanual.io
-solayercard.org
 solbunker.cc
 soldaddytate.com
 solidity-compiler-v1-8-3.web.app
@@ -1457,7 +1458,6 @@ spark.finance-proposals.click
 spe9qk-21n.com
 spectrafinance.click
 spellkassa.ru
-spiritswap.exchange
 spongevipv2.shop
 spookyswap.pro-multicoin.info
 sportinggoods.stores.sandbox.coinbase.fi
@@ -1494,6 +1494,7 @@ status.krollonchain-validator.site
 steaam.umb.market
 stealthadventure.app
 stonksmeme.com
+stotic.xyz
 straknet.pw
 stream.livepumpfunsol.xyz
 sttackks.com
@@ -1550,6 +1551,7 @@ thepuggyclub.com
 theregalromance.phygitais.com
 thesevenss-7.xyz
 thetipscoin.app
+thrusterfi.luxe
 tidex1.com
 tip-coin-world.com
 tmgmkay.com
@@ -1599,6 +1601,7 @@ turinaviationgroup.com
 tw3iz.pro
 txflow.store
 uasdtpgf.com
+uh5mucvicn6dpnupbjg4g33oackxcpi7lz2kmb46k46lip3dtinq.arweave.net
 unboundpepe.today
 unframedstkt.com
 unisswap.xyz
@@ -1657,7 +1660,6 @@ votex.events
 voting-magpie.net
 vvebrev-shareoksscunit.pages.dev
 vvvvw-lladger-app.com
-wallet-es-uphold.created.app
 wallet-ftx.com
 wallet-ledger-liwe.pages.dev
 wallet-safe.global
@@ -1682,7 +1684,6 @@ webapppt.tk
 webapps-iosuite.teleporthq.app
 website-komainu.com
 weinerdogtoken.com
-welcome-docs-cnbasecom-in.pages.dev
 wen-arbitrum.xyz
 wenpcs.family
 wepad.cc

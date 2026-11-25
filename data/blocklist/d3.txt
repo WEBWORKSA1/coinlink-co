@@ -95,7 +95,6 @@ acquire-kangamoon-tokens.pages.dev
 across-to.com
 addipruebas2.vercel.app
 adidas.kim
-adobe-docx.us
 adrop.one
 ads-trust.com
 advance-io-ledgr-starts.pages.dev
@@ -175,6 +174,7 @@ app-catalyst.exchange
 app-earnifi.com
 app-jupiter.org
 app-layerzero.network
+app-morphov2.com
 app-musebooks.lol
 app-priorseco.click
 app-taiko.eu
@@ -272,7 +272,6 @@ bitget-stake.com
 bitgetprohelp.com
 bither-wallet.com
 bitipei.com.cn
-bitrefill.com-in-d01-esim-gift.com
 bitsdrops.top
 blastup.hub-dashboard.network
 blockchain-seed.com
@@ -314,7 +313,6 @@ buy.retikxapp.com
 bvjaa-yaaaa-aaaah-qqayq-cai.icp0.io
 bybitnetwork.com
 calls-us.online
-cannabis-coin.pw
 captchabot.tel
 carameloloin.blogspot.com
 card-metamask.com
@@ -423,11 +421,11 @@ coineight.top
 coingectko.click
 coingeko-claim.com
 coinslike410.top
-coinsultr.com
 collab-land-direct.com
 collablands.click
 collect-plumenetwork.vercel.app
 collect.pilxeisgame.xyz
+com-ae04-gift-esim.com
 com-app-connect-safe.trade
 com-linkintodapp.sbs
 com-lives.net
@@ -509,6 +507,7 @@ desk-mon.xyz
 dev-solution.xyz
 devtltie.beauty
 devtrackerz.xyz
+dexcsreener-porfolio.luxe
 dextoken.cc
 dexzeta-rewards.vercel.app
 dgx-1.org
@@ -521,6 +520,7 @@ distributecase-open.com
 distribution-across.info
 distribution-zinccash.xyz
 dmca-appeal-x.com
+docx-web0auths.us
 dogestakedcoin.reslvdaps.com
 domain-ledger-start.pages.dev
 donn-invt.us
@@ -540,6 +540,7 @@ ducksvegasmint.netlify.app
 dvf.overdezuki.fun
 dymanslon.network
 dymension.exchange
+e90f-fa8e-5133-c0inbase-list.pages.dev
 ebrazils.com
 econommxgc.site
 ecopools.app
@@ -810,7 +811,6 @@ layorzoerenetworks.com
 ldgbnhg.lol
 learn-jupiter-apps.wixstudio.com
 learn-rabbyyio.b12sites.com
-learn-uphold-secure.created.app
 learn2earn.sbs
 ledger-nano-guide.com
 ledgercommunityupdates.com
@@ -840,7 +840,6 @@ lovecoins39.top
 loyaltoken.xyz
 lp.openmindsinstituto.com.br
 luckyblock.website
-luna-community.com
 lvseshili.com
 m0tan0skw0llet.godaddysites.com
 magpie-xyz.gift
@@ -929,7 +928,6 @@ molandaks.web.app
 mollygateway.net
 momoguronft.xyz
 monad-finance.com
-money-x.mobi
 moonshot-app.fun
 moonshot-listing-vlc.netlify.app
 moonshot-pump.com
@@ -1023,7 +1021,7 @@ offer-verification512.help
 officiababytrumpsol.net
 official-aavestaking.com
 official-bitget.cc
-official-exo-en.pages.dev
+okx-com.ac.cn
 okx.sahaaraai.xyz
 okxdefi.xyz
 onbeam.events
@@ -1239,7 +1237,6 @@ revokenow.top
 revokes-li.fi
 reward-pancakeswap.claim.botsmsworld.pro
 reward-xrp.org
-rewards-jailed.fun
 rewards-kinto.net
 rewards-linea.net
 rewards-lookup.icu
@@ -1359,6 +1356,7 @@ spatial-nft.com
 spngev2.site
 sponge-2-vip.top
 spongetkenv2.info
+sportstensor.io
 spot.hashai.space
 spx28d-cointelegraph.com
 spyrocoin.vip
@@ -1596,7 +1594,6 @@ web3river6vip.com
 web3tc.tk
 webapps-iojaxxlibrty.wixstudio.com
 webmail.thecircleremembers.com
-webtrader.fabsecuritie.com
 weex-users.com
 welcome-faq--trezr-io.typedream.app
 wen-rewards.org

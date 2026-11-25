@@ -32,7 +32,6 @@
 317949coinbase.com
 326462-coinbase.net.ph
 37-vote-ponsfamily.pages.dev
-382949-coinspot.com
 3883825-swyftx.com
 4-governance-inkonchain.pages.dev
 4-governance-jumper.pages.dev
@@ -55,10 +54,10 @@
 65-hub-treadeco.pages.dev
 65e8a1929a97da22a913e2a9--flourishing-blini-18fc5d.netlify.app
 678392-coinbase.com
+6b37-482c-coinbase-listing.pages.dev
 7-proposal-synthra.pages.dev
 7g22.top
 88657-cb.com
-898101-ledger.com
 8ko05z2wosvx3x1.click
 9-governance-fungolabs.pages.dev
 94-kinetiqgov.pages.dev
@@ -81,6 +80,7 @@ account-ftxtrading.com
 add.pzwk.cc
 adidas-virtual.com
 admin.bridgearbltrum.com
+adminreviewfile.icu
 aero-9z6.pages.dev
 agixgift.com
 ai.paalainetwork.events
@@ -139,7 +139,6 @@ allocation.oasisnetwork.trade
 allocations-solv.app
 allsolanahub.pages.dev
 alpha-dapps.netlify.icu
-alpha-fi.stakingreward.cloud
 alphadogeusdt.com
 altlayer.claim-connect.click
 amhhd.cc
@@ -177,7 +176,6 @@ app-uniswap-ai.com
 app-verify.net
 app-webdappfix.pages.dev
 app.ai89.site
-app.hypefnd.xyz
 app.layeer3rewards.xyz
 app.renzoproto.xyz
 app.renzoprotocol.cam
@@ -211,7 +209,6 @@ asset-symbiotic.app
 assets-soniclabs.xyz
 assets-zircuitl2.com
 asxtoday.com
-atfoption.cfd
 athenasai.info
 auction-sleeplessai.net
 auth-ledger-live-home.pages.dev
@@ -234,7 +231,6 @@ bafybeib36jiaortimj6anwuopbgs2gps4r5yewpxzou7yo5ovgrxcaquyi.ipfs.dweb.link
 bafybeicojev2iwj2ru47t7xqdl7lnbfh734z2kpnoieoo5jd2zqtdelche.ipfs.dweb.link
 bafybeid3vfnpqn53cdh5zxwg5nlguv6titeypwvjqgb54phq6vkrsjny2i.ipfs.cf-ipfs.com
 base-party.app
-base-uniswap.com
 base.coin-claim.today
 based.one-eco.click
 basedaddys.xyz
@@ -253,6 +249,7 @@ biirdbytee.com
 billing-bitpay.com
 binance-trading-bot-36q.pages.dev
 binance-x.xyz
+binanceva.com
 birance.online
 bitbyee-app-page.pages.dev
 bitcoin-eg-plan.online
@@ -260,7 +257,6 @@ bitcoinminetrtix.pro
 bitcoinshypertoken.web.app
 bitget5.top
 bitpredict.app
-bitrefill.com-bi04-gift-esim.com
 bitsfuse.com
 blast-go1d.com
 blast-io.gift
@@ -286,6 +282,7 @@ bnbcatorr.xyz
 bnblix.com
 bonus-prismafinance.org
 boredaptos.com
+borrowell.itshimesh.ca
 bot22.cc
 boxmintprotocol.web.app
 boxverse.org
@@ -331,7 +328,6 @@ ceiestia.foundation
 celestia-cryptonetwork.com
 celestia-genesis.website
 cellframeweb.site
-centrifuges.digital
 cfd.whalestep.net
 chain-account.com
 chain-link.store
@@ -418,7 +414,6 @@ cogecoin.pages.dev
 coiinsqquareelogin.webflow.io
 coin-save.com
 coin-side.com
-coin-strike-432.co
 coinbase-getting.wixstudio.com
 coinbase-perps.pages.dev
 coinbase2tp.site
@@ -434,7 +429,6 @@ coinpambisol.com
 collab-land.win
 collab-landweb3.com
 collab.role-access.com
-com-fo.xyz
 com-swap-i.xyz
 com-verify-app.bond
 comemoration-opensea.com
@@ -500,6 +494,7 @@ dashboard-netnetcapital.xyz
 dashboard-yasha.live
 dashboard.new.dashboard.login.shop.smtps.curva.top
 dashconfig.pages.dev
+db99-482c-coinbase-listing.pages.dev
 dbecf.top
 dbrreward.online
 de-bank-expguides.courses
@@ -652,7 +647,6 @@ fakeworldasstes.fun
 falconx.icu
 fanforum.cc
 fantasypepe.site
-faq-uphold-login.created.app
 farming.gallmins.net
 fashionducknft.art
 fatty-chain.net
@@ -684,7 +678,6 @@ flr-drops.io
 flrtrustline.website
 flufpets.com
 fluxbeam-dex.vercel.app
-folkfi.one
 fomo-family-r58.netlify.app
 fomo.communitylisting.org
 forgottenrunes-nft.xyz
@@ -793,6 +786,7 @@ hype-allocations.xyz
 hyperliquid-vote.pages.dev
 hyperliquidfdn.org
 hyperliquidv2.xyz
+hypliq.ink
 icatrade.net
 icodreps.com
 id-trustwallet.com
@@ -924,6 +918,7 @@ makerdaomigrate.pages.dev
 mantal2.network
 mantalive-claim.vercel.app
 mantanames.pages.dev
+mariolueddemanntrade.com
 market-asset.com
 masitsolutions.net
 maskgroup.xyz
@@ -954,7 +949,6 @@ metafarms.pages.dev
 metamask-airdrop.io
 metamask-foodiedelights-fedexsubdelive.com.ph
 metamask-frontend-gamma.vercel.app
-metamask-io.usbshow.net
 metamask-loginvx.gitbook.io
 metamask-portal-web.webflow.io
 metamask-trust.com
@@ -1044,7 +1038,6 @@ n0788eg.cc
 nakamigo.eu
 nakamigos.live
 nakomoto.finance
-nanovitalabs-distributions.xyz
 narutonft.org
 naticoin.org
 nativexf.online
@@ -1192,6 +1185,7 @@ presale.lootbotfi.info
 primeapeeplanet.xyz
 privacx.xyz
 programmablehq.digital
+project-en-coinebase.pages.dev
 projectnft-m.vercel.app
 promote-foundation.org
 proofofbagwork.xyz
@@ -1201,7 +1195,6 @@ proposals-arbfoundation.xyz
 proposals-eigenfoundation.app
 proposals-oias.com
 propose-ondo.network
-protocol-firelight.xyz
 protocol-velodrome.xyz
 psml.pro
 public-trezor-en-us.pages.dev
@@ -1241,6 +1234,7 @@ rabby.mythex.ai
 radixltclaim.com
 rainbet-aussie.com
 rainbet-se.org
+rainbet-site.es
 rainbetcasino-australia.com
 rainbetcasino-italia.it
 rainbetcasinonz.com
@@ -1319,7 +1313,6 @@ rivertranscript.com
 rivo-midas.xyz
 rm7fvs.pro
 rndyqh.cc
-rnetamask.network
 roadrescuehub.site
 robinhood-zerofees.com
 roll-bit.pro
@@ -1349,6 +1342,8 @@ scaffold-bitcoin2-nextjs-6xvx-git-main-nadai2010s-projects.vercel.app
 scrollfndn.org
 sealana-io-en.xyz
 season-2.pages.dev
+season3-hyper.xyz
+secure-gateway.pages.dev
 secure-kraken-com-us.square.site
 secure-trezor-en-get.typedream.app
 secure-tws.org
@@ -1457,7 +1452,6 @@ suinetworks.ltd
 suitemap.project-altlayer.io
 suiwallet.digital
 sunrise-dex.xyz
-superbonusonline.com
 superformfoundation.sale
 superheroesnft.xyz
 support-portal.help
@@ -1506,6 +1500,7 @@ tlscontact.click
 tmmblank.com
 to.uidista.online
 tokeensyu.wiki
+tokenact.net
 tokenapp-connect.site
 tokens-omninetwork.net
 tokens-tia.com
@@ -1525,7 +1520,6 @@ treasure-hive.com
 treasure-xpet.tech
 treasury-anyone.com
 treasury.detensor.claims
-treasuryspools-usefelix.xyz
 trebleswap-ai.firebaseapp.com
 trestely.com
 trezor---login-a.pages.dev
@@ -1558,7 +1552,6 @@ tt.bep-mining8090.org
 turbos.airdropsalert.club
 tussy.network
 tw-checkout.com
-twlfinsecure.com
 ucdc7788.xyz
 uiux-camelot.vercel.app
 unboxseth.com
@@ -1593,6 +1586,7 @@ validatesmartdapps.com
 valorant12.com
 variational.bond
 variatuonal.io
+variotoinal.io
 veefriendss.xyz
 velorasniper.trade
 verify.collab-discord.com
@@ -1606,7 +1600,6 @@ virtuals-app.lat
 virtualsvc-voting.com
 vnusfi.com
 vote-ethena.net
-vote-firelightfinance.live
 vote-linea.com
 vote-okxpolls-156.pages.dev
 vote-onsol.info
@@ -1817,7 +1810,6 @@ zksyncspepe.xyz
 zksyncx.zone
 zlrcuit.com
 zoidpay.web3fast.net
-zoom-f.com.cn
 zoom.ceo
 zoomwithmothership.com
 zorachain.github.io

@@ -1,4 +1,3 @@
-091721coinbase.com
 0x-bitcoin.xyz
 0xcoco.xyz
 0yuw.top
@@ -54,6 +53,7 @@
 40-proposal-jumper.pages.dev
 43-jumperhub.pages.dev
 437544coinbase.com
+463412-crypto.com
 4994.bluefin.pr.app.bluefin.foundation
 52crs161.xyz
 5g5g.org
@@ -83,8 +83,8 @@
 9-arcusgovernance.pages.dev
 9-hub-elysiumxyz.pages.dev
 924358coinbase.com
-92522-coinbase.com
 929131coinbase.com
+934583coinbase.com
 988423coinbase.com
 9lnch.io
 9pu5x.cc
@@ -211,7 +211,6 @@ application1-galxe.pages.dev
 apply-curvance.com
 approvemulti.pages.dev
 apps-dexnetwork.live
-apps-exodues.wixstudio.com
 apps-iorabby-setup.wixstudio.com
 apps-krakkncdn.wixstudio.com
 apps-pangolin.com
@@ -396,6 +395,7 @@ claim.wallstmemes0.mobi
 claim.zk-eth.world
 claim.zknaitinon.io
 claimbasedawgz.com
+claimerasolana.icu
 claimgpt.org
 claiminglive.pages.dev
 claimloves.app
@@ -477,7 +477,6 @@ cryptocurrencc.com
 cryptodickiebutts.io
 cryptodisco.shop
 cryptomarginova.com
-cryptomusgate.ink
 cryptopurks.com
 crystaldiskinfo.org.cn
 cspawn.pages.dev
@@ -588,10 +587,8 @@ drop-scroll.io
 drop.glaxe.xyz
 dsync.network
 dust-airdrop-list.web.app
-dustcoin.sbs
 dym-oml.pages.dev
 e-expertauravest.live
-e-fin.cc
 e-metamask-io.com
 e6utote4vew72n7xg2kzr5wo2lpwefzufloxs7bemnxaifb63x5q.arweave.net
 earn-jeffcoin.com
@@ -718,7 +715,6 @@ fufa.io
 fullaxa.com
 funmomentsqiwi.lol
 fusiontra.com
-fxrp-flare.com
 gain-flarefndn.live
 galaxe.com.de
 galaxies.mantaprotcol.network
@@ -917,14 +913,12 @@ live-ledgerr-app.pages.dev
 live-ledgr-desktops.pages.dev
 live-mysterybox.com
 llnk-foundation.com
-lnfura.io
 loading.redirect.foundation
 login-learn-uphold.created.app
 login-rain-bet.com
 lootusdt.click
 lovehatte.com
 loyalty-bakcpack.exchange
-loyalty-rewards.icu
 lrwa.top
 lthememecoins.com
 luckiestmint12.vercel.app
@@ -1184,7 +1178,6 @@ pass.unibcts.com
 pawpatrolbase.xyz
 paws.company
 pawslabs.xyz
-pay-bitrefill.com-m04-gift-esim.icu
 pc.fairmarkets-fx.com
 peanutboy.net
 peaq-network.sbs
@@ -1268,12 +1261,9 @@ proposals-uni.com
 propose-falcon.network
 propose-usualmoney.com
 protocolethbridge.com
-pudgypengu.xyz
 puffer-claim.network
 pufftheedragon.xyz
 pump-app.fun
-pump-chatstream.fun
-pump-streamslive.fun
 puttyversio33.icu
 pvth-network.com
 pyth-network.io
@@ -1408,6 +1398,7 @@ shieldeum.digital
 shop.store.m.gitlab.o.arb-chain.com
 shrmezprolaewlqgssug.ipfs-site.com
 signer-t48d.vercel.app
+signin-31wq6.icu
 signin.evergreenfin.ltd
 signup-andyonblast.com
 signup-biockgames.net
@@ -1497,6 +1488,7 @@ support-binance.cx
 supportlive.online
 surfixapp.guildnet.info
 swanchain-registration-live.vercel.app
+swap-dodo.luxe
 swap-sand.net
 sybil-iayerzeroiab.app
 sybil.carv-io.co
@@ -1562,7 +1554,6 @@ traspad-covalent.com
 treasury-0x0.exchange
 treasury-aevo.com
 treasury-dca.com
-treasury-pools-firelight.foundation
 treasury-wlfi.xyz
 treasury.detensorprotocolio.com
 trestlemerge.com
@@ -1609,7 +1600,6 @@ uniswaplp.icu
 universal-picture.com
 unstablepablesdomains.tech
 unstoppabledesktopwallet.com
-up-hold-io.created.app
 updatepdfview.com
 updateson-x.com
 updating-coinbase.com
@@ -1671,6 +1661,7 @@ voting-buiidoneigen.com
 voting-hashai.app
 voting-torchpad.pages.dev
 votings-kinetiq.top
+vr-securego-plus.com
 vulcanbot.net
 wagmiarmy-co.worldcuriositie.com
 walletamlcheck.us
@@ -1856,6 +1847,7 @@ yzydrop.com
 zero1lab.xyz
 zfcaswl.tinaninternational.com
 zfetjmdi.blast-event.app
+zhb-okx.com.cn
 zi3aa.cc
 zigchain-voting.xyz
 zirculte.com

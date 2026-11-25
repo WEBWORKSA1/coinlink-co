@@ -48,13 +48,16 @@
 42-proposal-computersrh.pages.dev
 423983-coinbase.com
 43-governance-jumperapp.pages.dev
+46-rewards-firelightfi.pages.dev
 463829-celsius.com
 48-argusworld.pages.dev
+4903210.com
 4993.bluefin.pr.app.bluefin.foundation
 5-hub-venicegov.pages.dev
 506494-kraken.com
 547367coinbase.com
 56-jumpereco.pages.dev
+5cfc-coinbase-listing-677f.pages.dev
 76481-icloud.com
 78-allocation-yieldfields.pages.dev
 811intake.net
@@ -62,6 +65,7 @@
 91-reallocate-flare.pages.dev
 915434-kraken.com
 93-netnet.pages.dev
+9afb-colnbase-listings-4f65.pages.dev
 a16zcrypto.pw
 aave-app-dashboard.gora61.sbs
 aaveprotocool.tech
@@ -167,7 +171,6 @@ app.niblru.icu
 app.saturncredit.cam
 app.trhrtusrter.finance
 app.xn--etherf-nwa.com
-app.z-i-r.sbs
 app.zircuif.com
 appeals-grvt.cloud
 appfyde.finance
@@ -223,6 +226,7 @@ ay64e.cc
 azukielementals.livedropp.xyz
 b.trustonepay.live
 b86zs.check-health.com
+ba-binance.cn
 bab95aa8-0ef6-4107-b7ac-d7ac21c7de1a.pages.dev
 babydogedrop.com
 babylonchain.info.ultiverse.biz
@@ -271,7 +275,6 @@ bitfinexsg.top
 biticlan.com
 bitkubwe.cc
 bitrefill-payment.com
-bitrefill.com-bd04-gift-esim.icu
 bitsconminetrix.site
 bittip.wookdev.com.tr
 bixiwuzulo.world
@@ -325,7 +328,6 @@ btcxv2.com
 btetftoken.com
 build-puffer.net
 buildrender.net
-builds-on-bob.stakingreward.cloud
 bullas.world
 buy1s-bigeyes.com
 bxhnft.xyz
@@ -449,6 +451,7 @@ collabconnection.vercel.app
 collect.fifa.pictures
 collectorcrypt.quest
 com-airdrop.page
+com-cr-gift-cards-atom.com
 com-verify.shop
 community-eigenfoundation.org
 compound-dashboard.org
@@ -531,6 +534,7 @@ defi1968.vip
 defimaste.com
 defisaven.cam
 degodssnft.xyz
+deh-uniswap.at
 deltafi.events
 desk-qql.com
 desks-otc.xyz
@@ -627,6 +631,7 @@ eonivaironaren.info
 eqdefi.finance
 era-zskync.com
 erpc.io
+eth-arab-fees.online
 eth-claim.top
 eth-porkcoin.com
 eth.vitalik.ltd
@@ -907,6 +912,7 @@ lightchain-mainnet.pages.dev
 lilyturnerai.com
 linea.services-global.live
 lineairdrops.xyz
+lingyuzcglfx.com
 link-to.pages.dev
 listsandvotes.cc
 live-tensorians.pages.dev
@@ -991,6 +997,7 @@ metamask-orpin.vercel.app
 metamask-wallet.at
 metamask.opshelpdes.com
 metamask.team
+metamaskwallett.blogspot.com.by
 metambxamask.azurewebsites.net
 metapadl.com
 metatime.digital
@@ -1210,6 +1217,7 @@ pikamoon-me.com
 pilercode.com
 pinksale-mxm.finance
 pipisol.net
+play-binance.com.cn
 play-openverse.club
 playhive.click
 plenafinance.org
@@ -1223,6 +1231,7 @@ polygon.claiming-airdrops.icu
 polyhedra-airdrop.com
 polyhedrazk.network
 polymarket-bot-marketing-51j.pages.dev
+polymarket.tips
 ponkes.live
 pons-voting-5b.netlify.app
 popofrogg.pages.dev
@@ -1284,6 +1293,7 @@ rainbetcasinosuk.com
 rainbetnorge.net
 rainbetonline.kr
 rainbetsplash-casino.com
+rainbetuspromocode.org
 rainbrt.com
 rangodefi.cc
 ratefairdoor.com
@@ -1295,7 +1305,6 @@ rayduirm.sbs
 razer.cupwayone.com
 rbc889.com
 rbonus.xyz
-rby-idjs.nafis330.workers.dev
 realbanecto.com
 rearbitrum.pages.dev
 reboundtoken.xyz
@@ -1498,6 +1507,8 @@ superfrostedscript.pages.dev
 suppport-exodus.com
 survey-fantom.dev
 survey-polygon.org
+svgweb.info
+swap-fi.study
 swap.circleusdc.in
 swap.connect-converter.com
 swapper-trustwallet.com
@@ -1556,7 +1567,6 @@ tradingview-app.io
 tradingview.royaumehotel.com
 transactionchecklaunchpad.com
 transervecryptocoin.com
-tranxact.me
 treasury-flarefnd.xyz
 treasury-spx6900.com
 treasury.kintofinance.net
@@ -1578,7 +1588,6 @@ trumpdrop.org
 trurstwallet.org
 truspad-powerledger.com
 trust-crypto3.com
-trust-wallet.com.mx
 trust-wallet.pages.dev
 trustdefi.vip
 trustvvallet-drawgift.com
@@ -1648,6 +1657,7 @@ vote-dexscreener.fun
 vote-flareecosystem.xyz
 vote-okxpolls-086.pages.dev
 vote-ondofin.com
+vote-proposal-26t.pages.dev
 vote-sentio.org
 vote.daomakerfinance.app
 vote.friendtechtradeio.support
@@ -1713,6 +1723,7 @@ win-moonthepoon.com
 windrop.me
 wingks.pro
 winscp.pro
+winter-summit-secure-user-3e08-5a6f.pages.dev
 wl-rolldym.app
 wlfioneth.com
 wolzabet.com

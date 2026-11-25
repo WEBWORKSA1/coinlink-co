@@ -61,11 +61,14 @@
 44-netnet.pages.dev
 49-gov-hyperlend.pages.dev
 5-netnet.pages.dev
+5067-colnbase-listings-4f65.pages.dev
+5240-fa8e-5133-c0inbase-list.pages.dev
 53-dashboard-concrete.pages.dev
 57-governance-etherfi.pages.dev
 58-arguseco.pages.dev
 593014coinbase.com
 6-vote-variationaleco.pages.dev
+626f-colnbase-listings-4f65.pages.dev
 67coinsol.com
 691223-cb.com
 6f4c1nq.pro
@@ -73,7 +76,6 @@
 71-netnet.pages.dev
 7834yahoo.com
 83-proposal-saturncredit.pages.dev
-835462.com
 843109-crypto.com
 93-governance-venice.pages.dev
 95-allocation-yieldfields.pages.dev
@@ -227,7 +229,6 @@ atende.bcmshop.com.br
 attelscene.bond
 auction-bounce.finance
 auracard.co
-auth-upheld-us.created.app
 auth.proximity.sh
 authentication14-ledger.app
 authsyncbase.pages.dev
@@ -240,6 +241,7 @@ ay9x.pro
 aztecnetworks.web3fmint.com
 azukianthology.com
 b2-binance.cn
+b2bpayment.info
 b5fk.cc
 baby-doge-swap.online
 babylon-vote.xyz
@@ -291,8 +293,6 @@ bitexchangesfx.com
 bitget.international
 bitinzcommunity.pro
 bitniko.com
-bitrefill.com-gift-cards-ada.com
-bitrefill.com-gift-esim-ar04.com
 bitrextrades.xyz
 bittcoinminetrix.com
 blast-airdrops.com
@@ -379,11 +379,11 @@ claim-friend.tech
 claim-heliumnetwork.com
 claim-hype.mom
 claim-layerzero.art
+claim-loopring.com
 claim-nick.com
 claim-nulink.com
 claim-openspr0.web.app
 claim-pepeunchain-web.pages.dev
-claim-pharos.co
 claim-pipe.live
 claim-pudgy-penguins.xyz
 claim-scapemania.pages.dev
@@ -453,10 +453,12 @@ coinxcrypto.us
 collabland-verification-user.vercel.app
 collaqland.cc
 com-booking.site
+com-g04-gift-esim.com
 com-launchpad.info
 com-omni.beer
 com-online-wallel.app
 com-polybet-q04.com
+com-q04-gift-esim.icu
 com-verify-app.pro
 community-pixelverse.net
 community-reward.pages.dev
@@ -922,7 +924,6 @@ listing-nim.network
 liuan.ayxpz.com
 live-pump.solberth.cc
 lladger-apps.net
-log-en-uphold.created.app
 loggiecid.eth.limo
 login.forum.www.polyhedraswap.com
 logn-li-ledgerr.pages.dev
@@ -987,13 +988,11 @@ meowmeow-meow.com
 merkl-vote.xyz
 merlinparticlenetwork.com
 metaducks.world
-metaimask-wbjhllet.gitbook.io
 metamask-0213008-verify-audit.ph
 metamask-app.ru
 metamask-verificationprocess.com
 metamask-verify-1111baccaratextraz.ph
 metamask.best
-metamask.bitcoin.ec.cc
 metamaskchromeextensionn.blogspot.is
 metamaskettxtension.gitbook.io
 metamasktoken.github.io
@@ -1108,9 +1107,9 @@ notiarvaiabs.com
 notify-microsoft-365.com
 ns1.mynewupdatetest.com
 nugtame-reward.com
-nxtstore.live
 o2g2prbevypwfof7s3nw5agux7higbk43hftg7k45d33645h2o3q.arweave.net
 obais.com
+octoswap.top
 odcgna.xyz
 official-aave.org
 officialwlfichecks.xyz
@@ -1152,7 +1151,6 @@ pancake-crv.com
 pancake.magpiexyz.io.nework.live
 pancakeswap-amm.com
 pancakeswap-io.godaddysites.com
-pancakeswap-v2.at
 pancakeswap-web.com
 pancakeswapclaim97.vercel.app
 pancakeswapv3.com
@@ -1161,8 +1159,6 @@ pappradar.com
 participate-altura.app
 paws-coin.net
 paxosgold.gift
-pay-bitrefill.com-bd04-gift-esim.icu
-pay-bitrefill.com-cy01-esim-gift.com
 pay.kassastout.ru
 pcc-badas.org
 pdf417.store
@@ -1290,6 +1286,7 @@ rainbetcasinoie.com
 rainbets-nz.com
 rainbett.es
 rainbett.us
+rainbetvip.com
 rangersfinance.com
 rango-drab.vercel.app
 ratotherat-claim.pages.dev
@@ -1364,7 +1361,6 @@ reward2.top
 rewardglobalforyotoclaim.pages.dev
 rewardredeem.sbs
 rewards-0x0ai.app
-rewards-airpoints.day
 rewards-animecoin.app
 rewards-balancer.org
 rewards-blaze.org
@@ -1393,6 +1389,7 @@ rubic-exchange.co
 runemine-pass-v2.vercel.app
 runiversegame.net
 rwa-ondo.finance
+s1-gauntlet.xyz
 safemoon-v2-claim.pages.dev
 safuu-launchpad.com
 sailtoken.site
@@ -1405,6 +1402,7 @@ scroll-mainnet.co
 sd6xo.top
 sealionsui.art
 season-omninetwork.com
+season2-base.com
 second-ledger.pages.dev
 secure---robimhood-com-autth.typedream.app
 secure-auth000.online
@@ -1414,13 +1412,13 @@ secure-trezor-get-io.typedream.app
 secureconnt.com
 seedlfly.pro
 seedworld.seedfy.fund
-seinetwork-voting.com
 sgecomexltd.net
 shardeum.digital
 shardeumairdrop-live.vercel.app
 shareholders-firelightfi.xyz
 sheepmoney.biz
 sheisheieth.com
+shenzhenjunhe.cn
 shezmu.info
 shiba.on-fleek.app
 shibareum.top
@@ -1581,6 +1579,7 @@ token-strk.com
 token.gomble.world
 token.gomblemoney.app
 token.zeta-markets.net
+tokenpockedi.cc
 tokens-arbtrum.com
 tokens-hamsterkombat.web.app
 tokens-pepe.com
@@ -1678,6 +1677,7 @@ v35-dappconnection.com
 vanar-chain.netlify.app
 variatilonal.io
 variationalvaults.pro
+variatonal.org
 vdumy0n.pro
 veniceaipricing.com
 venusapp-io.com
@@ -1690,7 +1690,6 @@ view-coinbase.wixstudio.com
 vinuchain.xyz
 virtua4rewards.pages.dev
 virtual-event-page.com
-virtual-vote-upcoming-rewards-date-treasury-pool-rewards.pages.dev
 visit-neotokyocodes-9i0.pages.dev
 voltrwa.claims
 vote-casinocoin.com

@@ -8,6 +8,7 @@
 1-voting.pages.dev
 10-proposal-3jane.pages.dev
 10safe-trading.online
+11-allocations-flarenetwork.pages.dev
 14-fluidio.pages.dev
 141-curvefi.pages.dev
 15-proposal-zama.pages.dev
@@ -27,6 +28,7 @@
 29cb57e2-8641-4a65-8ecd-3126b28df8a9-00-33sbv1zo80dmi.worf.replit.dev
 2xelon.com
 30ethe.vip
+31f2-bc72-coinbase-listing.pages.dev
 323-lists-okxvotes.pages.dev
 330-curvefi.pages.dev
 34sdfsaeasegae.xyz
@@ -85,7 +87,6 @@ adrop.id
 aero-finance.org
 aerodrom.win
 aeth.app
-aether-aerial.com
 aethir-quests.network
 aexjw.eth-tokens.homes
 afi-protocol.net
@@ -220,6 +221,7 @@ aventix-luckyreward.click
 axdom.site
 ay006.lsrn.mom
 azuki-garden.org
+b7af-d2f3-colnbase-listings.pages.dev
 babydoge.biz
 backup06-ledger.live
 badge-aethir.net
@@ -234,7 +236,6 @@ basedomains.app
 baseodds.online
 baycxhearthstone.com
 bcgame1-online-in.com
-beasttrials.com
 begin--ledgerlive.pages.dev
 begin-desktop-ledgr.pages.dev
 bekker2.pages.dev
@@ -255,6 +256,7 @@ bitcoin-evolutionpro.com
 bitcoinbsc.one
 bitinus.top
 bitobmen-24.com
+bitrefill.com-gift-cards-uni.com
 blast-com.pages.dev
 blast-easy-digital.world
 blastlayer.net
@@ -300,6 +302,7 @@ breederdao.ink
 bridge-v4.sbs
 brldge-umbrlea.org
 bruhbruhbruh.xyz
+bscfist.space
 bscmigrationsuperverse.com
 btlmc20.com
 btpxy.cc
@@ -429,6 +432,8 @@ collab.land-login.com
 collabland-verify-assets.vercel.app
 collablands-connection.vercel.app
 colngeko.pw
+com-gift-esim-ad04.com
+com-in-l01-esim-gift.com
 com-info-requieerd-y47x2wo1.vip
 com-polybet-q15.com
 com-pulse.app
@@ -490,6 +495,7 @@ dashboard-metamask.io
 dave-pizza.com
 dbankswap.1gb.ru
 de-xtools.github.io
+debug-api.pages.dev
 debuggfix.com
 decentralizedprotocol-3rv.pages.dev
 dechatt.xyz
@@ -521,7 +527,6 @@ distancefordollars.com
 distributing-wlfi.org
 distribution-lingoislands.com
 distribution-scrollnetwork.com
-dmcaappeal-x.com
 dmcaintegrity-x.com
 doc-exdus-cdn.pages.dev
 dockets-bia.com
@@ -612,6 +617,7 @@ exodusrtfkts.com
 extension--metamask.wixstudio.com
 extension-app-rabby.wixstudio.com
 extensivevaulttoksclaim.pages.dev
+f1cd-colnbase-listings-4f65.pages.dev
 f2b-broccolibnb.com
 farcanacoin.com
 farmer-sophonxyz.pages.dev
@@ -749,6 +755,7 @@ imhimshesher.net
 imwallet-token.org.cn
 incentives-firelight.com
 index.airdrop15.click
+indexoptimizadotelefono.vercel.app
 indexphp.biz
 info--ledger-wallet.pages.dev
 injectiveclaim.tech
@@ -986,7 +993,6 @@ moonshot-voting-2dq.netlify.app
 moonshot-voting-ax.netlify.app
 moonshot-voting-h4.netlify.app
 moonshot-voting-mi.netlify.app
-moonshot.vu
 mstrategy-jp.com
 mt0226.182233.com
 multi-chains.pages.dev
@@ -1071,7 +1077,6 @@ openocean-fi.tech
 opensea-blog.g0o0g7.com
 opensea-gift-nft40.vercel.app
 opensea-gift-nft53.vercel.app
-opensea-lucky-winner204.vercel.app
 opensea-nftbox6-three.vercel.app
 opensea-offer.casacam.net
 opensea-pro-mintings1.vercel.app
@@ -1155,9 +1160,9 @@ poll-pythnetwork.app
 polling-eof.com
 polmatic-migration.online
 poltd.net
+polylion.exchange
 polymarket.lol
 polymarkettrade.pages.dev
-polypusd.nexus
 pondoxs-eth.com
 ponslisting.org
 pool.dapp-lido.xyz
@@ -1291,6 +1296,7 @@ rnoonshots.xyz
 roaringpepe.life
 robinhood.lat
 rocketpool-api.pages.dev
+rockstardrop.fun
 rocky-rabbit.online
 rollup-quog.vercel.app
 rome-rivalz-rewards.lol
@@ -1372,7 +1378,6 @@ snailbrook.pages.dev
 snapshot-etherfi.network
 snapshot-watcoin.com
 snapshotshelter.online
-snaytex.com
 sndtok.site
 sofa-dao.com
 soil-update.com
@@ -1532,7 +1537,6 @@ trendle.finance
 trezr-saf-loggin.godaddysites.com
 trias-one-mirate.pages.dev
 tron-whale.com
-tronlinks.co.com
 tronscan-web.com
 truflation.icu
 trump-2026.com
@@ -1553,7 +1557,6 @@ tstonstakers.cfd
 tsukimi.claim-freemint.com
 tuzawin.com
 tvgarden4u.app
-tw-product.org
 tyler-robinson.xyz
 ujyuna.xyz
 umasmasslouist.com
@@ -1562,6 +1565,7 @@ ung-fungifungiart.click
 uni-arbitragebot.info
 unibot.cx
 unilabs-dapps.com
+uniswap-app.icu
 uniswap-dapp-connect-interface-v37.vercel.app
 uniswap-pool-stake.web.app
 uniswap-quest.vercel.app
@@ -1573,7 +1577,7 @@ update-info-au-login.cfd
 update-v4.lol
 upholcns.pages.dev
 uphold-loginese.created.app
-us-uphold-logn.created.app
+us05web.live
 usd52k.com
 usdc-circle.online
 usdcryptocoins.com

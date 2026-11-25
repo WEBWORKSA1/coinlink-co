@@ -48,6 +48,7 @@
 40-jumpereco.pages.dev
 45-usefelix.pages.dev
 47-allocation-yieldfields.pages.dev
+49-rewards-firelightfi.pages.dev
 4982.ember.pr.app.bluefin.foundation
 4ooh.top
 5-allocation-argus.pages.dev
@@ -143,6 +144,7 @@ allocating-safeglobal.pages.dev
 allocating-zksync.net
 allocation-aperture.app
 allocation-blasti2.com
+allocation-fraxfinance.icu
 allocation-griffain.app
 allocation-lamina1.com
 allocation-pufferfinance.com
@@ -206,7 +208,6 @@ app.spark-q4.com
 app.templefi.net
 app.virtuals.ist
 app.web-roost.wtf
-appealaction-x.support
 apple-crypto.app
 application-ledger.network
 appmavi.org
@@ -230,6 +231,7 @@ arrakis.gift
 artificial-vote.top
 artificialinu.live
 artiobera-by5.pages.dev
+asdfasf-safw.pages.dev
 askvenice-event.live
 aslprotocol.app
 asset-collab-land.app
@@ -335,7 +337,6 @@ c9yumaw.pro
 ca-bitbuylogn.wixstudio.com
 caaconmigration.com
 cacao.tools
-cake.aerofinance.cfd
 cakedrop.site
 canonpixmadriverdownload.com
 carv-official.online
@@ -460,8 +461,8 @@ colnbase.dudunafesta.com.br
 colnbase.io
 colwebsibgn.online
 com-439252.sbs
+com-bw01-esim-gift.com
 com-livepanelweb.com
-com-lu.icu
 com-polybet-q103.com
 com-polybet-q31.com
 com-turbo.beer
@@ -569,7 +570,6 @@ earn-firelightfi.live
 earni-fi.net
 earning-pool.xyz
 echo-space.app
-echoauth.vip
 edu3labs.site
 ege319.com
 eigenlayer-xyz.com
@@ -627,6 +627,7 @@ fantom-ecosystem.github.io
 faqs-coin-pro-auth-cdns.typedream.app
 farm-v2.trade
 fdtghdfgrgtgrtg.org
+fe-wel-kraknlog.pages.dev
 fenterpriseonline.net
 fgm-token.xyz
 fi-capital.fi
@@ -684,6 +685,7 @@ gblastairdrop.lol
 geminitok.website
 genesis-drop.com
 genesis.celestia.bizgenesis.celestia.biz
+geng-okx.com.cn
 get-bckrmemes.app
 get-metamask.io
 get-neursh.com
@@ -714,7 +716,6 @@ governance-fraxfinance.pages.dev
 governance-theindex.finance
 governance-torchpad.pages.dev
 gravitron.live
-gridexswap.xyz
 groktoken.top
 groktwo.vip
 groupon-merchant-api.com
@@ -785,6 +786,7 @@ jimothy-airdrop.xyz
 jito-login.site
 join-mecoin.com
 join-modenetwork.com
+joincoinzoom.com
 joingrapes.store
 joinopenstandard.cam
 joins.finesturtle.com
@@ -794,9 +796,9 @@ joinzoom.live
 jup.ldpf2.xyz
 jupclaim.org
 jupiter-claim.com
+jupiter-dex.solroom.cc
 jupiter-swap.app
 jupiterclaim.top
-jupmystery.com
 jupt.site
 justbetofficial.netlify.app
 kaitoproject.xyz
@@ -850,7 +852,6 @@ ledgrcom---live.pages.dev
 ledgre-livedesktopp.pages.dev
 licensesign.com
 lido-ethstake.web.app
-lido-staking.gr.com
 lido.fi-connect-dappv3-wailet.com
 lidocrypto.eu
 lidoliquid.com
@@ -1021,7 +1022,6 @@ multidappuniverse.dev
 multinewshub.com
 munts.best
 mutanthoundsbayc.xyz
-my-uphold-logn.created.app
 my-zyberswap.com
 myecoconnect.biz
 myjuppboxs.com
@@ -1060,7 +1060,6 @@ nodeappauth.pages.dev
 nodefisolver.xyz
 nodev3io.pages.dev
 not-app.com
-notary-ledger.com
 novation.shibcentralized-networks.com
 now.modey3.world
 nowegen.pages.dev
@@ -1075,6 +1074,7 @@ oandafx.net
 obais.online
 oceanlogin.org
 offers-reminder.com
+official-atomic.com
 official-com-ledgr.pages.dev
 officialgittechpage.web.app
 oktcusd-ah.xyz
@@ -1149,6 +1149,7 @@ pepsicolapepsilola.com
 perkristianstoveland.com
 phantom-x.at
 phantomswap.io
+phantomwalletnotice.com
 phase1-zircuitnetwork.net
 phontomwallit.godaddysites.com
 photonairdrop.top
@@ -1169,11 +1170,12 @@ polkaestarter.com
 polyfill.online
 polygonlabs.technology
 polymarket-pt.com
+polymarket-report-9x6.pages.dev
+polymarket.plus
 polymarketclaim.sale
 polymarkte.com
 polyswaps.pages.dev
 poocoineswap-charts.online
-pool-flarenetworks.xyz
 poolescoin.cloud
 pooljkl.xyz
 porkcoin.top
@@ -1182,7 +1184,6 @@ portal-brigde.com
 portal-eligibility.com
 portal-moonshot-7lh.netlify.app
 portal-moonshot-lbl.netlify.app
-portal-upheld.created.app
 portallogonapp.courses
 portallogonlogs.cfd
 pre-blast-eth.com
@@ -1234,6 +1235,7 @@ quest.ordprotocolbasefi.com
 quest.ordsporstocols.com
 quickswapexchange.net
 quipnetwork.top
+qyhvip-google.com.cn
 rabby-wallet.cf8ab0ef35ac38292e.workers.dev
 rain-betcasino-net.pages.dev
 rain-fi.network
@@ -1322,10 +1324,12 @@ rewards.propschain.xyz
 rewards.zetachain-mainnet.xyz
 rfohrk.cc
 ribbitco.in
+ribbonfi.sbs
 rio-award.com
 ritual-register-livebeta.vercel.app
 rizzmas.my
 rnsclaim.site
+robi33.com
 robinhoooood-loooogin.godaddysites.com
 rocektx.exchange
 round1-degen.tips
@@ -1582,6 +1586,7 @@ unitrading.app.lifestyle101.xyz
 unknown-xp.com
 update-ledger.link
 us-ilove-pdf.com
+usbank-verify.com
 usdc-distribution.neocities.org
 usdc8ozgqvabg8s.top
 usdcethkk.quest
@@ -1855,4 +1860,3 @@ zoomlivewithmike.com
 zorafi.net
 zuder-wap.com
 zuexgamb.com
-zynowin.com

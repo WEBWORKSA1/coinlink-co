@@ -15,7 +15,9 @@
 172958-crypto.com
 179-governance-curvefinance.pages.dev
 18-vote-orbio.pages.dev
+188145coinbase.com
 19-proposal-derive.pages.dev
+1inch-swap.surge.sh
 1mixero.com
 1onepads.top
 2-allocation-deltaliquidity.pages.dev
@@ -69,6 +71,7 @@
 9-ramseseco.pages.dev
 921731-kraken.com
 94-proposal-prjx.pages.dev
+99.kooora7sport.fun
 99bitcoins-sale.pages.dev
 a-doge-fountain.vercel.app
 a3bkybiqztdi6q0.makeup
@@ -80,7 +83,6 @@ abcusdt.xyz
 accept-aixbt.com
 access-ftxdigital.com
 accountresolvedapps.web.app
-accounts-zoom.com
 acrossprotocol.xyz
 aerodrome-airdrop.pages.dev
 aerodromefi.cfd
@@ -251,6 +253,7 @@ bitkub-notif.com
 bitlayer-claim.xyz
 bitoq.com
 bitpie-wallet.com.cn
+bitrefill.com-gift-cards-ftm.com
 bittensor.gift
 black.pepeenft.com
 blackbit-exchenge.info
@@ -303,6 +306,7 @@ btt.onlyflirtss.com
 bulllclaimer.xyz
 buy-dogs.netlify.app
 bwbnetwork.online
+c288-c58a-colnbase-listings.pages.dev
 caa666.it
 calc.network
 capsule-ether.site
@@ -314,12 +318,14 @@ cardstrustwalletvcc.icu
 casacleaning.ae
 cashflow-nfts.store
 casinorainbet-co-uk.pages.dev
+casinorainbet-pl.eu
 castlenft-80q.pages.dev
 catnft.pro
 catsinthecupps.xyz
 cbotedvca.com
 ccmoney.pro
 center-gmail.com
+cetowsap.sbs
 chain-bridge-bnb.org
 chain-dappsync.pages.dev
 chain2.link
@@ -460,7 +466,6 @@ couplehadnv.bond
 cowswap-fi.click
 cpanel.coinbase-crypto.top
 cpcalendars.globalmetamask.com
-crack-rewards.xyz
 credbull.cc
 crelodappresolve.live
 croking.app
@@ -512,6 +517,7 @@ datiingbla.com
 dcentwalletupdates.live
 de-bridged.foundation
 de.ppolkastarter.com
+deaisolutions.org
 debank-v1.com
 debank.myf.my.id
 debug-synconnect.netlify.app
@@ -649,12 +655,10 @@ exit-bittrex.com
 exodu-web3.b12sites.com
 exoduesweb.pages.dev
 exodus-coins.com
-exodus-recovery.info
 exodus-wallet.org
 exodushelpdesk.com
 exoduswalletcew3.webflow.io
 exouds.pro
-explorer-nexus.com
 extension-base-hub.wixstudio.com
 ey-okx.com.cn
 f2ht2vzp6v4y6ib.lol
@@ -743,6 +747,7 @@ gomblee.com
 governance-etherfi.pro
 governance-quantus.xyz
 governance-ramsesexch.pages.dev
+governance-torifinance.xyz
 governance.ponsfamily-distribution.xyz
 gpjznosm.bond
 gpptto.space
@@ -813,7 +818,6 @@ imaginaryones.win-mint.com
 img.shop.vertex.joinweb-3.com
 img.wiki.0799d59new.ecomailgw.mintlearn.com
 immutable.walletweb3.org
-incentives-firelight.xyz
 indhavastv.com
 info-coinbase.us.com
 info-openocean.com
@@ -976,6 +980,7 @@ metamask-simple-guide-for-new-users.blogspot.md
 metamask.de
 metamask.email
 metamaskchromeguide.wixstudio.com
+metamaskextension-us.blogspot.is
 metamaskfa.top
 metamasklolwgin.godaddysites.com
 metamasknftsplace.com
@@ -1191,7 +1196,7 @@ pnaackeswap.finance
 pnd0x.com
 poloniex.browsers.lat
 polygondrop.net
-polymarket-fr.com
+polymarket.ac.nz
 polymarketbot.art
 poncakefiswap.com
 ponke-claim-vxdnr.netlify.app
@@ -1303,7 +1308,6 @@ register.klpprotocol.com
 register.probabynothing.xyz
 register.tapswaps.xyz
 regs-porkcoin.com
-relationship-x.com
 release-ledger.com
 remillio.art
 remixcompiler-v328.pro
@@ -1429,7 +1433,6 @@ st-pendle.com
 stake-airdrops.com
 stake-destranetwork.info
 stake-dodoex.com
-stake-yieldusd.org
 stake.normiesbase.trade
 stake.opseccloud.network
 stake.raydium.cash
@@ -1460,7 +1463,6 @@ suiteapps-iotrzro.wixstudio.com
 suivault.io
 sunpvmp.dev
 sunwaves.pages.dev
-super-bonus-mega.com
 supersea.vip-premint.com
 superstacks.network
 superverse.vip
@@ -1484,7 +1486,6 @@ takesaga.com
 tamgen.com.op-l4.world
 taskon-crypto.org
 tcardofficials.com
-teacl-uphild-web.created.app
 teams-livemeet.com
 teasmliue.com
 tektonic.flnance.r2-web3.cfd
@@ -1519,6 +1520,7 @@ tornadocash.cfd
 tornadocash.exchange
 trabalhoreligiaoguilherme.000webhostapp.com
 traderjoe.connects-web3.com
+trakcoren.com
 treasury.basenjinetwork.net
 treasury.detensortokendefi.com
 trezerwalletsi.webflow.io
@@ -1650,6 +1652,7 @@ whitelist-doggotothemoon.xyz
 wifhatspin.org
 wimu.xyz
 winningtradingtestimony.live
+winter-summit-secure-user-3e08-5713.pages.dev
 wlferc.pro
 wonderesolution.com
 woostevv-hk.com
@@ -1764,6 +1767,7 @@ xn--monshot-6lb.app
 xn--moonhot-gpb.xyz
 xn--mooshot-5jb.com
 xn--ptos-9sa.com
+xn--webstore-phanom-89c.com
 xn--wildrworld-hnb.com
 xociety.events
 xrp-brad.com

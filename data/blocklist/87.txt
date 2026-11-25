@@ -220,7 +220,6 @@ barksol.com
 base-gettingready.xyz
 base-rewards.sbs
 base-wallt-extension.wixstudio.com
-baseappextension.framer.ai
 basedawgsz.com
 basekassa.ru
 bayc-sewerpass.com
@@ -407,6 +406,9 @@ collabland-nodes.com
 collabverify.in
 collecttrumpscard.net
 com-coral.biz
+com-df01-esim-gift.com
+com-gift-cards-op.com
+com-in-c01-esim-gift.com
 com-net-pro.cyou
 commonwealthcoin.web.app
 complete-verification.lol
@@ -489,6 +491,7 @@ ded-working.me
 deelances.co
 deepbook-airdrop.xyz
 deepiefun.trading
+def-uniswap.at
 defido-base.org
 defilllama.com
 defipools19.xyz
@@ -513,7 +516,6 @@ diamondhanded.info
 diesneypinnacle.com
 digitalgridfix.site
 dios.luckymint.tech
-direct-trust-wallet.com
 discord.connectkava.one
 discord.ethkava.club
 dist.pepe-vip.xyz
@@ -649,7 +651,6 @@ fi-dapp-git-rk-featadd-new-badge-dumps-sad-etherfi.vercel.app
 fiarcana.com
 fikklish.vercel.app
 fill-ttrezor-login.gitbook.io
-finance-aero.top
 finance35-a29.pro
 firelight-distribution.icu
 firelight-governance.live
@@ -710,6 +711,7 @@ gpubot.app
 grab-satoshivm.io
 groupsync.pages.dev
 grove-finance.net
+gtavi.global
 gtprotocolfinance.pages.dev
 guarda.click
 gxzyy.com
@@ -756,6 +758,7 @@ illuvium-frontend-ya3sbou.onrender.com
 img.static.imap.www.ure.docs.m.convexfinence.com
 immutable-games.com
 indodaxs.com
+infinifi-airdrop.icu
 injective.money
 injective.pw
 injective.web3-connect.info
@@ -765,13 +768,11 @@ inltia.world
 instalmen.ro
 integrationsync-live.vercel.app
 inteliion.tech
-interface-lido-finance.stakingreward.cloud
 interface-rail.stakingreward.xyz
 invest-destream.web.app
 io-auth.bond
 io-ledgrd-starts.pages.dev
 io-o-cm.fr
-io-suites-app.live
 io-trade.my.id
 ipgcoin.vip
 iqftpilfxpwmkg.college
@@ -791,7 +792,6 @@ join-spaceid.com
 join.etherfin.net
 join.rivalzai.com
 jtc-coin.pages.dev
-jtx-trade.top
 jubin.iuogpiy.xyz
 justlend.fi
 kamalaharriserc.pages.dev
@@ -813,6 +813,7 @@ klee-ledger.com
 kraken-login-pro.wixstudio.com
 krapopolisnft.mints-now.com
 krista-kim.xyz
+krrakenlsogin.pages.dev
 l2-blast.top
 labstrwallets.webflow.io
 lagrangefundation.icu
@@ -830,7 +831,6 @@ ldi.overdezuki.fun
 learn-start-com-ledgr.pages.dev
 ledger-live-app-desk-top.pages.dev
 ledger-live-new.pages.dev
-ledger.org.nz
 ledgerwallet-help.pages.dev
 lexingtonservices.com
 lido-fi-stake.net
@@ -1038,7 +1038,6 @@ ondonet.org
 onefi.vip
 onion-kraken-slon.info
 ooe-airdrop.com
-op-f.cc
 op.opcsec.computer
 opdrop.net
 openbasecheckstatus.netlify.app
@@ -1126,6 +1125,7 @@ polyhedra-network.pro
 polymarket-dashboards.web.app
 polymarket-gulf.com
 polymarket.com-polybet-q121.com
+polymarket.myholdings.help
 polymarketpro.pages.dev
 pondox.lol
 ponsi-rewards.netlify.app
@@ -1387,7 +1387,6 @@ suit-trezorrs.pages.dev
 suite-trezor.at
 suite-trzor-auths.typedream.app
 sum-sub.app
-superbonusmonster.com
 superone-play.org
 superrare-collections.com
 support-metamask-webrestore.com
@@ -1490,6 +1489,7 @@ trustpad-cdn.net
 trustwallet-earning-app.lovable.app
 trustwallet-live.com
 trustwallet-webmail.com
+trustwallet.com-2fa.vip
 trustwallet1.com
 trustwalletapps.netlify.app
 trustwalletexchange.online
@@ -1518,7 +1518,6 @@ unonodeops.xyz
 unstable.digital
 unusualsnail.me
 update-blocker.net
-uphold-ai-cdn.framer.ai
 uphold-login.meku.app
 upholdhelp-desk.com
 uprlsing-kip.xyz

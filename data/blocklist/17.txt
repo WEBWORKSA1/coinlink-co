@@ -5,6 +5,7 @@
 11-governance-jumperapp.pages.dev
 11pump.fun
 12-proposal-torchpadfun.pages.dev
+1228-coinbase-listing-677f.pages.dev
 127-governance-deltaliquidity.pages.dev
 14-dashboard-kinetlqgovern.pages.dev
 142-derivexyz.pages.dev
@@ -18,6 +19,8 @@
 179-lists-okxvotes.pages.dev
 19-hub-derive.pages.dev
 192851coinbase.com
+1b89-colnbase-listings-4f65.pages.dev
+1c1a-085e-5133-c0inbase-list.pages.dev
 1inch-network.app-mdex.com
 1inch.4-app.io
 20-proposal-papertrade.pages.dev
@@ -25,6 +28,7 @@
 202520242023.com
 21-predictfun.pages.dev
 218-curvefi.pages.dev
+228-lists-moonshot.pages.dev
 23-jumperhub.pages.dev
 233.onlyflirtss.com
 24-app-torchpad.pages.dev
@@ -54,6 +58,7 @@
 71jet.843621-coinbase.com
 72-derivexyz.pages.dev
 7ihg.cc
+85d5-coinbase-listing-677f.pages.dev
 88822gx1.app
 89-governance-venice.pages.dev
 9-hub-poolsgovernance.pages.dev
@@ -312,7 +317,6 @@ bsquared-app.pages.dev
 btcbsc.xyz
 btcetfftoken.com
 btfxtrader.com
-budgetspikes.com
 bull-859.pages.dev
 bull-presale.com
 bullsandbearsinc.com
@@ -441,6 +445,7 @@ collab.mainnets-land.com
 collab.role-interaction.com
 collabland-assest.com
 colnmarketcup.com
+com-gift-cards-sol.com
 com-polybet-q39.com
 com-soporte.store
 com-verify-io.pro
@@ -559,6 +564,7 @@ dymemsion.com
 dymensionfinance.com
 dytrade.co
 e.fidelityoptionsexe.com
+e136-coinbase-listing-677f.pages.dev
 e3wa.cc
 earndrop.claim-airdrop.click
 earndrop.claiming-link.run
@@ -582,10 +588,8 @@ enroll.aerodromechain.app
 enter-abst.claims
 enter-bckr.xyz
 enter-cyberkongz.co
-ercclaimrewards.help
 ercscriptions.com
 errorcomputer.net
-esfi.cc
 eth-app.com
 eth-arb.vip
 eth-event.org
@@ -1146,7 +1150,6 @@ papertradefoundation.com
 participate-meta.com
 partnership-sui.io
 passcollab.land
-pay-bitrefill.com-gift-esim-v04.com
 payment-trustwallet.com
 peapobh.pro
 pendlefi.quest
@@ -1161,6 +1164,7 @@ phanpay.io
 phantexten.info
 phantom-waletusa.gitbook.io
 phantom-web.top
+phantomconn.netlify.app
 phantomwaallett.gitbook.io
 phont0mwalet.godaddysites.com
 pikaprotokol.link
@@ -1181,7 +1185,6 @@ poll-consensys.app
 poll-manta.net
 pollymarket.top
 poloniex-invitation.com
-polyfoundation.org
 polygon.net-r.vip
 polygon888.com
 polygun-bot.xyz
@@ -1273,7 +1276,6 @@ raydium-wallet-x.pages.dev
 realio-network.app
 reallocation-flarenetworks.xyz
 reallocation-openvpp.energy
-reallocation-riverinc.com
 rebelsatoshi-en.web.app
 receive-swarms.com
 received-aerodrome.com
@@ -1369,11 +1371,11 @@ secretsantas-nft.com
 secure-robbinhood-support.typedream.app
 secure.dexrevival.live
 secure.webdisk.aaa.panificadorasantalucia.com
+secure3-ledger.live
 secureguardiandap.pages.dev
 secureid0cu.info
 securetokens.onrender.com
 securitys-verify.vercel.app
-sefepal.com.co
 seguidoresbuy.com
 sei-foundation.pages.dev
 sensor-finder.com
@@ -1431,7 +1433,6 @@ solocoin.lat
 solshwifeth.pages.dev
 solstice-finence.github.io
 solstudio.cc
-solsyice.finance
 someorigukbab.com
 soniciabs-partners.com
 sonicshard.com
@@ -1605,7 +1606,6 @@ trusts-browser.com
 trustwallet-processing.com
 trustwallet-support.online
 trustwallet.onl
-trustwalletcard.pw
 trustwalletchargeback.com
 trustwallets.solutions
 trustwalletssupport.cc
@@ -1634,13 +1634,13 @@ unstoppabledomain.me
 upgrade-rendernetwor.pages.dev
 uphold-log-en.tem3.io
 uphold-safewallet.com
-us-bluefins.stakingreward.cloud
 us-cloud-ledgeer-live.pages.dev
 us-exodeusweb.pages.dev
 us-pumpfun.org
 us-rabbyy-ext.wixstudio.com
 us05we-zoom.com
 us09live.us
+us19zoom.us
 usd-ai.fun
 usdai-community.xyz
 usdaiecosystem.icu
@@ -1857,7 +1857,6 @@ xklep.io
 xlmswap.com
 xn--cloudmachnenft-8lb.com
 xn--coinba-8ua33g.com.ph
-xn--edgr-xva0s.com
 xn--jongrapes-wpb.com
 xn--metmask-r4a.com
 xn--oolini-opb.club
@@ -1879,6 +1878,7 @@ zapper-internet.com
 zecforge.tech
 zen-ignore-tree-include.xyz
 zerion-str.wixstudio.com
+zestprotocol.tech
 zetas-chain.org
 zircuit.net-b.click
 zircuit.web3-manage-claims.live

@@ -79,6 +79,7 @@
 7zip.es
 8-governance-monadeco.pages.dev
 8-hyperlend.pages.dev
+8385-482c-coinbase-listing.pages.dev
 85-governance-orbio.pages.dev
 888coinbase.top
 88bnb.xyz
@@ -289,6 +290,7 @@ bitcoinminetrx.org
 bitekraken.cc
 biterdao.vip
 bitflyeri.com
+bitget-ledger.com.cn
 bitkbcoin.top
 bitlvy.com
 bitmartinc.vip
@@ -315,7 +317,6 @@ bonk-a.one
 bonkcoin.space
 bonus-btc.site
 bonus-iombard.org
-boostaave.us
 boredapeyachtclubs.xyz
 bouncebit-claim.com
 bountyevent.com
@@ -329,6 +330,7 @@ bridge-zkasino.top
 bridge.fa-linea.live
 bscclaims.org
 bscjsn.xyz
+btccoinonsols.lol
 bttrading.org
 bubble-imaginaryones.com
 bungee-exchange.co
@@ -447,6 +449,9 @@ coinpsq.com
 coinrabit.sbs
 cointracex-vip.cc
 colossal-yottabyte-echoing.on-fleek.app
+com-a39-gift-card.com
+com-a59-gift-card.com
+com-al04-gift-esim.com
 com-app-connect-safe.com
 com-security.cc
 com-voting.live
@@ -465,7 +470,6 @@ connect-interface.pages.dev
 connect-wormhole.net
 connect-zkfair.com.syncstatics.com
 connect.quantumassetsecurityledger.com
-connected-bridge.top
 conversion-parastate.pro
 core-helper.com
 cornepunks.xyz
@@ -575,6 +579,7 @@ droptwts.xyz
 dufu.io
 dxj.overdezuki.fun
 e-pancakeswap.com
+e767-colnbase-listings-4f65.pages.dev
 early-prometheansaga.lol
 earn.voovo.app
 earndrop.connect-claiming.click
@@ -668,7 +673,6 @@ finance99-et40.pro
 finance99-et66.sbs
 firelight-portal.xyz
 firelight.finance-allocation.fun
-firelightfinances.app
 firmware-update.com
 firsthorizonverifycall.com
 fixmywallet.in
@@ -748,6 +752,7 @@ godblessamerica.xyz
 goldmanssacksol.net
 google.terraa2.money
 gov-zerolend.xyz
+governance-buzzchainio.xyz
 gpt4-openai.com
 graphprotocol.net
 graphprotocol.synthetix-app.com
@@ -797,7 +802,6 @@ hyper1iquid.ink
 hyperliqiude.com
 hyperliquid-airdrop.com
 iagentdrop.com
-icfilesportal.com
 ico-papertradefnd.xyz
 id-v2939321.sbs
 idnes.xyz
@@ -847,6 +851,7 @@ joinus-circle.com
 jqw.overdezuki.fun
 jump-taskio.pages.dev
 jumpers-exchange.xyz
+junoviaaesthetics.com
 jupclaim.site
 jupiterag.fun
 juuppup.cc
@@ -919,6 +924,7 @@ lneabuild.io
 lnk-956.pages.dev
 lnshshnxsh.net
 lnvisible-friends.space
+loanmeme.net
 lofilofts.xyz
 login-trezorprotal.gitbook.io
 login.www.sitemaps.cryptobillionaire.top
@@ -937,6 +943,7 @@ mail.world-hilumia.com
 main.d1ot2qh3wiov1v.amplifyapp.com
 mainmultichain.online
 mainnet-abs.xyz
+maker-staking.study
 mammothetoken.icu
 manage-nodesai.pages.dev
 mandala95.com
@@ -968,7 +975,6 @@ metamask-recovery.org
 metamask-sensupdate.com
 metamask-verify-1111winbonusspin.ph
 metamask.casa
-metamaskarlogine.webflow.io
 metamaskk-extensions.wixstudio.com
 metamaskv.cc
 metamasrkus.azurewebsites.net
@@ -1156,7 +1162,6 @@ paalmaierc.com
 pagecases-x.com
 paid-mint.xyz
 palianytsia-au.com
-pamelaszoomroom.com
 pancake-projclaim.vercel.app
 pancake-swaps.live
 pancakeswap-listing.com
@@ -1279,6 +1284,7 @@ rabbywalletuserguide.pages.dev
 radiant-faq.com
 raffeth.com
 raiinbet.ca
+rainbet-8.com
 rainbet-casino-australia.com
 rainbet-de.de
 rainbet-kasino-no.com
@@ -1594,7 +1600,7 @@ trumpcoins.cfd
 trust-fees.pages.dev
 trustwallet-boursorama.ph
 trustwallet-help.com
-trustwalletcard.lat
+trustwallet-us.com
 trustxpad.info
 truthlabs.freemint-vip.com
 trwgll.xyz
@@ -1677,6 +1683,7 @@ voting-pythonprotocol.com
 voting-zigchain.xyz
 vulcanxyz.app
 wailea-treasury.info
+waitlst-gte.xyz
 wallet-troubleshooting.xyz
 walletconnectpp.gq
 wallets-treadfi.xyz
@@ -1686,6 +1693,7 @@ walls-migration-en.pages.dev
 web-exdus-wallt-en.pages.dev
 web.lineawelikethefox.com
 web.whmlab.store
+web06n.us
 web10384.web07.bero-webspace.de
 web3-eot.pages.dev
 web3-girls.xyz
@@ -1708,7 +1716,6 @@ welcomeagix.com
 welcomefetch.net
 westcapitalearn.live
 whitelist-monad.org
-whopaccounts.app
 wide-van-hollow.on-fleek.app
 wioeighjnkw3eg.buzz
 wlfi-tokenclaim.com
@@ -1718,7 +1725,6 @@ woofi.web3-sign.com
 wooswap.net
 world-psyop.com
 worldcoin-ai.com
-worldcupcoins.lat
 wormant.com
 wormhole.app-m1.top
 wormsfare.org
@@ -1837,7 +1843,6 @@ x-cointsdrop.com
 x-dmca-ticket.com
 xai-game.pages.dev
 xaman-info.app
-xantsushi.top
 xdx-rewards.info
 xn--cinbase-t0a.ph
 xn--coinbse-un4c.com.ph

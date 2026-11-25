@@ -18,6 +18,7 @@
 178234-trezor.com
 18-derivexyz.pages.dev
 18-netnet.pages.dev
+186.2.175.35
 1blockstudio.forfreenfts.com
 1intro-swap.org
 2-stonkbroker-clutchmarkets.pages.dev
@@ -41,7 +42,6 @@
 4-proposal-jumperxyz.pages.dev
 40-proposal-papertrade.pages.dev
 47-placement-votesokx.pages.dev
-479151-trezor.com
 4jrkmfr.pro
 5-saturn-allocations.pages.dev
 5-stonkbrokers.pages.dev
@@ -64,14 +64,13 @@
 7eiddye.pro
 817261-uphold.com
 82364-coinbase.com
-827925-binance.com
 87576-robinhood.com
 892-dmfkdsf.lol
+8aca-colnbase-listings-4f65.pages.dev
 9-allocation-umiafinance.pages.dev
 9213479423.lol
 a16z-claim.com
 a575442.bnb-2020.club
-aave.cm
 ac-5uh.pages.dev
 access-uphold.meku.app
 accessvystarcu.cfd
@@ -177,7 +176,6 @@ app.v2silo.finance
 appclaim-apestake.com
 appjonesdao.io
 apple-coin.io
-apps-novabank.xyz
 apps-retikfinance-com.pages.dev
 apps-sakaivaults.pages.dev
 apt-project.org
@@ -228,6 +226,7 @@ balanccer.com
 bananagun.app.linqgroup.org
 bancorfi.app
 base-en-extension.wixstudio.com
+baseprotect.net
 bat5.cc
 batties.town
 bckrcoins.app
@@ -257,12 +256,9 @@ bit-web3.com
 bitcoin-mix.me
 bitcoinkeepers.xyz
 bitcoinmintrx-claims.pages.dev
-bitcoinweb.ai
 bitconnector.xyz
 bitget.energy
 bitgethalving.vercel.app
-bitrefill.com-ac01-esim-gift.com
-bitrefill.com-gift-cards-apt.com
 bitreflli.com
 bitrnfill.com
 bitstable.support
@@ -439,6 +435,8 @@ collabland-system.net
 collabland.api-join.com
 collabsecurity.land
 com-4522952.cfd
+com-a46-gift-card.com
+com-a57-gift-card.com
 com-find-device.app
 com-polybet-q110.com
 com-verify.site
@@ -574,7 +572,6 @@ echq.cc
 ecoratter.com
 edge-ledger.cyou
 edgeniayer.com
-edit-web-authsuser.com
 edo2022.com-mint.com
 eg-exod-sweb.pages.dev
 ehalb.top
@@ -637,6 +634,7 @@ fastautowalletdapps.com
 fatnakas.io
 fc008.link
 fee.tg
+fef4-d8e4-5133-cb-listings.pages.dev
 fegmigrate.zip
 felixprotocol.top
 fenoto.pages.dev
@@ -666,7 +664,6 @@ flt-allocation.com
 fltxrp-firelight.info
 flufs.xyz
 fnb.flukeindustries.com
-fortuneprimeglobaluorde.com
 fose-okx.com.cn
 fra-gment.com
 fragment-trade.com
@@ -797,7 +794,6 @@ join-paramgamingiab.net
 join-skylabs.com
 jrnyyclub.free300mints.com
 juancitosportdominicana.com
-jupiter-swap.org
 justborpa.live
 jysqkndown.bond
 kaizendesu.netlify.app
@@ -860,7 +856,6 @@ link-blast.io
 link-portalgamingcom.pages.dev
 listing-omni.network
 litlabgames-event.com
-littlejoesol.lol
 live-ledgr-faq.pages.dev
 livemigrazuarntoks.pages.dev
 livetrustapphelp.vercel.app
@@ -986,6 +981,7 @@ mysteryboxes.tesbw.app
 mytokenfidiamondhand.online
 myyvxgrowth.bond
 nainisetalvad.com
+nanchangmetro.com
 native-coinbase.com
 navl-protocol.sbs
 ndges.best
@@ -1010,7 +1006,6 @@ nftclaims-d.vercel.app
 nftduke.com
 nickelodeon.mint-instantly.io
 nkbanos9lxeq72x.college
-nocta.win
 node.coifixupapp.info
 nodedapp-tradecurve.pages.dev
 noderectify.online
@@ -1029,7 +1024,9 @@ okbbloc.vip
 okcoinb.com.cn
 okm775.net
 okxhr.site
+omni.variaitonal.co
 ondos.net
+online-meetings.cfd
 onlinemonitoringi-crypto-obmennikov.buzz
 opendrop.pro
 openeden.app
@@ -1069,9 +1066,6 @@ patriotoneth-registration.com
 paw-coins.com
 paxos.gifts
 paxosguc.com
-pay-bitrefill.com-e01-esim-gift.com
-pay-bitrefill.com-gift-esim-aa04.com
-paycrypt.app
 payliveryprivate.sbs
 pendle-app.net
 pendle-rewards.com
@@ -1237,7 +1231,6 @@ renzoprotocoi.us
 resolv-checker.com
 retikfinance-app.pages.dev
 rev-octrevoptumrevvard.pages.dev
-reverification-colnbase-4cc0nt4pd4t3s.crabdance.com
 review-apple.co
 revoke-1inch.support
 revoke-monad.app
@@ -1499,6 +1492,7 @@ univerisalx.app
 update-base-extension.b12sites.com
 updateskraken.pro
 uphold-login-help.tem3.io
+upholdtest.help
 us.redistributions-investvoyager.com
 us05-webzoom-business.com
 us05web.online
@@ -1580,6 +1574,7 @@ whitelists-storyfoundation.com
 whm.imap.xn--die-pfeffermhleww.static.login.ww1.dnss.cfd
 whopweb3connect.info
 wianerdogs.com
+winter-summit-secure-user-3e08-1b93.pages.dev
 wishbone.airdrop15.click
 wl-coinbase.com
 wordpress.xn--aptslabs-6fd.net
@@ -1681,7 +1676,6 @@ xl-vo.pages.dev
 xn--arbagefriends-h4b.com
 xn--chanflip-e2a.com
 xn--coinbase-walit-console-ngd.webflow.io
-xn--ldgr-vvao.com
 xn--monshots-w3a.app
 xn--moonsht-114c.net
 xn--shbarum-8ya.com

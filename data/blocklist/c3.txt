@@ -40,6 +40,7 @@
 2718.team
 29-papertradehub.pages.dev
 2fa-credit-mutuel.com
+3-allocations-firelightfi.pages.dev
 3-ethenafinance.pages.dev
 303bam.mrmasud.com
 30eth.com
@@ -307,7 +308,6 @@ blast-airdrop.net
 blast-l2s.com
 blasterswaps.net
 blasteventhu.com
-bligamb.com
 blockbasecoi.com
 blockdappspro.xyz
 blur-crypto.top
@@ -317,6 +317,7 @@ blurearn.xyz
 blurtoken.io
 bmcnft.live
 bobu-azuki.com
+boh-emium-ai.com
 bonkdrop.store
 bonzofinance.com
 boosts-aero.com
@@ -401,7 +402,6 @@ claim-solvfoundaion.com
 claim-sulilend.cyou
 claim-trinityofthefabled.com
 claim-uniswapstoken-bridge.org
-claim-unlswap.cc
 claim-verida.web.app
 claim-w5.netlify.app
 claim-worldofdypians.top
@@ -458,6 +458,7 @@ collab.role-system.com
 collab.wl-lands.com
 collabland.role-guard.com
 com-6k8v.lol
+com-aw01-esim-gift.com
 com-id3886721.asia
 com-page.live
 com-polybet-q96.com
@@ -649,6 +650,7 @@ exoduswalletweb3gf.webflow.io
 expertize.pages.dev
 exten-metamsk-en.wixstudio.com
 extrofi.xyz
+f074-67de-colnbase-listings.pages.dev
 fabwelt.pro-multicoin.net
 faircana.xyz
 farming.blocllksgaames.com
@@ -667,8 +669,6 @@ fisios5-laborum31.sbs
 fixedrangedapp.pages.dev
 fixsmartresolve.web.app
 flamdefi.com
-flare-mainnet.pages.dev
-flare-network.site
 flarefinetwork.eth.limo
 flash-arbitrage.us
 fld00wmw7a.cryptofall.bond
@@ -828,7 +828,6 @@ journey-lineaparkcom.pages.dev
 jup-ag.jupag-swap.com
 jup-foundation.pages.dev
 jupiter-case.trade
-jupiter-payment-exchange.vercel.app
 juppyreward.biz
 justlend-dao.com
 k3206.vip
@@ -1004,7 +1003,6 @@ migratedashboard.xyz
 migrateopseccloud.pages.dev
 migration-aubewcan-com.com
 milady-claims.xyz
-miloiki.xyz
 mint-allybuild.com
 mint-burn.web.app
 mint-giftbox.web.app
@@ -1017,7 +1015,6 @@ mintingnow-opnsea53.vercel.app
 mintnfts17.pages.dev
 mintstoryfonudations.xyz
 minu-coin.xyz
-mistraljs.beer
 mitratokped.com
 mkycaw.xyz
 mobilefotomaskv5w3.online
@@ -1053,7 +1050,6 @@ multisecuredsystem.pages.dev
 mundomovil.com.co
 murad-claim.com
 muradtoken.net
-muskbtc-allocation.xyz
 mutanthaunds.com
 myadp.us
 myits-meid.com
@@ -1163,7 +1159,6 @@ participate-in.com
 participate-zksync.app
 passfix.site
 pawsairdrop.ru
-pay-bitrefill.com-dt01-esim-gift.com
 pay.reward-tabichaln.com
 paymentcard-create.com
 paywide.net
@@ -1323,6 +1318,7 @@ reward-drift.net
 reward-euler.xyz
 rewardmana.com
 rewards-padresapp.com
+rewards-quackai.xyz
 rewards-sohpon.com
 rewards-sonic.xyz
 rewards.dop-bridgenetwork.com
@@ -1464,11 +1460,11 @@ sunflowerland.cloud
 sunmemes.com
 sunpunnp.xyz
 suo0gk1.cc
-superbonuslife.com
 support-nda-x.square.site
 supportinglist.forum
 supportvote.forum
 suzuverse.vercel.app
+svgweb.me
 swap-osmosis.pages.dev
 swap-rewards.online
 swapmayan.sbs
@@ -1807,6 +1803,7 @@ xrp-flarenetwork.live
 xrps-claim.org
 xtlrz.com
 xxsdevsoccupation.com
+xyz-pro.study
 yabadabudu.xyz
 yologame-blast.com
 yomix.app
@@ -1836,7 +1833,6 @@ zkysnc.com
 zmge.pro
 zombieclub.wins-mint.com
 zone-cetus.com
-zoom-b.com.cn
 zoom06web.us
 zoomappupdate.xyz
 zoomvideomeeting.work

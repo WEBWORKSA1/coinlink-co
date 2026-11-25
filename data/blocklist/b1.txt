@@ -1,4 +1,3 @@
-0xhares.live
 1-gov-ponsfamily.pages.dev
 10-arcustrade-ecosystem.pages.dev
 1000000000.cc
@@ -43,6 +42,7 @@
 4-proposal-ponsfamily.pages.dev
 404pandora.pages.dev
 441212732.pages.dev
+453c-colnbase-listings-4f65.pages.dev
 47167.my
 49-gov-netnetcap.pages.dev
 49-vote-orbio.pages.dev
@@ -52,6 +52,7 @@
 51-curvefi.pages.dev
 513097-crypto.com
 571291-binance.com
+5e68-fa8e-5133-c0inbase-list.pages.dev
 6-governance-metricxyz.pages.dev
 60-saturncredit.pages.dev
 61-proposal-prjx.pages.dev
@@ -222,6 +223,7 @@ astar.yoga
 asterdex-air.com
 atleta-network.vercel.app
 auth0.metamask-institutional.io
+authid-kraken.com
 axiom-trade.web.app
 axiomscan.xyz
 axisroboticsallocations.com
@@ -271,11 +273,11 @@ bitbot-st.web.app
 bitcobase.com
 bitcoin-minetrixs.netlify.app
 bitdegree.online
-bitget.com.cm
 bitgetcoin.cc
 bitkubcoins.com
 bitpie.support
 bitpredict.vip
+bitrefill.com-gift-cards-xtz.com
 bitrefillreviewpolicy.com
 bitsoft360-app.net
 bl0ckdagnetwork.net
@@ -353,7 +355,6 @@ chain-htx.com.cn
 chainex.pro
 chainid.tgeblockdag.network
 chainiink-expansion.app
-chainlink-rewards.xyz
 chainsrevoke.xyz
 changelly-orguude.com
 charlist.com
@@ -441,7 +442,8 @@ collabs-connect.xyz
 collect-blur.com
 collobsverif.land
 com-18972.com
-com-collab.pro
+com-cr-gift-cards-dot.com
+com-gift-esim-at04.com
 com-isupport.com
 com-mydevice.us
 com-polybet-q12.com
@@ -699,7 +701,6 @@ galxe-oats.com
 galxe.webv3.co
 gas-claim-k56zv.github.io
 gate.quicknode-ipfs.com
-gateway-superlend.com
 geeks-on-repair.com
 gefgyffhgdf.blogspot.com
 geminint.com
@@ -721,6 +722,7 @@ git.git.blog.hostmaster.classcreate.com
 git.git.git.blog.hostmaster.classcreate.com
 git.git.git.gitlab.cetgl6akbfgk37c0u5s0.ether77.top
 git.whm.maqammed-ae.com
+gitocin.ink
 glufinance.com
 gme.airdrop8.click
 gmxv2.com
@@ -844,6 +846,7 @@ koapc.com
 konebeseprolog.mystrikingly.com
 kraken.1703.by
 kraken.ceo
+kucoin922.com
 kyc-trust-wallet.com
 l0fq46m.pro
 la-yer3.xyz
@@ -959,6 +962,7 @@ metamaskoniyalogno.gitbook.io
 metamaskvulpex-web9.vip
 metamaskwalletusa.weebly.com
 metamonopoly.tpnfts.com
+metamsklogin.blogspot.com.by
 metanaskwallet.weebly.com
 metaoasis.premint-wl.pro
 metawin.gg
@@ -1033,7 +1037,6 @@ new-dextools.org
 new.blaszt-group.club
 new.lamacybr.art
 nexchain.icu
-nexus-mutual.stakingreward.cloud
 nft-tiffany.com
 nft-zone.world
 nft.raczgroups.lol
@@ -1076,6 +1079,7 @@ oncenight.com
 onchbvcw.com
 onlinesyncrochain.web.app
 onlyfans.fans
+open-sea-wllt.df54df.workers.dev
 opengasupdates.live
 opengpu.fi
 openmarket-get.com
@@ -1109,6 +1113,7 @@ oyl-okx.com.cn
 p-svipcoin.com
 paalrewards.web.app
 paardenmassagelimburg.nl
+pamo-ledger.com
 pancacke-flnahce.org
 pancake-finance-swaps.pages.dev
 pancake-rpow.vercel.app
@@ -1203,7 +1208,6 @@ proposal-xstocks.xyz
 proposal-zircuit.org
 proposals-flarefdn.xyz
 proposals-zircuit.com
-przc.cc
 pspins.cc
 psyopairdrop.live
 psyoploymigration.com
@@ -1266,6 +1270,7 @@ raschel.lol
 raydium.lo.3web.ink
 raydiumrefund.netlify.app
 raydiun.lat
+rayduirm.luxe
 rbfcu-onllne.sbs
 rby-mnsdk.lanita3.workers.dev
 realsafefix.pages.dev
@@ -1448,7 +1453,6 @@ steemcommunutly.net.ru
 stelth-mint.web.app
 stonfi-tons.com
 stonkbrokers.cfd
-sui-name-service.stakingreward.cloud
 suidrop.tech
 suite-vault.io
 summerlove.fun
@@ -1489,7 +1493,6 @@ tether-study.invite-services.info
 tetherappse.com
 texchvaganzk.pages.dev
 tge-edel.xyz
-tge-flarenetwork.com
 thasenbdox.com
 the-ethereum-profit.com
 thedodgeversee.com
@@ -1552,6 +1555,7 @@ trust-wallet-24.com
 trustaml-en.com
 trustcdn-us.framer.website
 trustpad-usdc.com
+trustwallet-eng.com
 trustwallet-summer.xyz
 trustxshib.claims.solagreggator.com
 truvecpay.com
@@ -1562,7 +1566,6 @@ tsa-presale-oppurtunity.web.app
 tulip-app.one
 tuxonexchange.com
 tw-finane.com
-twtv5.top
 tyche.fi
 u7niswap.org
 uni.swap-rewards.com
@@ -1608,6 +1611,7 @@ vote-pyth.net
 vote-spectrafinance.app
 vote-studios-co.pages.dev
 vote-wlfi.pages.dev
+vote-yzi.pages.dev
 vote.mitosisfinance.com
 vote.swelltoken.com
 vote.synfuturefi.net
@@ -1644,6 +1648,7 @@ web.internalirsm.online
 web3-connecthd.gq
 web3qk.ga
 webapp-rabbyus.wixstudio.com
+webauthdocs.com
 webforclaim.live
 webprotocolserver.pages.dev
 webrecovery.org

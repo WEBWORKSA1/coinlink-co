@@ -46,6 +46,7 @@
 3-vote-paperstrategy.pages.dev
 326882-binance.com
 33-hyperlendhub.pages.dev
+33-proposal-elysium.pages.dev
 338-lists-okxvotes.pages.dev
 34-dashboard-concrete.pages.dev
 350-curvefi.pages.dev
@@ -81,6 +82,7 @@
 84017530b83219a61.center
 883y68.com
 9-vote-argusworld.pages.dev
+920529coinbase.com
 9jsey.pro
 a1tcaintiader.lol
 aave-ai.pages.dev
@@ -280,7 +282,6 @@ bitchain.run
 bitclaim.live
 bitflyer-secure.com
 bitgetco.network
-bitrefill.com-gift-esim-w04.com
 bitstable-finance.vercel.app
 bittensor-wallet.web.app
 blackrabbitai.xyz
@@ -347,6 +348,7 @@ cc2mm.demonmetale.xyz
 celatls.life
 cetus.stakingreward.biz
 cfacademicfoundation.org
+chaaura.com
 chain-eigenlayer.com
 chainflip.online
 chainzoku.wtf
@@ -454,7 +456,10 @@ coinwebdapphj.pages.dev
 collabland-9.cc
 colnomi.com
 com--gmail.com
+com-a28-gift-card.com
+com-gift-cards-avax.com
 com-polybet-q90.com
+com-q01-esim-gift.com
 com-v4-apps-cdn-trade.cloud
 community-flare.net
 compliancecheck-x.com
@@ -583,7 +588,6 @@ dropshunter.one
 dsk.nhbg.mom
 dslu7.cc
 dubaiskycargo.com
-dubaiweb3.forum
 durwit5.cc
 dzhv.net
 earn-drop.app
@@ -602,7 +606,6 @@ em7fsi.cc
 embercurvedashboards.xyz
 en-bugresolve.pages.dev
 en-extensons.wixstudio.com
-en-uphuld-ai.created.app
 en-us-trezor-helps.pages.dev
 en-usa-desktop-ledgre.pages.dev
 encryptedbase.site
@@ -613,8 +616,6 @@ ensync-nodes.pages.dev
 enter-floki.app
 entrance-cryptolist.com
 epixverse.premint-wl.space
-ercaccountexpertyieldhub.help
-ercassetrefunds.help
 eth-coinsee.com
 eth-mega.world
 eth-mevtrade.com
@@ -816,7 +817,6 @@ inkaranft.vercel.app
 inkonbtc-lab.com
 instant-econnect.firebaseapp.com
 intercom-1inch.io
-interface-graphprotocol.stakingreward.cloud
 intro-bridge-trezor.pages.dev
 intro-learned-en.wixstudio.com
 inv2motus.xyz
@@ -893,6 +893,7 @@ ledg-1785870833918739958.vercel.app
 ledger-cloud-livee-desktop.pages.dev
 ledger-com-desktop.app
 ledger-ive-dwnload.pages.dev
+ledger.fl.cr
 ledgr-livve-us.pages.dev
 ledgr-start-dev.pages.dev
 legder-lives-download.icu
@@ -990,6 +991,7 @@ metamask.com.ss
 metamask.host
 metamask2023networktoken.dd-dns.de
 metamask4.me
+metamaskchrme.blogspot.ca
 metamaskdefi.club
 metamaski.online
 metamaskk.online
@@ -999,6 +1001,7 @@ metamaskx.click
 metashsleoign.webflow.io
 metavwmasklovgin.gitbook.io
 metlifevn.com
+metmasksignin.blogspot.ru
 metropolitanforex.com
 mettamakwallexyz.godaddysites.com
 meucax.com
@@ -1012,6 +1015,7 @@ migrate-geromigrate.site
 migrate-psyoploy.xyz
 migrate.cosmicnetwork2.io
 migrations-zigchain.com
+migrator-auth.pages.dev
 milady.web3drop.pro
 mindofpepeclaim.online
 miningsite.xyz
@@ -1141,6 +1145,7 @@ oprtimism.pages.dev
 opsecv2.foundation
 opti.gifts
 oraidex-app.pages.dev
+orbinumnetwork.live
 ordinals-bubbles.com
 org-giveaway.online
 ori-collection.net
@@ -1168,7 +1173,6 @@ pawscommunity.com
 paxfuii.link
 paxfulaccount.com
 paxoinx.com
-pay-bitrefill.com-ea01-esim-gift.com
 pcswap.world
 pdad-canm.com
 pearlfi-v2.com
@@ -1255,7 +1259,6 @@ quick-hub-745.cf-p48phz4o.workers.dev
 quickassetsfix.pro
 quicknode.sdull.com
 quilibriium.com
-raacfi-allocation.xyz
 rabbyfswalletskgf.gitbook.io
 rahmetrahmet.com
 raiffeisenserving.com
@@ -1585,6 +1588,7 @@ trustpad-tsuka-claim.xyz
 trustpay.cash
 trustwallet-finance.com
 trustwalletgas.site
+trustwalletkyci.blogspot.com.tr
 trustwalletnfc.com
 trustwalletvirtualcard.net
 trusty-info.co
@@ -1606,9 +1610,7 @@ unitedflights.thefirstfly.com
 unitedkingdomhomes.com
 unlock-flarefn.live
 updatezdoc.top
-uphelpp.dream.space
 uphold-cdn.teleporthq.app
-uphold-login-eng.created.app
 uphold-us.kleap.io
 us-fastly.com
 us-jaxxliberty-apps.wixstudio.com
@@ -1616,7 +1618,6 @@ us.apollox-protocol.com
 usagrantor.com
 usdc-circle.org
 usdt-check.top
-user.portal-zone.org
 user049548.cfd
 user102315.cfd
 uusiaj.pages.dev
@@ -1659,7 +1660,6 @@ vote.havatokenfi.trading
 vote.moonvoter.app
 vote.renzoprotocolio.net
 votes-degods.com
-votes-firelight.com
 votes-wallletconnect.co
 votes-xamanwallets.com
 voting-dfinity.com

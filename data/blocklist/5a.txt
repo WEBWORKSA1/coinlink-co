@@ -24,6 +24,8 @@
 172623coinbase.com
 176232-crypto.com
 19-aerogovernance.pages.dev
+1inch.rbw-jp.com
+1inchh-spinner-es.vercel.app
 2-clutch-markets.pages.dev
 2-governance-mancerhub.pages.dev
 2-sigma.vip
@@ -44,6 +46,7 @@
 391-reallocate-flare.pages.dev
 429532-coinbase.com
 43-governance-curvefinance.pages.dev
+43-rewards-firelightfi.pages.dev
 44-app-ethersfi.pages.dev
 449-curvefi.pages.dev
 45-view-kinetiq.pages.dev
@@ -63,6 +66,7 @@
 66-view-kinetiq.pages.dev
 686863.xyz
 690310-crypto.com
+6f0e-4c29-5133-c0inbase-list.pages.dev
 7-app-torchpad.pages.dev
 7-proposal-torchpadfun.pages.dev
 73-placements-votesokx.pages.dev
@@ -78,6 +82,7 @@
 9-vote-cashmereexchange.pages.dev
 9-vote-fluidio.pages.dev
 90-venice.pages.dev
+93ba-fa8e-5133-c0inbase-list.pages.dev
 97ee6.blogspot.com.cy
 99bitcoiins.com
 99bitcoin-app.pages.dev
@@ -93,7 +98,6 @@ addi-colombia.netlify.app
 adidasoriginais.com
 aero.dromc.finance-i1.shop
 aerodrome-t1j.pages.dev
-aerodrome.casa
 aerodrome.finance-connect.xyz
 aerodromefi-finance.network
 aethir-vote.info
@@ -187,7 +191,6 @@ appcadabra.finance
 appcentrifugedapp.pages.dev
 apps-krrkancdn.wixstudio.com
 apps-para.space
-apps-uphled.created.app
 apptitanxwin.com
 apr-usdai.xyz
 aptosnames.info
@@ -432,7 +435,6 @@ claimsonic.com
 claimtokens.live
 claimw.xyz
 claimxrp.app
-claro-rewardsd.shop
 clearpool-finance.org
 client.735714-ftx.com
 client.743293-bittrex.com
@@ -470,6 +472,7 @@ collab-lands.net
 collab-verifys.info
 collabland.role-community.com
 collect-cat.com
+com-ak04-gift-esim.com
 com-apps.cc
 com-secure-hub.bond
 combo.center
@@ -601,7 +604,6 @@ dymension-eth.web.app
 e-illuvium-overworld-claim.com
 earnarb.xyz
 earning-paramlabs.net
-earnvote-dexscreener.com
 echo-self-nu.vercel.app
 ecosystem-argus.cfd
 ecoteroa.com
@@ -659,7 +661,6 @@ euhuv.top
 eurod.xyz
 event-eigeniayer.net
 event-ton.org
-event-worldlibertyfinancial.com
 event246812.inkonbtc.app
 eventchecker-w1.netlify.app
 everestgasoil.com
@@ -694,7 +695,6 @@ finance32-et9.sbs
 financial-event.com
 financieraavanti.online
 fiokiinu.media
-firelight-finance.dev
 firelight-foundation.xyz
 firelight-vault.com
 firelightfi.co.uk
@@ -728,7 +728,6 @@ fumzmsaa.top
 funkari-mint-page.netlify.app
 furybet.org
 fuse-momoguro.com
-fxrpvote.live
 g2w6d0u.beer
 gaiaxies-chainlink.app
 galactic-bonus.xyz
@@ -820,6 +819,7 @@ illuminbeta.com
 illuvium-community.xyz
 illuviumdao.net
 infinityvoid.space
+inflows-crypto.com
 inside-trezer-io-wallet.typedream.app
 insurace.pages.dev
 integratedchainresolver.pages.dev
@@ -900,7 +900,6 @@ layerzerontwork.com
 layesrzero.com
 learn--trezorsiute-us.pages.dev
 learn-trezor-bridge.pages.dev
-learn-uphold.created.app
 ledgeer-live-io.pages.dev
 ledger-co.io
 ledger-liiveapp.pages.dev
@@ -922,7 +921,6 @@ lives-io-ledgrr.pages.dev
 livestatuseligibility-ui.netlify.app
 lkzero.xyz
 lnitia.world
-lobstrvault.com
 login.www.mailhost.oiklk.com
 lookrere.org
 loopedhype.xyz
@@ -953,7 +951,6 @@ manage-ledgr-live-sso.pages.dev
 manlte.info
 manta.su
 mantacoin.online
-mantanetwork.co.com
 mantatreasuries.net
 mantlee.xyz
 maps-icloudapple.help
@@ -1188,12 +1185,12 @@ phuomtuamwllacxt.godaddysites.com
 pika.claims
 pinkselafinance.ink
 pinlink-ai.com
-pitchwct.xyz
 pixeljack.app
 plagubrands.io
 pls-bridge-status.vercel.app
 plumehub.com
 points-blastl2.com
+points-tartbnb.com
 polkastarter.web3-dv.app
 poll-eigen.com
 pollygon.net
@@ -1288,6 +1285,7 @@ rainbet665.com
 rainbet88.org
 rainbetes.com
 rainbetit.com
+rainbetonline.co.no
 rainnbet.bet
 rankeds-gaimin.io
 ravvyextension.wixstudio.com
@@ -1298,6 +1296,7 @@ realms.forfreenfts.com
 receive-paxful.com
 receiveinjectivecoin.com
 receptionteam.cc
+red-coinbase.com
 redeem.coqlnucoin.events
 refixing.live
 refund-account.rest
@@ -1395,7 +1394,6 @@ secure-coin.zapier.app
 secure-works.top
 secure_robimhood_com_autth.typedream.app
 securelogin-ledger.com
-secureportal-authenticate.help
 seiprotocols.com
 seizetheculture.app
 sempraenergy.top
@@ -1502,7 +1500,6 @@ suiwallet.ai
 summer.money.cldf-18app.top
 supaform.xyz
 supducks.web3-airdrop.net
-super-bonus-monster.cfd
 superlauncher.xyz
 supraoracle.xyz
 supraoracles.top
@@ -1562,13 +1559,11 @@ token2049-8ek.pages.dev
 tokende-fi.tech
 tokenminers.net
 tokensmoonfixs.xyz
-tokenstakevault.pages.dev
 tongluozhai.com
 tracker-halo.web.app
 trading.roostercoindefi.network
 traffsyndicatedemo.space
 treasure.web3-face.com
-treasury-pool-flarenetwork.com
 treasury.infraxcoinio.app
 trejr-suite.square.site
 trezor-bridgeapp.typedream.app
@@ -1691,7 +1686,6 @@ waveexcellentwork.net
 waypoint-playground.vercel.app
 wbtc.gifts
 wdefi1.xyz
-web-doe-exdus.pages.dev
 web-robimhood-l-auths.typedream.app
 web3-fi.pages.dev
 web3-zetachain.com
@@ -1707,6 +1701,7 @@ widekassa.ru
 widget-builder-qshic4oxu-superfluid-finance.vercel.app
 wige.dev
 wihome.pages.dev
+winter-summit-secure-user-3e08-2a49.pages.dev
 wizwins.bet
 wolfyyy.pages.dev
 woofibridge.dev

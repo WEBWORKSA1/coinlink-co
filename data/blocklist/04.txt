@@ -22,6 +22,7 @@
 251-kinetiqgov.pages.dev
 254-curvefi.pages.dev
 26-governance-hookrfun.pages.dev
+26-proposal-elysium.pages.dev
 261-reallocate-flare.pages.dev
 28sep.starkware.workers.dev
 2cg69mqrvkttqrs.buzz
@@ -50,7 +51,6 @@
 5718526-coinbase.com
 578254coinbase.com
 58-proposal-ethos.pages.dev
-592052-coinspot.com
 5fptrd4shebpfevicuwi3t2zw3spo64lzeohgscxye5t6cm67dvq.arweave.net
 5j04uk.cc
 5thschape.site
@@ -62,6 +62,7 @@
 7-argusworlds-933.pages.dev
 7097342705.pages.dev
 762086-binance.com
+7deadlysinsquiz.online
 811735-coinbase.com
 817034-trezor.io
 85-allowlist-ascendlaunch.pages.dev
@@ -203,6 +204,7 @@ arcs-update.live
 arcustrade.com
 arkhaminteligense.com
 armusl.com
+arturpruzinski.com
 as08.ltyf.mom
 asbdjahdkjadhkjad829173.cfd
 ascendex.us.com
@@ -334,7 +336,6 @@ cambriagold.world
 camelot.airdrop-now.com
 cancel619-coinbase.firebaseapp.com
 capsule-zskync.net
-carbondefi.app
 carrykobqnn.bond
 carvprotocol.pages.dev
 cashback-punp.fun
@@ -440,9 +441,7 @@ coinwsw.com
 coliseumnft.site
 collab-pro.github.io
 collab.llands.co
-com-allocation.info
 com-polybet-q06.com
-com-sign-in.com
 com-st.my.id
 com-wallet.app
 com-x.online
@@ -534,7 +533,6 @@ deigbat.cc
 delysiumsupport.pages.dev
 demo.speedycrm.layerzer0.cloud
 demowala.netlify.app
-depopinfo.com
 dequest.live
 deribit-markets.com
 desk-xumm.app
@@ -572,6 +570,7 @@ dropshunter.expert
 ducky.forevers-dapp.com
 dymension-claim.netlify.app
 e-menaxher.com
+e587-fa8e-5133-c0inbase-list.pages.dev
 e61671be-0e0e-45e4-9578-3904f8fcbc2c.resolv.icu
 eaeil.top
 earn-nibiru.pages.dev
@@ -599,7 +598,6 @@ ensclaims.xyz
 enter-purpe.com
 enter-skyecosystem.lat
 equaton-trades.one
-erccomplianceadvisor.help
 eth-bridge.com
 eth-depa.com
 eth-pepe.xyz
@@ -649,6 +647,7 @@ fegtoken-migration.xyz
 fetch-ai.link
 fgmtfu.cc
 finacne.us
+finance-skyeco.co
 finance.owlto.icu
 finteldapptechreward.pages.dev
 firelight.finance-governance.xyz
@@ -794,7 +793,6 @@ hyperlqiuid.xyz
 hypqeliqduic.icu
 i-claim55.vercel.app
 i.trustonepay.live
-ic3-gemini.com
 icnprotocol.info
 ido-octavia.online
 ikayen.xyz
@@ -917,7 +915,6 @@ luckiestmint4.vercel.app
 luckysolfuture.netlify.app
 luxboat.info
 lvvas.tw
-m.currencyexus.cc
 magamemetoken.org
 magiceben.top
 magpieyxz.io
@@ -975,11 +972,13 @@ metamask-docs-l8lvh00ol-consensys-ddffed67.vercel.app
 metamask-verify-1111baccaratcash.ph
 metamask-verify-winbet69.ph
 metamask-wallatc.gitbook.io
+metamaskexzxtension.gitbook.io
 metamaskk-home.wixstudio.com
 metamasklog.godaddysites.com
 metamaskofficial.xyz
 metamaskwallet.info
 metamaskwallets.pw
+metamskextension.yolasite.com
 meteorahub.ink
 metis-chain.com
 metis-claim-1zs.pages.dev
@@ -1337,7 +1336,6 @@ rewards-decentra.land
 rewards-flow.web.app
 rewards-illuvium.com
 rewards-pixelverse.com
-rewards-solstrategies.fun
 rewards-stonksfun.xyz
 rexasfi.org
 reyadao.xyz
@@ -1479,6 +1477,7 @@ submittheartoptimism.cc
 sumsub.report
 superexchanges.pages.dev
 suplizards.airdrop-whitelist.com
+sushiwsap.luxe
 swap-eth-route-chain-v4.cc
 swap.defiliama.net
 swapcowstrade.net
@@ -1579,7 +1578,6 @@ update-claimwormhole.app
 upgrade-chain.link
 uphold-logii.weebly.com
 upsyncdapp.pages.dev
-upvote-dexscreener.com
 us-exosdeusweb-io.pages.dev
 us40webzoom.us
 usdc.luxe
@@ -1638,6 +1636,7 @@ voting-fuelnetwork.app
 voting.ink
 votings-flarefdn.xyz
 vouxebit.com
+vralartilonal.blog
 vtm.overdezuki.fun
 vulcanforged-claim.com
 vvalletrys-an.xyz
@@ -1790,6 +1789,7 @@ www.wwwwww.whm.www.www.ftp.s.arbitrumchain.net
 www.xcn.tuom.hangkongcompressor.com
 www.zk-sync-protocol.online
 www.zokioverse.site
+wwwccoin-psm.com
 wwwmakerdao.com
 wwwold.claims-metis.io
 wwwswitchboard.foundation
@@ -1808,7 +1808,6 @@ xlm-epoch.com
 xn--artbocks-qnb.com
 xn--boredapeyachtcub-wyc.the-goda.io
 xn--claynosarz-jdb.com
-xn--meta-msk-4ya.com
 xn--moonot-go-jmb70d.xyz
 xn--zsync-o5a.com
 xplswap.net

@@ -34,9 +34,11 @@
 214-lists-okxvotes.pages.dev
 22-pons.pages.dev
 23-kinetiqgov.pages.dev
+24-governance-saturn.pages.dev
 28-venice.pages.dev
 29501-coinbase.com
 3-governance-kinetiq.pages.dev
+30-allocations-flarenetwork.pages.dev
 32-governance-priorstrade.pages.dev
 3276.pro
 34-jumpereco.pages.dev
@@ -44,6 +46,7 @@
 4-governance-venice.pages.dev
 42-governance-curvefinance.pages.dev
 46-proposal-prjx.pages.dev
+48-rewards-firelightfi.pages.dev
 500you.top
 505467coinbase.com
 52346-gemini.com
@@ -69,6 +72,7 @@
 88-arcusgovernance.pages.dev
 9-fables-votes.pages.dev
 928725-gemini.com
+973810-robinhood.com
 a-apestaks.tech
 aave-connect-dapp-layer-v1.vercel.app
 aave.app-web3.com.co
@@ -223,6 +227,7 @@ awards-taobot.co
 axgt.xyz
 axiom.ist
 aztopwebservis.ru
+b823-44b0-coinbase-listing.pages.dev
 babyflokibillionaire.icu
 babylonslab.com
 backeryiswap.com
@@ -268,7 +273,6 @@ bitcoinbcs.com
 bitforge.top
 bitget.parts
 bitgetnb.com
-bitrefill.com-gift-esim-ak04.com
 bitscoinsminetrix.site
 bittechsolutions.site
 bittrexind.cc
@@ -334,7 +338,6 @@ centricauth.pages.dev
 centrifuges.online
 cex-3m-shib-giveaway.connect-claimings.live
 cexkg.com
-cgg-allocation.com
 chainlink-airdrop.claim-requests-web3.network
 chainlinkjob.art
 changelly-en.org
@@ -356,7 +359,6 @@ christiesparis.com
 ciaims-etherfi.net
 circle-app-nine.vercel.app
 citydao.the-premint.xyz
-cjpcoin.lat
 ck9ux.cc
 claim-9hb.netlify.app
 claim-alienxchain.org
@@ -583,8 +585,6 @@ enter-firelight.icu
 enter-ordinai.net
 enter-soniciabs.co
 eos.ac
-ercbenefitclaims.help
-ercrevenuerefunds.help
 estafetaojo.top
 etainetwork-claim.pages.dev
 etcojterria.shop
@@ -633,7 +633,6 @@ fi-stakedao.com
 fiarenetwork.xyz
 fidenzaproject.art
 finance-aeordrome.com
-finance-aero.lat
 finance36-et21.sbs
 finance86-dolorem76.sbs
 finance93-ut8.pro
@@ -654,6 +653,7 @@ flarefoundations-token.xyz
 flarenetwork-proposals.asia
 flarenetwork-proposals.bond
 flashusdtservices.com
+floatlaunching.xyz
 flow-scalar-bridge-verify.com
 flresspkconnect.xyz
 fluf-burrows.world
@@ -734,7 +734,7 @@ hd-streamzapk.app
 hedgiesfoundation.com
 helpsolflare.com
 hepyrlandfenence.org
-heritage-ledger.com
+hk-binance.cn
 hmstr.top
 hob9r.pro
 hoiographs.com
@@ -742,12 +742,14 @@ hollatoken.icu
 home-suite-app-trezr.pages.dev
 home.katanain.xyz
 hop2l.xyz
+hopeaz.co
 hotstocks.com
 houdinistake.com
 htj.overdezuki.fun
 hundreds-market-ancient.on-fleek.app
 hylo-reallocations.xyz
 hyperfi.top
+hyperfnd.xyz
 hyperliquids-distros.com
 hyperstake.net
 ibitexchanges.com
@@ -796,6 +798,7 @@ join-ton.org
 join.keyboardcatdefi.network
 jomperexshang.org
 jtoclaim.site
+jup-ag.solroom.cc
 jupdrop.vip
 jupi-ag.web.app
 jupitercitizen.com
@@ -849,6 +852,7 @@ lcjr.cc
 lckimyneh.icu
 ldlc.lol
 ledger-dapplive.com
+ledgerlive.at
 ledgers-apps.com
 ledgr-get-ledgr.pages.dev
 ledgre-eng-desktop.pages.dev
@@ -883,7 +887,6 @@ logistrafic.com
 logn-teerzr-io-eng.pages.dev
 longbowlend.top
 lookisgames.com
-loopscalesdesign.info
 lootusd.cloud
 lootusdt.co
 losmuertos.whnfts.com
@@ -946,6 +949,7 @@ meta-life-freemint.com
 meta.webweb1-whatsapp.com
 metabonk.fun
 metaexmasklogin.webflow.io
+metamaask-waallet.gitbook.io
 metamask-docs-qbptvjyxz-consensys-ddffed67.vercel.app
 metamask-gq7.pages.dev
 metamask-helpdesk.com
@@ -965,8 +969,6 @@ mexcc.org
 meyreal.live
 mfa-expiration-notification-authservices2fa.us-ord-1.linodeobjects.com
 mfkr111.onrender.com
-miccrossoftt.com
-microsoftauthorize.com
 microsoltverifiy.online
 midive.vercel.app
 migrate-lukso.com
@@ -1035,7 +1037,6 @@ munchsable.net
 muradsoneth.com
 murakami-kaikaikii.com
 mutichain-2.pages.dev
-my-uphold-en.created.app
 myjuppicase.trade
 mylucky-mint840.vercel.app
 mymetamaskwallets.webflow.io
@@ -1235,6 +1236,7 @@ qakt3.app-odosi.xyz
 qaz.bnb6688.top
 qhozali-404.com
 qql-round.com
+quartz-binance.com.cn
 quest.ordnetworks.com
 quest.ordprotocol.trading
 quest.ordsfinance.network
@@ -1253,7 +1255,6 @@ rainbetcasino-gr.com
 rainbetcasino-pokies.com
 rainbetcasinoonline-es.pages.dev
 rapping-sunset-huge.on-fleek.app
-ratspeak.pro
 raydium.solhuger.com
 rbxt.tech
 reached-news.com
@@ -1340,6 +1341,7 @@ rugradio.web3-nft.cc
 runeclaim.xyz
 rwaperp.icu
 rwbrealio.com
+s2-base.com
 sa5qxy.cc
 safe-dapp.pages.dev
 safe-syncbridge.xyz
@@ -1405,7 +1407,6 @@ solana-reward.web.app
 solanaexplore.top
 solbounty.io
 solpot.de
-solsticefinance.lat
 solution-web.pages.dev
 solvara.today
 solzen-rent-wheel-stone.xyz
@@ -1556,7 +1557,6 @@ uniswap-protocol-interface-v7.com
 uniswap-rewards.com
 uniswap.express
 unstopable-domains.shop
-uphold-sign-in.created.app
 url8952.bqe.com
 us-appverif.com
 us-rabby-wallet.lat
@@ -1596,7 +1596,6 @@ verifyapello.xyz
 verifychainwallet.live
 virgo-earn.yeou.site
 virtualsprotocol-io.site
-vivaldimani.com
 vote-dfinity.net
 vote-flare.today
 vote-hydrex.info
@@ -1769,7 +1768,6 @@ x-claimops.pages.dev
 x-coini.top
 x-mailerc.info
 xclusivedesign.io
-xcnsushi.top
 xcryptoairdrops.com
 xeffy-checker.click
 xenoswap.com
@@ -1799,6 +1797,7 @@ zetaehain.nxs.homes
 zezta.pages.dev
 zipconnectconsolesolution.site
 zk-reward.com
+zk-sync.click
 zkarchivegummy.pages.dev
 zkfair-2pg.pages.dev
 zklabs.app

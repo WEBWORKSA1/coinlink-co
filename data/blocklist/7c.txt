@@ -81,6 +81,7 @@
 95gbkj.beer
 98-allocation-yieldfields.pages.dev
 99ditxions.com
+9d85-482c-coinbase-listing.pages.dev
 aave-9m4.pages.dev
 aave-arb.com
 aave-sonicslabs.com
@@ -210,7 +211,6 @@ apps-ait.xyz
 appuphold.weebly.com
 appzkfair.xyz
 aptosclaim.com
-arbitrage-ai.exchange
 arbitrum-curve.fi
 arbitrum-surveys.com
 arbitrum.proxpad.top
@@ -227,7 +227,6 @@ assets-aethir.com
 atlasproco.com
 atomic-refund.com
 audit-kraken.com
-auth-upheld-en.framer.ai
 auth0secure.com
 authconnect-dapp.netlify.app
 authnodewebs.on.fleek.co
@@ -294,6 +293,7 @@ blue-binance.com.cn
 bnb-pay.com
 bnb.blockchaindao.cloud
 bnbod.fjordfoundry.xyz
+bnverify.site
 bodge-of-honor.com
 bome-sol.com
 bonk-rarity.web.app
@@ -464,7 +464,6 @@ criptonopixapp.live
 crypto-41u.netlify.app
 crypto-ens.netlify.app
 crypto-xft.netlify.app
-cryptobetwin.click
 cryptodrainerscript.pages.dev
 crypweel.com
 cthefundtrad.com
@@ -565,10 +564,9 @@ en-alldappsupport.pages.dev
 en-coinbase-cdn-pro.dcms.site
 en-en-polymarket.com.chronoboost-en.com
 en-exiodos.wixstudio.com
+en-metmaskus-help.pages.dev
 en-speed.finance
 en-trezor.info
-en-uphold-log.created.app
-en-uphold.created.app
 eng-startladgar.readme.io
 enivex.cc
 enroll-gummyonsalana.app
@@ -609,6 +607,7 @@ exohubextension.live
 extension.soflare.org
 f.digger668.top
 fa2a0g.cc
+fables-proposal.icu
 familylink-oracle.com
 fanersai12.sbs
 fantomreward.net
@@ -703,7 +702,6 @@ gov-grove.xyz
 gov-vstrk.org-p.run
 governance-flarenetwork.click
 governance-multiplifi.xyz
-grassget.xyz
 green-lab-75e.cf-pfyk85vu.workers.dev
 grovefinance-governance.icu
 grvt.claimboard.io
@@ -761,7 +759,6 @@ imtoken-im.com
 imtoken-wallet.net
 infinityflowers.io
 infinsaleads.com
-interface-initia.xyz
 interlay.pages.dev
 invite-puffer.com
 io-airdrops.net
@@ -914,6 +911,7 @@ matricaid.xyz
 maximgul4a.pages.dev
 mcmixt.xyz
 media.app.eserciziomging.login.secure.amlsecure.org
+meet-mewbinar.icu
 mega-punks.xyz
 megadrops-bouncebit.pages.dev
 megaerh.com
@@ -1064,6 +1062,7 @@ ohio-precision-drone.com
 ok123ok.com
 okx.house
 olympia-au.com
+omni-variational.io-in-q01-omni.com
 oneteam2-gmail.com
 onigiricatcoin.app
 only-test6156530.pages.dev
@@ -1085,6 +1084,7 @@ ordinalswebwallet.com
 otcdesks-cash.app
 othersidemeta.win
 overlord-freemints.silies.xyz
+p-coinlist.luxe
 p5us8tld9rx127j.rent
 paalai360.online
 page-up-huld-io-cdn.created.app
@@ -1118,7 +1118,6 @@ pepenft.live
 pepetoken-airdrop.com
 pepetokens.tech
 pepeunchainned.github.io
-peptai-rewards.xyz
 petro-sales.com
 pg-group.nft-premint.com
 phantom-7n4.pages.dev
@@ -1172,7 +1171,6 @@ privateadapter-space.xyz
 privnotc.com
 processingpaws.live
 promotion-ether.fi
-proofledger.co.uk
 proofthatiammuchsmarterthanshelle.pages.dev
 proposal-inkonchain.live
 proposal-opengdp.com
@@ -1215,6 +1213,7 @@ r4zpoqh3kwtxm5tew7p3qazqfbqphzwrczigblj5zzql7477zngq.arweave.net
 rabbityield.xyz
 rabby-hub.com
 rage-trade.pages.dev
+rain-betcasino-com.pages.dev
 rainbet-scam.com
 rainbet.dk
 rainbetcasino-ro.ro
@@ -1323,7 +1322,6 @@ secure-etoro.org
 secure-help-google.com
 secure-login.live
 secure.3lineactive.com
-securechain-dapps.vercel.app
 security-services-notification-authentication.work
 seedify.web3-io.cfd
 seekerevent.lol
@@ -1426,6 +1424,7 @@ strikedesktopapp.me
 strkclaim.com
 sui.family
 suilend-network.info
+suite-en.tech
 sun-io.app
 sunpump.love
 sunsocfrblvnlon-online.top
@@ -1455,6 +1454,7 @@ tea.drop-hub.xyz
 teamcrosstimbers.com
 tebo3.world
 techpoint-view.pages.dev
+tell-okx.com.cn
 telradevax.com
 ten-air-drop.web.app
 tengoku-nft.com
@@ -1520,7 +1520,6 @@ triasone-convert.com
 trmlabs.contact
 tron-cryptowallet.com
 tron-swaper-v32.vercel.app
-tronlin.co.com
 trtkutw.top
 truebsc.org
 trust-usdt.website
@@ -1531,7 +1530,6 @@ trust-wallet.to
 trust-walletai.com
 trustpad-gn.com
 trustpade-prq.com
-trustwallet.partners
 trustwalletexpresscoin.com
 trustwalletindia.vercel.app
 trustwallett.co
@@ -1582,7 +1580,6 @@ verasitytech.co
 verification-claude-cdn.beer
 verification-pandora.com
 verification-zypto.com
-verified-jupiter.xyz
 verify.renzoprotocol.one
 verifyacc11650603.cc
 vex.evmcheck-n9.lol
@@ -1596,7 +1593,6 @@ voniuz2.top
 vote-bracketfi.net
 vote-mantanetwork.com
 vote-ondoperps.xyz
-vote-plasma.eu.com
 vote.kelpnetwork.app
 vote.kinetiqgov.xyz
 vote.moonshotts.app
@@ -1809,6 +1805,7 @@ zerionapps.framer.website
 zero0lay.com
 zeroxmantle.onrender.com
 zetians.fun
+zh-okx.net.cn
 zipnodeguardprotocol.web.app
 zircuit.org-r.pro
 zircuitads.xyz

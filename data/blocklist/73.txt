@@ -38,6 +38,7 @@
 28735-google.com
 31-proposal-papertrade.pages.dev
 326345234.bond
+342e-fa8e-5133-c0inbase-list.pages.dev
 37829351-coinbase.com
 392831-crypto.com
 3hcs38-8080.csb.app
@@ -60,6 +61,7 @@
 662653652356756556profile-update-unitedairlines.pages.dev
 67-arcusgovernance.pages.dev
 6798886099.pages.dev
+7-governance-paperstrategy.pages.dev
 719334crypto.com
 72-proposal-prjx.pages.dev
 735092-crypto.com
@@ -186,6 +188,7 @@ app.zerion.com.co
 app11.direct-sale.icu
 appfix.netlify.app
 applefreeairdropclaim.com
+appmetricxyz-points.top
 apps-dodoex.net
 appsbitbyscdn.wixstudio.com
 appsdex.site
@@ -209,6 +212,7 @@ assets-rocketpool.net
 assets-venus.xyz
 asterdex-reallocations.icu
 atlanticapes.live
+atlasportocol.luxe
 aus-rainbets.com
 auth-ledgr-wlt.pages.dev
 auth-vulcan.xyz
@@ -472,9 +476,10 @@ collect-worldlibertyfinance.com
 collectorccrypt.com
 com-024.com
 com-9w.com
+com-cd01-esim-gift.com
+com-d01-evm-aml.com
 com-data-net.pro
 com-find-devices.help
-com-start.page
 com-wailet-live.app
 comethena.ethenaofficial.com
 community-modenetworks.app
@@ -489,6 +494,7 @@ connext-network.com
 connext.web3-sign.com
 convexfinanse.com
 copdegeni.com
+coreumvault.info
 cornerfinance.org
 cowswaps.app
 creditors-ftxdigital.com
@@ -503,6 +509,7 @@ cryptoaid.tech
 cryptoaml.cc
 cryptoiinso.com
 cryptopixfi.com
+cuinbaseprologin.gitbook.io
 cuitinc.com
 cumberlandcountycontradance.org
 cupseyshop.xyz
@@ -674,7 +681,6 @@ exfraction.com
 explore-ocean.org
 explorer-manitle.xyz
 extensions-laceapps.framer.ai
-ez-cash.pics
 f1ap.cc
 f2la0w6n4o06yu.xyz
 fairgocasinos.com
@@ -737,7 +743,6 @@ galxe.frmint-nft.com
 galxes.support
 gameagent.fun
 gameagent.io
-gamesushi.top
 gameswift.finance
 gas-trustwallet-fees3.pages.dev
 geeminicoin.com
@@ -819,7 +824,6 @@ illuvuim.net
 imap.spayapim.unique.manld.hostmaster.home.vertex.joinweb-3.com
 immutablekongz.org
 inance.xyz
-incy-panel-v2.fun
 indoex.ru
 infuralabs.com
 injconnect.org
@@ -833,6 +837,7 @@ intro-web3-exodas.wixstudio.com
 invite-manta.com
 io-en.biz.id
 io-enn-help-trezor.gitbook.io
+io-in-o01-omni.com
 iocointracker.info
 isrka.world
 itnerface.luxe
@@ -870,10 +875,12 @@ kingdomstarter.net
 kintsu.app-whitelist.com
 kjxxdr.cc
 kms-tools.com
+kra-ken-logn-auth.pages.dev
 krakenloginus.wixstudio.com
 krkencom.wixstudio.com
 kroll-ftxltd.com
 kroma.click
+kucoin006.com
 kyc-hourglass.com
 kyc-rise.works
 labs-optimisim.com
@@ -1043,6 +1050,7 @@ morse-mitosis.lol
 motosportvirgo.com
 mrmiggles.live
 mtaasloginorblockhainwalletapp1.godaddysites.com
+muddy-mud-7c3a.wsf4e.workers.dev
 multi-intelligiblesmartverse.pro
 multichain-tokenguideclwxsawe.com
 multichaindappconnect.net
@@ -1057,6 +1065,7 @@ mute-io.events
 mvp-eigen.com
 mx-betmexico.com
 mxtamvskwallvtte.godaddysites.com
+my-coin-base-logn.pages.dev
 mymask.io
 mystery-claim68.vercel.app
 mysterybox7711.vercel.app
@@ -1148,7 +1157,6 @@ pandosshi.xyz
 parailelai.xyz
 paraswap.gift
 pawecoswap.tech
-pay-bitrefill.com-ag01-esim-gift.com
 paycraftk.top
 paymentreceive-wallet.cfd
 pcs-cakedefi.online
@@ -1277,7 +1285,6 @@ raydium.chainresets.com
 rayls.live
 rbcbank.cc
 rby-iwyhd.brando111.workers.dev
-rdi500.top
 rdqkk9.top
 rebbyappsdigital.wixstudio.com
 recaudosgashogar.online
@@ -1317,7 +1324,6 @@ reward-wallstreetpepe.com
 reward.aqareuz.xyz
 rewarded-pepu.app
 rewarding-frax.xyz
-rewards-arcium.fun
 rewards-avaibles.netlify.app
 rewards-beefyfi.trading
 rewards-chaingpt.com
@@ -1354,6 +1360,7 @@ safewallet.ltd
 saga-drop.network
 saharalabs.web.app
 salute-origindefi.io
+sandbox-kraken.mozrt.io
 sanko.quest
 scottyai.pro
 scroll-rewards.lol
@@ -1424,6 +1431,7 @@ spankdotfinance.xyz
 specialpage-layer3.com
 spot.air-swap.xyz
 spring-virtuals.xyz
+spser.top
 spssecurityltd.co.ke
 squishiverse-freemint.xyz
 sr-symbiotic.pages.dev
@@ -1433,6 +1441,7 @@ ssi.sosovalues.top
 sso-kraken-logn.wixstudio.com
 stackfixactivation.xyz
 stackoin1.coin.nc
+stadelrabs.luxe
 stake-altlayer.pro
 stake-bonus-claim.net
 stake-bonuss.com
@@ -1533,7 +1542,6 @@ tre-zor-suite-us.pages.dev
 treasure-solvprotocol.xyz
 treasury-puffer.com
 treasury-realio.io
-treasury-yieldbasis.com
 tree.dappgate.xyz
 trezor--app-bridge.pages.dev
 trezor-help-io-bridgee.pages.dev

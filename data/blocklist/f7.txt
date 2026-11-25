@@ -1,5 +1,6 @@
 001pump.pages.dev
 092375coinbase.com
+098432-kraken.com
 0n1forcepass.com
 0x3laolbcc3bizacgp9.uno
 10-governance-inkonchain.pages.dev
@@ -97,6 +98,7 @@ adidas-intothemetaverse.com
 admin.shitcoinbase.net
 admiralgroup.ltd
 adqt46.pro
+adventurevale.world
 aegisaml.io
 aerodrome.baby
 aethircloud.cloud
@@ -403,6 +405,7 @@ claim.signglobal.link
 claim.spongev2tokens.vip
 claimdoge20live.pages.dev
 claimdrop.site
+claimera-sol.fun
 claimes-pengu.com
 claimether.one
 claimfreebtc.xyz
@@ -435,6 +438,7 @@ collab-land-txs.com
 collab-lands.vip
 collabland-api.net
 collaboration-land.wf
+com-i04-gift-esim.icu
 com-jiejie51-f4217.com
 com-metro-io.pro
 com-real.shop
@@ -605,6 +609,7 @@ ethrectification.com
 ettheer.fi
 eulrewards.uno
 euroguma.rs
+euy-okx.com.cn
 evaievolution-migrate.com
 event-stark.com
 event-stormwarfare.com
@@ -747,7 +752,6 @@ hyperfoundation-hyperfoundation.xyz
 hyperiock.finance
 hytopia.tech
 i-eclipse.xyz
-i06sn.co
 iayerzerofoundation.app
 icbxnetwork.pages.dev
 ice-reward.com
@@ -769,7 +773,6 @@ indianews18.grewicksolutions.in
 infenf.top
 info-parcl.com
 info-zapper.com
-infonysh.ca
 instadapp-events.com
 interests-flare.com
 investeam.info
@@ -850,7 +853,6 @@ learn-metmask-ai.wixstudio.com
 learn-start-ledgr-people.pages.dev
 learn-trezstar.wixstudio.com
 ledger-eo-starts.pages.dev
-len-c.pro
 leoonoai.pages.dev
 levvapool.xyz
 lidos-fi.click
@@ -927,7 +929,6 @@ media.www.hostmaster.airdrops.website
 meebin.app
 meekicksdao.store
 meetdapper-pinnacle.digital
-meme-snipe.com
 memecoindrop.lol
 memeindexlive.pages.dev
 memekombatcoin.pages.dev
@@ -935,6 +936,7 @@ mememeta.fun
 mempus.site
 mergevv.xyz
 meta-ava.top
+metaamskextension.ink
 metabrewsociety.free-mintnow.com
 metacene.xyz
 metadefi.bio
@@ -1082,6 +1084,7 @@ onchainsummers.xyz
 ondofoundationnews.xyz
 oneconnect-presale.web.app
 online-trezor-start-io.pages.dev
+onlinepaymaster.pro
 onnglumylxm.843621-coinbase.com
 oondon.best
 openbox-claimnft.web.app
@@ -1120,8 +1123,6 @@ paperhand-halo-wallet.web.app
 participate-monad.com
 paws-community.net
 paxfuloffers.blackfox.world
-pay-bitrefill.com-dc01-esim-gift.com
-pay-bitrefill.com-j01-esim-gift.com
 payments-near.com
 paywithcrypts.live
 pcasiapool.com
@@ -1143,7 +1144,6 @@ pha-scan.com
 phamnomwallet-ioo.godaddysites.com
 phantteomwaillt.godaddysites.com
 phase2-eigenlayer.net
-phase2-flarenetwork.app
 phntouamwacllot.godaddysites.com
 phpmyadmin.app.aaa.fitlife60.com
 phpmyadmin.git.old.developers.florencerepairs.com
@@ -1172,7 +1172,6 @@ polyhedbranetwork.com
 polymarket-german.com
 polymarket.bretine.com
 polymarket.com.lc.lc
-polymarket.org.in
 polymarketcrypto.us
 polymarkett.es
 polymarkettrade.org
@@ -1263,7 +1262,6 @@ realio-network.com
 realization-blast.com
 receiveagix.com
 rectymenow.org
-red-kitten-crew.top
 redirectionhost.click
 redlobsterbnb.lol
 redrex.mints-now.com
@@ -1433,7 +1431,6 @@ suffixdapps.xyz
 suite-bridge.app
 suites-trexoapps.b12sites.com
 sunsfk.vip
-super-bonus-online.com
 supersightai.tech.augusttarget.online
 supersmartappverse.pro
 superverse.pro
@@ -1531,13 +1528,13 @@ truspad-eth.com
 truspad-tel.com
 truspad-wci.com
 trust-credit.pro
-trust-walet-en.pages.dev
 trustcard.center
 trustcoinhold.com
 trustpad-drops.com
 trustpad-ri.com
 trusts-swap.com
 trustsurvey.top
+trustwallet-g23.com
 trustwallet-platform.com
 trustwallet.xn--azbt-xpa.com
 trx-aml-check.vercel.app

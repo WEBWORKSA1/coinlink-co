@@ -36,9 +36,9 @@
 34-gov-concrete.pages.dev
 38-proposal-jumper.pages.dev
 382263coinbase.com
+3ddd-coinbase-listing-677f.pages.dev
 3eth.xyz
 428-curvefi.pages.dev
-470233-overviewgmail.com
 483299-coinspot.com
 4hoxg.cc
 500usd.top
@@ -124,7 +124,6 @@ airdrops-slothana.com
 akumainu.app
 albitrated.pages.dev
 alccoaching.org
-alchemix-rewards.xyz
 alf001.czxz.live
 aliocation-juicefinance.net
 allnoderestore.tech
@@ -218,7 +217,7 @@ asttarnetwork.top
 asxexchange.com
 atarichain.xyz
 audifree.duckdns.org
-auth-upheld-logn.created.app
+auth-revoke.online
 auth-wallletconnect.vercel.app
 auth-zetachain.com
 auth.intapps.xyz
@@ -247,6 +246,7 @@ banctokenbackend.pages.dev
 bankless-connect.online
 banksters.mint-free.page
 base-drop.org
+based-allocations.icu
 basedfoundation-vote.xyz
 basket-mathews.coinbase.pl
 bb5559.net
@@ -386,7 +386,6 @@ claim-fjh.netlify.app
 claim-fuse.io
 claim-greenbitcoins.pages.dev
 claim-hauntedspace.com
-claim-hype.lol
 claim-injective.com
 claim-lr.netlify.app
 claim-nodeops.xyz
@@ -478,7 +477,6 @@ community-flarenetworks.cfd
 community-spatial.com
 community-token.com
 community-zet.org
-communitysessionmint2.vercel.app
 compensation-metronome.cloud
 compoundlfinance.com
 compoundmeta.info
@@ -545,6 +543,7 @@ dappsradar.io
 dappsscantrustline.com
 dashboard-opensea-network.app
 dashboards-zapperfi.com
+datadepositbox.info
 dataspheretly.click
 ddaaeh.xyz
 de.fi-launchpad.io
@@ -613,7 +612,6 @@ drops-box.web.app
 dwinity.co
 dydx.event-drop.live
 dymensionflnance.com
-e-ledger.solutions
 e4bkmklakxaev64wsdhss4x567kx2voi6sotcujom5ikl62qcfga.arweave.net
 earlyadopter-argentspok.net
 earn-redirect.com
@@ -786,7 +784,6 @@ go-live-ledggr.framer.media
 goe-okx.com.cn
 gofundmeme-rectify.help
 goneuralsai.xyz
-gonexora.io
 goodmanid.com
 gov-vstrk.net-f.click
 governance-aerodrome.org
@@ -833,6 +830,7 @@ hyperliquid-airdropx.pages.dev
 hypermultichain.web.app
 hypest.club
 i.rocketspool.site
+identify1-ledger.live
 ifuel.network
 imaginaryones.nft-premint.com
 imagineandbuilds.xyz
@@ -870,7 +868,6 @@ join-rocketpool.org
 jonesyportal.pages.dev
 junglersnfft.xyz
 jup-verify.top
-jupitercores.xyz
 juppdrops.space
 justlend.pro
 kandylandclaim.com
@@ -1094,6 +1091,7 @@ multisyncconnect.netlify.app
 murshidllc.store
 mute-io.gift
 my-levelfinance.com
+myehterwallet.com
 mygeminiearn.com
 mysterybox669.vercel.app
 mysterybox84-two.vercel.app
@@ -1104,6 +1102,7 @@ mysterygifts18.vercel.app
 mythlcal-gamess.quest
 n.nasdaqbit.cc
 n7598j.beer
+nakatomi-research.com
 namadlos-5elementsnodess.lol
 namesbase.app
 naos-exit.com
@@ -1201,7 +1200,6 @@ partnerrewardpulse.com
 pass-mavia.com
 paufntommullate.godaddysites.com
 paxos-zendesk.com
-pay-bitrefill.com-t01-esim-gift.com
 pay.bunn.world
 pbrmigration.pages.dev
 pdfsam.fr
@@ -1218,6 +1216,7 @@ pepev2.io
 perk-liquid.com
 phamton.com-he2.asia
 phantomwalletdr.gitbook.io
+phantomwallett.blogspot.li
 phase1-keeta.com
 picashow.net.in
 piedge-taiko.com
@@ -1260,8 +1259,6 @@ portal-moonshot-t44.netlify.app
 portal.flr-foundation.icu
 portfolio-meta-mask.ru
 pouhox.com
-poymraket.com
-premium0peanseamint2.vercel.app
 presaie-bckrtoken.com
 presale-beastcoin.com
 presale-bull.com
@@ -1298,6 +1295,7 @@ qnwcn.pro
 qql-algorithm.com
 qrtn.jp
 quant-perk.org
+quantalpha.cc
 quest-wormhole.events
 quest.befislabs.finance
 quest.dopeprotocol.info
@@ -1310,6 +1308,7 @@ r42i.pro
 raca3.tapp.live
 radiant-frangollo-321e93.netlify.app
 rainbet-bonos-espana-com.pages.dev
+rainbetblackjack.ca
 rainbetcasino-dk.com
 rainbetplinko.ca
 rainbets.gr
@@ -1588,7 +1587,6 @@ thegraphs.xyz
 thekoinly.com
 thezonalteam.pages.dev
 thinkmarketsex.com
-thorchain-revoke.org
 thorchain.fi
 toadzevent.com
 token-verify.netlify.app

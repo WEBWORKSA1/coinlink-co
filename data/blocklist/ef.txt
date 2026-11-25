@@ -27,6 +27,7 @@
 23-proposal-jumper.pages.dev
 24-gov-papertrade.pages.dev
 2x2y2.cc
+3-allocations-flarenetwork.pages.dev
 31-governance-aero.pages.dev
 326462-coinbase.org.ph
 35-jumperhub.pages.dev
@@ -70,6 +71,7 @@
 9ayylmya7fisifa.mom
 9notexistsc8cb8a8-1669-4888-9584-d7052cf15662.acquency.com
 9v3hnur3t6vot6l.online
+a41c-fa8e-5133-c0inbase-list.pages.dev
 aave-protocol.org
 aavefi.click
 aavev3-defi.com
@@ -269,7 +271,7 @@ bitfiyer-34b5-36e53.bitfiyer-smzk.com
 biti-nauts.cfd
 biti-nauts.world
 bitisclubs.com
-bitrefill.com-e04-gift-esim.icu
+bitrefill.com-gift-cards-imx.com
 bitsexmark.com
 bitttensor.xyz
 blackdag.network
@@ -312,7 +314,6 @@ btwisepro.com
 bullamascot.fun
 bullx.diy
 bungee-token.xyz
-bungomagospelhome.org
 burnnkenny.com
 bxlabs.digital
 c4qjy.cc
@@ -325,7 +326,6 @@ cancel376-coinbase.firebaseapp.com
 canton-coin-lock.com
 capocoin.org
 card-spend.com
-careers-ibm.us
 casino-tujugada.com
 casinoomsen.com
 castlelabs.app
@@ -356,7 +356,6 @@ checker-eigeniayer.app
 checker-movement.site
 checker-whiterock.com
 checker.mantra-zome.top
-checkerfinance.com
 checkerflare.com
 checkmysrd.com
 checksraffle.com
@@ -383,7 +382,6 @@ claim-pumpbtc.net
 claim-puppyfun.app
 claim-redotpay.com
 claim-rivalz-airdrop.lol
-claim-rlusd.fun
 claim-send.ink
 claim-send.pics
 claim-stonkfun.app
@@ -465,7 +463,8 @@ collab.land-i.app
 collect-arcade.xyz
 com-3ayp64tc.cyou
 com-airdrop.claims
-com-mode.us
+com-e01-evm-aml.com
+com-gift-esim-ba04.com
 com-polybet-q107.com
 com-polybet-q35.com
 com-the-worlds-largest-prediction-market.world
@@ -533,7 +532,6 @@ darkflexs.com
 darkmachinegame.xyz
 dashboard-boredape.net
 dashboard-concrete.icu
-dashboard-jailed.xyz
 dashboard-stargate.finance
 dashboard.blcokdag.network
 dazzling-smakager-5a257f.netlify.app
@@ -593,7 +591,6 @@ dymension.events
 earn-swe1lnetwork.site
 earningi.life
 earthmate-presale.top
-echolocation.app
 ecwde.xyz
 egtoken-migrate-io.web.app
 egyrealtors.com
@@ -621,7 +618,6 @@ eng-trezor-help.pages.dev
 enroll.aerodromeaidefi.app
 ens-names.domains
 epic-chainswap.com
-ercassetsettleyieldhub.help
 erevlyn.ai
 etepro.network
 eternal-ai.net
@@ -663,6 +659,7 @@ faceplusodontologia.com.br
 familypons.pro
 farming-taiko.org-c.co
 ferroprotocol-info.com
+ffone.ink
 fightout.life
 finan-rewards.com
 finance-en-h.eu.cc
@@ -773,6 +770,7 @@ hashflow.world
 hawaii-opposed-installation-jeffrey.trycloudflare.com
 helalab.top
 helio-pay.shop
+helpid-kraken.com
 henlobase.xyz
 hey-mint.vip
 hfmtogel.com
@@ -785,6 +783,7 @@ htmlphp.pages.dev
 huajbchddh.vercel.app
 huerahe.cc
 hype-binance.com.cn
+hypefoundations.xyz
 hyper-swap.trade
 hyper.liquid-connect.xyz
 iaondco.com
@@ -796,7 +795,6 @@ ifxlq.com
 ijijikskwjwp.live
 illuvium-dex.com
 imtokan.co
-imtoken-verification.xyz
 inbetweenersofficial.xyz
 incentiv-testnet.xyz
 indiciesoptiontrades.org
@@ -898,7 +896,6 @@ log-auth-intos-server-portal.net
 login.community.fixedfloat.pw
 lognmetamsk.wixstudio.com
 logxairdrop.top
-lombard-finance.xyz
 long-scooter-gigantic.on-fleek.app
 looksrare-web3.com
 looprlng.org.web3-l2.app
@@ -1047,7 +1044,6 @@ multipad.online
 multiplier-galxepoints.com
 multiwalletsolution.pages.dev
 my-bitbuyappcdn.b12sites.com
-my-dydx.gr.com
 mycoinbase.ai
 myfreenft.netlify.app
 mykraken.exchange
@@ -1069,7 +1065,6 @@ ndxx.square.site
 neiro-1uv.pages.dev
 neiro-enroll.org
 neirocoineth.org
-net-uphold.created.app
 netnetcapital-dashboards.xyz
 network-stargatefi.com
 network.bool.supply
@@ -1113,7 +1108,6 @@ okkmgv.top
 okx-wallet.com
 okx-walletconnect.network
 ollamastudio.com
-ommi.variatonal.org
 omni-airdrop.network
 omnichain-network.pro
 on-beam.org
@@ -1222,7 +1216,6 @@ portal.lighter.host
 power-eternl.readme.io
 power-netmind-ai.pages.dev
 premint-yami-pfp.web.app
-premium0peanseamint3.vercel.app
 preorder.monkeykingdom.io
 presale-ye.us
 presale.paalsais.com
@@ -1325,6 +1318,7 @@ reward-rabby.com
 reward-xaman.pages.dev
 reward.buullzclub.lol
 rewards-aster.com
+rewards-dcty.lat
 rewards-metamask.app
 rewards-pacmoon.org
 rewards-polyhedra.pages.dev
@@ -1579,14 +1573,12 @@ turbotoad.quest
 twcard.asia
 tweet-layer3.com
 tweetcoin.art
-twt-wallet-app.live
 txworx.info
 tyuiop-1l5.pages.dev
 u41983774.ct.sendgrid.net
 ultimateapptech.pro
 unichain-iaunch.co
 uniswap-trading.web.app
-uniswap-web.com
 uniswap.org.ph
 univ4.xyz
 unnizwap.xyz
@@ -1596,11 +1588,11 @@ unstoppable-domains.top
 unstoppabledomains.dev
 unswapes.com
 uometamask.com
-uphald-logn-eng.created.app
 upholde-logiin.created.app
 us-changelly.com
 us-learn-start-ledgr-x.pages.dev
 us06webin.us
+us14web-zoom.us
 usdai-reward.com
 usdc-stablecoin.com
 usdces.com
@@ -1625,6 +1617,7 @@ variational.top
 vastconnect.net
 vault-moonwell.com
 vault-omnifdn.com
+vbnmqwerty852.top
 vctri.net
 velocimeter.org
 velodrome.flnance.web3-connect.pw
@@ -1641,7 +1634,6 @@ vgsmat.com
 videomilan.online
 view-rebbypage-cd.wixstudio.com
 viphashkeys.com
-virtuals.today
 virtualsprotocol.xyz
 vokecash.com
 vorld.world
@@ -1851,4 +1843,3 @@ zoomsetupdates.com
 zpexd6.pro
 zpr.io
 zrcdrop-claim.xyz
-zvnazskzgaidulhunfnrftntruystyqsamkgfzxdjegjpfnxoa.mokasl.riversidea.com

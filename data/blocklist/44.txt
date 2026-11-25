@@ -1,3 +1,4 @@
+037730.xyz
 0penseapro-clicks.vercel.app
 0x090000000.icu
 128409-kraken.com
@@ -11,6 +12,7 @@
 18-preview-trade.pages.dev
 182721-apple.com
 186-lists-moonshot.pages.dev
+18e4-fa8e-5133-c0inbase-list.pages.dev
 19-predeposit-papertrade.pages.dev
 19-vote-zama.pages.dev
 1fhf4803hf43h9g487.monster
@@ -18,6 +20,7 @@
 1inch.pm
 1inchfi.pro
 20-172-202-170.cpanel.site
+20-allocations-flarenetwork.pages.dev
 20-governance-askvenice.pages.dev
 20-preview-trade.pages.dev
 202422.africa
@@ -35,6 +38,7 @@
 30-hub-derive.pages.dev
 31-governance-netnetcap.pages.dev
 3124003124.com
+3340yahoo.com
 34-ponsfamily.pages.dev
 35-netnet.pages.dev
 37-saturncredit.pages.dev
@@ -42,6 +46,7 @@
 3k2d6bst1r4hra2.makeup
 4-ethenagovern.pages.dev
 4-vote-cashmereexchange.pages.dev
+403c-colnbase-listings-4f65.pages.dev
 42-orbiogov.pages.dev
 438-reallocate-flare.pages.dev
 44uirhr4utl76cc6452qgb4zu2wiuw3bmerewrpqg44ifaxgh37q.arweave.net
@@ -149,6 +154,7 @@ alien-base.net
 allnodes-fix.vercel.app
 allocate.pikesfinances.trade
 allocation-dop.com
+allocation-glider.sbs
 allocation-netrun.com
 allocation-prismassets.shop
 allocation.bakeryswapdao.com
@@ -180,6 +186,7 @@ app-hydrexvote.xyz
 app-hyperlend.finance
 app-io-metamsk.wixstudio.com
 app-login.evergreenfin.ltd
+app-mettmask--extensionn.gitbook.io
 app-termmax.pro
 app-thorchain.org
 app.1nch.is
@@ -278,12 +285,8 @@ birunoko.art
 bitbuogin.gitbook.io
 bitbuyappcdn.b12sites.com
 bitcoainmnetrix.site
-bitecoxe.com
 bitfrog2.com
 bitlayerbtcfi.pages.dev
-bitrefill.com-dh01-esim-gift.com
-bitrefill.com-gift-esim-aq04.com
-bitrefill.com-z01-esim-gift.com
 blackwhalesol.com
 blast1l.xyz
 blaster-token.pages.dev
@@ -463,6 +466,9 @@ collablands.co
 collabscalingstackfare.pages.dev
 colleb.land
 collect-arbitrum.com
+colnbase-listings-4f65-a6c3.pages.dev
+com-a47-gift-card.com
+com-in-p01-esim-gift.com
 com-p.icu
 com-room.top
 com-verification.com
@@ -566,7 +572,6 @@ diatheshandcraf.store
 digidaigaku.club
 digiminers1-free.xyz
 digitalinttrade.com
-digitalvaultresolve.live
 directs-x.com
 distribution-hyperliquid.info
 distributions-rekt.com
@@ -581,7 +586,6 @@ dogwifhat-claims.pages.dev
 dohpepen.com
 doodels.app
 dopplerfinance-genesis.digital
-double-zeros.stakingreward.cloud
 download.oncybers.app
 dr-shop-demo-5.pages.dev
 drake-partyy.com
@@ -612,6 +616,7 @@ ematish.top
 en-io-ledgr.pages.dev
 en-ledger-doc-70e.pages.dev
 en-trezor-login-us.pages.dev
+en-trustwallet.org
 eng-start-trzerio-web.pages.dev
 engage-zerolend.app
 enroll.aerodromeiocoinfi.com
@@ -620,7 +625,6 @@ enter-catizen.com
 ependles.xyz
 epicrush.one
 eransdrops.io
-ercadvisorclaims.help
 eth-crypto.cc
 eth-online.casino
 ethana-fi.com
@@ -780,7 +784,6 @@ hyperfoundationreward.xyz
 hyperlanefi.net
 hyperliqud.com
 ic92inc.icu
-icloud-cases.com
 iddexo.com
 illuvium-mintnow.com
 img.m.mail.ethshapella.com
@@ -869,6 +872,7 @@ ldg.co.com
 learn--bridge-trezor.pages.dev
 learn-metamask-login.wixstudio.com
 learn-usa-suites.square.site
+ledger-eng.org
 ledger-live-desktop-uss.pages.dev
 ledger-service.com
 ledgerwallet-io.pages.dev
@@ -1037,7 +1041,6 @@ mysteryboxs3m.vercel.app
 mysterytoclaim30.vercel.app
 myuionlinedettmadma.com
 nabla-fi.xyz
-nanguang.cyou
 nanoversehq.live
 nationalprivateinvestigators.org
 nativepunk.life
@@ -1130,12 +1133,10 @@ paperdao.app
 paperhanded-eth.web.app
 paperhanded-wallet.pages.dev
 papertrade-allocate.icu
-paraswap.trade
 passport-gitcoin.co
 paws-babydogecoin.xyz
 paxfiul.epizy.com
 paxful-peers.top
-pay-bitrefill.com-cd01-esim-gift.com
 pcsdf-mining.com
 pdv76lvtrvebgfrw7t2plvrtdjuuzuvddrxn57pwhsf4nump3unq.arweave.net
 peaspods.com
@@ -1170,6 +1171,7 @@ plots-launch.com
 pluto-sol.com
 polgrykasyn.ru
 polhedra.network
+polymarket-news.com
 pons-site.com
 pons-voting-xm.netlify.app
 poo.coins-net.online
@@ -1247,7 +1249,6 @@ rciay.link
 rcv.overdezuki.fun
 rczhl.demonmetale.xyz
 rebelsatosih.xyz
-reclaim-upmin.site
 recovery-humanity.org
 ref63231-crypto-app.com
 refund-bitgert.com
@@ -1333,6 +1334,7 @@ saksfifthavenueshop.top
 sal.overdezuki.fun
 sales-lifefitness.com
 sappyeden.xyz
+satamasanni.pro
 savingwallet.top
 sbet-sharplinkgaming.net
 sbiamaxx.xyz
@@ -1394,7 +1396,6 @@ solairdrops-jf.netlify.app
 solana-qg.netlify.app
 solana.tapp.live
 solanabazinga.com
-solanaseason4.xyz
 solaxydapp.live
 solboost.xyz
 soldp.cc
@@ -1616,6 +1617,7 @@ vote-pythonnetwork.com
 vote-solve.com
 vote-yuga.com
 vote.app-variational.xyz
+vote.blockaid.cyou
 vote.yearnsfi.support
 votes-balancer.net
 votes-hyperfnd.icu
@@ -1778,6 +1780,7 @@ www.yu-gi-ym.xyz
 x2y2.trade
 xaman.financial
 xdxreward.live
+xenolk.cc
 xficoin.com
 xn--connct-collabland-fub.com
 xn--didas-wqa.com

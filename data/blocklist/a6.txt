@@ -1,3 +1,4 @@
+0722gmail.com
 088eth.us
 0n1ordinals.com
 0n1verse.pro
@@ -43,6 +44,7 @@
 25-papertradehub.pages.dev
 27-governance-metric.pages.dev
 28-proposal-3jane.pages.dev
+284992coinbase.com
 2f2c8a4c.web3-kavva.pages.dev
 2solanamobileom.pages.dev
 3-allocations-abs.pages.dev
@@ -65,6 +67,7 @@
 40-tge-extended.pages.dev
 408-curvefi.pages.dev
 41-predeposit-papertrade.pages.dev
+42-rewards-firelightfi.pages.dev
 43-venice.pages.dev
 48-governance-hyperlend.pages.dev
 4zq4.pro
@@ -75,16 +78,20 @@
 54-proposal-argus.pages.dev
 57-proposal-saturncredit.pages.dev
 58-proposal-papertrade.pages.dev
+589152coinbase.com
+5ec1-482c-coinbase-listing.pages.dev
 5irechain.whitelist-airdrops.com
 64-app-treadgov.pages.dev
 6jitd.info
 7-proposal-ponsfamily.pages.dev
 73-proposal-ethos.pages.dev
+7584390.com
 78563bbbe0cb3-8265-4825-8d3e-7f3efb52fec7.dragonswaps.io
 79-hub-treadeco.pages.dev
 83453623474.christmas
 88-view-kinetiq.pages.dev
 894539.com
+8e6e-colnbase-listings-4f65.pages.dev
 8v-v.top
 921479-binance.com
 937434-crypto.com
@@ -103,7 +110,6 @@ accounttsolutionfixx.netlify.app
 acovy.top
 admin.cryptoworldwallet.ru
 admlralins.com
-adopter-alt.fun
 aero-finance.com
 aerodefi.click
 aethiir.nl
@@ -204,6 +210,7 @@ assets-mantle.xyz
 assets-memoria.com
 astr.coins-pad.tech
 asxmagicformula.com
+authorize13-ledger.live
 autoconfig.137-184-89-213.cprapid.com
 availairdrop.vercel.app
 avantarte.app
@@ -257,8 +264,7 @@ bitcolnminitrex.com
 bitflyer-htx.cn
 bitgetprize.hafsa.in
 bitpie.fans
-bitrefill.com-gift-esim-av04.com
-bitrefill.com-n01-esim-gift.com
+bitrefill.com-gift-cards-gala.com
 bittensor-ai-tao.vercel.app
 bitvavo-distribution.com
 bk88myy.com
@@ -308,10 +314,10 @@ btc0004.com
 bubblegooseballers.solana-mints.com
 bugvalidation.com
 buildahealthierlifestyle.com
-bullthemarket.lat
 burnback.cc
 byitffw.com
 c0mexc0in.com
+c604-fa8e-5133-c0inbase-list.pages.dev
 cakelottery.online
 campaign-gateway-relay.vercel.app
 cancellationflights.com
@@ -355,7 +361,6 @@ claim-eigenlayer.link
 claim-elgenlayer.xyz
 claim-elon-airdropcoin.pages.dev
 claim-gme.com
-claim-hype.top
 claim-js.netlify.app
 claim-kryptoseoul.com
 claim-leyerzero.io-gl.org
@@ -433,6 +438,7 @@ colon-coin.xyz
 com-meteora-apps.wixstudio.com
 com-recovery.id
 com-support.website
+com-t04-gift-esim.com
 community-kelpdao.app
 community-modulr.cloud
 communityproject.pages.dev
@@ -528,6 +534,7 @@ dicey.ketosistant.com
 difi-off.netlify.app
 dione-9h0.pages.dev
 dione-protocol-eight.vercel.app
+direct-google.com
 direct-whop.com
 discord.proguildguard.com
 distribute-xrpl.live
@@ -569,7 +576,6 @@ ellipalfirmwareupdate.live
 elontoday-net.pages.dev
 embercurvefun.click
 embriprorev.pages.dev
-en-dydxx-learn.wixstudio.com
 en-io-coin.square.site
 en-startsapp-ledge.wixstudio.com
 en.mvnbyarj.blast.cx
@@ -603,7 +609,6 @@ ethspin.lol
 ethstake.work
 etokenarbitrum.sodev.so
 etuktuk-io-web.pages.dev
-eu06.us
 event-lxp.site
 event-pinlink.cloud
 eventchecker-p8.netlify.app
@@ -612,12 +617,14 @@ everlabsting.pages.dev
 everstake.pages.dev
 evm.onchiainweb3.com
 exchange-a90.pages.dev
+exchange-portfolio.luxe
 exchange.windrop.space
 exnessprofx.online
 exodus-wallet-exten-sion.framer.ai
 exodus-wallet-web3-auth.webflow.io
 exodusproh.com
 exoduswallet-login-us.webflow.io
+exoxdus-web-doc.pages.dev
 exxonlimited01.pages.dev
 facuf.com
 faq-suiets-trzer.pages.dev
@@ -754,7 +761,6 @@ intract-app.pages.dev
 invisiblefriends.invite-mint.com
 io-deal-ff.icu
 io-lluvium.xyz
-io-moonpay-nav.wixstudio.com
 io-vault.bond
 iscans.digital
 itrust-walllet.pages.dev
@@ -1086,7 +1092,6 @@ panteracaptialtranscript.com
 paperhands-crypto.web.app
 parasail-network.vercel.app
 pavillionconstruction.com
-pay-bitrefill.com-z01-esim-gift.com
 paybiscom-loginn.pages.dev
 paymnt-heleket.com
 payout-flarefn.live
@@ -1118,7 +1123,6 @@ polybox-finance.xyz
 polygbridge.vercel.app
 polymarket-com.whitestake.cc
 polymarket.codes
-polypusd.us
 polyswap.pages.dev
 polytote.xyz
 poohco.in
@@ -1169,6 +1173,7 @@ pudgypenguins.app
 pufferfi-campaign.pages.dev
 pullschain.com
 pumfpun.run
+pump-fun-livestream.fun
 pump-voting-ix.netlify.app
 pump.fun-stream.live
 pumpfun.fun
@@ -1508,6 +1513,7 @@ trust.walletbrowser.online
 trust008.com
 trusticonbytes.org
 trustswallet.live
+trustwallet-app.blogspot.co.nz
 trustwalletadmin.web.app
 ttavfwnyjenuvmvwxqtmqyxxb8okvwyb78.in
 tufq.pro
@@ -1529,6 +1535,7 @@ us-exodus-web3-en.pages.dev
 us-startt-ledgr.pages.dev
 us05web.us.cc
 us87nxx.com
+usa-metaamaskwallete.gitbook.io
 usdcdropworld.live
 usdcpromos.org
 usdt-claim.netlify.app
@@ -1568,7 +1575,6 @@ vote-virtuais.com
 vote.kelptrading.net
 vote.moonshoots.net
 votes-aerodromefi.xyz
-votes-flarenetwork.com
 voting-arcium.app
 vstrkbp.com
 vyroso777.to
@@ -1607,7 +1613,6 @@ webmail.agori.xyz
 welcomelido.com
 wheniwas.online
 whirlprivacy.net
-whitelist-alt.fun
 whitelist-coincomms.com
 whitelist-uxlink.io
 whitelists-pyth.network

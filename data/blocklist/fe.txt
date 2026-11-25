@@ -46,6 +46,7 @@
 318530coinbase.com
 32-tge-extended.pages.dev
 33-proposal-prjx.pages.dev
+3425-cbc0-coinbase-listing.pages.dev
 37-argusworld.pages.dev
 37-vote-argusworld.pages.dev
 39-arguseco.pages.dev
@@ -56,6 +57,7 @@
 436443-icloud.com
 44-jumperhub.pages.dev
 4880.bluefin.pr.app.bluefin.foundation
+492357coinbase.com
 5-hub-marketsxyz.pages.dev
 5-proposal-argus-epf.pages.dev
 5-proposal-ponsfamily.pages.dev
@@ -273,7 +275,6 @@ bitcyan.com
 bitflow.fund
 bitgettech.info
 bitpapa.trading
-bitrefill.com-x01-esim-gift.com
 bitscrunch-org-airdrop-720s.onrender.com
 bivlvvgo.top
 blast-airdrop.life
@@ -301,10 +302,10 @@ boor.ai
 booster-3jane.xyz
 borebapppeyaclub.top
 boreddegods.com
-brainrotmeme.com
 brc20sign-up.com
 bridge.manthle.xyz
 bridgesuperposition.app
+broadcast-pump.fun
 bsw.claimscrypto.top
 btc-qr-code.ru
 btcdirectdesktop.com
@@ -351,6 +352,7 @@ checkexplore.one
 checksvv.org
 checkwalletami.com
 cheems.earntoken.fun
+chromessl-google.com.cn
 citygreeds.com
 ckez.pro
 claim-aipad.xyz
@@ -430,8 +432,11 @@ collab-lands.com
 collab.land-role-assignment.com
 collabland-sync-wallet.com
 collabland.in
+com-bi04-gift-esim.com
+com-cl01-esim-gift.com
 com-exchange-q-web3-chrome.exchange
 com-find-devices.app
+com-gift-esim-am04.com
 com-glow.beer
 com-ledger--start.pages.dev
 com-ocean.biz
@@ -508,6 +513,7 @@ descdavaterkeire.tk
 deskfimainnetor.org
 deskmigratecentral.com
 dex.saita.app
+dexiu.co
 dexswaper.top
 dextoois.com
 diavaz.cc
@@ -539,6 +545,7 @@ dutysyncdapp.pages.dev
 dymensions.app
 e-dexrectify.pages.dev
 e6cc5q.cn
+e9ac-fa8e-5133-c0inbase-list.pages.dev
 eaam.pro
 eacc.airdlrop.live
 earnidrop.io
@@ -598,7 +605,6 @@ ethereums.icu
 ethergas.in
 etherorcsnft.xyz
 etherrefund.net
-ethgpu.life
 ethpn.top
 ethre.fi
 ethreturn.xyz
@@ -660,7 +666,6 @@ flokainu.network
 flpbi.pro
 flpmyintrad.com
 flufstamp.com
-fluid-allocations.xyz
 fndn-ethena.com
 fomo-diamondhands.xyz
 fomo-family-hzp.netlify.app
@@ -741,6 +746,7 @@ gq26v.pro
 grambit.pro
 graphpresent.net
 grasfoundatlon.xyz
+grokie3.solroom.cc
 groksgod.com
 gtrades.xyz
 guardian-ovb6.vercel.app
@@ -756,7 +762,6 @@ hedgeupdata.pages.dev
 heizol24-gmbh.com
 heleket-transfer.com
 help-ledgerstartt-com.pages.dev
-help-review-checker-unlock-007310.xyz
 help-trzorwallet-io.typedream.app
 hex-com.events
 hexstakingstaking.com
@@ -804,7 +809,6 @@ inventory-ledger.pages.dev
 invitematic-bymairah.com
 io-dao.com
 io-galxe.com
-io-suite.info
 irisbyvirtuals.com
 ironchainbank.app
 irys-tge.com
@@ -944,6 +948,7 @@ metamask.com.yokkoy.com
 metamask.for-talent.com
 metamask.portfolio.sest.io
 metamasxylogu.gitbook.io
+metamsklogeb.gitbook.io
 metapad-pro.info
 metapepedrop.online
 metaskeloogin.webflow.io
@@ -1016,7 +1021,6 @@ mummy.gift
 mumoment.com
 murad-eth.app
 my-bnbchain.tech
-my-uphold-com.created.app
 myaterybox86k.vercel.app
 mycyberconnect.space
 mymoments.homes
@@ -1123,7 +1127,6 @@ passport-talentprotocol.xyz
 pauly-ladyboy.com
 paws-coins.org
 paxful.ke
-pay-bitrefill.com-gift-esim-ah04.com
 pell-revenue.xyz
 pencsvrep.com
 pendle-revokecash.co
@@ -1211,7 +1214,6 @@ pufferfoundation.org
 pufftthedragon.app
 pufverse.world
 pulsechainnetwork.ru
-pump-streamcast.fun
 pump.fun-token-blast.com
 pumpbitcoin.app
 pumpfundrop.click
@@ -1555,7 +1557,6 @@ upheavalfi.casa
 upholddesktop.net
 uriswap-v2.net
 us-kalshi.at
-us-sophoon.stakingreward.cloud
 us-standx.com
 us35webzoom.us
 us3lb6.top
@@ -1625,6 +1626,7 @@ warpverify.com
 wcoin.pages.dev
 web-app--dapps.online
 web-application.io
+web-changelly.st
 web-connectlc.cf
 web-connectty.cf
 web-tokenvalidation.netlify.app
@@ -1770,6 +1772,7 @@ www.web-proofofwork.com
 www.wwwxrqcg.claim-nobody.xyz
 www.xpronft.online.ultimatesector.icu
 www.zetachain.airdrops.cfd
+xarnan-allocation.com
 xbit-dex.com
 xcryptod.com
 xdropevents.com

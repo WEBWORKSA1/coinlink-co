@@ -25,6 +25,7 @@
 19-governance-kinetiq.pages.dev
 19-preview-trade.pages.dev
 19-proposal-computersrh.pages.dev
+1c30-fa8e-5133-c0inbase-list.pages.dev
 1inch-drop.homes
 1inch.web3fast.net
 1inchapp.com
@@ -37,6 +38,7 @@
 24-governance-hyperlend.pages.dev
 24-hyperlendx.pages.dev
 247ewalletfix.xyz
+26b3-coinbase-listing-677f.pages.dev
 27-governance-hyperlend.pages.dev
 28-governance-kinetiq.pages.dev
 3-proposal-fablesfi.pages.dev
@@ -66,6 +68,7 @@
 51-dashboard-concrete.pages.dev
 52.bnb-pool.top
 55-gliderfi.pages.dev
+56-rewards-firelightfi.pages.dev
 563-reallocate-flare.pages.dev
 5eth.top
 62.146.231.148
@@ -118,7 +121,6 @@ ai.stoneai.life
 aiboto.top
 aiiocation-solvprotocol.com
 aiiocation-zksync.com
-aiiqcoinsol.lol
 ailocate-velodromefi.com
 airdrop-ama.one
 airdrop-bondex.xyz
@@ -299,6 +301,7 @@ biast-thrusterfi.net
 biennvnido.com
 bigtime-ai.xyz
 billysol-mv4dhm.github.io
+binance--usdc-campaign.vercel.app
 binanceglobalgames.top
 bingx.lol
 bip39.dev
@@ -308,7 +311,6 @@ biterfz.at
 bitflyerjp.vip
 bitget.love
 bitnestme.onrender.com
-bitrefill.com-am01-esim-gift.com
 bitrefunds.com
 bitvolte.com
 bityfix.com
@@ -359,7 +361,6 @@ btcetfrtoken.com
 btcstrategy-gift.icu
 budfix.tech
 buft163.com
-build-uphold.created.app
 bulldogito-com.pages.dev
 bundler.pro
 bunnybunnynft.netlify.app
@@ -531,7 +532,9 @@ cryptopunks.wl-premints.xyz
 cryptosafeets.com
 cwhtor5.canadianwebhosting.com
 cyberhy.github.io
+cyberleak.io
 cybro-web3.pages.dev
+d161-coinbase-listing-677f.pages.dev
 d3fenders.site
 dabonk-home.online
 dahggs.xyz
@@ -559,6 +562,7 @@ darkbearsol.com
 dashboard-blur.claims
 dashboard-floki.claims
 dashboard.immutablex.app
+dashing-treacle-e2175e.netlify.app
 decentralia.world
 decentralize.metis.wb3u.xyz
 decentralizedprotocols.pages.dev
@@ -571,7 +575,6 @@ defisphere.xyz
 defiwalletconnect-cu7.pages.dev
 defldapprotocol.xyz
 degen-base.app
-degencoin.lat
 delysium.cc
 demo-787.pages.dev
 desknodes.com
@@ -596,7 +599,6 @@ distribute-woo.co
 distribution-mitosls.xyz
 distribution-pendlefinance.com
 distribution-wlfl.com
-dixian.io
 dlur.org
 dmail.mom
 dmcaverify-x.com
@@ -644,7 +646,6 @@ enter-ethermail.co
 enter-plume.com
 entryvaults.xyz
 erc20free.xyz
-ercassetrewards.help
 esxhwrz-tw.cfd
 etcprotocol.org
 eth-gas.xyz
@@ -678,7 +679,6 @@ evm-xa.netlify.app
 evy3h.pro
 exo-exoduswallet-login.webflow.io
 exodusprox.org
-extension-io-trustt.wixstudio.com
 extensionmetmaskcdn.wixstudio.com
 fairdrops.world
 fantom-sonicswap.in
@@ -934,6 +934,7 @@ lombarad.finance
 looksrare.zone
 lowfee-citadel.site
 luckypunx-nfts.xyz
+luke-coinbase.com
 lukso.free-airdrops.com
 lummafi.com
 lumooz.org
@@ -954,6 +955,7 @@ mainnet-monad.xyz
 mainnet.sctoshivms.com
 mainnetaccess.netlify.app
 majortrending.site
+manage-tangem.com
 maneki-claimrewards.pages.dev
 manta-v1.network
 mantanetwork-festival.com
@@ -1283,6 +1285,7 @@ pudgypenguinse.pages.dev
 pulsedogecoins.com
 pump-funs.solstreaminglive.xyz
 pump-voting-my.netlify.app
+pump.fun-home.at
 pumpcade.xyz
 pumpraiderr.xyz
 pumpslive.sollab.cc
@@ -1297,7 +1300,6 @@ quest.finesturtle.com
 qufe.pro
 quick-swap.fun
 quickswap-exchange.claims
-quickswap-rewards.xyz
 quiet-tooth-4686.on.fleek.co
 qyz2puq.tinaninternational.com
 rabby-eligibility.com
@@ -1461,7 +1463,6 @@ solar-dawn-876.richard-gomez79.workers.dev
 solfatha.com
 solfre.xyz
 solixtrek.net
-sollayers.xyz
 soluautomaticconect.com
 solx-airdrop.io
 somnia.io-drops.com
@@ -1642,7 +1643,6 @@ unitracker.onweb3.network
 unlock-your-profile-process.cfd
 unstoppabledomains.app
 updated-gold-rho.vercel.app
-uriswap.exchanges.us.org
 url-vulcan.xyz
 usd.sitemw9du0u484vk.xyz
 usdt-bep20.online
@@ -1717,6 +1717,7 @@ walletapp.org
 walletapplink.xyz
 walletconnect-0rid9.grsrc.com
 walletconnect.dapp9.com
+walletconnect.wallet-veriffy.com
 walletconnectxv.cf
 walletsconnection.com
 walletsmartsearch.com
@@ -1751,6 +1752,7 @@ whitelist-pengu.com
 whitelist-scroll.com
 why-sushi.cc
 wilderprotocol.com
+winter-summit-secure-user-6231-e13b.pages.dev
 withdrawalpages.netlify.app
 wndows.online
 wolfsolar.netlify.app
@@ -1877,7 +1879,6 @@ www.zealy.io.r1-web3.top
 x-dmcanotices.com
 x-presale.app
 x-sales.live
-x-streamconnect.com
 x2y2.io.ethers.bid
 xcgm832hjj1bqkv.christmas
 xn--12cf0eraln0cd1a0b.com

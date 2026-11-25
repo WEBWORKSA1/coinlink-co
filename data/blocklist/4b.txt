@@ -46,7 +46,6 @@
 54-proposal-ethos.pages.dev
 561-reallocate-flare.pages.dev
 573695google.com
-5894038-kraken.com
 593021-crypto.com
 5ireclaim.org
 5sdif0qc.r.us-west-1.awstrack.me
@@ -140,7 +139,6 @@ allowlist-ascendlaunch.live
 alphadrops.online
 alrdrops-hellium.com
 altlayercoin.com
-ambire.app-airdropalert.cam
 aml-bot.me
 aml-monitor.com
 amlchecker-new.xyz
@@ -174,6 +172,7 @@ app.ethactivity.net
 app.oogaabooga.top
 app.s-checker.cc
 app.sapien-coin.com
+app.variaitonal.co
 app.web3dev-inbox.live
 apphome-lacextension.wixstudio.com
 appicomarks.xyz
@@ -236,6 +235,7 @@ basedbrett.claims
 baset-interaction.vercel.app
 baseweb3wallet.com
 baycxilluviumnet.com
+bb5f-colnbase-listings-4f65.pages.dev
 bdexuk.org
 bdexwl.org
 beckerpresales.com
@@ -258,8 +258,6 @@ bitcetgex.com
 bitcoinminetrixtokens.live
 bitisepr.com
 bitopians.fun
-bitrefill.com-h01-esim-gift.com
-bitrefill.com-s04-gift-esim.com
 bitscunchs.xyz
 blast-allocate.xyz
 blastlist.xyz
@@ -332,6 +330,7 @@ check-optimism.app
 check.shuffllie.network
 checker-eigenfoundation.net
 checker-usualmoney.com
+checker-xzozo.com
 checking-aml.net
 chickplaybox.com
 chitansolana.com
@@ -382,6 +381,7 @@ claims-chaingpt.app
 claims-opensea.xyz
 claims-token.netlify.app
 claims-usepaid.xyz
+claims-xarnan.app
 claims-zoraco.pages.dev
 claimskombat.pages.dev
 claw.memepage.io
@@ -412,6 +412,7 @@ collab-land-secu.com
 collab-lands.lol
 collab.chains-land.com
 collab.validator-land.com
+com-o01-esim-gift.com
 com-signal-web.pro
 comedt.com
 community-ondo.app
@@ -547,7 +548,6 @@ eligible-morpho.biz
 elysnet.co
 en-coin-base-login.pages.dev
 en-exdus-w.pages.dev
-en-exodas-app.pages.dev
 enter-pudgypenguin.com
 enter-solsticefinance.com
 enter-swell.com
@@ -942,7 +942,6 @@ mnlthrtfkt-claim.com
 mnu5.cc
 mochicatcoin.me
 mogin.pages.dev
-mohimen.com
 monneypenny.net
 moonbirds-official.live
 moonshot-dex.net
@@ -994,7 +993,6 @@ neon-melomakarona-5b53de.netlify.app
 netcoens.framer.media
 netcoin.dream.space
 neuxsmutual.ink
-new-uphold.created.app
 nexte-amm.net
 nextepochmarket.org
 nft-damus.com
@@ -1075,6 +1073,7 @@ pancakefiance.org
 pancakeswap-en.com
 pankcseikeapp.org
 paperholder-networks.web.app
+papertradexyz.trade
 parcl.site
 paribus.trading
 partisiablockchain.top
@@ -1083,7 +1082,6 @@ patrioterc20-reward.org
 patriotsweb3blockchain.site
 pawscoin-claim.com
 paxosogt.com
-pay-bitrefill.com-aw04-gift-esim.com
 pdptg.top
 peapodstake.com
 peipe.app
@@ -1099,6 +1097,7 @@ pepe2.online
 pepecoingold.xyz
 pepecommunity.pro
 pepeinu-token.xyz
+peppeddex.luxe
 perk-ens.net
 pfyni0.cc
 pgoptionvip.com
@@ -1130,6 +1129,7 @@ ponsfamily.one
 poocoin-appf.info
 poolpmq.top
 pools-evm.airdrops-th.lol
+poolyymarket.com
 pooocoin.com
 popofrog-ai.pages.dev
 portal-coldcard.com
@@ -1183,6 +1183,7 @@ raffle.saworld.network
 rain-bet.com.pl
 rainbe.ca
 rainbet-casino-ie.com
+rainbet-casino-it.com
 rainbet-france-com.pages.dev
 rainbet-ro.com
 rainbet.dunesgolf.com
@@ -1262,7 +1263,6 @@ rognarexvazenes.pages.dev
 roninn-wallet.gitbook.io
 roostcoin.com
 routerprotocoi.app
-rpc-dapps-onchain.pages.dev
 rpcs-update.top
 rugmerfer.top
 rugpool.icu.digitalfundingtrade.net
@@ -1349,7 +1349,6 @@ spok-earlyadoptercollector.net
 spongv2.shop
 spx6900-drops.xyz
 squidsrouter.me
-sso--siuwalet.pages.dev
 stake-lido.sbs
 stake-portalgaming.app
 stake-stone.com
@@ -1497,7 +1496,6 @@ upholdappcdn.relumesite.ai
 uranuscoin.io
 urbeast.in
 us09-web-zoom.com
-us09web.com.es
 us7room.com
 usconevbaaseproloen.godaddysites.com
 usd-swap.xyz
@@ -1712,7 +1710,6 @@ x-openseamint6.vercel.app
 xamanxrpclaim.com
 xdavnode.pro
 xempire.world
-xitytvqfru5yauxhfecohlhnbjsdp3hyokgolmtars7d5s3oiusq.arweave.net
 xiyedne.cc
 xlmw007.xyz
 xmrstation.com

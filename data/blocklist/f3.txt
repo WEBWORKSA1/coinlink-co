@@ -37,11 +37,13 @@
 325-reallocate-flare.pages.dev
 326345830.boats
 33-vote-ponsfamily.pages.dev
+34-allocations-flarenetwork.pages.dev
 34-hub-treadeco.pages.dev
 347686-gemini.com
 35-view-kinetiq.pages.dev
 362850-crypto.com
 367-reallocate-flare.pages.dev
+37af-coinbase-listing-677f.pages.dev
 384734coinbase.com
 3exchange.lidonft.info
 4-governance-fraxfinance.pages.dev
@@ -229,6 +231,7 @@ ariaresort.casino
 army-ape.netlify.app
 arrk.digital
 atendimentonefroclinicas.info
+auth3-google.com
 authenticate-vulcan.xyz
 authorization-coinbase.com
 authweb3xv.tk
@@ -287,6 +290,7 @@ betfurytv.site
 betfurytv.top
 biaocoineth.com
 bigeyes-whitelist.com
+bigwinbeast.com
 billionair.website
 binance-airdrop-carv.pages.dev
 binance-ronaldo.pro
@@ -298,7 +302,7 @@ bitcoinhyper.info
 bitg-app.icu
 bitnmaker.com
 bitranklabs-aml.org
-bitrefill.com-v04-gift-esim.com
+bitrefill.com-search-q-bitrefill-oq-bi-gslcrp-egzjahjvbwuqbggbeeuyozigcaa.com
 blasstup.live
 blastdrop.website
 blastrswaps.net
@@ -439,6 +443,7 @@ coinbase.eu.cc
 coinbase.kred
 coinbasefree.com.ph
 coinbasellc-batonrougeaids-gtbank.ph
+coinbaseprologiinn.blogspot.my
 coinbasex.club
 coinbse.de
 coinlink-instantcrypto.com
@@ -458,9 +463,12 @@ collections-rtfkt.com
 collectionseyans.online
 collectorcrypt.site
 colorprotocol.net
+com-aq01-esim-gift.com
+com-ax04-gift-esim.com
 com-client257321.help
 com-sigma-web.pro
 compliance-info.net
+compliancecase-apple.com
 connect-0xfluid.xyz
 connect-assisterrai.com
 connect-degencoin.net
@@ -503,6 +511,7 @@ cryptoy.life
 crystaldash-portalgaming.net
 csmoney.com.mx
 cyberdins.net
+d676-colnbase-listings-4f65.pages.dev
 daddysuniversity.day
 dapp-4.pages.dev
 dapp.hashai.site
@@ -552,6 +561,7 @@ djdjjjjjjjjj.xyz
 dnsjumper.app
 doc-ledgr-download.pages.dev
 docs-trezorlogin.blogspot.co.ke
+docuview.site
 doexlikeweb.com
 dogcoinclaim.live
 dogecoin-claims.com
@@ -591,6 +601,7 @@ enroll.aerodromecoinai.com
 ensdomains.me
 ensnameservice.domains
 enter-frontiertrader.tech
+enterforever-allocation.pages.dev
 enterloafcat.pages.dev
 eolhfldvdtum.xyz
 epoch-curated.com
@@ -690,6 +701,7 @@ getocean.org
 getpepe.net
 ghozali-49z.pages.dev
 gigantixwallet.com
+gillavrguides.wiki
 git.git.git.git.git.git.finance.mqgiceden-lo.com
 git.git.git.git.win2.drivemiami.com
 git.git.git.static1.ttraderjoe.xyz
@@ -978,7 +990,6 @@ mistnft-migration.pages.dev
 mitiko.xyz
 mlgveteran.xyz
 moacverse.xyz
-mon-rewards.xyz
 mondayrewards.xyz
 moneycontrols.in
 montessorifomci.com
@@ -1029,7 +1040,6 @@ nakachainxyz.com
 nanohubs-0n1force.com
 nanoversehq.give-mint.com
 nav-dydxswapp.wixstudio.com
-nav-krrkan-io.wixstudio.com
 nav-kucoiinapp-us.hashnode.dev
 nbaxnft.market-minting.com
 neirofunctionrev.netlify.app
@@ -1058,6 +1068,7 @@ nodechain-chancer.pages.dev
 nodefixaccess.com
 nodepay.vip
 nodesaifoundation.org
+nookterminal.fun
 notrolldd.cfd
 nounspudgy.com
 now.mode-build.world
@@ -1070,7 +1081,6 @@ odjcrd.xyz
 oe1-okx.com.cn
 official-palygonstaking.com
 official.events-degenonbase.org
-okx-cn.at
 okx-gas.com
 okx-votings1212.pages.dev
 okxstatholdercommunitypoints-lkap2.netlify.app
@@ -1100,7 +1110,6 @@ optimism.trade
 orbitenfinance.com
 orbiternetworks.support
 ordinais.app
-orvantaglobalcapital.com
 oth-site.vercel.app
 otherside-freemint.art
 overbornednft.xyz
@@ -1130,7 +1139,6 @@ papered.cc
 paperhyper.com
 paribuakademi.com
 paws-community.top
-payments-aave.net
 pendle-ecosystem.app
 pendlefi.shop
 pentagon-games.live
@@ -1152,7 +1160,6 @@ piumenetwork.co
 pixelmap.fgnfts.xyz
 play.intraverse.lol
 plug-latchpay.com
-plumenetwork-allocation.xyz
 plutoalliance.web-minting.com
 plutusdao.news
 pnpere.top
@@ -1334,6 +1341,7 @@ shibarium-dao.pages.dev
 shibswap.shop
 shively-exchange.info
 sicherebezahlung.info
+signup-flopfinance.com
 signup-tmnteth.com
 signup.meritscircles.com
 signups-pyth.network
@@ -1521,7 +1529,6 @@ trumplive2026.org
 trumptoken-claim.pages.dev
 trust-card.asia
 trust-card.site
-trust-wallet-ex.framer.ai
 trust-wallet-podpora.vip
 trust1.top
 trustcard.business
@@ -1577,6 +1584,7 @@ vaadava7hl.com
 vangrid.firebaseapp.com
 vantardxyz.web.app
 vapeabadan.com
+variational-tge.xyz
 vdzonerc.com
 veefriends-freemint.live
 venom-airdrop.site
@@ -1597,6 +1605,7 @@ vote-embervalegame.com
 vote-id-nurzhrh.portallogonapp.cam
 vote-iensprotocol.com
 vote-lightcr.com
+vote-manta.pages.dev
 vote-maplefi.com
 vote-mix.click
 vote-npc.net
@@ -1615,7 +1624,6 @@ voting-redstone.net
 voting-sei.io
 voting-zigchain.com
 votingflarenetwork.xyz
-votings-flare.com
 vpunxrf00.urest.org
 vvatercoln.wtf
 vvtbwlfsllytpg.homes
@@ -1627,6 +1635,7 @@ wallet-rabby.pages.dev
 walletconnects-ehu.pages.dev
 wallstreetmemes.cloud
 wallstreetpepecoin.pages.dev
+wallt-ledger.at
 wangyix.com
 waronusd1-reward.com
 washingtonpost.pm

@@ -154,6 +154,7 @@ alpha-opensea.com
 alshayeagroup.com
 aminorewards.pics.airdrop-unibot.com
 aml-service-check.net
+anchorwallet.org
 angle.trading
 ankr-official.io
 annexdapp.online
@@ -223,7 +224,6 @@ atsnft.nft-premint.com
 au.stoneaii.club
 aurorahub.top
 ausdux.com
-auth-dappconnections.web.app
 auth-gemini.net
 auth-recovery.live
 auth-trezor.app
@@ -309,6 +309,7 @@ boredapeyyachtcclub.xyz
 bounce-savm.com
 bouncesblt-airdrop.com
 box-opensea-e4221.firebaseapp.com
+boxaclub.top
 boxseden.web.app
 bqayjy.cc
 bracecoin.top
@@ -329,6 +330,7 @@ bullpepes.net
 bulls-apes-project.xyz
 businessbanking.gr.com
 buys-imppts.online
+bybit.com.ag
 bywassies.xyz
 c-s-v2.casa
 cameroncress.com
@@ -453,6 +455,7 @@ collect-pacmoon.io
 collecteth.org
 com-199.phantom-virtual-tap.com
 com-alerta.help
+com-cg01-esim-gift.com
 com-chku.cfd
 com-connect-zone.pro
 com-gpt.vip
@@ -595,7 +598,6 @@ enlist-zetachain.com
 enroll-gnusai.net
 enthalpystats.site
 erc-assistance.net
-ercrefundplanning.help
 errorblockdag.network
 esmaeuropa.cc
 espresso.today
@@ -797,10 +799,10 @@ imaginaryones.today
 imetamask.com
 inbetweeners-blue.pages.dev
 incentives-symbiotic.app
-infinitiownerclub.com
 injclaimrev.vercel.app
 insidersxclusiveconnect.io
 integratedchain.000.pe
+integrity-uphold.com
 interests-morpho.icu
 invest-cabinet.online
 invite-cyber.com
@@ -876,6 +878,7 @@ libertyswap.pro
 lido-staking-eth.fi
 lido.cam
 lidofi-stake.app
+lidogo.cc
 liikami.com
 lineaachain.com
 liquity-org.news
@@ -907,7 +910,6 @@ mail.premints.app
 mainnet-blast.com
 mainnet-mantra.app
 mainnet-rayls.live
-malbeclabs.airdropsalert.us
 manta-network.pro
 mantatreasury.com
 margin-alphas.web.app
@@ -931,7 +933,6 @@ mememebotele.live
 memesgamestoken.com
 memeswillsavenfts.com
 memots.pro
-merkl-rewards.xyz
 merodrop.space
 messier-rewards.info
 meta-celebrate.ru
@@ -954,6 +955,7 @@ mettmaskloggx.webflow.io
 mgroao.com
 miccoin.com
 mickeyoneth.com
+micorosft.help
 migrate-alienform.com
 migrate-layerai.pages.dev
 migrate-mysoniclabftm.pages.dev
@@ -1002,7 +1004,6 @@ multicchaim.xyz
 multichain-rectifier.com
 multichain-tokenguideclantrer.com
 multichain-tools.pages.dev
-multichain.trade
 multichainsolutiions.web.app
 multiplier-velodromefi.app
 multiresolverchain.firebaseapp.com
@@ -1025,7 +1026,6 @@ mysterybox-mm.vercel.app
 mysteryboxes36.vercel.app
 mysteryclaim59a.vercel.app
 nanhuan1lcr.com
-nanovita-rewards.xyz
 nearar.pages.dev
 neirodrop.pages.dev
 neotokyocodes.net
@@ -1121,10 +1121,6 @@ participatinglenders.com
 pawfury.app
 pawsclaimdrop.com
 paxos-perk.org
-pay-bitrefill.com-au04-gift-esim.com
-pay-bitrefill.com-e04-gift-esim.icu
-pay-bitrefill.com-ed01-esim-gift.com
-pay-bitrefill.com-gift-esim-ad04.com
 paylocityapis.com
 payment-bba.pages.dev
 peachbitcoinapp.com
@@ -1188,6 +1184,7 @@ pub-bbab32165d8e467cbe85277ef8ab6320.r2.dev
 pudgy-penguins.tech
 pudgy.events
 puffer.farm
+pumpslivestreamz.fun
 purffer.fi
 pusgypenguin-nftclaim4.vercel.app
 pyfferfi.xyz
@@ -1229,7 +1226,6 @@ rec-dappresolve.netlify.app
 receive-arcium.app
 receivemakercoin.com
 receivequantcoin.com
-redline-x.info
 reef-sushi.top
 refund-holograph.com
 refund-opseccloud.app
@@ -1429,7 +1425,6 @@ stakovip.app
 stanelyworks.com
 stargate-fnance.xyz
 stargate1.pages.dev
-stargatefix.xyz
 starknet-network.com
 starknet-provisions.pages.dev
 starknet.io-eligibility.xyz
@@ -1552,7 +1547,6 @@ u0008.vip
 u5u4u45u45.pages.dev
 uaelegalfirm.com
 ubipagosonline.web.app
-ue06.us
 ufbdirect.dev
 uidmauaaonlliine.org
 ult6.com
@@ -1564,7 +1558,6 @@ unisw-ap.com
 uniswap-dapp-interface-connect-v16.vercel.app
 uniswap-pro.org
 uniswap-v2.vercel.app
-unitrans.cloud
 unlockmultisoultool.com
 unriswup.org
 unw6msuzvhliatqakm6a3aukvckvbmc3hm2hpwb3fsplfr3pyvja.arweave.net
@@ -1592,6 +1585,7 @@ venom-testnet.com
 verafinance.live
 vercei.app
 verifiedretikfinacea.pages.dev
+verify-to-join.site
 verify.nakamigosnft.com
 verifyassets-whop.com
 vetvc.top
@@ -1653,6 +1647,7 @@ web3.unlswep.cloud
 web3app.lol
 web3river10.vip
 webappwq.tk
+webfile-transfer.us
 webmanta.network
 webpepe.com
 websiteai.eu
@@ -1667,6 +1662,7 @@ whitelist-illuvium.io
 whmi2.cc
 why5186.rest
 wifballz.pages.dev
+winter-summit-secure-user-3e08-cf72.pages.dev
 wirexpaychain-rewordscollection.com
 wl-app-f0u.pages.dev
 wl-dyminsion.com
@@ -1781,6 +1777,7 @@ www.www.auth.projectswithpepper.com
 www.www.cpcalendars.flip5phone.store.spacex-2x.org
 www.www.secure.doodls.io
 www.xn--zuki-zna.com
+wwwccoin-pi.com
 wwwphpmyadmin.chatbot.jurassist.fig.app.analytics.winkdrop.net
 wwwwwwhostmaster.claims-metis.io
 x-reign.xyz
@@ -1796,6 +1793,7 @@ xn--dsneypnnacle-14bf.com
 xn--fixedfoat-wpb.com
 xn--moonshot-vte-ejb.xyz
 xn--ranbet-x1c.com
+xn--trzor-isa.com
 xn--vrtexprotocol-i0b.com
 xplecosystem.xyz
 xrp-rmtcore.com
@@ -1837,6 +1835,7 @@ zksync.org-p.pro
 zksync.weavely.in
 zksyncsera.app
 zoominfo-notice-center.com
+zoomwithvince.live
 zosanx.com
 zuku-nft.net
 zxsc2.duomi1.cn

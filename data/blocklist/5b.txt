@@ -1,6 +1,7 @@
 06webin.us
 0n1fallen.xyz
 0x11111.icu
+1-allocations-firelightfi.pages.dev
 1-checker-standx.pages.dev
 1-chess.cloud
 1-programmablemarket.pages.dev
@@ -16,7 +17,6 @@
 163-lists-moonshot.pages.dev
 167-stonkbroker-clutchmarkets.pages.dev
 18-pons.pages.dev
-18816-coinbase.com
 19-arcusgovernance.pages.dev
 190-lists-moonshot.pages.dev
 1inchh-info.top
@@ -54,6 +54,7 @@
 4u1inqt44u1inqt4.brew.innovationenergy.au
 5-paperdao.pages.dev
 529184-crypto.com
+5343-colnbase-listings-4f65.pages.dev
 53htx.top
 594782.com
 60-gliderfi.pages.dev
@@ -77,7 +78,6 @@ account-my.opensea.digitalyugg.com
 accountcentre-robinhood.com
 adekunle.pages.dev
 admin.consensys.vc
-aeon-proposai.xyz
 aerodrome-airdrop.me
 aerodrome-onchain.com
 aethircioud.com
@@ -196,7 +196,6 @@ asdasdasdasdasdasd.pages.dev
 asiandisappointments.com.silies.xyz
 asq1283.net
 assets-virtuals.com
-asteroidpass.xyz
 atlas-spend.com
 auction-zama.org
 auth-trezor.net
@@ -296,6 +295,7 @@ ceiestiafoundation.xyz
 celestiamint.top
 cellbridge.live
 celo-org.pages.dev
+celsiuscreditorsform.com
 chaiingpt.pro
 chain-linkfinance.org
 chainbacks.pages.dev
@@ -430,9 +430,12 @@ collab.dapps-land.com
 collabland.group
 collect-pudgypenguins.com
 com-17391.com
+com-a13-gift-card.icu
 com-auth-14973.icu
 com-b.sbs
+com-bb04-gift-esim.com
 com-excrange.sbs
+com-j04-gift-esim.icu
 com-polywalletconnect.cfd
 com-view.com
 communitvalid.click
@@ -599,8 +602,6 @@ enter-sanko.net
 enusapp-ledger.pages.dev
 era-zks.io
 eralend.io
-ercaccountsecure.help
-ercrefundstrategy.help
 etfpresaleclaim.pro
 eth-dappradar.com
 eth944.xyz
@@ -660,6 +661,7 @@ fca-fincaut.org
 feelinpain.online
 fegmigrate.site
 fet-sushi.com
+ffuniswapbloom.cyou
 fi-offer.com
 fil-sushi.top
 finabosu.com
@@ -749,6 +751,7 @@ governance-balancer.com
 governance-elixir.com
 governance-enterforever.click
 governance-fwafun.pages.dev
+governance-hyperlquid.xyz
 governance-virtuals.info
 governance-zestprotocol.xyz
 governances-ondo.finance
@@ -1080,6 +1083,7 @@ nodeops.click
 nodes-1g3.pages.dev
 nodes-chains-apps.pages.dev
 nodes.managenodesai.com
+norainbet-com-3ec55baace.pages.dev
 notadomain.click
 notamutantproject.com
 notcoingiveaway.space
@@ -1145,9 +1149,6 @@ paperhands.wf
 partbubs.com
 particle-network.site
 pawsairdrop.run
-pay-bitrefill.com-bo01-esim-gift.com
-pay-bitrefill.com-u04-gift-esim.com
-pay-bitrefill.com-w01-esim-gift.com
 payhiro.online
 paylivery.pro
 pcfixs.org
@@ -1162,7 +1163,6 @@ penscakeswep-linance.top
 pepeclaimcoin.com
 pepeonchain.com
 perlinx.q58ph2.icu
-phantextrr.info
 phantom--wallet---extension-firefox.webflow.io
 phantom.dappv2.cloud
 phantom.radio.fm
@@ -1174,6 +1174,7 @@ pjrx.fi
 planfareglobefint.pages.dev
 play-farcana.io
 plearnclub-claim.pages.dev
+pluggable-warden.xyz
 plumenetwork-web-app.vercel.app
 plumesnetworks.xyz
 pokarswaps.space
@@ -1216,6 +1217,7 @@ proposals-derive.com
 proposals-ethena.com
 proposals-nukes.fun
 proposals-pendlefin.xyz
+prospenda.com
 provision-starknet.com
 psyopcoineth.net
 pudgy-penguinz.xyz
@@ -1306,7 +1308,6 @@ rewards-3jane.app
 rewards-cerebro.network
 rewards-mellow.net
 rewards-mendifinance.com
-rewards-nanovita.xyz
 rewards-ondoperps.cfd
 rewards-poiymarket.app
 rewards.base-aerodrome.com
@@ -1414,7 +1415,6 @@ sq-ledger.online
 squid-app-vu5tp.ondigitalocean.app
 squidrouter.de
 srv1.coinbasegive.com
-ss-s.cc
 ssh.login.sitemap.gitlab.stg.analytics.doworq.com
 staemconnunity.net.ru
 stake-chaln.link
@@ -1548,6 +1548,7 @@ trumpsol.pages.dev
 trustcardpay.top
 trustclaim.app
 trustpud.com
+trustwallet-eng.org
 trustwallet-support.web6817.web07.bero-webspace.de
 trustwalletcard.services
 trustwalletcustomerservicephonenumber.blogspot.cl
@@ -1617,7 +1618,6 @@ visit-layerzero.network
 vos-services-medicaux.info
 vote-blastfoundation.com
 vote-harmonixfi.xyz
-vote-xrpl.com
 vote.aavelabsprotocol.app
 vote.bitstable.trading
 votes-pollsokx-202.pages.dev
@@ -1789,6 +1789,7 @@ www.vpnadm.bionicstudio.com
 www.walletconnect.online
 www.web3e.com
 www.webdisk.support.vpn.brldge-arbitrum.io
+www.wingcentral.net
 www.www-connext.network
 www.www-ice.com
 www.www.login.patientsurge.com
@@ -1799,7 +1800,6 @@ www.zealy-kyotoblockchain.com
 www.zkml.website
 wwwwwwt2023.arbitrumchain.net
 wyagyu.xyz
-x-platform.company
 x-woo.net
 x2y2.icu
 xamanwalletdesktop.app

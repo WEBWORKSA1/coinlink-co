@@ -1,4 +1,5 @@
 01web-zoom.us
+04ae-1e08-5133-c0inbase-list.pages.dev
 08h33mbut.top
 0x-protocol.pages.dev
 1-hub-zamaecosystem.pages.dev
@@ -7,13 +8,11 @@
 12-derives.pages.dev
 125-app-treadgov.pages.dev
 133-view-kinetiq.pages.dev
-1387-google.com
 14-fables-votes.pages.dev
 178888.cc
 18-governance-hyperunit.pages.dev
 19-ponsfamily.pages.dev
 190-governance-curvefinance.pages.dev
-1inch.vip
 1inchdrop.fun
 1monita.sa.com
 1ripple.info
@@ -37,6 +36,7 @@
 31-arcusgovernance.pages.dev
 3159212-swyftx.com
 321-reallocate-flare.pages.dev
+347a-fa8e-5133-c0inbase-list.pages.dev
 36-usenest.pages.dev
 36zfx4d.cc
 385920-crypto.com
@@ -80,7 +80,6 @@
 970fnl.fun
 97ee6.blogspot.si
 982467-crypto.com
-a-redirect.com
 aa5555.net
 aave-loan.cc
 aave.co.nz
@@ -158,6 +157,7 @@ allocation.eigenlayersio.com
 allocation.hyperliquidlabs.com
 allocation.oraprotocolnetworkai.app
 allocations-mantle.xyz
+allocations-ponsfamily.site
 allocations-walrus.com
 allocations-xaman.app
 alpha-pandora.com
@@ -170,6 +170,7 @@ analyzer.lol
 andycoinclaimapp.pages.dev
 andyonblast.app
 angelesboy.lol
+angelorganization.com
 ansemclaim.live
 aopandaparty.mintcollab.com
 ape-reunion.xyz
@@ -382,7 +383,6 @@ chiitanlove.mints-livenow.com
 chimpers-nfts.xyz.defiapes.xyz
 chrono-secure-livraison.info
 ciaims-carvprctocol.com
-cimintyro.com
 circle-nft.pw
 claim-aerodrome.io
 claim-aro.com
@@ -401,7 +401,6 @@ claim-memdex.com
 claim-onchainmonkey.com
 claim-parcl.com
 claim-pudgeypenguins.org
-claim-rlusd.vip
 claim-treasuredao.info
 claim-unitoken.cghnfm.edu.bd
 claim-wallstmemes.net
@@ -461,6 +460,8 @@ coinplay.pages.dev
 coinpushz.xyz
 coinsprobroker.com
 collect-availproject.org
+com-al01-esim-gift.com
+com-g04-gift-esim.icu
 com-polybet-q65.com
 com-stream.top
 com-support.care
@@ -477,6 +478,7 @@ connect-sui.net
 connect24.w1rnkoms.net
 connectexchangemarket.online
 connectshiba.org
+connectteams.it.com
 conqinu.pages.dev
 consensys-verification.com
 consensysxhsjs.com
@@ -609,7 +611,6 @@ earn-zircuit.com
 earning-eigeniayer.com
 earning-quotapro.pages.dev
 earnings-overview.pages.dev
-earnsback-pump.fun
 easnrdrop.net
 easy-dao.web.app
 easycryptocot.com
@@ -620,6 +621,7 @@ edgex-exchange.app
 eethlab.online
 egllinfcv.dev
 ehcuq.top
+eigencloudgigis.site
 eigenlayer.xyz.l2-app.cfd
 eiti31h.cc
 ekaretta.online
@@ -659,7 +661,6 @@ ethereum-user.com
 ethereum-web3.pages.dev
 ethereumfee.com
 ethereums.pro
-ethereumusd.net
 etherfi-94s.pages.dev
 ethersfi.digital
 ethertw.com
@@ -683,6 +684,7 @@ exaverify.com
 exo-ducwallet.wixstudio.com
 exodusloginh.webflow.io
 exoduswalleti.webflow.io
+ext-trust-apps.framer.website
 extmetamaskcdn.wixstudio.com
 ezunft.xyz
 fablesfi-portals.xyz
@@ -793,6 +795,7 @@ gov-flare.xyz
 governance-arcushub.xyz
 governance-etherfi.news
 governance-euler.com
+governance-firelightfi.sbs
 governance.votes-mitosis.org
 grandmaisters.net
 grok-launchpad.xyz
@@ -905,7 +908,9 @@ kbzit.pro
 kdcou.xyz
 kekius.pages.dev
 kelpdao.lat
+kfc-okx.com.cn
 kickex.pages.dev
+kinetiq.claims
 king-cat.network
 kingcoin.online
 kingdomly.art
@@ -930,7 +935,6 @@ layerzero-allocation.net
 layerzeroau.com
 layerzerobridge.quest
 layerzerocoin.space
-learn-trust-us.framer.ai
 ledgeerliv-sso.pages.dev
 ledger-com-apps.cc
 ledger-live-desktopp-cloud.pages.dev
@@ -1148,7 +1152,6 @@ opensea-gift-nft65.vercel.app
 opensea-mystery-nft065.vercel.app
 opensea-nftbox-orcin.vercel.app
 opensea-nftpro5-eight.vercel.app
-opensea.gr.com
 openseaclicknft.vercel.app
 opentradedexn.cc
 optimismexchange.com
@@ -1173,7 +1176,6 @@ pangolinswap-exchange.com
 paperdao.pages.dev
 papi.gift
 paramgaming.site
-partner-polymarket.com
 patriots-allocation.com
 paws-babydoge.xyz
 paws-coins.co
@@ -1240,7 +1242,6 @@ proposal-odos.com
 proposals-pendle.finance
 pstake-v3.luxe
 psyop.day
-pub-8a4cb0e098074fc0ab324c8fdf445c43.r2.dev
 pudefix.com
 pudgy.omninetworkfi.net
 pudgypengiun.net
@@ -1363,7 +1364,6 @@ rodi.co.id
 rollup-mw3y.vercel.app
 roobet-review.com
 roselove.cyou
-runvexplus.live
 rwa-curvedao.xyz
 s1-veda.tech
 sabet.nft-premint.com
@@ -1456,6 +1456,7 @@ sso--coinbasepro--ajna-pji--app.webflow.io
 ssomoonpaycdn.wixstudio.com
 ssvipcoin.com
 stack-veda.xyz
+stackli.dev
 stake-basenji.xyz
 stake-bobothebears.app
 stake-giveaway.online
@@ -1497,7 +1498,6 @@ sums-subs.lol
 sundogsmeme.com
 sunpump-drop.binence-wallet.com
 super-resolvee.pages.dev
-superbonusclick.com
 supernormal.winners-mint.com
 supremekongnfts.xyz
 swap-openocean.com
@@ -1580,9 +1580,9 @@ trustwallet.app-io.co
 trustwallet.extension-page.com
 trustwallethelp.pro
 trustwalletlogin.blogspot.it
+trustwalletpays.com
 truswallet.foundation
 trxfee-swap-protocol-v8.vercel.app
-tryzoom.xyz
 trzor-en-us-hardware-wallet.typedream.app
 tskmi.xyz
 turboswap-dex.com
@@ -1607,6 +1607,7 @@ update-zoomsmeet.us
 uponly.pro-multicoin.app
 upper-backnuche.online
 us05live.cloud
+us14zoom.us
 usdaiecosystem.fun
 usdc-winner.org
 usdcbridge.ink
@@ -1639,6 +1640,7 @@ visit--neotokyocodes.com
 visualize-check.art
 vote-blastl2.com
 vote-eigeniayerdao.net
+vote-montraxyz.pages.dev
 vote-rivalz.net
 vote-wasabifi.app
 vote-xamanwallet.com
@@ -1778,6 +1780,7 @@ www.nvidiainu.org
 www.official-tracer2-free.xyz
 www.openindex.site
 www.opensea.io.offer.aemco.cl
+www.padelitalia.it
 www.pepeunchaind.presale-live.com
 www.photon-tinyastro.io
 www.phpmyadmin.whm.mail.jadidpdf.com
@@ -1828,7 +1831,6 @@ xworldsdrop.com
 yearnfinance.vip
 yourgift.top
 z-cat.xyz
-zama-participate.xyz
 zama.web3-testnet.com
 zebec-xlm.tests-d.com
 zetas-chain.net
@@ -1844,6 +1846,5 @@ zk-sync.world
 zk.scrllzk.biz
 zkgrettyplumtek.pages.dev
 zombiesquad.vercel.app
-zoomfilesetup.com
 zorvantic.com
 zuodax.com

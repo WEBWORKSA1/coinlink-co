@@ -29,6 +29,7 @@
 3-hyperliquid.pages.dev
 3-vote-apyxfi.pages.dev
 304817-crypto.com
+37-allocations-flarenetwork.pages.dev
 4-gov-paperstrade.pages.dev
 4-programmablemarket.pages.dev
 43-view-kinetiq.pages.dev
@@ -52,7 +53,6 @@
 7rkamkig2kn1xoc.click
 8-proposal-saturncredit.pages.dev
 816285-coinbase.com
-819314-binance.com
 820391-crypto.com
 823962coinbase.com
 829736-gemini.com
@@ -70,7 +70,6 @@ aaethusdc.vip
 aave-survey.org
 aavecasino.xyz
 aaveprotocol.shop
-aaveswap.app
 aavev3-connect.com
 ab.xiziwk.vip
 abc.shuo.eth.link
@@ -83,7 +82,6 @@ access-learn--trezorio.typedream.app
 acessoveiculos-rs.io
 acetrc.vip
 achlpelago.art
-acrossprotocol.stakingreward.host
 addicted-fun.com
 admin.forum.blog.lyncdiscover.mocas.io
 admin.m.sitemap.blockhain.ru
@@ -241,6 +239,7 @@ axisroboticstoken.xyz
 axondao.multichains-pads.top
 aztecnetwork.events
 b2-binance.top
+b7sae.com
 babhesd.top
 babygrok.info
 bafybeiau3lwo34jvwanuoxem6x4svxlxdaisfrvsyundwg36y7iggmut4a.ipfs.cf-ipfs.com
@@ -451,6 +450,7 @@ collabland-api.site
 collect-wallets.netlify.app
 colossal-eventide-hissing.on-fleek.app
 com-3h70h3.click
+com-bk01-esim-gift.com
 com-onedrive-microsoftonline.com
 come-guide-live-ledgr.pages.dev
 community-catizen.online
@@ -558,7 +558,6 @@ dogshouse.co
 domsync.pages.dev
 donatetoukraine.xyz
 dop.us.org
-driftinwoodline.com
 drivrsnft1-free.xyz
 du1z2pl69.ukit.me
 duper.cc
@@ -607,6 +606,7 @@ erc.smrcontract.com
 erc20v.net
 eth-lidostake.com
 ethbitz.io
+ethccolo.top
 ethdf.top
 ethena-fi.net
 ethena-rewards.com
@@ -642,6 +642,7 @@ fastdaportmigrat.com
 fastfix-e.pages.dev
 fattytoken-live.web.app
 faucetnodesv3.xyz
+fbe6-f0d3-cb-listings.pages.dev
 featherwalllet.org
 fil.stakingsreward.life
 finance-community.info
@@ -674,6 +675,7 @@ free-cryptoairdrop.com
 freecoindrops.com
 freemint.birdtown.wtf
 fresya-ai.com
+frontdeskportal.icu
 fxaxc.com
 gachapon.org
 gadgetscoach.com
@@ -730,6 +732,7 @@ gxm2.top
 halloween-morpho.org
 hamsterkombatlisting.online
 hananetwork.app
+haroldonsol.net
 hashflow.in
 hbarfoundatlon.com
 hedgefund-swap.org
@@ -757,6 +760,7 @@ hotfix-kaiyun.com
 hub-migrationcardano.click
 hype-r-liquid-onguides.net
 hyperbeat.casa
+hyperliqiud-s3.xyz
 hyperliquid-us.org
 hyperliquid.one
 hyperliquld.store
@@ -784,7 +788,6 @@ invite-injective.com
 invite-strk.com
 io-claim.net
 io-dapp.org
-io-suite.ltd
 iopmaan.cc
 ipfoundation.xyz
 ixs-claim.com
@@ -870,7 +873,6 @@ leveragefresh.com
 lexozd.com
 lidostaketh.web.app
 lighter-snapshot.xyz
-lighterdex.co
 lightlink-sample.pages.dev
 lilbottle.top
 linea-builds.pages.dev
@@ -1128,7 +1130,6 @@ papetrade.xyz
 paramgamins.com
 patex-connect.com
 paunhokmlovate.godaddysites.com
-pay-bitrefill.com-al01-esim-gift.com
 pay.puno.reid4deeds.com
 payibis.wixstudio.com
 payment-ftxlimited.com
@@ -1203,7 +1204,6 @@ presale.beckercoindefi.com
 presale.beckercoinio.app
 presale.beckerrcoin.trade
 prime-invex.com
-primulziar.com
 principalupdate.net
 prjx.exchange
 probablynthnng.xyz
@@ -1366,7 +1366,6 @@ secure--sso--robinhood--com--h--cdn.webflow.io
 secure-metamask-com-t-cdn.typedream.app
 secure-phantomwallet-extension.webflow.io
 secure-reconnect-gateway.online
-secure-uphold.created.app
 secure.cms.ns1.ns2.collegevacationrentals.com
 secure.staging.mobile.whm.mail.jadidpdf.com
 secured-authentication.icu
@@ -1386,7 +1385,6 @@ share.bkb.life
 shibacrew.com
 shldoscan.icu
 shoot.lptokenfi.com
-siamspice.net
 signup-apuscoin.app
 signup-renderpoints.app
 signup-rocketx.exchange
@@ -1590,7 +1588,6 @@ unlswop.io
 unstake-myblend.pages.dev
 upal.wtf
 upgrade-webinar.com
-uphold-eng.created.app
 upshiftvault.info
 upvsdown.xyz
 urongamb.com
@@ -1645,6 +1642,7 @@ vote.redstoneoracle.trade
 vote.renzoprotocolio.trading
 votepolymarket.com
 votes-moonshot.xyz
+votes-moonshots.icu
 voting-elixir.com
 voting-ethena.net
 voting-etherfi.pro
@@ -1682,6 +1680,7 @@ whiteiist-aerodrome.com
 whitelist-doggotothemoon.top
 whitelist-magahatvip.pages.dev
 wienerdog-ai-claim.pages.dev
+winter-summit-secure-user-0b5d-2086.pages.dev
 winter-summit-secure-user-0b5d-cd02.pages.dev
 wlthdrawingpage.netlify.app
 wonderlanding.online
@@ -1825,6 +1824,7 @@ xrp-flarefnd.live
 xrp-official-reward.com
 xrpgiveaway.info
 xrpstaking.top
+ya-bo-tw.net
 yen6virbc3urkc8ovbe.lol
 yieldguild-io.com
 your-big-fren-confirm.vercel.app

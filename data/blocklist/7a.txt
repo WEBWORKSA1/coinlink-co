@@ -38,6 +38,8 @@
 291807-binance.com
 2tuijmp.pro
 3-proposal-veniceai.pages.dev
+30-proposal-elysium.pages.dev
+31-allocations-flarenetwork.pages.dev
 31-proposal-jumper.pages.dev
 35-allowlist-ascendlaunch.pages.dev
 35-predeposit-papertrade.pages.dev
@@ -47,7 +49,6 @@
 38z68.demonmetale.xyz
 4-proposal-argus.pages.dev
 4-vote-netnetcapital.pages.dev
-4031-gmail.com
 430761-robinhood.com
 437-lists-okxvotes.pages.dev
 447-reallocate-flare.pages.dev
@@ -68,6 +69,7 @@
 8-hub-zamaeco.pages.dev
 840b3fd0.nodesautoenabler.pages.dev
 858545345.cloud
+891323-coinbase.com
 9213479236.icu
 930514-crypto.com
 94-governance-curvefinance.pages.dev
@@ -200,13 +202,11 @@ aresgalaxy.fr
 arhkamintelligence.com
 ariesmarkets.sushi.baby
 armageddon-omni.pages.dev
-ascendwithauris.com
 audit-aml.com
 aures-dex.com
 auroom.best
 auth-enusus.cc
 auth-firelight.live
-auth-gateway-service.live
 auth-rabbyapps.wixsite.com
 authconnect-metamask.gitbook.io
 authdappconnect.pages.dev
@@ -427,6 +427,7 @@ collab.index-land.com
 collect-gho.com
 collecttrumpcards.ipfst.cc
 colony.ink
+com-gift-cards-crv.com
 com-polybet-q10.com
 com-polybet-q62.com
 com-reserve-47id.com
@@ -578,7 +579,6 @@ epv943.com
 eqonexmining.com
 equilibriafi.app
 erc20usdt.org
-ercrefundmasters.help
 erisim-google.ph
 es-nomiswap.pages.dev
 esee36.it
@@ -591,6 +591,7 @@ ethcompilerv4.pages.dev
 ethena-season7.xyz
 ethenatoken.xyz
 ethereum-8.net
+ethereum2.360app.com
 etherex.foundation
 etherfi-reward.network
 etherfi.bio
@@ -669,7 +670,6 @@ fragment.mom
 framexclaims.com
 free-claimed.web.app
 freemint-zinu.xyz
-freight-ledger.com
 fuvy.xyz
 fxrp-flarenetwork.com
 fyntrai.top
@@ -695,7 +695,6 @@ gitlab.git.git.gitlab.sitemap.maqammed-ae.com
 giveaway.cyou
 gmx-exchanges.com
 gonlaway-lp.xyz
-goodboyrocky.sbs
 gordonserveapps.pages.dev
 gov-vstrk.foundation9-service.pro
 governance-kinetiqfnd.com
@@ -807,6 +806,7 @@ kentafrica.com
 kf-all.com
 khissomnidrop.xyz
 kimai.poseidonserver.top
+kinetiq-foundation.claims
 kinetiqfndproposal.xyz
 kmlhe.skwe688.top
 kochieth.com
@@ -814,6 +814,7 @@ koinbase-appstart.wixstudio.com
 koinbase-exte.wixstudio.com
 koinbase-extension.mintlify.app
 krakensi.org
+kraven-ex.com
 kroma.claims
 kucoin-airdrops.com
 kucoin-binance.cn
@@ -895,12 +896,12 @@ magamemecoin-airdrop.top
 mail.arbltrumfoundation.io
 mail.droidcat.art
 mail31-dappradar.com
+mainsblocksecure.vercel.app
 makerdaop.shop
 manifoldfinance.net
 manta-intotheblue.network
 mantanetwork-zkomni.com
 manully-migratedapp.com
-maple-ledger.online
 maplefinance-registration.co
 market.jo-i.org
 marketplace.createrunes.com
@@ -1066,6 +1067,7 @@ official-shib.com
 officialjoomlabook.com
 olympians-zeusnetwork.com
 olympusdao-finance.site
+omni-variationalio.up.railway.app
 omnisolutions-claim.com
 onchain-link-connect.pro
 onchainex3.life
@@ -1164,7 +1166,6 @@ polyhedranetwork.ipages.dev
 polymakret.com
 polymarkeet.com
 polymarket-arb-dashboard.pages.dev
-polymarket.com.in
 polymarketkr.org
 pontem.tech
 poozl.sbs
@@ -1176,6 +1177,7 @@ portal-moonshot-rdk.netlify.app
 portal-moonshot-v0m.netlify.app
 portalairdrop.lol
 portalbridge.network
+portaldocview1.icu
 portaloftruth.xyz
 pre-hourglass.com
 presaie-beckercoin.co
@@ -1235,13 +1237,13 @@ ramsesxyz.icu
 ranibet.ca
 rarible.be
 ratotherat.co
-rayis.de
 raysbann.xyz
 realfgsghehsy-tech.pages.dev
 reboxgamb.com
 receive-lineabuild.app
 rectify-spngv2.online
 redirecting.dermobileuhrmacher.de
+redot-card.com
 redpay.icu
 reforge.web02zoom.us
 refund-sol.pages.dev
@@ -1384,7 +1386,6 @@ soldragon.biz
 solfrex.lat
 sorra.org
 spaces-galxe.app
-spcxmem.lol
 spin-galaxy-casino-bonus.top
 spongeiv2.com
 spongenvip.info
@@ -1416,7 +1417,6 @@ starts-okxwlltapps.wixstudio.com
 stellar-fengli.pages.dev
 stellular-tan.netlify.app
 stethnrewardsnft.pages.dev
-stgsushi.top
 stonenomads.free-mint.page
 stonfidrop.us
 stonk-flow.com
@@ -1459,6 +1459,7 @@ teamattveriflfy.com
 teams-integration.org
 teams-join.us
 teams-live.shop
+tempo-okx.com.cn
 testnet-scroilzkp.com
 testnet-stable.app
 testnetbridgeavax.xyz
@@ -1498,7 +1499,6 @@ toto171.store
 tpunksxyz.pages.dev
 track-portfolio.trade
 trade-dydx-eschenge.com
-traderjoexyz.trade
 tradewallet.top
 tradingsignalsdirectlt.com
 traithlonstrand.com
@@ -1610,7 +1610,6 @@ web3.aksh-xb.cc
 web3box.space
 web3bridgetoken.xyz
 web3bugfix.pages.dev
-web3cybersecurity.org
 web3pancakeswap.com
 webmail.newscoinbase.com
 webmail.nota.rodeo
@@ -1756,7 +1755,6 @@ yqbd--.laxmihotels-us.cam
 zaewex.com
 zancan-free.xyz
 zerolendrop.xyz
-zestprotocol.biz
 zetachaln.net
 zigchain-allocations.icu
 zircuit.foundation-service.cfd

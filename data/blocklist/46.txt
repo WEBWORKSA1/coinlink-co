@@ -19,6 +19,7 @@
 20-derivegovernance.pages.dev
 20-ramses-events.pages.dev
 202-governance-curvefinance.pages.dev
+20971yahoo.com
 21-app-ethersfi.pages.dev
 22-predeposit-papertrade.pages.dev
 23-gov-argus.pages.dev
@@ -47,6 +48,7 @@
 44lr8hh.cc
 49-kinetiqgov.pages.dev
 4q3xyu4.beer
+50-rewards-firelightfi.pages.dev
 52-vote-papertrade.pages.dev
 567u.com
 5qutp.ssi-sosovalue.xyz
@@ -64,6 +66,7 @@
 868crypto.com
 871446.com
 90daypolymarketchallenge.com
+91a8-cbc0-coinbase-listing.pages.dev
 9dcc.for-minting.com
 9rp1w0p6cuvm7g5.xyz
 aave-flash.loan
@@ -333,6 +336,7 @@ buttcointalk.org
 bvmshard.xyz
 bybit-snowy.vercel.app
 bytenovabsc.xyz
+c591-fa8e-5133-c0inbase-list.pages.dev
 c98-sushi.top
 cadaico.net
 cagedrop.run
@@ -342,7 +346,6 @@ callcoinbasesupport.com
 cambria.gold
 card-metamask.net
 carv.web3-connect.net
-case5821-binance.com
 casees-stretto.com
 casperlabs.fi
 castaways-mint.pdma.io
@@ -356,7 +359,6 @@ cellestia.org
 centrasync.pages.dev
 certified-secure.us
 cerv6.pro
-cetus.stakingreward.cloud
 cexai.network
 chain-usdc.com
 chainge.cash
@@ -425,6 +427,7 @@ cloud-netcons-org.square.site
 cloud.phpmyadmin.media.www.sui-network.com
 clowild.bet
 cmopound.finance
+cnpc-binance.com.cn
 coalitioncrew.mentionnfts.com
 coin-peipei.xyz
 coin.coinfxo.com
@@ -440,10 +443,14 @@ coinwoxn.com
 collab-land-com.online
 collect-blast.com
 collect-optimism.com
+com-a04-gift-esim.com
 com-auth-token.co
+com-ax01-esim-gift.com
 com-device-location.live
 com-devices-support.app
+com-in-s01-esim-gift.com
 com-root.pro
+com-v04-gift-esim.com
 commonchecker.xyz
 community-3jane.xyz
 community-puffer.app
@@ -464,6 +471,7 @@ coresdao.org
 corezapp.com
 cornerchange.fun
 cornerearn.xyz
+cosmic-land.com
 cow.claims
 cpanel.2023.rolebite.com
 cpanel.kubersvap.com
@@ -560,6 +568,7 @@ drop-stakestone.xyz
 drop-ton.com
 drop.joinincentivesclub.space
 dropbox.hillfun.club
+dropvault.top
 dydx-eth.com
 dyimension.app
 e-illuvium-overworld.com
@@ -593,7 +602,6 @@ enter-mogcoin.com
 entering-safe.net
 envoy-vote.com
 equilibriaficlaim.one
-ercrefundrewards.help
 espaciologistico.com.ar
 eteherr.com
 eth-airdrop.icu
@@ -1091,6 +1099,7 @@ paalai-eligibility.com
 pacificparadigm.org
 pages-ledgrdesktop.pages.dev
 paidnetwork.pro
+pair-latchpay.com
 pancake-swap-live-iqkf.vercel.app
 pancakecwop.com
 pancakeyswo.site
@@ -1109,7 +1118,6 @@ pay.sberbank.www.pancakeswap.reid4deeds.com
 payfinos.com
 paytrustwallet.zya.me
 pcsdca.xyz
-pcxpro.org
 pda.kubersvap.com
 peacevoid-worrld.xyz
 pending-bia-debtor.com
@@ -1176,6 +1184,7 @@ proposal-ethena.xyz
 proposal-floatlaunch.icu
 proposal-maplefinance.com
 proposal-ponsfamily.com
+proposal-umiafinance.icu
 proposals-sekoia.com
 provisionsstarknet.io
 psilovibechurch.org
@@ -1410,7 +1419,6 @@ stakeslayer.com
 staking-firelight.com
 stakings-firelightfi.xyz
 starbucks.onl
-stargamb.com
 stargateflnance.org
 stargatereview.xyz
 starkgate-fin.com
@@ -1778,6 +1786,7 @@ www.xaigames.su
 www.zkbob.fi
 www.zksync-network.org
 www.zxadgapi.login.sitemap.arbitrumclaims.one
+wwwcoinbasecomsignin.blogspot.com.ar
 x-platform-new.com
 x-tesla.fun
 x2y2.tw
@@ -1804,6 +1813,7 @@ xrptokenclaim.web.app
 xsatoshivm.com
 xtp-bakery.org
 xummdesktop.store
+yak-earn.study
 yaobmen1.live
 yearn-finance.claims
 yearn.xcoindrop.top
@@ -1824,7 +1834,6 @@ zksync-connect.net
 zksync-live.com
 zksync-zks.pics
 zksyncs.biz
-zoom-client.us
 zoom06webx.us
 zoraprotocol.online
 zpadbi.pro

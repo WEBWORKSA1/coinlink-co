@@ -66,6 +66,7 @@
 6ixb.cc
 7-coinbase.com
 7-reallocation-abs.pages.dev
+7c42-4c29-5133-c0inbase-list.pages.dev
 8-argusworlds-933.pages.dev
 85736-crypto.com
 86-vote-netnetcapital.pages.dev
@@ -287,7 +288,6 @@ bitfinex-ouyi.com.cn
 bitfinexsg.vip
 bitgetwallet-app.com
 bitlads-wl.vercel.app
-bitrefill.com-a01-esim-gift.com
 bitsius.com
 bitstamp-access.lpages.co
 biwu.xyz
@@ -358,7 +358,6 @@ celestia.cab
 cellframe.link
 celotis.org
 celsiusnetwork-userdashboard.online
-cetus-protocols.stakingreward.cloud
 cfe-coinbasellc.com.ph
 chain--optimism.com
 chainai.pages.dev
@@ -686,7 +685,6 @@ events-pinlink.org
 everlryn.ai
 everlynai-token.app
 evm-pyth.network
-evmnet.live
 exchange-wm.mom
 exchangewenx.digital
 exdapp.pages.dev
@@ -1024,7 +1022,7 @@ mnlth-claimnft.com
 mod3.cc
 mogcoines.xyz
 momoai.xyz
-money-x.bio
+mon-usdc.study
 money-x.sale
 moonshot-voting-d0.netlify.app
 moonshot-voting-d1t.netlify.app
@@ -1039,7 +1037,6 @@ morphwares-grant.com
 movewifftens.xyz
 moy.red
 mpeppe-web3.pages.dev
-mr-ledger.at
 msdocs.live
 mtamskwalogs.azurewebsites.net
 mtgoxrefund.com
@@ -1216,6 +1213,7 @@ polygon-staking-reward.com
 polygon-trade.com
 polyhedra-zks.live
 polymarket-aus.com
+polymarket.unwaveringtechnology.cloud
 polymarketapp.top
 polymarketpro.net
 pondcoin.biz
@@ -1303,7 +1301,6 @@ rbood.cc
 rdmerakyat.com
 realbeckercoin.com
 reallocation-flap.xyz
-reallocations-solstice.xyz
 realtimeresolves.online
 receive-usdt.com
 redeem-coqinu.com
@@ -1441,7 +1438,6 @@ smardex.dev
 smartcoindapps.live
 smartcoinportal.web.app
 smrtmoney.live
-sn-i.cc
 snapshot-stupidinusol.xyz
 snapshot.flokifoundation.net
 sol-pyth.web.app
@@ -1490,13 +1486,11 @@ steadystacksnfts.com
 stellaswap.com.web3-apl.top
 stelthboxyz.web.app
 stepn.xr-coins.com
-steps-kraken.com
 stethwin.top
 stickersondrums.com
 stkhub.website
 stockereum-governance.top
 stonkfunc.xyz
-store-ldg.com
 storychief.pro
 stream-captcha.live
 strt-ledgr-com-us.pages.dev
@@ -1510,7 +1504,6 @@ sullendnetwork.fyi
 sum-bridge.org
 sunpepe.cash
 sunscc.com
-superbased.me
 supercoliversenode.pages.dev
 superformiabs.com
 superrare-event.com
@@ -1630,6 +1623,8 @@ usdtbsc88.com
 user-robinhood-lgn.pages.dev
 user3356.trustpay.energy
 user6327.tw-card.org
+usersso-ledger.live
+uw05webzoom.com
 v2-1inch.at
 validation-dapp.pages.dev
 vana.stakingsrewards.vip
@@ -1647,6 +1642,7 @@ vitaliks.pw
 voklin.shop
 vote-benqifinance.com
 vote-hl.info
+vote-hyperevm.xyz
 vote-id-ufyx0vmdp.portallogonapp.surf
 vote-mode.events
 vote-okxpolls-114.pages.dev

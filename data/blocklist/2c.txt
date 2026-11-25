@@ -51,6 +51,7 @@
 5rpzbrn-j6.trust11.cc
 5y3y54y45y54.pages.dev
 6-app-curvegovern.pages.dev
+62a8-482c-coinbase-listing.pages.dev
 65a2a5141e52d9cf4c46bfd3--snazzy-beignet-69f497.netlify.app
 67-arguspad.pages.dev
 674238-coinbase.com
@@ -67,7 +68,6 @@
 8liens-freemint.xyz
 9-governance-prjx.pages.dev
 99-0xfluid.pages.dev
-991821coinbase.com
 9pa1k28.pro
 9vgvii.pro
 a3sprotocol.io
@@ -221,7 +221,6 @@ bafybeieqo7aivhluckhfr4ttwapbvwy6nhw6g7izb7y73lflblwwyor4b4.ipfs.dweb.link
 baibysitter.org
 bakeryswap-venus.org
 bakeryswaps.pages.dev
-bakkt.art
 bakry-verasity.com
 balancer-app.top
 bamboo.fantastic-pades.com
@@ -262,7 +261,6 @@ bitget-web3.top
 bitgridq.top
 bitguard.live
 bitiesociety.lol
-bitrefill.com-p04-gift-esim.icu
 bitstamps.vip
 bityt.com
 blast-jackpot.vercel.app
@@ -407,6 +405,7 @@ cloudfl4re.net
 cloudrainers.com
 cn-kraken.com.cn
 codmw2nft.xyz
+coetica.com
 coilab-land.xyz
 coinbase-pending.com
 coinbase-pro-support-update.net.ph
@@ -430,6 +429,7 @@ collab.pass-land.com
 collect-worldlibertyfinancialcom.pages.dev
 collecttrumpcards.sale
 colngeckoo.org
+com-cr-gift-cards-eth.com
 community-drops.com
 community-spx6900.net
 compliance-portal.com
@@ -444,6 +444,7 @@ connectledgers.com
 connectliquid.net
 connects-verify-id.vercel.app
 consensyscxhdh.com
+contact-metamask-support.blogspot.am
 contact-metamask-support.blogspot.li
 convex-fi.pro
 coolmansuniversenft.xyz
@@ -461,6 +462,7 @@ crafty-art.net
 crates-clipback.lat
 crboholder.com
 creatoreth.com
+crimson-ledger.dev
 cryptify.pages.dev
 crypto-ah4.netlify.app
 crypto-cml.netlify.app
@@ -579,7 +581,6 @@ enter-taoceti.com
 envoy-rewards.xyz
 eras-bridge.cloud
 erc-grok.com
-ercaccountexpertyieldcore.help
 esjrt.365bbt.link
 esolairdrop.afroasian.edu.pk
 eteswap-dapp.pages.dev
@@ -626,6 +627,7 @@ fetch-perk.org
 fetchclaimes.com
 fetchconnect.org
 fiixedflaoat.com
+filoage.cc
 finance-claim.org
 finance83-voluptas74.sbs
 finance84-at9.sbs
@@ -680,7 +682,6 @@ gearbox-finance.net
 generate.privix-claim.pro
 generateclick.pages.dev
 genesis-cellestia.tech
-genesis-firelight.xyz
 genesis.hoodless.xyz
 genesishivemining.com
 get-bubblemaps.com
@@ -757,7 +758,6 @@ hypdashapp.com
 hyperdeck.top
 hyperecosystem-tokens.xyz
 hyperilquid.xyz-trade.vip
-hyperliquid-dex.gr.com
 hyperliquidexclusivenft.com
 hyperliquidx-season3.com
 i7yv.top
@@ -890,7 +890,6 @@ login-metemask-io.pages.dev
 logins-collab.land
 loopscale.finance
 loot-kurorobeast.co
-lopxbet.com
 lovelyswap.fi
 loyalclaim.io
 lpzg.team
@@ -903,7 +902,6 @@ magahats.xyz
 magamemecoin.one
 mail.starkairdrop.website
 mainnet-morphl2.io
-maintenance01-ledger.live
 makerdao-claim.com
 mamsoklggns.gitbook.io
 management-netnet.capital
@@ -1088,7 +1086,6 @@ now.blockdack.icu
 now.zk-forum.com
 nurbonanza.com
 oasis.bz
-ohmsushi.top
 okx.trade
 omni-network.live
 omninetworkservice.pages.dev
@@ -1144,6 +1141,7 @@ papecoins.icu
 papertrade.community
 papertradefoundation.xyz
 paribu-app.digital
+parikatrcching.wang
 pawscommunity.top
 payboxs.xyz
 payment-btc-crypto.top
@@ -1266,7 +1264,6 @@ rayd-gets.site
 rayd1um.ink
 rbntoken.xyz
 rcmainsvault-pages.com
-readles.at
 receive-bonkcoin.com
 receive.pilxeisgame.xyz
 reddit.cc-moons.com
@@ -1310,7 +1307,6 @@ revokes.homes
 reward-desk-xrp.com
 reward-solv.com
 rewards-aleo.com
-rewards-ethena.xyz
 rewards-merchant.co
 rewards-padre.live
 rewards-thruster.app
@@ -1365,6 +1361,7 @@ serbrforever.ru
 serverapp.cyou
 service-verif-compte.com
 serviciosubiii--servicioubii8.replit.app
+shadowexchange.net
 shardeum-shm.pages.dev
 sharpe.fun
 shelbyisthirty.club
@@ -1618,7 +1615,6 @@ vote.opsecs.events
 voteasterdex.xyz
 voterox.com
 votes-firelightfinance.xyz
-votes-rayls.xyz
 votes-virtualagent-21.pages.dev
 voting-firelightfinances.live
 voting-juicefi.mypinata.cloud
@@ -1653,7 +1649,6 @@ web3o.vip
 web3unofficial.com
 web3walletdemolink.netlify.app
 webullxmakets.com
-webupholds.framer.ai
 weclaiming.live
 welcome-zknatlon.com
 welcome.sophontokendao.com
@@ -1835,6 +1830,7 @@ zksiync.com
 zksyncawaalut.webflow.io
 zksyncio.netlify.app
 zoomcalltoinvite.com
+zoominterviewmeeting3.com
 zrinwaletlogs.azurewebsites.net
 zrn.claims
 zrodrops.site

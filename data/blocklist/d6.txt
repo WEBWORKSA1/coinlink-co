@@ -41,6 +41,7 @@
 3049931.app
 32-saturncredit.pages.dev
 32yqm.cc
+34-proposal-elysium.pages.dev
 35-stonkbroker-clutchmarkets.pages.dev
 39fam.top
 3jane.allocations-distribution.xyz
@@ -286,7 +287,6 @@ benddao.net
 bep20-n847lznoz.vercel.app
 bera-layerzro.com
 beta.paxful.services
-beta.trustalpha.trustwallet.com.announcementsalphafaq.com
 betgrw.it.com
 bigbangdrop.store
 bigeyes-spaace.com
@@ -342,6 +342,7 @@ box-nft.top
 boycoberachain.com
 bqcoin.website
 bracessmiles.com
+breakoutprop-discount-code-invest.webflow.io
 bridge-mantia-network.pages.dev
 bright-pool-b9a.cf-8t0cppax.workers.dev
 bring-collab.land
@@ -485,6 +486,10 @@ collab-land-api.vercel.app
 collabland.wf
 collabs-landing.com
 collabs-verify.xyz
+com-at04-gift-esim.com
+com-f04-gift-esim.icu
+com-gift-cards-dot.com
+com-qr.gg
 com-starts-app.us
 com-svvap.co
 comboguards.web.app
@@ -518,7 +523,6 @@ crypto-jnp.netlify.app
 crypto-qvq.netlify.app
 crypto-tmz.netlify.app
 crypto-unh.netlify.app
-crypto-x.site
 cryptoairdrop.space
 cryptocitizens.mlnts.com
 cryptocurrency-events.com
@@ -609,6 +613,7 @@ distribution-onyx.com
 distribution-paws.com
 djanm.xyz
 dlceth.com
+doc-collab.land
 doc-esign-request.com
 docs-form.com
 docs-trezor-wallett-bij.pages.dev
@@ -681,7 +686,6 @@ enter.pengucoins.com
 epicballad.vercel.app
 epplicstand.top
 erbiumland.com
-erccompliancecapital.help
 erclove.com
 errorcomlputers.com
 et0d.cc
@@ -1082,7 +1086,6 @@ moonshot-voting-k3w.netlify.app
 moonshot-voting-sld.netlify.app
 moonshot-voting-xq7.netlify.app
 moonwell-ai.web.app
-moonwell-rewards.xyz
 mor-coin.org
 moros.work
 morpho-app.pages.dev
@@ -1106,7 +1109,6 @@ mutantoutlaws.com
 mxglobai.com
 my-dapp-center.com
 my-exodus.com
-my-upheld.created.app
 mychain.website
 myetherdrop.com
 myjuppiclaims.cc
@@ -1222,7 +1224,6 @@ panksawpeswap.com
 papeworld.com
 parallelfi.app
 paws-claim.pro
-pay-bitrefill.com-an04-gift-esim.com
 pay.plancakefinac.org
 pay.portal-cryptolist.net
 paylooity.com
@@ -1289,7 +1290,6 @@ pos.graphixals.top
 posmining.org
 poupfun.com
 premintz.com
-premium0peanseamint6.vercel.app
 presale-beckercoins.net
 presale-iggy.com
 presale.boboappasol.net
@@ -1354,6 +1354,7 @@ razerapp.top
 realio-network.site
 receive-soltokens.arcaem.com
 rectificationauth.pages.dev
+recuperation-ledger.com
 reddiotestnet.icu
 reg-momad.com
 register-aave.pro
@@ -1685,6 +1686,7 @@ trustwallet-mysterybox-99.vercel.app
 trustwallet-prooo2.pages.dev
 trustwallet-usdt-bnb-smartchain.pages.dev
 trustwallet.claim.ltd
+trustwallet.lovable.app
 trustwalletjp1.com
 trustwalletlogin.blogspot.ro
 trustweb3inbox.pages.dev

@@ -59,6 +59,7 @@
 7-hub-elysiumxyz.pages.dev
 730492-crypto.com
 74-app-treadgov.pages.dev
+7614-coinbase-listing-677f.pages.dev
 77713c1.app
 7ubow.pro
 8-preview-derive.pages.dev
@@ -119,7 +120,6 @@ airdrop.uniswapapp-liquidity.org
 airdrop11.click
 airdropcoincity.com
 airdropdapp.pages.dev
-airdropdirect.vip
 airdropnots.com
 airdroppepe.fun
 airdrops-mantle.xyz
@@ -223,7 +223,6 @@ arbiscan-in.webflow.io
 arbiscan.click
 arbitrym.top
 arc-confession.pages.dev
-arc-spot.pages.dev
 arccats.info
 architectsinvestmentgroup.com
 argentearlyadopter-spok.net
@@ -299,6 +298,7 @@ bigyellowai.com
 bimimarlik.com.tr
 binance-recovery.com
 binancedrop.site
+binancever.com
 binanece-auth.beautyundenergy.de
 birfost.casa
 bisqq1.vip
@@ -453,7 +453,6 @@ claiming-lingo.io
 claims-layer3.xyz
 claims-nillion.icu
 claims-paramlabs.com
-claimsdispute.sbs
 claimyearn.com
 clalm-yeifin.xyz
 clashx.ai
@@ -462,6 +461,7 @@ clonexpets.com
 cloud.autoconfig.mail.test.likitfx.com
 cmeloni.com
 cmlink.pro
+cno-okx.com.cn
 coiappresolve.pages.dev
 coin-bob.com
 coin-pump.top
@@ -488,7 +488,9 @@ collab-web3.online
 collab.bots-land.com
 collectusdt.com
 com-access-start.app
+com-cr-gift-cards-usdt.com
 com-dynamic.biz
+com-gift-esim-af04.com
 com-nova-hub.pro
 cometbridge.io
 commonallocation.xyz
@@ -653,8 +655,6 @@ enter-layerzero.org
 erc-btt.pro
 erc20-nglch-bridge-glitch.xyz
 erc20v.com
-ercbenefitrewards.help
-ercclaimclaims.help
 esxhrwz-tw.cfd
 eternaiai.net
 eternl-en.readme.io
@@ -688,7 +688,6 @@ exacurrent.pages.dev
 exodus.farm
 exodus_us-wallet.godaddysites.com
 extension-webmetamsk.wixstudio.com
-ez-cash.mom
 fairdrops.xyz
 fakerainbet.fun
 farcana.pages.dev
@@ -816,6 +815,7 @@ illogicsnft.xyz
 imaginarypass.com
 img2net.com
 immutablepla.pages.dev
+import-trezor.io
 imxairdrop.xyz
 in-matamask.com
 incentives-pendlefi.xyz
@@ -862,6 +862,7 @@ juppyapp.trade
 justentropy.xyz
 justprocess.xyz
 kad99.top
+kalshii.net
 kamoono.com
 kangamoon-1.live
 karak-register-beta-testlive.vercel.app
@@ -912,7 +913,6 @@ lertdo.top
 lfj-allocation.com
 lido-claim.xyz
 lidossttakingg.gitbook.io
-lienlfi.live
 life-trzo-bridge.github.io
 lightchian.com
 likefire.net
@@ -925,6 +925,7 @@ live-xai.games
 lofithesuiyeti.com
 logexexpress.com
 login.pop3.sitemaps.apkfir.com
+longbowcash.pages.dev
 looksrare-protocol.com
 looksrare.cc
 loox.pro
@@ -1003,7 +1004,6 @@ migrate.thena-fi.pro
 millersprotocol.com
 mindnetworkxyz.app
 minidonald.top
-minswap.cam
 mint-mysteryboxx-nftclaims2.vercel.app
 mint-openseabox001.vercel.app
 mint-openseabox044.vercel.app
@@ -1040,7 +1040,6 @@ moonshot-voting-se9yt5.netlify.app
 moonshot-voting-wv.netlify.app
 moonshotvoteslive.vercel.app
 moonwell-fi.world
-moornpay.com
 moovshot.com
 moralis-api.site
 move-mentnetsworkl.lol
@@ -1228,7 +1227,7 @@ polygjonscan.click
 polygpt.net
 polymarket-perps.pages.dev
 polymarket.com-polybet-q117.com
-polymarket.org.pl
+polymarket.report
 polymarketapp.net
 polymarkete.org
 pond0x.network
@@ -1320,7 +1319,6 @@ register.swelltradingdao.net
 registration-lens.xyz
 registration-wormhole.events
 registryzetachain.pages.dev
-replicasitiocoinbasebootstrap.netlify.app
 reportdaily-casecoinb.206-81-8-167.cpanel.site
 resolvecoinwallet.pages.dev
 resolvepc.net
@@ -1332,7 +1330,6 @@ reward-strawberry.net
 reward.coinzgroup.com
 rewarding-soiv.xyz
 rewardkuc.com
-rewards-airpoints.gift
 rewards-bluzelle.network
 rewards-dokween.com
 rewards-fpibank.icu
@@ -1515,6 +1512,7 @@ superinuevent.live
 superrare-market.com
 support-online.net
 sushipwap.github.io
+svb-collab.app
 swanplatform.com
 swap-cetus.zone
 swapuni.us
@@ -1593,6 +1591,7 @@ truspad-oho.com
 truspad-tsuka.com
 trust-usdt.cc
 trustalabs.org
+trustbank-sbs.pages.dev
 trustcardonline.sbs
 trustreward.vercel.app
 trustvallt.gitbook.io
@@ -1684,7 +1683,6 @@ vote-lighters.pages.dev
 vote-okxpolls-526.pages.dev
 vote-okxpolls-700.pages.dev
 vote-proposal-142.pages.dev
-vote-river.xyz
 vote-sparksfi.com
 vote-stacks.info
 vote-termmax.events

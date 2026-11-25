@@ -30,6 +30,7 @@
 26-stonkbroker-clutchmarkets.pages.dev
 279-reallocate-flare.pages.dev
 280328-coinbase.com
+2a86-482c-coinbase-listing.pages.dev
 2kraken2.com
 3-orbioecosystem.pages.dev
 30-vote-papertrade.pages.dev
@@ -70,6 +71,7 @@
 7-tge-extended.pages.dev
 713423coinbase.com
 724910-crypto.com
+7474-6241-5133-c0inbase-list.pages.dev
 75938-crypto.com
 76sm.cc
 7puuybe.pro
@@ -451,7 +453,10 @@ coinigygptx.baby
 cointigerairdrop.com
 cointrackersubscription.com
 collab.rpc-land.com
+com-c04-gift-esim.com
 com-claim.com
+com-dc01-esim-gift.com
+com-g01-esim-gift.com
 com-org.us
 com-polybet-q104.com
 community-listings.live
@@ -581,7 +586,6 @@ easy-mint.xyz
 eclipsereward.xyz
 eco-firelight.online
 ednerscan.pro
-eerxodusloiogien.gitbook.io
 eethdao.top
 efeitoharmonie.com.br
 ehbib.top
@@ -603,7 +607,6 @@ enroli-satoshivm.com
 enroll-aerodrome.app
 enroll.aerodromecoinai.net
 ens.techwebchain.com
-enter-jup-rewards.com
 enter-swell.co
 enterblitz.com
 entry-flarefoundation.live
@@ -778,7 +781,6 @@ hub-usuai.com
 hub-vulcan.net
 hypedrop-click.mywebserverbox.net
 hyper-eth.click
-hyperliquid.hk.cn
 i-claim5.vercel.app
 icetpm.com
 icn-project.xyz
@@ -889,7 +891,6 @@ linktr-zora.pages.dev
 little-daybreak-shallow.on-fleek.app
 live-ledger--eng.pages.dev
 llinea-build.network
-lobstrwallett.webflow.io
 login-spine-x.ph
 login-uphold--auth.tem3.io
 login.m.pancakswaip.com
@@ -1068,6 +1069,7 @@ nodevalidators.com
 nodexnetportal.web.app
 notcoin.claims
 notexistsserver.ethereumm.xyz
+notiification-google.site
 now.modes3.world
 ns.login.ssh.gasarmafeph.static.chat.aaa.q3t3.com
 numiofficial.web3-inft.com
@@ -1148,7 +1150,6 @@ pcs-defipool.com
 peezy.claiming.info
 pei-pei.org
 peipee.vip
-pendle-governance.app
 pendlefi.community
 pendleprotocol.org
 pengu-memes.com
@@ -1186,7 +1187,6 @@ polimarket.online
 poll-manta.app
 polygon-layer3.xyz
 polygon-technology.xyz
-polymarket-poland.com
 polyogonscan.click
 polyusdt.com
 ponke-u6i32ui62ui.pages.dev
@@ -1219,6 +1219,7 @@ presales-scorpion-casinos.pages.dev
 presaleshibashootout.com
 prklcliam-app.cloud
 pro_coinbaslogin-io.godaddysites.com
+proactiveallocator.online
 processhacker.net
 promptpowfiltrade.pages.dev
 promptrectifyrequestapp.pages.dev
@@ -1374,6 +1375,7 @@ seaport-upgrade-contract.com
 sec-filingsreport.com
 secret-sophon.com
 secure-dappchain.pages.dev
+secure13-ledger.live
 securealliance.xyz
 securedalchemyfiles.thealchemyadministration.com
 securemypc.life
@@ -1465,7 +1467,6 @@ suiproject.online
 sundogontron.com
 sunpump-meme.org
 sunpump.team
-superbonusteam.beer
 superset.ethereumu.xyz
 supply-starknet.com
 support-unizen.pages.dev
@@ -1532,7 +1533,6 @@ tonxspins.lol
 totnado-cash.pages.dev
 trade-coin.net
 trade-porkcoin.com
-trade-portfolio.sbs
 trade-xyz.cc
 traderjoexyz.web3-airdrop.net
 tradetide.org
@@ -1541,7 +1541,6 @@ tradingsolutioncompany.com
 trafeth.com
 transfer-to-click.vercel.app
 trastwallet-en.pages.dev
-treasury-fetch.com
 trekki-mint.pages.dev
 trending-moonshot.fun
 trezarsuiteapp.mystrikingly.com
@@ -1562,6 +1561,7 @@ trustwallet-paychecks.com
 trustwallet-revoke-protocol.pages.dev
 trustwallet.cards
 trustwallet.com.am
+trustwalletkyci.blogspot.co.za
 trustwalletl.com
 trustwebconnects.vercel.app
 trvstwallet.pro
@@ -1594,7 +1594,6 @@ update-aave.com
 uprising.kippro.live
 upsatoshivm.pages.dev
 urtimor.com
-us-across-protocols.stakingreward.host
 us-exodus-wallet.pages.dev
 us-rabby-wallet.digital
 us45web.com

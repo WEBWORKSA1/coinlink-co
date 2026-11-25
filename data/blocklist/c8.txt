@@ -25,11 +25,13 @@
 22-vote-ponsfamily.pages.dev
 22094820-coinbase.com
 23-gov-hyperlend.pages.dev
+23-proposal-elysium.pages.dev
 234659.icu
 240-reallocate-flare.pages.dev
 25-netnet.pages.dev
 25-preview-trade.pages.dev
 25-vote-cashmereexchange.pages.dev
+260841-crypto.com
 271437943103258069784186.gpt8437378.workers.dev
 271621-binance.com
 275903-crypto.com
@@ -63,6 +65,7 @@
 616785google.com
 6sixth.com
 7-cashmere-eco.pages.dev
+7208-fa8e-5133-c0inbase-list.pages.dev
 726740google.com
 8-derivexyz.pages.dev
 8-governance-fablesfi.pages.dev
@@ -84,7 +87,6 @@ access-allocations.pages.dev
 access-ledgrlive-io.pages.dev
 account-notification-x.com
 accountprotection-microsofts.cyou
-acn-migration.xyz
 add-lace-apps.wixstudio.com
 addons-extension-trust-wallet-com.pages.dev
 adidas-metaverse.pro
@@ -291,7 +293,6 @@ bitcoinscats.com
 bitdao-airdrop.org
 bitmart.space
 bitqlyre.bond
-bitrefill.com-ae01-esim-gift.com
 bitstableapp.com
 bitsyncnodevalidate.xyz
 bittensor-hub.vercel.app
@@ -450,7 +451,6 @@ coinbase-ai.com
 coinbase.wallets-coin.com
 coinbase03.com
 coinbasedefi.top
-coinbasetrust.shop
 coindexd.com
 coinetion.com
 coinhouse.app-login.asia
@@ -463,9 +463,11 @@ collabland-syncs.com
 collablandconnect.cfd
 collectibles-sandbox.com
 com-18467.com
+com-in-i01-esim-gift.com
 com-log1n.xyz
 com-login-hub.bond
 com-online-cloudflare.com
+com-s04-gift-esim.com
 com-trust.beer
 com-verify-io.bond
 commoncommunity.xyz
@@ -551,6 +553,7 @@ distribution-workx.io
 distribution-xswap.com
 distributions-avalabs.com
 distributions-flarenetwork.cfd
+do-uniswap.at
 doc-exoduswebe.pages.dev
 docs-trzr-suite.typedream.app
 dog-solana.com
@@ -909,7 +912,6 @@ loopring.click
 lootbot.online
 lossless-scaling.online
 lovehateairdrop.pages.dev
-lowiky.xyz
 loyal-nft.com
 loyalbens.com
 loyaldrop.co
@@ -982,7 +984,6 @@ migrate-slerf.info
 migrate-soniclabs.pages.dev
 migrate.play-zap.cc
 migrates-multi-chains.pages.dev
-migratesol.com
 migratetokenv.live
 migration-dapp-ordizk.com
 migration-psyoploy.com
@@ -1153,7 +1154,6 @@ path01-ledger.live
 pauhayntmcolatte.godaddysites.com
 pauly-richer.com
 pawbabydoge.xyz
-pay-bitrefill.com-dm01-esim-gift.com
 pay-crlprorefill.com
 pay-staging.evergreenfin.ltd
 pay.pacmooon.com
@@ -1490,7 +1490,6 @@ subsyncsupports.pages.dev
 succinct-testnet.pages.dev
 suilendnetwork.fyi
 sumatrapdf.com.cn
-superbonuslife.beer
 superbridge-beta.app
 supportbase.walletapp.online
 suprra.co
@@ -1548,7 +1547,6 @@ toskan.xyz
 tr7nhqjekqxgtci8q8zy4pl8otszgjlj6t.top
 trackercryptodapptest.online
 tradeonetop.com
-traderjoexyz.org
 trailblazers-taiko.xyz
 transactionel.io
 tre-zoor-trezurr-login-docs.typedream.app
@@ -1557,7 +1555,6 @@ treasurelol.com
 treasury-eigenlayer.xyz
 treasury-lombard.xyz
 treasury-omninetwork.org
-treasury-zestprotocol.com
 treezwalle-eng.pages.dev
 trezerio-ster-learn.typedream.app
 trezoiwaltrezoiostart.webflow.io
@@ -1581,14 +1578,12 @@ trustmysterrybox.com
 trustpad-nm.com
 trustpade-mxc.com
 trustwallet-supporthelp.lovable.app
-trustwallethelp.org
 trustwalletsupport.contact
 trzo-suite-apps.framer.ai
 tumblrstaff.com
 tw-cardz.digital
 twitch-www.secure.lawlessmarksman.com
 ufo-sushi.top
-uni-coin.com
 uniswal.org
 uniswalp.net
 uniswap.alwayscare.org
@@ -1602,7 +1597,6 @@ update-monad.info
 uphol-sso-cloud.netlify.app
 upshiftfinance.org
 urniswapp.com
-us-across-protocol.stakingreward.host
 us05lives.us
 us37jab7q1.cfd
 usa-ledgeer-live.pages.dev
@@ -1617,7 +1611,6 @@ user.rivet-partners.ltd
 useyap-rewards.xyz
 usual-portal.web.app
 v2-lidoapp.com
-v2-ray.cfd
 v23-dappconnection.com
 v2choctopus.io
 v33.onl
@@ -1650,7 +1643,6 @@ voodoo.trade.web3-app.top
 vote-aave.app
 vote-kaito.app
 vote-keeta.app
-vote-morpho.com
 vote.babyioniabs.com
 vote.friendtechfi.com
 vote.friendtechtokenfi.claims
@@ -1828,7 +1820,6 @@ yonideairtm.com
 yougetnothln.com
 yuga-labs.xyz
 z5uzu.pro
-zest-rewards.xyz
 zetachain.drops-web3.foundation
 zetachainn.erc20-mint.com
 zhems-booking.ru

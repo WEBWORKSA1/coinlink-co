@@ -213,6 +213,7 @@ auth-exoduswallet-app.webflow.io
 authenticvalidate22.pages.dev
 authweb3xa.cf
 autodiscover.m.polyhedra.pw
+autodoradcapl.com
 automatebot-api.pages.dev
 autonomys.live
 autorestore.pages.dev
@@ -278,7 +279,6 @@ bitkubb.lockchain.net
 bitkubswap.web.app
 bitmix.su
 bitpay.ticketbase.help
-bitrefill.com-gift-cards-sol.com
 bitso18.com
 bitstamp.com.ph
 black.naturalforma.com.br
@@ -446,6 +446,7 @@ collab.certify-land.com
 collabn.land
 collect-tenprotocol.vercel.app
 colpanyvidros.com.br
+com-ba01-esim-gift.com
 com-devices-support.help
 com-royal-web.pro
 community-zerolend.org
@@ -567,7 +568,6 @@ easytokeclaim.space
 echoo-mauve.vercel.app
 ecot3rras.com
 ecoterra-app.icu
-edge-x.bond
 eef42069.com
 eg-trzorbridge.pages.dev
 ehbvc.top
@@ -693,6 +693,7 @@ gmeth.vip
 gmx.walletio-web3.com
 gmxdex.io
 go-dydx.app
+go-uniswap.at
 go.fexowin.com
 gomakex.link
 goods-sol.web.app
@@ -749,7 +750,6 @@ interface-application.vercel.app
 io-ledgr-started.pages.dev
 io-mainnet.xyz
 iron-oil.com
-iu03e.live
 iynex.app
 ja-blast.pages.dev
 jagtardonsol.com
@@ -808,6 +808,7 @@ ksaacademy-classera.classera.com
 kskdcjr.cc
 kt8803.icu
 ktg08.pro
+kucoin285.com
 kucoinee.com
 kucoinraward.com
 lace-apps-extension.wixstudio.com
@@ -865,7 +866,6 @@ lxmj.com
 lyncdiscover.docs.phpmyadmin.app-uniswaps.com
 lyvely-claim.pages.dev
 magamemetrump.com
-magiceden-io.org
 mail.ballerdna.xyz
 mail.coinbase-recoveries.com
 mail.layerzzero.tech
@@ -947,7 +947,6 @@ mocaverse.web-hmint.com
 modenetwork.mypinata.cloud
 mogcoineth.app
 mollars.website
-momentumline-haven.pages.dev
 monadverse.fun
 monal-wealth.com
 monero.gr.com
@@ -1120,6 +1119,7 @@ polcoin.top
 policy-ledger.org
 poly4mint.com
 polygon.airsmint.com
+polymarket-login.github.io
 polymarket.army
 polymarket.com.tr
 polymarket.slothwallet.com
@@ -1198,7 +1198,6 @@ rainbow6nft.xyz
 rangooojsapp.com
 raydib.live
 raysdiun.xyz
-rby-opwkdss.nafis330.workers.dev
 reallis.network
 receive-jesse.xyz
 reclaim-robinhood.com
@@ -1278,7 +1277,6 @@ sei-tethercoop.claims-web3-request.link
 sellerverify.cyou
 send-secure-trustwallet-usdt-bip20.vercel.app
 send-usdt-by-bnb.vercel.app
-servers-trezor.com
 sessionsscroll.space
 shbairdrp.com
 shib2.website
@@ -1370,7 +1368,6 @@ start-web3-ledger.com
 started-metamakext.wixstudio.com
 steakhouse-distribution.xyz
 steamgames.in
-stellar-community-fund-next.pages.dev
 stonkfuns.pro
 stonksmarket.finance
 strangershq-free.xyz
@@ -1451,7 +1448,6 @@ tonchainreward.xyz.webb3gateway.com
 tonsniperbot.it
 too1m.pages.dev
 tpkrustcoinet-web3.vip
-trade-kerakencdn.wixstudio.com
 tradeport.cc
 tradesushi.co
 transfer-bep-20.netlify.app
@@ -1503,9 +1499,7 @@ uninodes.org
 unisvvappofficialls.com
 uniswap-airdrop3.com
 unitstrusts.click
-up-held-en.created.app
 upgrade05-ledger.live
-upholld.created.app
 us-worldcoin.org
 usdchub.com
 usdcmoney.sbs
@@ -1518,7 +1512,6 @@ user-robinhood.wixstudio.com
 users-chain.com
 users-suiteapp.b12sites.com
 utriot.dujiaxchangeajkfl.cc
-v-r.cc
 v2-omega-rust.vercel.app
 v3-cowswap.click
 v3sunisvvp.smvonsll.top
@@ -1545,7 +1538,6 @@ vitainus.app
 vlrtuals.io
 vnxhub.xyz
 voodoo.trade.r2-web3.cfd
-vote-flare.info
 vote-opinions.pages.dev
 vote-proposal-55w.pages.dev
 vote-sei.net
@@ -1583,7 +1575,6 @@ wallstmemes.mobi
 walpx.com
 war-reward.xyz
 waterstoneshotel.com
-wealthsimpleus.com
 web-astarnetwork.com
 web-guardawallet.online
 web-wa-whatsapp.com

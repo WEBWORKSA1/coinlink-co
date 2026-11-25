@@ -1,5 +1,4 @@
 037de658.cowel.pages.dev
-05live.co
 069351-crypto.com
 0sx2.cc
 0xastra.pages.dev
@@ -73,6 +72,7 @@
 718985-crypto.com
 740215-crypto.com
 75-proposal-globaldollar.pages.dev
+772512kraken.com
 78-proposal-globaldollar.pages.dev
 78-proposal-prjx.pages.dev
 809031coinbase.com
@@ -81,12 +81,12 @@
 93-derivexyz.pages.dev
 934674-crypto.com
 938467-gemini.com
+9a6e-cbc0-coinbase-listing.pages.dev
 aap-ave.icu
 aave-restore.net
 aave.exclaims.top
 aavetoken.site
 aavve.cc
-abeobaseball.ca
 about-metmaskcdn.wixstudio.com
 abstract-robots-jugigr.testnet.nfts2.me
 abundant-smartphone-future.on-fleek.app
@@ -190,7 +190,6 @@ app.jellyverse.info
 app.stakefish.finance
 app.sushiswap.click
 app.trhrursrtrer.finance
-app.varialional.co
 app.vertexdex.pro
 app.xwide.net
 appdefi.icu
@@ -280,7 +279,6 @@ biastpenguins.net
 bidwatchers.info
 big-bang-blast.press
 billionairairdop.online
-bin-hyper.org
 binance-rounds.com
 binance.app-claims.com
 binance.nft-mint.pro
@@ -293,8 +291,6 @@ bitget-global.cc
 bitinauts.fun
 bitpay-quant.com
 bitpie-blockchain.com
-bitrefill.com-bt01-esim-gift.com
-bitrefill.com-c04-gift-esim.icu
 bitsoutra.com
 biur.site
 bjzywy.net
@@ -349,7 +345,6 @@ btcusdt.top
 bthyperclaim.com
 bullanaonsol.com
 buttcoinportal.xyz
-buytrx.com
 bwaps.site
 bybitprox.cc
 bynvs.blogspot.com
@@ -365,7 +360,6 @@ cashbackgasfee.com
 casinos-ripper.com
 castlexchange.com
 catecoinsrewards.xyz
-cbredirect.com
 cbridlge-celer.com
 ccf.cexcoin.online
 ccfc-coolcatsnfts.com
@@ -466,6 +460,7 @@ coinbase-plusdefi.com
 coinbaseclaim.xyz
 coinbasee-bitmartacr.com
 coinbaseoc.com
+coinbaseproshg.com
 coinbasevault.vercel.app
 coinflex.support
 coinmarketcap.online-sandboxgame.com.do
@@ -480,8 +475,10 @@ collabland-connects.lol
 collabland-link.com
 colossal-wall-wailing.on-fleek.app
 com-3ayp64tc.info
+com-cf01-esim-gift.com
+com-cu01-esim-gift.com
 com-gift-esim-e04.com
-com-lo.icu
+com-in-y01-esim-gift.com
 com-online-hub.bond
 com-polybet-q21.com
 com-supportdesk.com
@@ -501,6 +498,7 @@ connect-zklink.com
 connect.kavashub.club
 consensyseahs.com
 consensyshubsm.com
+consistent-keyguard-hq.xyz
 contractmanage.pro
 convert-chroniclelabs.org
 cook-meme.com
@@ -582,7 +580,7 @@ dexchain.site
 dexfi.app
 dexorg.cfd
 dexrp-net.web.app
-dexscreeners.gr.com
+dfllrna.sbs
 digirls.top
 digitalaset.id
 dineroprotocol.com
@@ -655,7 +653,6 @@ enter-indexcoop.net
 enter-papertrade.icu
 enter-scroll.com
 erc20-creator.pages.dev
-ercrevenuerewards.help
 erlikhan.netlify.app
 erorrcomputer.com
 ersflaretrustline.com
@@ -715,6 +712,7 @@ finance95-eos67.sbs
 finance96-ut44.sbs
 find-lost.xyz
 fiokiinu.coupons
+firelight-phase2.icu
 fisios0-ut50.sbs
 fkr4p-eyaaa-aaaad-qew5q-cai.ic.fleek.co
 flapshdash.com
@@ -724,6 +722,7 @@ flt-enroll2.com
 fltfirelight.finance
 fluf-worid.com
 flufburrows.xyz
+folks-vote-hub1.pages.dev
 fomo-family.world
 fomo-listing-ce.netlify.app
 fomo-voting-6l.netlify.app
@@ -906,12 +905,12 @@ kgz.overdezuki.fun
 kickk-ledgercom.pages.dev
 kideighht.xyz
 kinetiqfinance.xyz
+kinetiqgenesis2.site
 kiruvin.in
 kitty-96h.pages.dev
 kolvarynzuphelar.net
 krakeen_log_ens.godaddysites.com
 krakenthecontrol18oficial.xyz
-krakn-logon.wixstudio.com
 kruiakenlogin.gitbook.io
 krypdraws.com
 kspprotocol.online
@@ -1110,7 +1109,6 @@ mwpzavdrvrlwphpnwaox2miglflavdkuwc2wgugcjfv5wdfaswaq.arweave.net
 mxngood.xyz
 my-exodus.to
 my-trezor-io-get.typedream.app
-my-uphoold.zapier.app
 myapp-aave-update-skizows423884.codeanyapp.com
 mydoge.events
 mydrop-juppy.xyz
@@ -1177,7 +1175,6 @@ onchaincoins.app
 onchains.my
 onchnia.asia
 ondaxbt.net
-ondo-claim.xyz
 oneebahmad.com
 onlinetrustwalletaids.vercel.app
 onlythemen.pages.dev
@@ -1224,7 +1221,6 @@ paperrhand.com
 particlc.network
 particles-network.lol
 pastelexplorer.com
-pay-bitrefill.com-bc01-esim-gift.com
 paybis-com-logiin.pages.dev
 pc.defi-ex.shop
 pcs-defi.net
@@ -1271,7 +1267,6 @@ portal-normie.com
 portal-virtuals.net
 portal.dymension.app
 poseidonpatents.today
-pqc-ledger.cc
 pre-zama.org
 presale.muradcoineth.com
 presale.rockyxbt.events
@@ -1508,7 +1503,6 @@ steamcommunity.world
 steancommunityiu.ru
 stock-ledger-board.pages.dev
 stockereum.click
-storewallcoin.vip
 streetsofmilady.web3fast.net
 su.stoneain.cc
 sui-airdrop.link
@@ -1589,6 +1583,7 @@ trezorhub.io
 trias-claim.pages.dev
 trjs.pages.dev
 tron-rental-v8.vercel.app
+tronlitab.ink
 trstwallets.com
 trubitpro.net
 trumpercc.online
@@ -1647,6 +1642,7 @@ virtuswap.net
 vote-fireiight.xyz
 vote-helius.dev
 vote-id-prlo9vm.portallogonapp.skin
+vote-proposal-111.pages.dev
 vote.lensprotocoldefi.com
 vote.mantlesnetworks.com
 vote.opsecbasecoindao.trade
@@ -1702,6 +1698,7 @@ whm.shop.hostmaster.daimlerdockerexample.com
 wicked-bet.xyz
 windscreensreplacementmelbourne.com.au
 winterfest.zyns.com
+wisebeautyaesthetics.com
 wkdlive.site
 wombat-exchange.rf.gd
 woofi.click

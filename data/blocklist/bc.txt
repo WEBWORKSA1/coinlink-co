@@ -48,6 +48,7 @@
 462874coinbase.com
 47-proposal-fablesfi.pages.dev
 48-governance-kinetiq.pages.dev
+484332coinbase.com
 5-arcusgovernance.pages.dev
 5-governance-listadao.pages.dev
 52-derivexyz.pages.dev
@@ -101,6 +102,7 @@ aiiocate-taiko.app
 aiiocation-optlmism.com
 ailocate-layerzerofoundation.net
 air-drop-events.top
+air.evmverse.cc
 airdrop-alon.com
 airdrop-boop.site
 airdrop-ionet.vercel.app
@@ -161,6 +163,7 @@ app-aave-service.com
 app-anyswap.org.in
 app-claimera.xyz
 app-hypcrswap.financial
+app-polymarket.webflow.io
 app-treezor-suit-e-io.pages.dev
 app-trezor-io.pages.dev
 app-web-5605-dj7lzt3so-carmonamarc2-3645s-projects.vercel.app
@@ -223,7 +226,6 @@ available-claims.online
 avax.gifts
 avive-genesisnft.world
 award-renzoprotocol.com
-awardstd.sbs
 ay004.lsrn.mom
 azuki.premnt.tech
 b33.run
@@ -445,6 +447,7 @@ collab.land-servers.com
 collabland-asset.com
 collablandconnect.online
 collectrocryptcard.com
+com-da01-esim-gift.com
 com-ledgercom-start.pages.dev
 com-website.website
 conbsoprologguiusa.godaddysites.com
@@ -454,7 +457,6 @@ connect-verify.xyz
 connect.connectkava.me
 connects-wormhole.com
 consensys.it
-contentdmcacases-x.team
 convex.boosted-staking.xyz
 convex.cash
 convexfinance.io
@@ -596,6 +598,7 @@ ethena.lilquifi.finance
 ethenaa.fi
 ether-fi.news
 ethereummail.xyz
+ethereumyield.vip
 etherfi-symbiotic.net
 ethlineabuild.com
 ethrefundgas.xyz
@@ -681,6 +684,7 @@ galxe-quest.net
 gamdom.plus
 gameswift-id.io
 gaminairdrop.com
+gaslessscheduler-enginex.xyz
 gatecdm.com
 gatesaprot.com
 gemafortune.com
@@ -718,7 +722,7 @@ governances-long.xyz
 grabcl.com
 grandvegas.digital
 great-alarm-slow.on-fleek.app
-gtc.stakingreward.cloud
+gta6apple.net
 guide-ledgrcom-eng.pages.dev
 gxgala.org
 gynmetwork.sbs
@@ -740,7 +744,6 @@ hfwspk.org
 holdingaave.org
 homaganq.xyz
 home-ioraabbyapps.wixstudio.com
-home-upholde-sso.created.app
 horizon-dapp.web.app
 horizondevhq.com
 hoursglass-kyc.com
@@ -854,6 +857,7 @@ linkwelcome.com
 linpuss.world
 liquiditypoolget.com
 listadrop.live
+live-pump.sol-stream.cc
 llnked-ln.com
 lneabuild.xyz
 log-in-poloniex.com
@@ -867,7 +871,6 @@ m-rendernetwork-upgrade.pages.dev
 macae.verao.viagensnacional.com.br
 mag-box.web.app
 maga-community.com
-mail-backup-trustwallet.com
 mail.register-radiant.com
 managexedh.bond
 manta.events
@@ -898,7 +901,6 @@ merck-co.com
 merkl-app.xyz
 merlinstarter-claim.com
 metaamaskio.wixstudio.com
-metabnasklogem.gitbook.io
 metahero.freemint-web.com
 metamaesk.org
 metamask-info-servicereport.net.ph
@@ -985,6 +987,7 @@ mx-strendus.com
 myaccountrobinhood.wixstudio.com
 myapphldappcdn.wixstudio.com
 myaumyaumyaumyau.com
+myblockchainsus.blogspot.com
 mycryptosjob.com
 myetherwallket.com
 myethrrwallet.com
@@ -1111,8 +1114,6 @@ participatel-firelightfi.live
 pass-okaybears.com
 pathderivator.app
 paxfuloffers00.paxfulss.xyz
-pay-bitrefill.com-bk04-gift-esim.com
-pay-bitrefill.com-dh01-esim-gift.com
 payments.celestia.express
 pc.dbrsleader.cc
 pc.dbrslimited.com
@@ -1153,6 +1154,7 @@ poloniexdata.pages.dev
 polygon-drop.online
 polygon-superverse.co
 polymarke4.org
+polymarket-ru.vercel.app
 polymarket.trade
 polymarketcn.com
 pond0xclaim.xyz
@@ -1208,6 +1210,7 @@ rabbywaleryt.gitbook.io
 radiant-v2.com
 raihbet.com
 rain-bet-de.com
+rainbet-dk.net
 rainbetcasino.cloud
 rainbetcasinogb-co-uk.pages.dev
 rainbetonline.at
@@ -1234,7 +1237,6 @@ reg-firelightfi.live
 reg-layer3.xyz
 reg-manta.network
 registar-soniclabs.com
-register-alt.fun
 register-bsedevo.com
 register-ethermail.net
 register-lineabuild.finance
@@ -1267,7 +1269,6 @@ revenuefull.xyz
 revertrf.finance
 revoke-ambients.finance
 reward-abstract.com
-reward-neverland.xyz
 reward-pepe.vip
 reward-stakestone.net
 reward-zeuscoin.co
@@ -1318,7 +1319,6 @@ searttok.ink
 secure-a0852.xyz
 secure-chat.club
 secure-exodus-w.wasmer.app
-secure-portal-ledger.com
 secure.dexnoderevival.live
 security.flare.us.org
 seedfry.com
@@ -1331,7 +1331,6 @@ shellzorb-nft.xyz
 shibariumairdrop.com
 shibashootoutclaim.pages.dev
 shibaswap.finance
-shiftinvalleyview.com
 shop-ledger.at
 short-termoption.com
 shrub-io.pages.dev
@@ -1379,7 +1378,6 @@ splash-airdrop.netlify.app
 spongevip.pro
 spx6900.life
 squant.org
-sr-c.cc
 sso--hold-uphold-so.weebly.com
 staging.cloud.dev.ww1.login.ssh.auth.mantle-airdrop.pw
 stak-lido.xyz
@@ -1532,7 +1530,6 @@ unitedair.pages.dev
 unpolomantic.com
 unsdlz.xyz
 update-blast.io
-uphold-login-website.created.app
 uphold-loin.created.app
 us08live.us
 us2-zoom.cc
@@ -1563,12 +1560,12 @@ validatorsocketnet.xyz
 vaubex.com
 vela.web3-claimers.com
 velodromegovernance.fi
+velorastarworld.com
 venafex.com
 venice-port-complex-dev.pages.dev
 venom-network.net
 venusprotocols.app
 verification-aml.net
-verificationbluepriorityreview.sbs
 verify-usdt.net
 veripassdependency.pages.dev
 verses.work
@@ -1819,7 +1816,6 @@ yrthilv.com
 z9ujg59.top
 zeinabprofile.com
 zerobase.help
-zestprotocol-allocation.xyz
 zeta-chain.pages.dev
 zeusnetwork-xyz.vercel.app
 zk-pepe.lol

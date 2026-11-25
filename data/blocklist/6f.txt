@@ -25,7 +25,6 @@
 16-checker-standx.pages.dev
 16-governance-curvefinance.pages.dev
 16bz5t.demonmetale.xyz
-178491-upholdsupport.com
 18-vote-argusworld.pages.dev
 20-governance-fungolabs.pages.dev
 20-paperstrategyeco.pages.dev
@@ -82,12 +81,15 @@
 8-derivegovernance.pages.dev
 829121-kraken.com
 8563bbbe0cb3-8265-4825-8d3e-7f3efb52fec7.dragonswaps.io
+872718coinbase.com
 89514-gmail.com
 9-pons.pages.dev
 90-proposal-prjx.pages.dev
 970880.cn
+985612-crypto.com
 986450coinbase.com
 99d04a7a-345b-48uc-web05zoom.live
+9d07-coinbase-listing-677f.pages.dev
 9e5xw.aj568.top
 9irid.pro
 aa.btb77777.com
@@ -143,7 +145,6 @@ allocation-logx.com
 allocation-pythecosytem.com
 allocation-rdatadao.org
 allocation-roost.pages.dev
-allocation-shiftrwa.xyz
 allocation-swellnetwork.co
 allocation-xaman.com
 allocation.monadfinanceio.trade
@@ -211,6 +212,7 @@ arcium-rewards.one
 ardianpro.vip
 ardiltrum.xyz
 ariana360.github.io
+as-okx.cn
 ascendlaunchgov.pages.dev
 asigpt.ceo
 asiintegration.online
@@ -292,10 +294,12 @@ blumairdropnet.shop
 blums.top
 blur-airdrop-mauve.vercel.app
 bnb-trust-wallet.vercel.app
+bnb.verifyusd.site
 bnbchain.quest
 bnbdrop.ltd
 bnbschains.org
 bnbsmartchailn.com
+bnryarmy.xyz
 bnutsol.com
 bob-coins.lol
 bobothebear.net
@@ -337,7 +341,6 @@ ced-153.ru
 cenatplay.com
 certify-ledger.live
 cetusrwd.xyz
-ch-coinledger.com
 chainmix.in
 chainspad.top
 chainversesprotection.pages.dev
@@ -420,8 +423,10 @@ coin-distribution.top
 coin-layerzero.com
 coinbase-authenticate.com
 coinbase-siginin-auth.created.app
+coinbase.com.gr
 coinbase.support-834179.com
 coinbasesnk.com
+coinbasesupport.okor.online
 coinbot.click
 coindex.love
 coindrop.cryptopromo.top
@@ -436,7 +441,10 @@ collab-join.site
 collab.land-chain.com
 collab.land-uvo.com
 collab.stables-land.com
+collaboration-capital.org
 com-airdropbnb.online
+com-gift-esim-r04.com
+com-in-z01-esim-gift.com
 com-polybet-q29.com
 com-restore.live
 community-pyth.xyz
@@ -560,6 +568,7 @@ drop-raptorjesus.wtf
 dropp-g669yj12c-alter-up.vercel.app
 drops-niftygateway.com
 dtsdxc.xyz
+ducky-capital.vercel.app
 dudunft.xyz
 dymension-dymcoin.com
 e-node.pages.dev
@@ -586,7 +595,6 @@ eng-metamaskcdn.wixstudio.com
 enlist-flap.sh
 enroll.aerodromedaocoin.net
 enroll.aerodromefinancecoin.com
-entel-rewardsf.lat
 enter-kinetiq.life
 enter-wormhoie.com
 entry-collab.land
@@ -603,6 +611,7 @@ ether-fi-campaigns.pages.dev
 ether-finance.eth.limo
 ether.fi-02i.xyz
 ethereum-ca.com
+ethereum.mahinjameh.ir
 ethereumanniversary.xyz
 etherfi-daps.vercel.app
 etherfoundation.pages.dev
@@ -624,6 +633,7 @@ ezeigen-renzoprotocol.org
 fantasy-top.pages.dev
 faorst.top
 faq-paybiss-logiin-eng-us.pages.dev
+fasfsafsa.pages.dev
 fashionduckmint.com
 fasset-beta-minting-flarenetwork.site
 feathers-thentwrk.com
@@ -725,7 +735,6 @@ highstaking.pages.dev
 holyrosary-ontario.org
 home-en-ledgr-us-8fo.pages.dev
 home-ledger-liv.pages.dev
-home-uphold-web.created.app
 home.scrllzk.club
 hometalra.click
 how-to-restore-trustwallet.pages.dev
@@ -767,7 +776,6 @@ jhsad.com
 join-aethirfi.com
 join-lightlink.org
 join-ordsiwap.com
-join-uphold.created.app
 jrnyclub.top
 juesoiuf.top
 jup.humidifi.info
@@ -805,6 +813,7 @@ layer3xyzclaim.com
 layerzero-register.co
 layerzero.agency
 layerzeros.online
+learn-coin-base-pro.pages.dev
 learn-ndaxxio-logi.codedesign.app
 ledger-3x4.pages.dev
 ledger.penfts.xyz
@@ -862,6 +871,7 @@ mantle.service-claimings.pro
 marketplacebids.info
 masktoken.co
 mavier.world
+maxcoinsol.lol
 mbyaclvjrmhycm.space
 meek-sablesol.netlify.app
 meet-google.sbs
@@ -943,6 +953,7 @@ mixchain.online
 mk-ledger-system.pages.dev
 mmetadskuuginedd.webflow.io
 mmrech.xyz
+mn-binance.cn
 mocaversenft.dev
 modesnetwork.trading
 mogclaim.netlify.app
@@ -978,9 +989,9 @@ multiconnect-system.firebaseapp.com
 multidapssfix.xyz
 multiplier-multibit.exchange
 multiplier.flokisprotcols.com
-multiply-firelight.xyz
 murad-presalecoin.com
 muradtoken-sol.com
+my-ethereum-ai.vercel.app
 my-satoshivm.com
 my-uniwsap.org
 my-xaman.co.com
@@ -1039,6 +1050,7 @@ odditiespre.info
 official-coinbus-help.typedream.app
 official-firelightfi.live
 official-suite-apps.square.site
+ogfcorp.vercel.app
 okaypoop.shop
 okrex.pro
 okxpointsmemberstatushub-hjk01.netlify.app
@@ -1338,7 +1350,6 @@ signup-paper.app
 signup-sky.money
 silicondelta.io
 simeji.xyz
-simple-swap.co
 singularitydaohelp.pages.dev
 singularitynet.biz
 sitemv0u0nq1b22l.cfd
@@ -1543,7 +1554,6 @@ uphlodfuture.com
 uphold-logen.created.app
 uprislngkippro.xyz
 upservice-dienst.net
-us-curvefinances.stakingreward.cloud
 uscr-gov.app
 usdcstake.com
 usdepro.xyz
@@ -1588,7 +1598,6 @@ virginmoneyverifyme.com
 virtual-zoom.online
 volt-rwa.org
 vote-consensys.com
-vote-dexscreener.live
 vote-etherfi.finance
 vote-flarenetwork.app
 vote-hyperlend.info
@@ -1648,6 +1657,7 @@ wieneraidog.info
 wifallocation.xyz
 wigoswap.to
 windowstoolsupdate4278874.com
+winter-summit-secure-user-3e08-3e4a.pages.dev
 withdraw-ftx.com
 wl-babycoin.com
 wlfi.best
@@ -1811,7 +1821,6 @@ zksync-airdrop.co
 zksync.line.pm
 zksyncnet.xyz
 zoomchrome.com
-zoominfopayment.com
 zoth-layerzero.xyz
 zulu-join.vercel.app
 zyber-swap.com

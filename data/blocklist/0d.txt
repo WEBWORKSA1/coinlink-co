@@ -22,6 +22,7 @@
 15.contact
 16-gov-concrete.pages.dev
 16-hub-centrifugegov.pages.dev
+176405-crypto.com
 186-governance-curvefinance.pages.dev
 197441.top
 1inch-connect.com
@@ -48,6 +49,7 @@
 30-proposal-3jane.pages.dev
 327-reallocate-flare.pages.dev
 353-reallocate-flare.pages.dev
+36-proposal-elysium.pages.dev
 36ee4.3399.pro
 37-dashboard-papertrade.pages.dev
 372-reallocate-flare.pages.dev
@@ -79,13 +81,14 @@
 76-proposal-papertrade.pages.dev
 76-proposal-prjx.pages.dev
 77231-kraken.com
+7cf0-fa8e-5133-c0inbase-list.pages.dev
 8-pons.pages.dev
 8-vote-netnet.pages.dev
 88defi.org
-891821-coinspot.com
 927982-crypto.com
 9613.team
 97-curvefi.pages.dev
+9pump.lol
 a.register-basedbret.com
 a2uax.cc
 a36dc22d-1b9c-416a-bda8-5c2665d7d604.dragonswapes.me
@@ -113,6 +116,7 @@ admin.cultportal.cloud
 adolf.nexoria.me
 aerodrnme.finance
 aerodrome-airdropfinance.app
+af7e-colnbase-listings-4f65.pages.dev
 agent-griffain.com
 agixai.cloud.mannobegod.online
 agricole-particuliers.com
@@ -194,6 +198,7 @@ app-bsquared.net
 app-cap.xyz
 app-dop.co
 app-galxe.com
+app-hypefnd.xyz
 app-hyperliquid-trade.com
 app-kalshi.com
 app-kyberswaps.org
@@ -227,7 +232,6 @@ appfuellnetwork.xyz
 applecoin.pages.dev
 approvals-pendle.com
 apps-cetus.zone
-apps-krkencdn.wixstudio.com
 apps-logon-ndaxcdn.framer.ai
 apps-rabyyweb.wixstudio.com
 apps-trrustext.wixstudio.com
@@ -351,7 +355,6 @@ bro-lun.xyz
 bsc-reliable.com
 bscscan.com.de
 btcminetrx.surge.sh
-btcreporter.net
 btcstaking.babylnonlabs.io
 bungeeexchange.org
 busd.dropaltcoin.top
@@ -490,7 +493,10 @@ collab-gm-land.com
 collab-join.in
 collab.entrance-land.com
 collabsverified.land
+com-ai04-gift-esim.com
+com-cr-gift-cards-doge.com
 com-findmy.fr
+com-gift-esim-u04.com
 com-login-online.cyou
 com-npm.ink
 com-polybet-q01.com
@@ -566,6 +572,7 @@ dappv1.com
 dappzerionintelclaim.pages.dev
 dashboard-chains.network
 dashboard-listing-cloud.app.metoceanms.com
+dashboard.coinbase.dk
 dashboard.sanctum.guru
 dashboard.store.phpmyadmin.m.arbitrumclaims.one
 dashing-reindeer.10web.site
@@ -674,7 +681,6 @@ enter-vulcan.xyz
 enzyme-finance.com
 eoro.io
 equilibrefinance.org
-ercclaimglobal.help
 erclido.lat
 escocoin.xyz.nyanmemecoin.xyz
 ethena-definance.pages.dev
@@ -949,7 +955,6 @@ luckypath.lol
 luno-rp.com
 lvcidiaxyz.com
 m.coinbase-wallet.org.cn
-m.guggenheim.cc
 m.rejoneko.top
 m.whanyish.net
 m2-zerolend.xyz
@@ -1072,6 +1077,7 @@ mysteryboxes32.vercel.app
 mysteryclaimz6k.vercel.app
 mysterypack3.vercel.app
 nad-ex.com
+nansenai.live
 nansenportfolio.store
 narimari.info
 naruto-shippuden.store
@@ -1141,6 +1147,7 @@ opensea-xewo.vercel.app
 opensea.mrtest.pages.dev
 opensea.unlock-bayc.com
 openseaspromints17.vercel.app
+opensglobal.com
 ophm.pro
 oprensea.io
 optswhirlingzilla.pages.dev
@@ -1192,7 +1199,6 @@ pepethetoad.info
 pepeunchainedz.com
 perceptons.xyz
 phantom-soft.pp.ua
-phantom-waalot.gitbook.io
 phantom-wallet-us.gitbook.io
 phantomwallet1.netlify.app
 phantomwlt.netlify.app
@@ -1215,6 +1221,7 @@ plenafinances.com
 plexusairdrop.xyz
 poccojn.com
 poeai.us
+poiuytre284.top
 pokerprotocol.bio
 pol3.top
 polipulse.net
@@ -1595,11 +1602,10 @@ unstake-solvprotocol.com
 unxdnft.live
 update-moonwell.finance
 upgrade.dashboard-polygon-hub.com
-upheold-login-secure.created.app
 upliftdao-airdrop.pages.dev
 upload2-google.ph
 us.azukl.biz
-us06zoomwebinvite.co
+us06meet.com
 usd1-reward.com
 usdt-ai.org
 usdt-questionnaire.claimings-web3.space
@@ -1795,7 +1801,6 @@ www.williamapan1-free.xyz
 www.willow-tower-station-mike.159-89-232-65.nip.io
 www.zkdogo.info
 www1-uniswap.org
-x-jitonetwork.xyz
 x-resolution-x.info
 x5-foundation.com
 xiaone.io

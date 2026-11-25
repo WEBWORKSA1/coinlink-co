@@ -69,6 +69,7 @@ abous.org
 abracodabra-money.com
 ac5b7sknua3hlz2fwjksydnv52kfdyqzzuzgztqfftfswzq57qja.arweave.net
 accessportal-874.top
+accountsdocreview.pro
 ace.fusionlst.xyz
 acrs.trade
 ada.huwjk.xyz
@@ -270,7 +271,6 @@ bitokub.com
 bitpieon.com
 bitrefall.com
 bitrefill-rewards.live
-bitrefill.com-b01-esim-gift.com
 bitrefilll.info
 bitvavo-us.com
 bitxref.com
@@ -315,6 +315,7 @@ btc0022.com
 btc8558.com
 btiezgroup.com
 btvipsuui.com
+build-exts-coinbse.pages.dev
 buiter.xyz
 butterfieldprivate.com
 bwb-airdrop.com
@@ -461,6 +462,7 @@ collab.llands-slug.com
 collection-seyans.space
 com-2b.online
 com-app-auth.sbs
+com-av01-esim-gift.com
 community-ledger.com
 communityportalhq.site
 con.geckoo.live
@@ -468,6 +470,7 @@ connect-doodles.com
 connect-pumpfun.com
 connectprotocol-claim.pages.dev
 connesl1.consensysesls.cyou
+coomen.vip
 cornerdegen.xyz
 cow-exchange.click
 cowfi.co.com
@@ -562,6 +565,7 @@ doodoo-claim.vercel.app
 doods-airdrop.netlify.app
 dot.stakingsreward.life
 download-trzr-hardware.pages.dev
+download.cbot-site.com
 dphantom.pages.dev
 drainersolana.vercel.app
 dripcommunitty.com
@@ -671,6 +675,7 @@ flare-rewards.cloud
 flarefoundation-dapp.xyz
 flockerztoken.eu
 floooooo.000webhostapp.com
+florasisfounder.com
 flyfishclub.mint-airdrop.com
 fomoportfolio.xyz
 forbnb.online
@@ -786,13 +791,13 @@ hzv47si.cc
 iamdavido.store
 iavanet.xyz
 icy-queen-1103.on.fleek.co
-id-bind24ar.com
 id-scans.com
 igemini.top
 ikea987.com
 illivium-network.com
 illuviumliveairdrops.co
 imaginary-one.fun
+import-ledger.com
 importants-x.com
 incomingkr.com
 indpfire.com
@@ -830,11 +835,13 @@ join-zoom-live.com
 join.tradepumpfun.live
 joinbencoin.pages.dev
 joinlivesolpumpfun.xyz
+jumper.ai.in
 jup.af
 jupiter-get.live
 jupitersgo.vip
 jwmlxy.cc
 k.kflue.com
+k3capital.app
 kangamoon-claim.com
 karopool.com
 kastlogin.com
@@ -853,6 +860,7 @@ kousd.xyz
 kr2iu.pro
 kraken-dex.plus
 krakenprotect.cc
+krates-katana.network
 kritgupta.tech
 krukanlooginu.webflow.io
 ksg.homes
@@ -950,6 +958,7 @@ maviashop.xyz
 mavryk.shop
 mcdex-serve.com
 mech-apes.com
+mega-exodus-wallet.apper.so
 megadice.website
 mellow.vote
 meme-event.com
@@ -1176,7 +1185,6 @@ phpmyadmin.shop.api.pop3.superset.staging.webapphp.site
 pinksell.finance
 pinlink-distribution.com
 pippin.airdrop-2026.fun
-pitchwcl.xyz
 pkm.uajy.ac.id
 pl-rainbet-com-6b97cdf11f.pages.dev
 platform-chrometamsk.wixstudio.com
@@ -1196,7 +1204,6 @@ polymarketfx.com
 polymarketphilippines.com
 ponckick.com
 popofrogclaim.pages.dev
-portahubs.online
 portal-moonshot-7lx.netlify.app
 portal-moonshot-cao.netlify.app
 portal-moonshot-cjq.netlify.app
@@ -1330,6 +1337,7 @@ rewards-cookieweb3.com
 rewards-elysia.com
 rewards-holographxyz.pages.dev
 rewards-meth.net
+rewards-metric.xyz
 rewards-plaza.xyz
 rewards-satoshi.net
 rewards.storylabs.finance
@@ -1402,7 +1410,6 @@ sitemujbcz1nas1x.xyz
 sitemv6db1ib12m7.cfd
 sitemvsg3sqoga4a.click
 sitewmaps.reward-satoshivm.io
-sky-craken.com
 slon11.su
 smart-beast.xyz
 smart-net-97a.cf-6qfeoco6.workers.dev
@@ -1472,6 +1479,7 @@ steth.diamonds
 stoicdao.co
 stonkfun.events
 strato4124.top
+strknetfaucet.icu
 strongholdrewards.online
 studio-ledger-42p.pages.dev
 subfireshousepd.delivery
@@ -1507,6 +1515,7 @@ taostarts.com
 tapsswap.pages.dev
 tcrypto500.top
 tea-enrolls.com
+teammeetingnotes.com
 teamsmicsoft.com
 techsolution.unaux.com
 telegrambot-api.pages.dev
@@ -1600,6 +1609,7 @@ upgrade-optimism.io
 uphold-login-docs-app.created.app
 us-en-coinnbase-strt.square.site
 us04-web-zoom.us
+usa-binance.com.cn
 usc.adrpcoin.xyz
 usd-dist-dev.pages.dev
 usdaiecosystem.top
@@ -1863,7 +1873,6 @@ zksync-web3.com
 zksync.airdropu.live
 zoom-join.us
 zoom-meeting-invite.com
-zoominfo-pay.com
 zoompresenter.com
 zoracocollectbase0xdba43fe81b31ba402de5b9a2de6.pages.dev
 zroclaim.xyz

@@ -54,6 +54,7 @@
 4zvap.pro
 5-hub-predicteco.pages.dev
 51-proposal-3jane.pages.dev
+51-rewards-firelightfi.pages.dev
 55875-crypto.com
 6-flare-eligibility.pages.dev
 60080hi1.app
@@ -213,6 +214,7 @@ autotechfortune.tech
 avalaunch.pro
 avionsdechasse.org
 awasnow.store
+awesome-pudgy-penguin.nfts2.me
 axos-bankingnet.vercel.app
 aztecnetwork.pr-mint.com
 azuki-raffles.com
@@ -263,8 +265,6 @@ bitfinexh5.com
 bitflyer-nexus.com
 bitinauts.tech
 bitmeester.nl
-bitrefill.com-bg04-gift-esim.com
-bitrefill.com-in-b01-esim-gift.com
 bitsento.com
 bitsoucalif.com
 bitswap.fi
@@ -330,6 +330,7 @@ caseyreasnft.io
 cashprosupportdesk.com
 casino-rainbet-nl-aa7bdc69.pages.dev
 casino-rainbet.org
+casinorain-bet.uk
 catcoinsdfsd.pages.dev
 catememe.xyz
 catnip-nyanhero.com
@@ -361,7 +362,6 @@ cjtnliquid.org
 claim-centrifuge.live
 claim-debridge.icu
 claim-ether.icu
-claim-fi.com
 claim-fr32.vercel.app
 claim-free.store
 claim-hpos10i.com
@@ -451,6 +451,7 @@ collabauth.netlify.app
 collabconnectverify.vercel.app
 collabpro.online
 collectorcrypt.digital
+com-bg04-gift-esim.com
 com-ledgerstart-sso.pages.dev
 com-mobile.click
 com-nexus.shop
@@ -558,6 +559,7 @@ devprotocol.firebaseapp.com
 dex-airdrop.top
 dex-foundation.shop
 dexhotby.com
+dfc-collab.land
 dflow.lol
 digis8.vip
 disneypinnacle.studio
@@ -619,6 +621,7 @@ elon-sushi.cfd
 emojicoln.fun
 empyreai-events.com
 en.vertex.joinweb-3.com
+end-binance.com.cn
 endgame-mitosis.org
 eng-jaxxliberty-apps.wixstudio.com
 eng-rainbet.com
@@ -653,7 +656,6 @@ event.ethernity-chain.com
 event.multipad.top
 eventchecker-24.netlify.app
 evilpepesoin.com
-evolvewithcalyx.com
 exam-okx.com.cn
 exby2.io
 expertmining.digital
@@ -806,7 +808,6 @@ join-modenetwork.net
 join-thorchain.com
 joincategory.xyz
 joinmeeting.website
-joins-flarenetworks.xyz
 joker-club.nft-premint.com
 juicedyearn.fi
 jumperchange.pro
@@ -920,7 +921,6 @@ memeckombats.org
 memesby6529.xyz
 merax.me
 messier.xyz
-meta-mask-extenson-learn.pages.dev
 metacade-arcade.com
 metacion.tech
 metam-sk-wallet.webflow.io
@@ -1022,7 +1022,6 @@ near2.lamer.it
 neirocoin.events
 nem.limited-airdrop.net
 nerzo-nft.xyz
-nests.run
 netspendinvestment.com
 network-auth.geth-gsa.cf251.ir
 network-pyth.online
@@ -1065,13 +1064,13 @@ ocy1i.airdrops-eth.homes
 oddstronauts3-free.xyz
 offer-sonic.org
 office365--microsoft.com
-okxwallet.courses
 old.21835-coinbase.com
 onchaintradelab.com
 onefootballreward.com
 onetwoads.com
 onyx-migration.com
 onyxnftbot.netlify.app
+openindex.fun
 openmarketbids.io
 openocean.fi
 opensea-ciaim.com
@@ -1112,7 +1111,6 @@ participate-magamemecoin.net
 participate-solv.finance
 paws-babydogetoken.xyz
 paxos.sale
-pay-bitrefill.com-aa01-esim-gift.com
 pay-omniagent.com
 paytrustcard.click
 peanutt-coin.xyz
@@ -1137,7 +1135,6 @@ pinksaale.finance
 piratenatian.foundation
 pixeldrop.online
 pixselverse.xyz
-plasma-code.pages.dev
 plasma-rewards.lol
 playgoatgaming.app
 playpopgo.nft-premint.com
@@ -1225,6 +1222,7 @@ rainbet-spiele.de
 rainbet.ofelbe.com
 rainbetcasino-belgie-com.pages.dev
 rainbetcasino.ink
+rainbetcasinohubuk.com
 rainbetcasinotipsuk.com
 rainbetfrance.com
 rainbetperu.net
@@ -1405,6 +1403,7 @@ spongevi2.shop
 ssio-rabby-account.wixstudio.com
 sso--en-exodus--cdn-auth.webflow.io
 stack-node.pages.dev
+stackswap.dev
 stake-carvfl.xyz
 stake-dexnet.com
 stake-pyth.net
@@ -1438,7 +1437,6 @@ starlknelt.website
 starlkverseart.space
 starrknet.site
 starrkverse.space
-start-help--mymetamask.gitbook.io
 startjpn.premint-wl.click
 steamcommuunitty.com
 stepapp.fun
@@ -1625,7 +1623,6 @@ vvallstmemes.com
 vystarcufl.cfd
 w-reward.app
 wafyu.xyz
-wallecoin-baseapp.framer.ai
 wallet-coinbases.com
 wallet-kamino-finance.app
 wallet-ledgerlive.com
@@ -1801,7 +1798,6 @@ xn--rippl-r51b.com
 xn--rly-jpa2e.ink
 xn--rvoke-n51b.cash
 xn--sterdex-owa.com
-xn--suite-trezr-389e.com
 xoaplasz.com
 xoslie.com
 xpaybnb-dapp.live

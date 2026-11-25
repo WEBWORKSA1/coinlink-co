@@ -1,6 +1,7 @@
 01zoom-web.us
 047381-crypto.com
 092741-crypto.com
+0gmail.homes
 0xhoneyjar.pages.dev
 0xmons.livesmints.com
 0xseek.world
@@ -47,6 +48,7 @@
 36-checker-standx.pages.dev
 37-gov-curvefi.pages.dev
 37-governance-jumperapp.pages.dev
+382910ledger.com
 39-venice.pages.dev
 3etherdrop.pages.dev
 3etherdrops.pages.dev
@@ -77,6 +79,7 @@
 64xhw75.com
 65e8bbed11dd1838c03b22c6--voluble-kitsune-a2927f.netlify.app
 673804-crypto.com
+6a72-colnbase-listings-4f65.pages.dev
 6t7vk64dyhbffol3innqc5dpjut2jswa4sz3r3agv33kahebsyia.arweave.net
 7-derivegov.pages.dev
 71-view-kinetiq.pages.dev
@@ -99,6 +102,7 @@
 a1-zerolend.xyz
 aave-claim.io
 aave.com-protocol-connect-appv3.com
+aavekr.com
 aavev3-ethdefi.com
 abitrium.io
 about-iotrezur.gitbook.io
@@ -319,7 +323,6 @@ bitkit.co.uk
 bitkub-lojamrtorta.blogspot.com
 bitnestloop.live
 bitpowers.vip
-bitrefill.com-in-k01-esim-gift.com
 bitscoinmintrix.site
 bitsstable.vip
 bjknkjn.xyz
@@ -501,7 +504,6 @@ connect-agix.net
 connect-base-hub.wixstudio.com
 connectflrtrusts.online
 connectmerger.xyz
-contentdmcacasex-x.team
 coresolvenode.pages.dev
 coti-network.site
 covery.vercel.app
@@ -539,7 +541,6 @@ dapp-radar.biz
 dapp.ocagent-cdn.com
 dapppradar.com
 dappsradar-airdrop.pages.dev
-dash-flarenetworks.xyz
 dash-metamask.io
 dashboard-flarenetwork.icu
 dashboardpixels.xyz
@@ -611,6 +612,7 @@ earnlfi.today
 easblocker.com
 ebaymallusa1.com
 ebblaunch.com
+ec60-colnbase-listings-4f65.pages.dev
 ecotenkka.tech
 edgehogs.xyz
 edo2022.in
@@ -865,7 +867,6 @@ jupiterget.xyz
 juppyrewards.org
 justsolami.com
 kaicat-token.pages.dev
-karekenapps.wixstudio.com
 kava-api64.web.app
 kelpdao.co
 keyoflifemigrate.fi
@@ -920,6 +921,7 @@ lido-official.com
 lido.dex-trust.top
 lidostaking-fl.com
 lifegracehospital.com
+lightli.app
 lilidass.pages.dev
 lilllylkj.pages.dev
 limoverse.icu
@@ -1059,6 +1061,7 @@ moonvote.space
 moonwell-claims.xyz
 mooonshots.com
 morpheusai.events
+morphoa1.pages.dev
 morphovotes.app
 mp67tf.demonmetale.xyz
 mserver.live
@@ -1081,6 +1084,7 @@ muwos.com
 mxatqjzjxc4ptlcx7poatvbxaihlo5hiowlhwm3zpb5c6uob4joa.arweave.net
 mxtamaskwalleti.weebly.com
 my-zksync.ath.cx
+mybigcompany.com
 myfinancemastery.com
 myinteractivesolutionfx.com
 mylovelyplanet.airdroptrends.com
@@ -1159,7 +1163,6 @@ opebnb.com
 open-blaster.com
 open-seamints.vercel.app
 openboxclaimmint312.vercel.app
-opengdp.cyou
 openitnetwork.com
 opensea.3345678.info
 opensea.base-mirror.xyz
@@ -1355,6 +1358,7 @@ relay-web3.com
 remixcontractcompile.com
 remove-crypto.com
 renzoprotocols.co
+requests-kraken.com
 resolvlabs.site
 restake-bouncebits.app
 retarded-bull.mom
@@ -1392,7 +1396,6 @@ rtfktseason2.com
 rtornbank.cc
 rug-fm.info
 rug.claims
-rujlranetwork.pro
 rules.cx
 rupesh.transactionshield.info
 ryskfinance.tech
@@ -1406,6 +1409,7 @@ scottytheehai.live
 screamingghosts.com
 scroll-network.com
 scrollcheck.web.app
+seasons-baseecosystem.com
 securespend.tie-not.com
 secureyourseldreward.pages.dev
 seedify.apps-web3.net
@@ -1591,7 +1595,6 @@ treadfi-proposal.live
 treasure-start.pages.dev
 treasury-puffer.org
 treasury.ethercoindefi.trade
-treasurys-pool-firelight.foundation
 trending.0nchainsummer.xyz
 trexocrosslinker.xyz
 trezor-bridge--app-us.pages.dev
@@ -1631,8 +1634,6 @@ uniswapsic.com
 unitoeth.org
 unswaps.com
 updates-phantom.com
-uphold-log-en.created.app
-uphuldusa.created.app
 urarr.dingdongka.com
 us-dydaaxio.wixstudio.com
 us-enhance-secure.com
@@ -1678,7 +1679,6 @@ votelistingtokenpull-cc.netlify.app
 votes-pollsokx-221.pages.dev
 votesmorpho.top
 voting-moonshot.network
-voting-relay.xyz
 voting-usaui.com
 vurtuals-protocol.top
 vusdtoken.xyz
@@ -1697,7 +1697,6 @@ wallstreet-memes.pages.dev
 walstmeiemo.live
 wand-piperx.pages.dev
 wawacatsolxyz.pages.dev
-wcor.info
 wcwcoinpniiwjfo.com
 wealthbhai.com
 web-coinbase.com
@@ -1710,7 +1709,6 @@ web3dev.buzz
 webdappsolutionlaunchpad.pages.dev
 webmail.support.secure.img.www.bc-game.pics
 webmail.zombiepod.xyz
-webrtcgroup.help
 webszuzu.pro
 webuyhousecoin.com
 webzoom-kaiyun.com.cn
@@ -1720,6 +1718,7 @@ whitelist-aleo.org
 whitelist-tnsr.com
 wiener-ai.pages.dev
 winter-summit-secure-user-0b5d-7352.pages.dev
+winter-summit-secure-user-3e08-500c.pages.dev
 woridcoln.com
 worldieworld-allocation.xyz
 worldlibertyf.com

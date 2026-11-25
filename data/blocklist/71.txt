@@ -1,4 +1,5 @@
 01puffer-ejpnpoff-konstantnotfound.4everland.app
+035fvpefelb12zw.icu
 061492-crypto.com
 0c9l3cr.beer
 0x4dp98bhii9lr4l05ch5k.sbs
@@ -48,8 +49,10 @@
 47050.app
 492953-ledger.com
 500.cryptopromo.top
+5355-fa8e-5133-c0inbase-list.pages.dev
 560-reallocate-flare.pages.dev
 58527-binance.com
+589152kraken.com
 5new.shop
 6-gov-torchpad.pages.dev
 6-governance-longbow.pages.dev
@@ -74,6 +77,7 @@ aave-loan.xyz
 aave.comv3migration.com
 aaverewards.pages.dev
 aaveu.xyz
+abe5-fa8e-5133-c0inbase-list.pages.dev
 abhu-dhabi.online
 acc001.biky.live
 accontprcoinbaselogin.gitbook.io
@@ -228,7 +232,6 @@ arbitrum.xl-crypto.com
 arbitrumcheck.pro
 arbitrumdrop.live
 arbitum.org
-arcmarkets.vercel.app
 arcuslabs.click
 aredrome.finance
 arkham-intelligence.fun
@@ -260,7 +263,6 @@ azuki-trade.com
 azukielementalnfts.pages.dev
 babesrw.fun
 babypepe-cb5.pages.dev
-babywojak-rewards.top
 bacardicoin.com
 badgeberahive.xyz
 bafybeiaww6ymqhro76hrjq6l5h4ninbd2hn7ysd6vsyffswhvg5btz4vb4.ipfs.dweb.link
@@ -298,7 +300,6 @@ bioagevenezuela.com
 bioprotocol-claim.world
 birdex.club
 bitcibulltoken.art
-bitcoin-coin.us
 bitcoinminetrix.info
 bitcosend.com
 bitget-binance.com.cn
@@ -306,8 +307,6 @@ bitgotintl.net
 bitmcxus.com
 bitpie.fun
 bitpoindeam.vip
-bitrefill.com-gift-esim-ad04.com
-bitrefill.com-gift-esim-y04.com
 bitsciyr.top
 bitstable.supply
 blackbullsol.icu
@@ -421,7 +420,6 @@ claim-arbswap.com
 claim-artyfact-gaming.pages.dev
 claim-bigeyescoin.com
 claim-bnb-airdrop.pages.dev
-claim-capicatr.lol
 claim-defi.xyz
 claim-diamante.app
 claim-duko.com
@@ -485,6 +483,7 @@ coinbase-showcase-fund.everygoodwork.io
 coinbasedapp.io
 coinbaseextenlogon.blogspot.hr
 coinbasehelp.com.se
+coinbasewalletextensionn.blogspot.com.co
 coinchainprotocol.web.app
 coinmcap.cc
 coinmix.cash
@@ -497,6 +496,9 @@ collab-land-verification.github.io
 collab-world.info
 collabland-assets.com
 colrgecko.com
+com-cq01-esim-gift.com
+com-cw01-esim-gift.com
+com-in-aa01-esim-gift.com
 com-lightning-io.pro
 com-sw.icu
 com-vault-io.pro
@@ -560,9 +562,11 @@ dappssync.pages.dev
 dappstake.watch
 dappswebspace.com
 dashboard-blur.com
+dashboard.vipchiliz.com
 dcentwalletupdate.live
 dcoinhua.com
 de-bridges.pages.dev
+dearox.com
 debank.center
 debanks-scan.pages.dev
 debridge.com-p.codes
@@ -729,6 +733,7 @@ flokidao.guru
 flt-distribution.xyz
 fluidtoken.trade
 fly-frontiier.com
+fomo.soldot.cc
 forumens.net
 foundation8-web3.live
 foxcoin.site
@@ -836,7 +841,6 @@ info-google.net
 info-promotions-bonus.sbs
 infotainmenteconomy.org
 injectivehub-re.com
-inkchaindapp-aryhrk91-0xambivert.4everland.app
 instaswpa.com
 interface-git-web-1342-explore-token-details-sea-2009d5-uniswap.vercel.app
 interlinklabs.live
@@ -890,6 +894,7 @@ klay.aircoins.top
 kntq-stakings.xyz
 kondux-dapp.online
 kpolazs.com
+kraakenlogin.pages.dev
 krak-money.pages.dev
 krakenrat.ru
 krk-one.com
@@ -962,7 +967,6 @@ m.blastlab.app
 madladsnft.org
 magacoinsol.com
 magic-eden.online
-magma-ledger.app
 mail-inbox-security-mlcro-soft-secured-document.us
 mail.project-meta-ducks.com
 maindefiportal.com
@@ -977,6 +981,7 @@ marktplatz-kundenschutz.store
 maskmeta.biz
 mator-meteor.com
 maverick-protocolo.github.io
+meet-google.help
 mefamaskwallet-us.weebly.com
 mefondation.makereports.com
 melenia.claims
@@ -1049,6 +1054,7 @@ moonshot.vote-portal.xyz
 moonshotvote-2z.netlify.app
 moralis-api.zip
 morpheuslabsmigration.com
+morphowallets.com
 mpayquickz.online
 mtaewskexetdwoliied.gitbook.io
 multidapp-protocol.web.app
@@ -1164,7 +1170,6 @@ participate-paalai.com
 pass-scroll.com
 passportsui.top
 patekrolex-nft.com
-pay-bitrefill.com-gift-esim-as04.com
 pay-trust-wallet.vercel.app
 pay.cajra.com
 paybit.nexus
@@ -1228,6 +1233,7 @@ presale.bckrcoin.live
 presales-blockdag.xyz
 prismafinance.cc
 prjx-hl.com
+pro.variaitonal.co
 projectzero.sol-planet.cc
 prophetbots.net
 proposal-berry.org
@@ -1247,6 +1253,7 @@ puffer.fi-point.top
 pump-voting-gr.netlify.app
 pump-voting-j9.netlify.app
 pump.fun-ca.stream
+pumpana.fun
 pumpfun-celebration.net
 pumpstreamerschat.fun
 punk2023.com
@@ -1266,7 +1273,6 @@ quest.ordprotocolcoinfi.net
 quest.particlesnetwork.network
 quest.seedifycoinprotocol.network
 quests-rtfkt.com
-quickswap.at
 r6-zerolend.xyz
 ra-bby.created.app
 rainbet-de.eu.com
@@ -1330,6 +1336,7 @@ rewards-methprotocol.net
 rewards-stable.cyou
 rewards.dapp-lido.xyz
 rewardss.beauty
+rewievschecks-x.com
 rexasfinancefix.pages.dev
 rexfin.live
 rhonybarros.com.br
@@ -1362,6 +1369,7 @@ samurai-reward.xyz
 sandbox-claim.top
 sandclaim.com
 satellitedoge1.com
+satofi.space
 scapemania-claimdrop.pages.dev
 scatman.dev
 scope-scan.com
@@ -1628,6 +1636,7 @@ veiodrome.fi
 velodrome.web3-login.com
 veloxam.org
 venicevote.app
+verified-binance.com
 verify-collabs.vip
 verify-eigenfoundation.pages.dev
 verify.kavaprotect.com
@@ -1672,8 +1681,8 @@ wallet-qjl4.vercel.app
 walletconnectnode.web.app
 wallstreetgames.live
 warlus-claims.bond
+wccwcoinpsessnviwjs.com
 wct-walletconnect.com
-web02eu.live
 web3-protection.com
 web3-uniswap-uniswap.us
 web3apigm.tk
@@ -1818,13 +1827,13 @@ xats.io
 xcoinsworld.com
 xion-bonusblock.info
 xion-burnt.xyz
-xmagnetic.pw
 xmas-cult.com
 xn--dexscrener-jnb.com
 xn--dodles-3wa.com
 xn--monshots-vote-3mc.xyz
 xn--otheside-oub.com
 xn--zksyn-kxa.io
+xpl.partners
 xqkj.pro
 xr-clalm.top
 xrpmainnetdapp.com
@@ -1842,7 +1851,6 @@ zapper-daos.com
 zapper-time.com
 zengraphlap.com
 zerosumpakt.xyz
-zest-participation.xyz
 zetachain.org-k.click
 zk-sync-rewards.net
 zkera.top

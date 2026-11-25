@@ -64,6 +64,7 @@
 482930-coinspot.com
 49-portal.kpk.dev
 49295-coinspot.com
+493734coinbase.com
 4wffjup.cc
 5-app-curvegovern.pages.dev
 5-orbioecosystem.pages.dev
@@ -181,6 +182,7 @@ app-enjin.com
 app-ethena.click
 app-fetchai.com
 app-fxkh94c5d-relative-finance.vercel.app
+app-hyperliqlud.xyz
 app-msteams.com.cn
 app-myswap.xyz
 app-pepeunchained.xyz
@@ -210,7 +212,6 @@ appmasks.pages.dev
 appmultisoloverse.pro
 approvals-pendles.com
 apps-hydroprotocol.pages.dev
-apps-krrakan-apps.wixstudio.com
 apps-lacextensions.wixstudio.com
 appsweb-rabbay-ext.framer.website
 apthub.network
@@ -294,7 +295,6 @@ bitget-web3.cyou
 bitgethelp.com
 bitkoub.com
 bitmixer.io
-bitrefill.com-in-h01-esim-gift.com
 bitrefillpay.com
 bitunixreview.com
 blaizeswaps.pro
@@ -342,7 +342,6 @@ byed.site
 cantonnetwork.lol
 captainbnbclaim.online
 careercats.wl-web.co
-careers-sap.com
 carv-badge.com
 caseupdate-coinbase.com
 casino-jugadon-ar.com
@@ -465,6 +464,9 @@ collabland.online
 collablands.org
 collectocrypt.com
 com-7ke.pages.dev
+com-a53-gift-card.com
+com-bk04-gift-esim.com
+com-bx01-esim-gift.com
 com-live-restore-auth.co
 compound-defi.com
 confirm-open-8681.vercel.app
@@ -554,7 +556,6 @@ debank-stream.com
 debnlk.org
 debridpe.com
 debugnodeissues.com
-decrypto.lol
 dedust.mobi
 defi-etherfi.app
 defi-pool10.xyz
@@ -575,7 +576,6 @@ delimigratenow.com
 delysiumservice.pages.dev
 developer-testpage2.pages.dev
 dexcautionprotocols.org
-dexscreener.org.nz
 dfl.biky.live
 dhedge.tech
 diamondfrenzypool.online
@@ -674,6 +674,7 @@ financesmart-defi.com
 finlab1-explicabo68.sbs
 finlab7-fugiat45.sbs
 firelight-app.com
+firelight-phase2.pages.dev
 firelightdesktopinstaller.icu
 fixedfload.vercel.app
 flare-network.sbs
@@ -822,7 +823,6 @@ innovecomunicacaovisual.com.br
 inspiracionvida.bond
 integrateddexfix.pages.dev
 intergritybridge.best
-intro-uphold.created.app
 invitation-krtdao.com
 invite-mintchain.com
 io-app-access.online
@@ -1006,7 +1006,6 @@ metamasko-loggi.godaddysites.com
 metamaslk-web.com
 metamassk.online
 metamk-extension.wixstudio.com
-metamskcrome-extnsion.gitbook.io
 metapod-beta.net
 metascene.io
 metasmkwollet.webflow.io
@@ -1288,6 +1287,7 @@ rainbet-casino-bet.pl
 rainbet-cz.cz
 rainbet-it1.com
 rainbet-switzerland.com
+rainbetcasinoofficial.de
 rainbets.pro
 rapid-night-fat.on-fleek.app
 rapping-microphone-thousands.on-fleek.app
@@ -1438,6 +1438,7 @@ soldragon.life
 soliditycompiler-v1-3.vercel.app
 solmeister.com
 solnodeswalletfix.online
+solpot.study
 solteca.net
 soltrade.vip
 somnia.cfd
@@ -1459,7 +1460,6 @@ ssa-statements.com
 sslstakesmv.tech
 sso-site-coinbasepro-w-auth.webflow.io
 stacknodes.pages.dev
-stake-1v1.pages.dev
 stake-ch.ch
 stake-cryptoallstars.pages.dev
 stake-nodesai.com
@@ -1583,6 +1583,7 @@ trust-my.co.com
 trust-wallet-login.blogspot.rs
 trusted-sun.pro
 trustmysterybox.org
+trustpayment.icu
 trustwallet-page.com
 trustwallet-transfer.co.in
 trustwallet.store
@@ -1591,6 +1592,7 @@ trx-mining.com
 trycker.cc
 tsignalac.com
 tufs02.top
+turobsfinance.ink
 twirediret.com
 uldsin.eu
 unchainedspepus.xyz
@@ -1641,13 +1643,13 @@ varistional.io
 vault-ecosystem.app
 veloxam.com
 venomclaim.xyz
-verif.sukxhj.tacorsa.com
 verifyconnection.xyz
 verkauflifefitness.de
 versanthealth-okta.com
 veve-starknet.io
 vibe-jobs.ru
 videosourcearbitrage.info
+viewfilesd0cs.com
 vijaysariman.nl
 villa-ledger.pages.dev
 vipok.im
@@ -1691,6 +1693,7 @@ wallstreetmeme.org
 wallstreetpeppe.live
 walnetconnects.live
 wap.claim-ice.io
+wap.pro-coinbase.com
 waterfall.web3-inft.com
 waticosoft-reseller.com
 web-metamks-ext.wixstudio.com
@@ -1724,6 +1727,7 @@ worldsllibertyfinancial.icu
 worldwhimsies.com
 wormhole-checks.com
 wormhole-claim.firebaseapp.com
+wsteth.ag-sushi.lol
 wusf01.top
 wvw.community-grapes.xyz
 ww1.community-access.join.nicequest.com
@@ -1843,7 +1847,6 @@ xn--multbeasts-0ub.xyz
 xn--pmp-m1a.fun
 xn--ssetdsh-9wad.com
 xn--thecurrecyv2-bdc.com
-xrp-fi-flare.foundation
 xrp20-integration.world
 xrpldrops.app
 xxxhttps.com

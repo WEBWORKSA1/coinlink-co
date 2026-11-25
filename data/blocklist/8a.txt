@@ -1,5 +1,7 @@
 0044.usdt-pool.org
 00aa7368.wlfitokens.pages.dev
+0225-colnbase-listings-4f65.pages.dev
+0gmail.boats
 1-gov-hyperlend.pages.dev
 1-governance-kinetlq.pages.dev
 10-app-ethersfi.pages.dev
@@ -64,6 +66,7 @@
 51-proposal-computersrh.pages.dev
 51luc.toshi-token.homes
 52-stonkbroker-clutchmarkets.pages.dev
+524d-coinbase-listing-677f.pages.dev
 540dc453.rewards-babydoge.pages.dev
 5447823246-cy8.pages.dev
 57-governance-venice.pages.dev
@@ -183,6 +186,7 @@ annen.pages.dev
 anumeetfoods.com
 apecoin-airdropclaim.lol
 api-swap-wagyu.xyz
+api-synccloud.pages.dev
 api-trustwallet.com
 api.flykatana.com
 api.identifications-coinbase.com
@@ -219,6 +223,7 @@ app.unleashpratocol.xyz
 app.variatonal.co
 app.vaultamigrate.pro
 app.whalsemarket.com
+app3-collab.xyz
 appacross.pages.dev
 appdevex.icu
 appeal-termmax.finance
@@ -245,7 +250,6 @@ asterdex-distribution.icu
 astr-event.site
 astrovrukshbyshefali.com
 ator-a9s.pages.dev
-auctions-zealousswap.web.app
 audi-meta.com
 auroravortex.org
 aurum-foundation.com
@@ -422,7 +426,6 @@ claim-suiland.monster
 claim-sulilend.ink
 claim-superverse.co
 claim-taopad.pages.dev
-claim-unlswap.biz
 claim-w1p.netlify.app
 claim-zkml.com
 claim.arkeo-netwrk.top
@@ -578,7 +581,6 @@ digidiagaku.xyz
 digittoads.com
 dippies-nft.xyz
 discover-manta.network
-distribution-starknet.io
 distributions-flare.com
 distributions-paintoken.com
 divacommunity.site
@@ -750,6 +752,7 @@ gateways.me
 genesis-hyperfoundation.xyz
 genuniverse.life
 genzmsg.com
+geravomo.com
 get-crcoin.shop
 get-degentips.app
 get-fantv.digital
@@ -801,7 +804,6 @@ grass-foundation.work
 grassapp.click
 grok-reward.com
 groki-eth.com
-growyourengine.pro
 grvt-rewards.art
 gtrade.fi
 h2-finance.io
@@ -842,6 +844,7 @@ hyperliquid-claim.xyz
 hyperliquid-launchpad.com
 hyperliquid.coupons
 hypesaints-nft.xyz
+hyty-phantom.com.cn
 ibm.webefex.com
 idegensale.com
 if-okx.com.cn
@@ -914,7 +917,6 @@ kopydopin.com
 krakenairdrop.shop
 kslandrixon.store
 kucoinapp.network
-kwgz5h1i2s105slkwgz5h1i2s105sl.prambuday.stmcr.net
 kyc.moonshot-listing.com
 l2wdigital.net
 lagrange-drop.com
@@ -925,7 +927,6 @@ launchbtc.xyz
 launchpad-seedify-fund.website
 launchpool-allybuild.app
 layerbtc-net.web.app
-layeredge-airdrop.com
 layerzer0.org
 layerzero-sybil.net
 layerzero.claims-connect.live
@@ -942,7 +943,6 @@ ledgerboard.pro
 ledgerlive-eng.pages.dev
 ledgqer.com
 lefly.cloud
-legalaction-x.online
 lejanbrand.com
 lensclaim.com
 lido-ether.com
@@ -1197,6 +1197,7 @@ pancake-oxbull.finance
 pancake.swap-dashboard-v3.app
 pancake.xsadrop.com
 pancakes-click.vercel.app
+pancakeswap-claim.xyz
 pancakeswap-code.financial-market-world.com
 pancakeswap-verificationvhost207777.lowhost.ru
 pancakewsap.site
@@ -1283,6 +1284,7 @@ projects-apt.com
 promotion-pump.fun
 proposai-babyioniabs.com
 proposal-eigenfoundation.com
+proposal-etherfi.icu
 proposal-kaito.com
 proposal-spritehood.info
 proposals-3jane.xyz
@@ -1364,6 +1366,7 @@ reliancejiojob.in
 remote.support.secure.img.bc-game.pics
 ren-x2y2.com
 render.web3-airdrop.net
+renteez.net
 renzofi.xyz
 repeg-apyxfi.xyz
 replies-google.com
@@ -1695,8 +1698,10 @@ unlock-edgex.com
 unstake.top
 updatedarpacoinwebsite.com
 upwtoken.xyz
+us-ledger.net
 us.scrollorigzk.xyz
 us09webbzoom.site
+us18zoom.us
 us76webzoom.us
 usd-ai.trade
 usd.sitemw91jfqsmlsb.xyz
@@ -1713,6 +1718,7 @@ v3-changenow.com.co
 validecentravalue.pages.dev
 valorant33.com
 varialtional.com
+variational.link
 variationalecosystem.click
 variuational.io
 vbet1004.com
@@ -1732,7 +1738,6 @@ vote-etherfi.cc
 vote-morpho.co
 vote-pendle.org
 vote-supraiab.com
-vote-tea-protocol-com.pages.dev
 vote-terminal.pages.dev
 vote-treasuredao.app
 vote-xrp.com
@@ -1773,9 +1778,7 @@ warpsound-aai.xyz
 wassink.napw.site
 web-collab.land
 web-edgefolio.com
-web-iqoption.com
 web-support-trzr.pages.dev
-web01connect.com
 web3-beam.net
 web3-ns.net
 web3-vaultsafe.com
@@ -1792,6 +1795,7 @@ whitelists-avax.com
 whoaml.com
 wiener-ai.dog
 winter-summit-secure-user-2403-6067.pages.dev
+winter-summit-secure-user-2403-f872.pages.dev
 wise-sushi.cfd
 wisef.eu.cc
 withdraw-balancerfi.com

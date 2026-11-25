@@ -7,7 +7,6 @@
 10-governance-fungolabs.pages.dev
 10-governance-jumper.pages.dev
 11-hub-venicegov.pages.dev
-121jio.senes.at
 14-hub-treadeco.pages.dev
 188-stonkbroker-clutchmarkets.pages.dev
 189373-coinbase.com
@@ -46,6 +45,7 @@
 55-governance-hyperlend.pages.dev
 55-proposal-computersrh.pages.dev
 581112-ledger.com
+59db-colnbase-listings-4f65.pages.dev
 5exiju.com
 5thscrapee-en.xyz
 600166.cc
@@ -112,8 +112,6 @@ airdroparts-supply.co
 airdropp.space
 airdropxx.top
 airswap.site
-airswipe.cc
-aivest.live
 aixapp.xyz
 alchemix-my.com
 alephazero.com
@@ -200,6 +198,7 @@ arbitrum.cool
 arbitrum.quickpads.top
 arbitrumbridge.web3app.vip
 arbuis.xyz
+arcium-website-ed5y.elusiv.co
 arcusnet.top
 arcv4.xyz
 arkhaminletigence.com
@@ -272,6 +271,7 @@ bitfinex-binance.com.cn
 bitflow.fi
 bitgetdrop.com
 bitinauts.vip
+bitrefill.com-gift-cards-rune.com
 bitrys.com
 bitsmiley.network
 bitsouef.com
@@ -420,6 +420,7 @@ claims.trac-network.com
 clanostreet.com
 clash-verge.org
 claynosaurz.one
+clearpool-migration.info
 client-website1.pages.dev
 cloud-imagination.netlify.app
 cloud-lab-15d.cf-yah7nkdx.workers.dev
@@ -454,6 +455,7 @@ collectorcryt.com
 com-cdn-v5-online-edge.cloud
 com-desktop-ledgrr.pages.dev
 com-device-lost.ink
+com-gift-esim-av04.com
 com-us-privatewealth.com
 com-utmsource-google-campaign-5645542-keyword-bitrefill.com
 community.blog.secure.hedgies.win
@@ -571,8 +573,6 @@ distribution-wlfl.io
 djmarkelinexperience.com
 dl4hk9.cc
 dlebank.com
-dmca-notice-x.com
-dmcaappeal-x.info
 dmcadispute-x.com
 dmcaterms-x.com
 doc--exdus--weeb.pages.dev
@@ -618,7 +618,6 @@ eligibility-peaq.network
 ellipsisfi.ink
 elon-trade.com
 elonpump.top
-elonsushi.top
 elyonquest.xyz
 emv1.rtfktforge.tech
 en-coiinbasee-extenstion.pages.dev
@@ -809,7 +808,6 @@ inu-shibarium.com
 invite-plume.com
 invitecode-l2.icu
 invoiceheleket.com
-io-app-suite.net
 io-gmxexchange.com
 io-hub-swap.icu
 io-ledgr-us-help.pages.dev
@@ -853,6 +851,7 @@ komaswapclaim.pages.dev
 kprmint.com
 kraken-signin-session.icu
 krakenvk0.com
+krakn-logn.pages.dev
 kstar-nft.monster
 kucoin-wallet.cyou
 kwhkk.top
@@ -899,6 +898,7 @@ listing-iceio.pages.dev
 listing-starknet.com
 live-sophon.website
 ljimberpo.top
+llll-ledger.io
 llluvium.io
 lltp30.top
 lnyapechain.com
@@ -1280,7 +1280,6 @@ refund-velocore.com
 refund.scaliaprotocoldio.app
 reg-linea.build
 reg-personajourney.com
-regeluwzakenvandaagvia9833789.es
 register-buildon.network
 register-crazydolls.com
 register-ethermail.app
@@ -1372,8 +1371,8 @@ sdmax.cc
 season-sonic.com
 season4-degencoins.net
 secour-ledgr-login.pages.dev
-secure-munpay-logn.wixstudio.com
 secure-usdt.com
+secured-portal.pages.dev
 secured-tabs.pages.dev
 security-moonwell.cloud
 secux.foundation
@@ -1439,7 +1438,6 @@ spinz.cc
 spkrewards.store
 spok-earlyadopterdegen.xyz
 spot.pendlefinance.pw
-spxsushi.top
 srcols.com
 sso---robinhd--com----cdn--u-auth.webflow.io
 sso-robinhood-login-us.pages.dev
@@ -1483,7 +1481,6 @@ suilend-distribution.cyou
 suilend-distribution.yachts
 suiregulation.com
 sunpvmp.com
-superformfoundation.digital
 support-robinhood-login-en-us.pages.dev
 suprecorefix.pages.dev
 surfliquid-ai.pages.dev

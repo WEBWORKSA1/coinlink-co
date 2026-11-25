@@ -139,7 +139,6 @@ allocated-pepeunchained.com
 allocation-avail.network
 allocation-frax.xyz
 allocation-icetoken.xyz
-allocation-jupag.xyz
 allocation-kinto.co
 allocation-renzoprotocoil.com
 allocation-usual.money
@@ -223,7 +222,6 @@ asterdex-invest.com
 asterizms.com
 asteroidog.xyz
 atorprotocol.click
-atuwin.com
 auth-a8j.pages.dev
 authorized-vulcan.netlify.app
 auths-cdn--coinbasepro-en-sso.webflow.io
@@ -436,7 +434,11 @@ collabsea.xyz
 collabverify.xyz
 colnbasee.us
 com-account.id
+com-bl04-gift-esim.com
+com-c01-esim-gift.com
+com-cx01-esim-gift.com
 com-etarnal-web.base44.app
+com-gift-cards-celo.com
 com-jjdd.cfd
 com-polybet-q24.com
 com-polybet-q72.com
@@ -640,7 +642,6 @@ exchange-bridge.trade
 exchange-bwen.in
 exclusive.bonkclaims.fun
 exodus-bing.com
-exoduslawr.gitbook.io
 exodusweblo.gitbook.io
 expression-christmas.xyz
 extension-enrabby.framer.website
@@ -722,7 +723,6 @@ git.gitlab.git.m.icsecasino.com
 gitlab.git.gitlab.gitlab.sitemap.maqammed-ae.com
 giveaway-tezos.com
 glacier-ledger.site
-global-chat.live
 global-htx.cn
 global-polymarket.com
 glowconsultants.org
@@ -797,7 +797,6 @@ io-metasmk-extension.wixstudio.com
 ipcoin.top
 islamic-coin.world
 islamiccoin.live
-issuereport-x.com
 jacob-co.xyz
 jakethedegen-free1.xyz
 jaxx-startio-liberty.wixstudio.com
@@ -871,7 +870,6 @@ liquidlogin.org
 littlepepe-claim.vercel.app
 littlepepe-dev.xyz
 live-sofamon.com
-live-workplace.com
 livedropps.com
 lkzn.cc
 lnk3-inc.com
@@ -1092,6 +1090,7 @@ notcoin.guru
 notcroin.com
 noteworthy-lox.xyz
 notifications-superrare.com
+notifiication-google.site
 notpu.com
 notrop.com
 notru.app
@@ -1133,6 +1132,7 @@ openseanowmynft.web.app
 openseaprojects1.vercel.app
 openseasupport.live
 openseclick.vercel.app
+or-okx.cn
 orbitrelaylogs.buzz
 orca-defi-pool-6406.serene.pics
 orderrunn.top
@@ -1159,7 +1159,6 @@ particle-network.website
 partisians.premint-claim.xyz
 path-node-tracker.vercel.app
 paxfulp2p.com
-pay-bitrefill.com-m01-esim-gift.com
 pbz.msck.my
 pea.id-th.cc
 peapodsfinance.app
@@ -1197,7 +1196,6 @@ pledge-bsquared.com
 plrlsnapshotportal.xyz
 poahunthamlolatte.godaddysites.com
 poii-buildoneigen.app
-points.solsticefinances.com
 points.solsticesfinance.app
 polka-dot.exchange
 pollennfts.com
@@ -1623,6 +1621,7 @@ v2-puffer.pages.dev
 v2-uniswap.com
 v3-dydx.xyz
 vancedmanager.com
+variatiolan.io
 variationa.io
 variational.global
 vault-firelight.icu
@@ -1656,6 +1655,7 @@ wallet-8c374.web.app
 wallet-checker.net
 wallet-metamask-chrom.gitbook.io
 wallets-metamask.weebly.com
+walletsync-cyan.vercel.app
 wallstretpepe.xyz
 walrus-claim.com
 waltsvault.minting.id

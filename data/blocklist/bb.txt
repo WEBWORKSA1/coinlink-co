@@ -45,6 +45,7 @@
 73-proposal-saturncredit.pages.dev
 793205-crypto.com
 8-governance-curvefinance.pages.dev
+81de-482c-coinbase-listing.pages.dev
 820491-crypto.com
 84-vote-orbio.pages.dev
 850310-crypto.com
@@ -174,7 +175,6 @@ arb-rollup.com
 arbihunter.pro
 arbitrum-labs.pw
 arc-presale.pages.dev
-arcfxx.vercel.app
 archwaytechics.com
 arcrchain.net
 arcusxyz.cloud
@@ -185,7 +185,6 @@ arvestbank.us.com
 as009.ltyf.mom
 ascendexfantom.com
 assets-rai.com
-assistancecrypto-com.com
 asterdex-proposals.xyz
 asterdexapp-vote.top
 atvbuyer.com
@@ -233,7 +232,6 @@ bhsharedfile.com
 bifrostappdesktop.com
 bigeyes.uno
 billionair.web3-airdrop.net
-billions-rewards.xyz
 binance-airdrop.fun
 binance-security-verify.site
 binance-usdt-mining.com
@@ -245,8 +243,6 @@ bitcoinbsc.eu
 bitcoinehyper.com
 bitget-infomation.com
 bitmarrt.trade
-bitrefill.com-gift-esim-af04.com
-bitrefill.com-u01-esim-gift.com
 bitrockpool.xyz
 bittensor-ai.network
 blast-event.net
@@ -353,6 +349,7 @@ claiming-pendle.finance
 claimopensea-package.web.app
 claims-blubhub.com
 claims-brettbase.xyz
+claims-memecoin-live.netlify.app
 claims-nibiru.pages.dev
 clarityms.online
 click-bep-bep20.vercel.app
@@ -382,6 +379,7 @@ collab.fork-land.com
 collabs-connects.xyz
 collegearrm.bond
 coln-marketcap.com
+com-ag04-gift-esim.com
 com-buildonv3.sbs
 com-microsoftonline-onedrive.com
 com-receivepayout.click
@@ -597,6 +595,7 @@ femifresh3897-dev.github.io
 fewocious-adidas.store
 fi-delitfy.cyou
 fi-staking.app
+figurereports.live
 finance95-nostrum78.sbs
 finance95-officiis14.pro
 finance96-unde43.sbs
@@ -626,6 +625,7 @@ furrevertoken-io.web.app
 fusionistio3-free.xyz
 fvwjfs.top
 fxaxbd.com
+g-17765.com
 gaimin.online
 galagames-login.net
 gamefivip.club
@@ -739,6 +739,7 @@ investment-ivdt.site
 invite-nakamigos.com
 invitezoomsecuredindocfiles.top
 io-5902-041v.lat
+io-in-l01-omni.com
 io-search-d-opensea-btc-rvn-chrome-ob-utf-8.com
 io-wallet-phentom.pages.dev
 ipfs.node-ai.top
@@ -789,6 +790,7 @@ ksmtoken.org
 ksrghanimal.bond
 kstar-nft.pics
 kucoin-distribution.com
+kucoin108.com
 kucoin666.vip
 kyberswapdex.pages.dev
 las-js-claud.beer
@@ -1073,8 +1075,6 @@ paperhands-halo-home.pages.dev
 paraxter.org
 partners-zksync.com
 paws-claim.org
-pay-bitrefill.com-be04-gift-esim.com
-pay-bitrefill.com-ca01-esim-gift.com
 payback-bia.com
 payout-investvoyager.com
 pc.petsroof.com
@@ -1196,7 +1196,6 @@ rareapepeyachtclub.io
 raydium.fun
 raydiumnodes.com
 rayzen-whitelist-claims.vercel.app
-razor-wallet.it.com
 rbbywllett.gitbook.io
 realio-updates.com
 reallocation-flarenetworks.icu
@@ -1364,7 +1363,6 @@ spok.xn--clim-6na.com
 spongtoken.site
 spotgpus.com
 sray-tkn.fun
-sso-coinbase-com-e-x-auth.typedream.app
 sso-robinhoods-coms-autth-help.webflow.io
 staderlabs.org
 stake-bscpad.com
@@ -1404,6 +1402,7 @@ sushiswapn.com
 swap.circleusdc.io
 swap.uni-swapv4.com
 swapton.xyz
+swift-dev-e74.cf-ww4fixwm.workers.dev
 swiftclaiming.pages.dev
 sybii-layerzeroiabs.app
 synapaseprotocolr.com
@@ -1496,7 +1495,6 @@ uniswapm4.cyou
 unoamls.xyz
 unstopablidomains.pro
 update-elixir.xyz
-uphald-login-en.created.app
 upholdvip.im
 urban-spork-zeta.vercel.app
 urnas.store
@@ -1548,7 +1546,6 @@ votings-etherfi.xyz
 voxvot.truly-mints.com
 vulcan-role.com
 vulcan.landinghub.org
-waletam99-link.us
 wallet-asterdex.link
 wallet.brume.network
 walletconnecthd.cf
@@ -1578,7 +1575,6 @@ web3web3.top
 webbdappinterface.site
 webex-net.com
 webmail.bmarlic.site
-webtrader.epenessx-racyx.com
 weexai.net
 welcome--coinbasepro--cdn-cdn-auth.webflow.io
 welcome.sophonchaindao.net

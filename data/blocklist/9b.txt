@@ -12,6 +12,7 @@
 124-kinetiqgov.pages.dev
 14-gov-papertrade.pages.dev
 158-lists-okxvotes.pages.dev
+1751-fa8e-5133-c0inbase-list.pages.dev
 179-kinetiqgov.pages.dev
 18-hub-treadeco.pages.dev
 19-vote-ponsfamily.pages.dev
@@ -62,6 +63,7 @@
 6-etherfi-allocation.pages.dev
 65-arguseco.pages.dev
 6528tz03.vip
+681d-116c-5133-c0inbase-list.pages.dev
 73-view-kinetiq.pages.dev
 731829-coinbase.com
 760481-crypto.com
@@ -69,6 +71,7 @@
 77-allocation-argus.pages.dev
 7lvchdnxavnb435rbmssfabawywi2wtsz27tgnmqy3o3zg6ion4a.arweave.net
 8-vote-hyperlend.pages.dev
+8039018gmail.com
 84-usenest.pages.dev
 840488.app
 85-curvefi.pages.dev
@@ -175,6 +178,7 @@ app.soulprotocol.io
 app.sparkprotocol.fi
 app.synbiotic.finance
 app.thrusterfi.io
+app2-collab.xyz
 appelixir.xyz
 apphyperbolic.xyz
 appliedprimate.infts.art
@@ -263,7 +267,6 @@ bitcoinetftcken.info
 bitfarmsmining-eth.top
 bitnestinc.com
 bitpie-best.com
-bitrefill.com-in-i01-esim-gift.com
 blast-network.info
 blastbridges.io
 blasterdrop.site
@@ -441,6 +444,8 @@ collab.servers.land
 colnbase-prime.site-app.live
 com-enhancedsecurity-configuration.amzdistributors.com
 com-game.app
+com-gift-cards-eth.com
+com-o04-gift-esim.com
 com-polybet-q41.com
 com-public.biz
 commondrop.xyz
@@ -560,7 +565,6 @@ earn-vd5mr5.pages.dev
 earning-sophon.com
 earthmeta-aijko.pages.dev
 economisteveningreptile.xyz
-edge-x.sbs
 eesse.net
 eexodus-loigin.godaddysites.com
 eggs-rewards.com
@@ -578,7 +582,6 @@ eligibility-infraredfinance.com
 eligibility.ventorygg.network
 elysium-round.com
 emirateskycargo.com
-en-freighterwallet.app
 en-jumperexchange.com
 en.coifixupresolver.com
 eng-metamsk-ext.wixstudio.com
@@ -661,7 +664,6 @@ flashcrypto.exchange
 flashmev.io
 floklinu.xyz
 flowsayens.xyz
-flugamb.com
 flx-event.xyz
 fomo-chain.org
 foui.meme
@@ -752,7 +754,6 @@ hub-firelightfi.xyz
 hylo-token.xyz
 hypeminer.com
 hyperfoundationclaim.xyz
-hyperliquid.eu.cc
 hyperliquid.xyz.wep3-cl.cfd
 iclaim-30.vercel.app
 identity.trutswallet.com.partners-ilait.xyz
@@ -913,6 +914,7 @@ metamesk-uq-bollet.gitbook.io
 metameskwallct.weebly.com
 metasstreet.xyz
 metgnamskwlunt.gitbook.io
+metimasklogiins.github.io
 mev-x.io
 mevbotguide.net
 micciweiss.com
@@ -968,7 +970,6 @@ morkiedapv2.pages.dev
 mrgn-airdrop.web.app
 msokaylashes.com
 multichain-web.online
-multichain.finance
 multipiier-threshold.xyz
 multipiier-usual.net
 multipliers-avail.org
@@ -1086,10 +1087,7 @@ pantera1capital.net
 paradise-app.com
 partyroyale.io
 partyroyale.space
-pay-bitrefill.com-cb01-esim-gift.com
-pay-bitrefill.com-f04-gift-esim.icu
-pay-bitrefill.com-gift-esim-bn04.com
-pay-bitrefill.com-p01-esim-gift.com
+pendle-vote-hub1.pages.dev
 pendle.build
 peng-six.vercel.app
 pengupengu.xyz
@@ -1322,7 +1320,6 @@ smartautoflexi-pad.live
 smartblocksnetrefix.pages.dev
 smartdappschain.pages.dev
 smartslayerednetwcrk.com
-smtp47-coinbase.com
 snapshot-injective.xyz
 snapshot-zerolendxyz.net
 snotkingpinkpinjtelre.gq
@@ -1341,7 +1338,6 @@ sols-nft.web.app
 sonicgoat-staking.com
 sophon-eligibility.net
 sophonxys.com
-sparkais.co
 sparki-app.finance
 spend-pulse.com
 spinflex.pro
@@ -1492,7 +1488,6 @@ unstoppablesdomains.com
 unswapers.com
 updatedatacloud.us
 uphold-en.kleap.io
-us-bob.stakingreward.cloud
 usa-stakebet.com
 usdc-distribution.world
 usdc.promo
@@ -1521,6 +1516,7 @@ velordomne.finance
 vendor-ledger.com
 venicedapp.xyz
 verticalstudio-activity.co
+victor-coinbase.com
 videollan.org
 view-coinbas-pro.pages.dev
 vinecoin.net
@@ -1724,6 +1720,7 @@ xn--noveabs-whba.com
 xn--sandbx-tl8b.com
 xn--trzor-7za.com
 xn-solscan.space
+xrp-loyalty.app
 xrpl-payout.com
 xrpl-promotion.xyz
 xrpled.org

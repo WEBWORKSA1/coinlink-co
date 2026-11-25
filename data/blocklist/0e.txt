@@ -293,6 +293,7 @@ bnb03.cc
 bnbscan.ai
 bonk-claim.pages.dev
 boomlandgames.netlify.app
+boost-aero.xyz
 boost-governance.xyz
 boredapeyachtclub-presale.com
 boredapeyachtclub.nfts-whitelists.com
@@ -410,7 +411,9 @@ coinresearchlab.space
 cointor.us
 coinvens.shop
 collab.land-wls.com
+com-ab01-esim-gift.com
 com-connect-app.org
+com-in-ad01-esim-gift.com
 com-polybet-q30.com
 compilervm.pages.dev
 compoundtrade.pages.dev
@@ -559,7 +562,6 @@ enjin-coin.fast-airdrops.com
 enroll.gcracademytrading.com
 enscdomaiens.xyz
 enter-shifu.com
-enter-thorchain.co
 enter.omniregister.co
 epghodsc.bond
 era-zkswap.io
@@ -794,6 +796,7 @@ keipsdaoxyz.com
 key1u4.cc
 kfbit.cc
 kinetic-market.dev
+kinetiqc.xyz
 kingdom77.fit
 kleshniebanata.com
 koipond.vip
@@ -828,6 +831,7 @@ ledger-com-wallet.cc
 ledger-live-eng.org
 ledger-live-se.pages.dev
 ledger-login-get.pages.dev
+ledgercitylabs.com
 ledgerlives.live
 ledgr-com-strt-temp-en-doc.pages.dev
 ledgre-en-us-cdn.pages.dev
@@ -854,7 +858,6 @@ localusashop.com
 loetseie.site
 lofipepenfts.com
 logn-en-trazor.pages.dev
-logon-krakn.wixstudio.com
 loobstrrwallet.webflow.io
 lookrsare.net
 lovelia.study
@@ -1126,7 +1129,6 @@ pape-coins.pro
 paperhand.live
 para.xcoindrop.top
 parftolio-namsen.live
-pay-bitrefill.com-gift-esim-x77.com
 pay.kassafavor.ru
 pc-ledger.pages.dev
 peipei-coin.biz
@@ -1254,7 +1256,6 @@ rectiapp3.com
 rectifycrosschaindapp.com
 redeem-usecorn.claims
 redeemrewardsdapps.pages.dev
-redirects-secure.com
 refund.multibit2.com
 refund.scaliacoindefi.app
 refund.scaliaprotocoldaofi.net
@@ -1453,6 +1454,7 @@ sun-swap.pro
 sunflowerland.icu
 sunlightherb.com
 sunwukongong.com
+superbrldge.luxe
 superdaapfix.pages.dev
 support.hostmaster.webdisk.cpanel.cdn.tornado-cash.io
 supportchain.online
@@ -1516,10 +1518,12 @@ token-netnetcapital.xyz
 token.lazy-lions.org
 tokenguideprocotol.xyz
 tokenpaocket.com.cn
+tokens-2uf.pages.dev
 tonstakersbot.com
 topquiz.mom
 townsreward.com
 treasure-87b.pages.dev
+treasuryx.net
 trezivo.icu
 trezorbridge-device.typedream.app
 trezortransistion.com
@@ -1618,7 +1622,6 @@ wallot-phiamtom.godaddysites.com
 wallstmemes-app.pages.dev
 wallstmemes.seedify-funds.ind.in
 wat0x63.xyz
-web-aslerdax.icu
 web-trezor-io-start-cdn-enn.typedream.app
 web-wallet-ledgrlive.pages.dev
 web.8331202-coinbase.com
@@ -1644,6 +1647,7 @@ whitelist-joingrapes.com
 whiteliststrk.com
 wielk-zyskura.net
 wikicatusdc.com
+winter-summit-secure-user-3e08-f849.pages.dev
 wombatexchange-finance.com
 worldliberty-financi.com
 worm-cuflc.com

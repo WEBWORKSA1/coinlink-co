@@ -26,6 +26,8 @@
 2-governance-monadeco.pages.dev
 224-proposal-papertrade.pages.dev
 234671.icu
+24-allocations-flarenetwork.pages.dev
+2467-a471-colnbase-listings.pages.dev
 27-hookrfun.pages.dev
 2gijrehgsm.ru
 3-gov-veniceai.pages.dev
@@ -50,6 +52,7 @@
 55-proposal-paperstrategy.pages.dev
 581921-google.com
 5eth.win
+6-allocations-flarenetwork.pages.dev
 6-governance-hyperlend.pages.dev
 60-governance-kinetiq.pages.dev
 60279866.cfd
@@ -246,8 +249,8 @@ azuki.vip-mint.com
 azukilei.xyz
 b-games.top
 b2xb.pro
+b8b1-482c-coinbase-listing.pages.dev
 babyandytoken.xyz
-babytrollcoin.sbs
 backup-wallet.info
 bafybeicbffa3pntrrd6o7gbifdctk2ingttjnunx3qdqyzr27guaqcdgbi.ipfs.dweb.link
 bafybeicii2ew5jedbtdejci55rvcg3norv7bifey7vxzo2jofpbwfvjw6a.ipfs.cf-ipfs.com
@@ -286,13 +289,10 @@ binance-sign-up.com
 binance.daap.site
 binanceus-staking.pages.dev
 binanceverificationsystem.com
-bitbank.click
 bitc0inpepereward.my
 bitcoinminetrix-buy.pages.dev
 bitinauts.lol
 bitpushv.top
-bitrefill.com-bv01-esim-gift.com
-bitrefill.com-l04-gift-esim.icu
 bittensorcoin.com
 blaastup.online
 blade.game
@@ -335,6 +335,7 @@ bridge-ondo.finance
 bridge.pulse-chain.co
 bridgearbitrum.airdropapp.io
 bridgepulsechian.com
+bright-net-fea.cf-bqrdl8ac.workers.dev
 browse-en-exodu.wixstudio.com
 bsc-bridge.net
 bscview.live
@@ -351,7 +352,6 @@ car-cra.sh
 carbonwebs.xyz
 card.szu.edu.cn
 cardsforweb3.com
-care-ledger.com
 cashu-desktopapp.live
 catownkimono.onsolx.io
 cats-airdrop.vercel.app
@@ -371,7 +371,6 @@ chinesepeoplecanfly.com
 chino1111.pages.dev
 ciaiming-zerolend.app
 circle-compliance.com
-citrea.digital
 ciwi.io
 claiim-juppp.pages.dev
 claim-aidoge.live
@@ -422,7 +421,7 @@ claimnotcoin.org
 claimocaverse.xyz
 claimpume.pages.dev
 claimpups.online
-claims-ftx-distributions.com
+claims-flarenetworks.com
 claims-pumpplay.com
 claims.eigen.capital
 claims.movement-networks.lol
@@ -468,6 +467,8 @@ collab.landconnect-bot.com
 collabandverify.onrender.com
 collabverif.land
 collopsverif.land
+com-gift-esim-bb04.com
+com-gift-esim-bj04.com
 com-proposal.pro
 com-us63227t1c28au.info
 community-avail.xyz
@@ -681,7 +682,6 @@ expedition-mintosis.pages.dev
 extensionmetamaskus.wixstudio.com
 extether.xyz
 extt2.shop
-ez-cash.christmas
 fantomappconnectsign.pages.dev
 fantomclaim.site
 fartcatsolana.com
@@ -724,6 +724,7 @@ game-stein.online
 games-metalist.io
 gatesaproxs.com
 gatesupport.io
+gating-cdn.com
 gb-trezor-bridge.pages.dev
 gemini-web3.com
 genesis-celestia.website
@@ -771,6 +772,7 @@ harambetok-eng.pages.dev
 hardclosesoftware.com
 hashrevs.pages.dev
 hedera-all-token-dapp.vercel.app
+heirna.luxe
 hexdashboard.com
 ho-metreazor-suit.pages.dev
 hodl-insight.io
@@ -978,7 +980,6 @@ metscwaltextson.webflow.io
 mettaxva.com
 mewonbase.com
 mglohhld.bond
-microsupport.co
 midnight-network.xyz
 midnightsoceity.com
 migrate-aminorewards.pages.dev
@@ -1261,10 +1262,13 @@ quiza.company
 radiant-capitall.com
 raffle-checks.com.akibcalledbeast.com
 rain-bet.info.pl
+rainbet-danmark.com
 rainbet-sk.sk
 rainbet.de
 rainbet.digital
+rainbet.lu
 rainbet2.de
+rainbetbonus.cc
 rainbetcasino.uk.com
 rainbethr-com.pages.dev
 rainbetlogin-vip.pages.dev
@@ -1274,7 +1278,6 @@ rarible-stores.com
 raritycoinsolution.site
 rarlble.xyz
 rbq.akaric.fun
-rby-ooasj.sadiyaha01.workers.dev
 rcyco.org
 realblackrock.top
 reallocation-raacfi.xyz
@@ -1380,6 +1383,7 @@ servicearbitrage.info
 sevencasino.top
 sewerspass.xyz
 shardeum-docs.com
+share.rwanftfi.com
 shbdapp.tech
 shiba-network.net
 shido-t.com
@@ -1428,7 +1432,6 @@ solaxy-claimable.com
 soleyesai.com
 solflare-sol.com
 solicittocreditoonline.vercel.app
-solisticefinance.app
 solixlogo.com
 sollutiondashboard.info
 solscan-jup.github.io
@@ -1462,7 +1465,6 @@ stake.destracoindao.net
 stake.optinetworkfi.info
 stake.shadownode.trading
 stakehud.com
-stakewise.digital
 staking-stage.com
 staking.retikfinances.xyz
 starbucks-promotion.com
@@ -1626,7 +1628,6 @@ verabridge.website
 verify-collabs.com
 verodrome.finance
 versatilescribedefy.pages.dev
-vi-tols.com.flareclaimnetworks.com
 video.veo-3-1.io
 videoconfrencemeeting.online
 view.scrollbi.cc
@@ -1664,6 +1665,7 @@ walllstreetmeme.com
 wallstmemus.com
 wapps.live
 wappventprotocol.on-fleek.app
+way-okx.com.cn
 wbtcget.com
 web-faq-start-help_trezor_io.typedream.app
 web-launch.insure
@@ -1705,6 +1707,7 @@ wrapped-punks.com
 wrlomhole.net
 wvw.grootzk.xyz
 wvw.pepzk-community.ink
+www-lace.st
 www-usdt0.github.io
 www.account.coinbrack.com
 www.admin.artblucks.io

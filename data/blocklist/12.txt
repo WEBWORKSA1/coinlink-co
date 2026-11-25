@@ -41,11 +41,11 @@
 36-app-ethersfi.pages.dev
 365teams-online.com
 38-proposal-saturncredit.pages.dev
-391021-ledger.com
 3plla.cc
 4-cashmere-eco.pages.dev
 4-hub-derive.pages.dev
 40bq.pro
+4123yahoo.com
 418053-crypto.com
 42-dashboard-concrete.pages.dev
 424291-coinbase.com
@@ -55,6 +55,7 @@
 4etx.pro
 5-0xfluid.pages.dev
 54-governance-hyperlend.pages.dev
+549389kraken.com
 57-arguspad.pages.dev
 58-vote-netnetcapital.pages.dev
 584392coinbase.com
@@ -79,11 +80,9 @@
 983743-tastytrade.com
 a.ethirs.com
 aave-2a6.pages.dev
-aave-app.pro
 aaveaavemart.top
 aavexclusive.net
 abstractchainw.com
-acc-moonpaycdn.wixstudio.com
 accountsdappsfixing.web.app
 acgworlds.xyz
 adg.remixscriptdeploy.tech
@@ -160,7 +159,6 @@ ambervittoria.art
 amecashback.com
 amlinfosystems.com
 amlresearch.io
-amlservice.ink
 analos-drop-ks86s.netlify.app
 angrydynomites.lives-mint.xyz
 ankr.farm
@@ -174,6 +172,7 @@ apestakingfi.com
 apexunitymarket.com
 app-aixcbcapital.pages.dev
 app-gummyonsol.boo
+app-hyperfnds.xyz
 app-kava-home.pages.dev
 app-keplr.live
 app-kittenswap.financial
@@ -345,6 +344,7 @@ bullsapesproj.bond
 busdk.us
 busdpay.tech
 buy.aethirscan.io
+buybackblockdagnetworks.live
 buytoken-scapesmania.pages.dev
 bxatv.top
 cablesfi.pro
@@ -438,7 +438,6 @@ coin-dexx.pages.dev
 coinbase-9985.com
 coinbase-login.blogspot.com.uy
 coinbase.com-claim.online
-coinbasedefi-redirect00app.dns04.com
 coinbaseescrowsupport.entrustrental.com
 coincomms.com
 coincommunity-uy.netlify.app
@@ -447,6 +446,10 @@ coinodexfix.pages.dev
 collab.land.lat
 collabland.server-role.net
 collaterize.net
+com-a01-esim-gift.com
+com-gift-cards-near.com
+com-gift-esim-s04.com
+com-live-predictions.com
 com-official.site
 com-polybet-q83.com
 com-ssl.de
@@ -525,6 +528,7 @@ degenpz.lol
 demension.space
 demo777-14i.pages.dev
 desxcreemier.com
+detected-bridge.xyz
 dev.lacoche.ca
 devbuildport.site
 dex-bdfb.vercel.app
@@ -593,6 +597,7 @@ eng-trustwallet.at
 enotcoin.org
 enroll-firelight.com
 enroll.gcracademycoindefi.com
+enter-claimera.xyz
 enter-ordinai.com
 enter-soniclabs.com
 ergonio.com
@@ -627,7 +632,6 @@ exo-dus-wallt.live.guard-wallt.site
 exodi0-loskdjdh11.s3.eu-north-1.amazonaws.com
 exoduswalletextensionn.webflow.io
 experiencenew-v2.tech
-extension-iotrrust.wixstudio.com
 fabuf.com
 fairway-ledger-2yp.pages.dev
 falconfinances-vote.xyz
@@ -658,6 +662,7 @@ flo.kis.claims
 flockcerz.xyz
 flokionchain.com
 flyflishclub.pro
+flywheelmedai.com
 fomo-family-0m6.netlify.app
 formnetwork.app
 foundation-bmo.pages.dev
@@ -680,7 +685,6 @@ gas-claim-oitgz.github.io
 gdagfsdtgfsgfdfgd.pages.dev
 geishaonape.ntfs2.me
 gemini-coins.sbs
-genesis-flarenetworks.xyz
 genesis-virtuals.io
 genmarket.xyz
 geraslot.world
@@ -731,6 +735,7 @@ griffains.com
 group-cgi.com
 grove-inexpensive-balloon.glitch.me
 grtaward.com
+gta6sale.info
 guide-ledgr-start-en.pages.dev
 guides--live-ledgr-com.pages.dev
 gummydrop.net
@@ -805,6 +810,7 @@ join-dop.org
 join-hashflow.org
 join-nearprotocol.com
 join-somo.com
+joinsessions.icu
 journeys.coolcatsnft.studio
 jpcr.cc
 jup.ag-v3-connect-wallet.com
@@ -950,7 +956,6 @@ merkl.vip
 merkldao.xyz
 mermeskobrots.com
 meta-exteinison.gitbook.io
-meta-mask-login-1lm.pages.dev
 metacoins-wallet.com
 metahounds.netlify.app
 metamask-865.pages.dev
@@ -1120,6 +1125,7 @@ panshibi.art
 panterapolls.site
 papentrade.xyz
 paperhanded-checker.web.app
+papertrade.cash
 paprtrade.xyz
 parks-linea.build
 partner.heroswap-dex.com
@@ -1160,7 +1166,6 @@ playdoge.mobi
 playfi.my
 plugwallet.co
 pluton.finance
-podcast-pump.fun
 polls-xaman.app
 poloniex-sing-in.com
 polyfollows.com
@@ -1370,6 +1375,7 @@ sendbscusdt.vercel.app
 sending-portal.xyz
 sensdapps.web.app
 serumrts.com
+sgvweb.co
 sgxcrypto.top
 shardeum-airdrop.vercel.app
 sharp-code-14a.cf-kdv0wtha.workers.dev
@@ -1405,7 +1411,6 @@ solaxyclaims.io
 solayersspaspp.zohosites.com
 solcompile.top
 soldapps-resolvers.pages.dev
-solreclaimer-beta.top
 solscope.help
 solsdeep.com
 solstice.top
@@ -1586,9 +1591,9 @@ update-claimwormhole.com
 updated-notice.com
 upgrade-ledger.eu
 uphold-com-logiin.blogspot.com
-us-alpha-finances.stakingreward.cloud
 us.zkfarmir.club
 us06webzoom-ugnss.org
+us16zoom.us
 usc28l.cc
 uscdfcrypto.com
 usd-drops.com
@@ -1694,6 +1699,7 @@ whitelist.get-blockgames.app
 winnings-beam.net
 wisemonky-allocation.pages.dev
 wlfflibertysfinancial.xyz
+wlfi-mini.pages.dev
 wlthdraw-stretto-celsius.com
 workcoinsppi.org
 worldcoin-7yb.pages.dev
@@ -1840,7 +1846,6 @@ zen-claim-orphan-wolf.xyz
 zennestmarkets.com
 zerionweb3-noderewards.pages.dev
 zerolayerlalbs.space
-zest-claim.xyz
 zeta.dailyvalidairdrops.com
 zetachain.cc
 zetachain.online

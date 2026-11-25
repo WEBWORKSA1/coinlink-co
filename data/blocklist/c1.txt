@@ -74,6 +74,7 @@
 423-curvefi.pages.dev
 460726-binance.com
 48-governance-curvefinance.pages.dev
+480348binance.com
 5-globaldollargov.pages.dev
 5-orbioeco.pages.dev
 5-reallocation-concrete.pages.dev
@@ -105,6 +106,7 @@ a5d37086-a8e1-4639-9cf7-c313c7b0c8bc.dragonswapes.me
 aanmaning-direct.net
 aave-v3.app
 aavev3access.com
+ab-okx.cn
 acbaop.xyz
 accboxi.com
 access-debank.1gb.ru
@@ -306,7 +308,7 @@ bitgetsv.vip
 bitgetwallet.lat
 bitkingz.xyz
 bitokxx.xyz
-bitrefill.com-cz01-esim-gift.com
+bitrefill.com-gift-cards-qtum.com
 bitsouhg.com
 bittensor-opentensor.online
 blacksbullsol.life
@@ -465,7 +467,6 @@ collect-zk-sync.io
 com-authentication.beer
 com-coinsquare.webflow.io
 com-help.tax
-com-id-7s2w6sw1ds21.com
 com-polybet-q88.com
 com-stream.shop
 commerce.peancakfiance.com
@@ -560,7 +561,6 @@ discord.kavashield.top
 disney-pinnacle.info
 displaydriveruninstaller.org
 distribution-blur.com
-distribution-hyperbeat.org
 distribution-zebec.com
 distribution-zerolend.xyz
 distributions-id1573.com
@@ -637,7 +637,6 @@ enus-app-ledger.pages.dev
 epoch-modenetwork.pages.dev
 era-claim.live
 erc20-trust.online
-ercclaimadvisorworks.help
 ethdrops.ru
 ethena.fund
 ethereumfund.io
@@ -700,7 +699,6 @@ floki-coin.xyz
 flokiate.pages.dev
 flufborrows.com
 flufftopia.wtf
-folkfi.org
 forum.polyhedraswap.com
 foundations-usdai.xyz
 four.multichains-pads.top
@@ -791,6 +789,7 @@ hivespace.net
 hlp-tregr-sute.pages.dev
 hmstrcombat.space
 hodl-insights.io
+hollywoodagentwiki.wiki
 holozoneai.com
 home-exdusweb.pages.dev
 home-exoduss-wallt.pages.dev
@@ -821,14 +820,12 @@ inch-repaircontractaddress.pro
 infinex-landing-page-v2.vercel.app
 initia.build
 initia.ws
-injective-rewards.xyz
 injectives.pro
 inu-bonk.web.app
 invisibiefriend.xyz
 invisible-friends.web3fast.net
 io-access-app.com
 io-s8vi.garden
-io-search.sbs
 io-sui.pages.dev
 ioapps-jaxxlibrety.wixstudio.com
 iook.fun
@@ -902,7 +899,6 @@ lidofii.link
 lidofinance.fi
 lidofinancestake.com
 lidofinew.pages.dev
-lienfi.today
 lighter-airdrops.xyz
 limitedcoin.run
 linea.com-t.click
@@ -953,6 +949,7 @@ manta.network-web3.xyz
 manta.pacifics.network
 mantadr.xyz
 mantle.services-bonus.pro
+manualconncet-ledger.live
 mars-erc.xyz
 marscatsvoyage.ltd
 mashabas.online
@@ -1168,6 +1165,7 @@ patch-demon115.workers.dev
 paws-tokens.xyz
 paybiescdn.wixstudio.com
 paydpall.com
+peamox.com
 peipei-app.com
 pencsvup.com
 pendle.network
@@ -1198,7 +1196,6 @@ poll-ordiswap.net
 polls-okxlistings.pages.dev
 poloniex.lat
 polymarket-edge.duckdns.org
-polymarket-en.web.app
 polymarket.cv
 polymarketrewards.com
 polymarkt.com
@@ -1278,7 +1275,6 @@ quest-alignedlayer.net
 quest-fantasytop.app
 quest-zora.com
 quickclaim.live
-quickdevfix.xyz
 quickwsap.cfd
 qwlou.top
 rab-bywallet.github.io
@@ -1430,7 +1426,6 @@ signup-swell.net
 signup-syncus.network
 signup.jasonderuloeth.xyz
 silv2-illuviumrewards.claims
-sindhilagn.com
 singular-parfait-fc9154.netlify.app
 sitemapse.register-gtprotocol.io
 sitemux23pw29lu5.cfd
@@ -1491,6 +1486,7 @@ steamconmnunity.com
 steancommnity.ru
 stewardshipestates.com
 stockupdatetrade.org
+stonkcrates.xyz
 straitsxteb.com
 strategy-circle.com
 strawberrys-event.com
@@ -1543,7 +1539,6 @@ thedefiant.click
 theemiratesgroups-ae.online
 thenctccin.org
 thetaaiex.cc
-theteai.ink
 thewombatexchange.com
 tiffany.vip-collect.com
 timeonsol.com
@@ -1609,7 +1604,6 @@ uniswapwallet-org.gitbook.io
 universalnodesync.surge.sh
 unlock-profile.cfd
 unrevoke.com
-uphuld-io.zapier.app
 us-base-extension.wixstudio.com
 us-trezur-suite.framer.ai
 usairdrop-blast.com
@@ -1619,7 +1613,6 @@ usdrewards.io
 usdt-1000.info
 usdtclaim.space
 usdtreward.io
-userid-81d.ws
 users.evergreenfin.ltd
 usweb07zoom.us
 uuu-puce.vercel.app

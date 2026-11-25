@@ -47,6 +47,7 @@
 37-proposal-fablesfi.pages.dev
 38-gov-concrete.pages.dev
 3tnova.epicalborder.pt
+4-allocations-flarenetwork.pages.dev
 4-argus-pad.pages.dev
 4-derives.pages.dev
 43-vote-orbio.pages.dev
@@ -247,6 +248,7 @@ axiomdesktopapp.com
 axj7djlak34aog2mxzt3xbznimqakj5bhjjfrhv6wg67rl6jk6ya.arweave.net
 ayohsee.fun
 azuki.web-freemint.com
+ba-okx.com.cn
 babyghosts.cc
 babygrokai.netlify.app
 babylon-bi9.pages.dev
@@ -280,6 +282,7 @@ bganpunks.attention-mint.xyz
 biaoqing.app
 biastfoundation.app
 bibytproey.com
+bifanotc.com
 bin-def.vip
 binan-cere-fund.com
 binance-connect.top
@@ -292,7 +295,6 @@ bitcoinbcsc.info
 bitcoincats.art
 bitget.gr
 bitistones.com
-bitspay.cc
 bjcia.com
 bks6i.cc
 blackbullesol.com
@@ -535,6 +537,7 @@ dashboard-getgrass.pro
 dashboard-layeredge.digital
 dashboard-ston.finance
 dashboardclaims.pages.dev
+datatopaz-ledger.com
 debank-7vc.pages.dev
 debanks-com.pages.dev
 debit-tw.com
@@ -599,6 +602,7 @@ e4mu.pro
 early-chain.link
 earn-blast.fi
 earnee-airdrops.org
+ebdf-colnbase-listings-4f65.pages.dev
 echo-react-boilerplate.vercel.app
 eclipse-claim.xyz
 ecosystem-elysium.xyz
@@ -624,8 +628,6 @@ enter-rekt.com
 entry-aave.com
 erc-beckr.top
 erc-finance.com
-ercassetsettlenodeyield.help
-ercclaimcompass.help
 ereca.ink
 escortbabylone-review.us
 esultiverse.com
@@ -1013,7 +1015,6 @@ moonshots-listing.com
 moprpho.org
 mornasco.giandriale.it
 morpho.buzz
-ms-firelight.com
 multi-trustepade.top
 multichain-dapps-web.netlify.app
 multichainrec.pages.dev
@@ -1038,7 +1039,6 @@ mysterybox0009.vercel.app
 mysteryclick19.onrender.com
 n-apps-phantom-com-auth.webflow.io
 nanj.x-coin.trade
-nav-krkencdn.wixstudio.com
 nddrbdg.xyz
 neiro.trade
 neiros-sol.org
@@ -1099,6 +1099,7 @@ opoletc.top
 opseamint-19.vercel.app
 opswljh.cc
 optimism-airdrop.web3-claims.codes
+optimism.chainpouch.com
 optitoken.net
 optopia-early.vercel.app
 orai.trading
@@ -1175,6 +1176,7 @@ pogai.xyz
 polkadot-app.bridge-web3-claimings.link
 polkaswap.live
 polygonsteaking.pro
+polymarker.com
 polymarket-claim.vercel.app
 polymarket-site.github.io
 pons-voting-nx.netlify.app
@@ -1223,7 +1225,6 @@ pufether.com
 pulse-binance.com.cn
 pulsexapp.co
 pulsexapp.io
-pump-streaminglive.fun
 pump-voting-a8.netlify.app
 pump.streamapp.fun
 pumplivechats.fun
@@ -1237,8 +1238,8 @@ quest-aethircloud.app
 quest.blackpantherdao.com
 questn.live
 qytlex.com
-raac-rewards.xyz
 rabby.com.mx
+rabbycoinfund.pro
 rainber.us
 rainbet-bet-au.com
 rainbet-bonus.net
@@ -1262,7 +1263,6 @@ rcp-protocol.online
 reallocation-diamante.com
 realtime-pool-filter.xyz
 rebirthcreepz.com
-reclaim-alliances.co
 reclaim.munschsables.network
 rectifilayer2.com
 redirect-waltio.com
@@ -1339,6 +1339,7 @@ sakaivault.cloud
 sandbar.ink
 sandbox-distribution.com
 sapienairdropclaimsz-signup.lol
+saturncredits.finance
 savvy-payments.com
 saylorgive.io
 scooters.lol
@@ -1551,6 +1552,7 @@ trustwallet-virtualcard.co
 trustwallet.buzz
 trustwallet.fi
 trustwalletlogin.blogspot.com.ee
+trustwalletsafety.com
 trustwalletsend.org
 trustycrip.com
 tstwallet.com

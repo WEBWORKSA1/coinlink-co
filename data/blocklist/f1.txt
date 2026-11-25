@@ -24,7 +24,6 @@
 19-fables-votes.pages.dev
 1ayerzero.github.io
 1coinbase.com
-1inchdexapp.blogspot.com
 2-gov-fluid.pages.dev
 2-zipcoin.pages.dev
 20-argusworld.pages.dev
@@ -35,6 +34,7 @@
 23-app-kinetiq.pages.dev
 23-gov-papertrade.pages.dev
 23-proposal-prjx.pages.dev
+2519746-apple.com
 26-aero.pages.dev
 261-curvefi.pages.dev
 28-jumpereco.pages.dev
@@ -223,7 +223,6 @@ astheriax.com
 astounding-boba-6ae26a.netlify.app
 astraten.website
 astrodex-support.netlify.app
-athsushi.top
 ator-claim.xyz
 authenticate-icloud.com
 authorization30-ledger.live
@@ -280,7 +279,6 @@ bitcoinonbase.info
 bitjumpn.top
 bitmix.cash
 bitnovu.com
-bitrefill.com-gift-esim-x77.com
 bitymy.com
 blackandwhite.pk
 blast.net-a.click
@@ -448,6 +446,7 @@ collab-land-bridge.com
 collab-land.net
 collabsecured.land
 collectcrcrvpt.com
+com-am04-gift-esim.com
 com-cyber.biz
 com-gift-esim-j04.com
 comelot.exchange
@@ -589,11 +588,8 @@ eng-suite-trzo.pages.dev
 enjimstarter.org
 enroil-galxe.app
 enroll.aerodromechaindao.com
-enter-hyperfoundations.com
 epicoinmap.com
 erclido.lol
-ercrefundservices.help
-ercrefundsource.help
 errorcorrection.pages.dev
 eth4.web3nfts.cc
 ethenafinaance.com
@@ -650,6 +646,7 @@ flarenetwork-genesis.cyou
 fliud.io
 flokiprotocols.net
 flokitoto-x.world
+flsupport.pages.dev
 fomodesktop.app
 fomosolana.pro-cryptopad.tech
 foodnft.site
@@ -824,7 +821,6 @@ layer.sptisp.com
 layerzero.web3claimers.com
 lcloudlostmode.us
 lcnmarket.cc
-ldgrlives.zapier.app
 ldo-claim.xyz
 leanmmo.com
 ledgeer-livee.pages.dev
@@ -1078,7 +1074,6 @@ paramgaming-drop.com
 parti0toneth.lol
 partyicons.live
 paws-foundation.lol
-pay-bitrefill.com-ck01-esim-gift.com
 paybox-hub.xyz
 payouts-blockfi.com
 paywardltd.com
@@ -1120,6 +1115,7 @@ polyhedra.pro
 polymarket-demo.site
 polymarkeyt.us
 pons-voting-85.netlify.app
+ponsfamily.ink
 pools-cogfinanceapp.pages.dev
 pooltogether-me.com
 porftolio.trade
@@ -1183,6 +1179,7 @@ raimag.su
 rainbet-casinoplay.com
 rainbet-deu-com-134595-dkc.pages.dev
 rainbet-games.vip
+rainbet.org.nz
 rainbet1casino-fr-com-122057.pages.dev
 rainbetindiaonline.com
 rainbetschweiz.com
@@ -1237,7 +1234,6 @@ rewards-abitrum.org
 rewards-babybonk.pages.dev
 rewards-blastoff.com
 rewards-carv.trade
-rewards-pethooligan.fun
 rewards-sunflower-land.com
 rewardstonkfun.xyz
 riapaefinanc.cloud
@@ -1255,6 +1251,7 @@ sablier.cc
 sachicoin.art
 sacolamobile.magazineluiza.com.br
 safe-guard.site
+safe-multichain.app
 saga.xyz-claim.com
 sagaxyz.org
 saintsofla-mint.online
@@ -1377,7 +1374,6 @@ stg.shitcoinbase.net
 stklabs.pro
 stonkfin.xyz
 strawberryaiuse.com
-strk.stakingreward.cloud
 stusdt.finance
 stuz0r.io
 subnetgpu.shop
@@ -1447,7 +1443,6 @@ tonstake.shop
 top-cryptolist.net
 tpepo.shop
 trac-main.xyz
-tradexpert-capital.com
 trbinance.io
 treasuries-renzoprotocol.com
 treasury-layer3xyz.org
@@ -1505,10 +1500,8 @@ unstapabldomains.pro
 unstoppabledomains.email
 update-wallet-ledger.com
 upgraded-eth.vercel.app
-uphold-logln-us.created.app
 upholidlognee.godaddysites.com
-us-meeting-join.com
-us-suins.stakingreward.cloud
+us-04web.com
 us.apollo-x.finance
 us06webx.us
 usd.gift
@@ -1566,7 +1559,6 @@ waliet-connect.network
 wallet-fix.pages.dev
 wallet-polygiens.technology
 wallet-tech-solution.info
-walletconnecthub.com.tradeonicc.com
 walletconnectrn.gq
 wallitiq.net
 walllet-phaetoum.godaddysites.com
@@ -1756,7 +1748,6 @@ xrp.bio
 xrpbonus-invest.org
 xrpdouble-foundation.com
 xrpldistributions.com
-xrpmarkets.io
 xttnq2exdw5tgqsi2zer4wydb4qdgs6bivo64wunrk5mkjufsnhq.arweave.net
 xtzgame.com
 xxgl999-keyapih339zsk8.cfd
@@ -1765,7 +1756,6 @@ yahoocn86.com
 ydonws.top
 yearns.top
 yettest.pages.dev
-yoprotocol.network
 yougetsomething.xyz
 youhodller.com
 zalupcoin.space
@@ -1783,6 +1773,7 @@ zerolends.trade
 zeroliquid.org
 zh-welcome-perfectworld.com
 zhinagix.org
+zk-airdrop.shop
 zk-polyhedra.network-ou1.xyz
 zkchecker.com
 zksync-distro.com

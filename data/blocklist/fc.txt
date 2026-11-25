@@ -78,6 +78,7 @@
 90skidsnft.xyz
 920088hk.cn
 954706-crypto.com
+958642google.com
 98-0xfluid.pages.dev
 9inch.finance
 about-rarible.com
@@ -314,6 +315,7 @@ checker-yieldbasis.icu
 chibidinos.fwnfts.com
 chromiaxyz.pages.dev
 ciaim-meritcircle.net
+cipheradapp.com
 ciscosandbox.com
 cityboyscoinerc.com
 claim-7ra.netlify.app
@@ -440,6 +442,7 @@ cryptophunks.live
 cryptos-airdrops.com
 cryptoscan.app
 cryptotax.pages.dev
+cryptoxchange.guru
 cs2-skinport.com
 csmoney.org
 ctoadzjoin.com
@@ -464,7 +467,6 @@ dashboard.metadao-dex.com
 dawgzai.com
 dbr.stakingsrewards.club
 dbrsltd.com
-debank.gr.com
 debank.site
 decentraland.fsnfts.com
 defier.ink
@@ -590,7 +592,6 @@ evmmainnet.vercel.app
 evmwallet.xyz
 exchange.appbeamswap.org
 exod-e-web3.pages.dev
-exodus-myupdate.com
 exodus-w.co.com
 exodus-wallet-extensions.webflow.io
 exodus.sec-wallet.io
@@ -681,6 +682,7 @@ gov-vstrk.services-global.live
 governance-ethena.app
 governance-longbow.pages.dev
 governance-pons.click
+governance-treadfi.site
 governance.sitemw8b5mr0sqp5.xyz
 gracefulomen.com
 graph-present.net
@@ -768,7 +770,6 @@ jupiterswp.at
 jupnft-received.info
 justamemecoinz.xyz
 k1kc.cc
-kaiyun-fixture.com
 karat-dao.ath.cx
 karatdao.fi
 kavaguard.firebaseapp.com
@@ -963,13 +964,11 @@ ms-line.store
 msreweb-orl.pages.dev
 muitipliers-availproject.com
 multi-dappsync.netlify.app
-multi-flare.info
 multichain-tokenguidehelpsave.shop
 multichaincoinwallet.firebaseapp.com
 multichaincontracts.app
 multicoin-x.info
 multiplier-solv.com
-multiply-flare.info
 mymsteamfill.live
 mysterybox-2b.vercel.app
 mysterybox99k.vercel.app
@@ -1070,7 +1069,6 @@ panelteststatus03.com
 paraexchange.us
 participate.traderjoeprotocol.net
 participating-hex.com
-pay-bitrefill.com-at01-esim-gift.com
 paybisom-login.pages.dev
 pc.finanis.vip
 peapodsstake.finance
@@ -1222,6 +1220,7 @@ rewards-0x0exchange.org
 rewards-availproject.net
 rewards-backpack.app
 rewards-befilabs.events
+rewards-kinetiqfoundation.top
 rewards-onrefinance.xyz
 rewards-xaman.live
 rewardsplanetrefi.com
@@ -1263,6 +1262,7 @@ scorpioncasino.io
 screeching-morning-shallow.on-fleek.app
 scrolli.network
 scrollzkp.net
+season-baseecosystem.com
 seasons5-ether.cfd
 securedwavyway.lol
 secures-verify-connects.vercel.app
@@ -1270,6 +1270,7 @@ seeblfy.org
 sei.busd-mine.xyz
 setalarms.info
 seyansdrops.store
+sf-multichain.app
 sfdsgbxgj.com
 sgcrypto.top
 sharkscatsol.com
@@ -1285,7 +1286,6 @@ signup-bubble.com
 signup-usecorn.com
 signup-zyfi.com
 signups-defi.com
-simpleswapdex.com
 sitemaps.dappradar.partners
 sitemux23auuwwc8.cfd
 sitemuzld0gqh01s.cfd
@@ -1322,7 +1322,6 @@ space-x.fund
 spacecids.com
 sparksnet.cfd
 spatialcoin.net
-speakwithlumora.com
 special-ether.com
 spkflrtrustconnect.com
 spxportal.digital
@@ -1475,6 +1474,7 @@ trzrsuites.teleporthq.app
 tuvtrkslses.com
 twitter.trading
 ucp-trezor.com
+uk-exodus.com
 ultiversenft.xyz
 ultracrypto.net
 ultrafirmwaremodel.online
@@ -1482,7 +1482,6 @@ uni-swap-protocol.pages.dev
 unibotrewards.net
 unilend-activity.info
 unionswap.app
-unisqap-walet.pro
 unisswup.org
 uniswap-app.tech
 uniswap-exchange.wtf
@@ -1491,18 +1490,16 @@ unitsnetwork.com
 unldiscover.info
 unlswap.org-dao-core.com
 unstoppable-domains.life
-up-hald-login.created.app
 upbit.lol
 updateshelp-x.com
 upheaval.finance
-uphold-login-portales.created.app
 uq22qw14i4tlt3c.store
 url7249.sbafm.com.au
-us-degen.stakingreward.cloud
 us-ledgerr-live.pages.dev
 us-moonpayy.wixstudio.com
 us-trustwallet.at
 us007zoomweb.us
+usb-binance.com.cn
 usdaiecosystem.click
 usdt-available-home.site
 usdt-distibution.netlify.app
@@ -1734,7 +1731,6 @@ xen.rapid-mint.com
 xiafanji.com
 xixux.com
 xj1l8nb1z.cok.influidz.com
-xmagnetic.vip
 xn--app-solyer-y4a.com
 xn--coinbase-wallit-onole-h4b48x.webflow.io
 xn--fxedfloat-q5af.com

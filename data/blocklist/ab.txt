@@ -1,10 +1,10 @@
 09qlbd.pro
 0g-testnet.app-wallets.com
-0gfoundation.cloud
 0nugle.pro
 1-clutch-market-stonk.pages.dev
 1-derive.pages.dev
 1-fraxfinance.pages.dev
+1-variational-tge.pages.dev
 1-zamaprotocol.pages.dev
 10-vote-argusworld.pages.dev
 11-policy-hyperliquidgov.pages.dev
@@ -25,13 +25,13 @@
 164839coinbase.com
 17-app-argus.pages.dev
 172-lists-okxvotes.pages.dev
-172383-google.com
 18-view-kinetiq.pages.dev
 1rpgygol4ala1rpgygol4ala.iken.getservicedog.org
 2-argusworld.pages.dev
 2-pepe-claim.com
 20-gov-ramses.pages.dev
 20-governance-kinetiq.pages.dev
+2053-colnbase-listings-4f65.pages.dev
 208648coinbase.com
 209-kinetiqgov.pages.dev
 2095.team
@@ -92,6 +92,7 @@
 9-vote-fables.pages.dev
 91-governance-venice.pages.dev
 98-hub-treadeco.pages.dev
+98ae-coinbase-listing-677f.pages.dev
 aave-drop.top
 aave-ethereum.win
 aave-proposal.pages.dev
@@ -179,13 +180,13 @@ allocation.ethenalabdao.net
 allocation.monkeyonchain.com
 allocations-aleo.com
 allocations-arkms.com
-allocations-firelight.finance
 alnetos.com
 altava.nfts-wl.com
 altcoinonsol.com
 alubellclaim.icu
 alwakeelacademy.com
 amlcrypto.world
+amlsave.vercel.app
 amlscanbot.org
 amltrackers.org
 amlusdt-explorer.com
@@ -207,6 +208,7 @@ app-1inch.org
 app-aerodrome.v3-nra7sr.xyz
 app-avaa.com
 app-blendrs.pages.dev
+app-desk-v6.com
 app-evmos.org
 app-lingocoin.com
 app-neiroeth.pages.dev
@@ -329,7 +331,6 @@ boeci.cc
 bonderpump.fun
 bonkstake.xyz
 bonus-zkasino.io
-boostkiteus.us
 boredapeyachtclub.livedropps.com
 bossie.crypto-list.org
 bpizryj-59a7hyer5anks8ci.cc
@@ -399,7 +400,6 @@ claim-rocketpool.net
 claim-semd.my
 claim-sendcoin.info
 claim-slulilend.icu
-claim-spacepay.xyz
 claim-swarms.net
 claim-tate.com
 claim-venus.org
@@ -457,6 +457,7 @@ cloud.claim-ice.io
 cloud.multichains.eu
 cmejp.cam
 co-inhuasidghjsadsa.com
+cocotime.dev
 coinapitaltrust.top
 coinbase-com-wallet.vercel.app
 coinbase-login-account.blogspot.gr
@@ -492,6 +493,7 @@ consortiumkeey.xyz
 consultauthority.sbs
 contractverified.online
 cooklng-v3.surf
+coral-binance.com.cn
 correct-xxx7fswitch.xyz
 courses.pharmastery.com
 cowswap-finance.click
@@ -523,6 +525,7 @@ cyber-network.web.app
 cyberconnectmint.com
 cyberkongz.give-minting.com
 d3fender.net
+d7de-482c-coinbase-listing.pages.dev
 dagknightdog.vip
 dapp-h.pages.dev
 dapp-hex.net
@@ -546,6 +549,7 @@ debridge.org-r.vip
 decentralisedapp.xyz
 decentralizedsync.vercel.app
 decubate-claim.pages.dev
+dedusts.luxe
 defendercontrol.app
 defi-claim.com
 defi-offer-s003.netlify.app
@@ -557,7 +561,6 @@ defilpvaults.vip
 defimanuallsyncc.netlify.app
 defisecuredappfix.online
 defitokendapp.pages.dev
-degatex.com
 deloreanlabs.art
 demovementtoks1878.fi
 derrickruiz.com
@@ -568,7 +571,6 @@ deva.cl
 dex-syncdapps.xyz
 dexblockreset.com
 dexprotocolchain.io
-diagnostic-ledger.com
 diamond.magicdens.xyz
 diamond.x10.bz
 digidaigaku-nft.xyz
@@ -652,7 +654,6 @@ env-trust-extension.wixstudio.com
 eovaeoogd.top
 ephju.top
 erc20rock.xyz
-ercassetsettlehubyield.help
 es0m.pro
 eth-fi.app
 eth-fin.com
@@ -726,7 +727,6 @@ fomo-listing-1j.netlify.app
 fomo-sol.pages.dev
 fomo-voting-vl.netlify.app
 fomobase.net
-formsushi.top
 forrent.kiryathayovel.co.il
 foundation-ether.fi
 fragmenttg.lol
@@ -841,6 +841,7 @@ invite-cbwallet.com
 invite-xterio.com
 io-g.net
 io-only.com
+io-suite-start.app
 iota20-roadmap.com
 iou852c.com
 irongatesmarket.com
@@ -879,6 +880,7 @@ kdkzwecuxxycaafe7hkoejk4mgxosam7nl34rltj7xrfvvtprq5q.arweave.net
 kernelprotocol.tech
 keustoneone.site
 kiteai.xikiguard.xyz
+klakna56.f6c9.my
 koi-finance.pages.dev
 komainu-invest.com
 kometa-casino50.buzz
@@ -888,11 +890,13 @@ krgamb.com
 krkdwaicobuwckrndnsdwbay.pages.dev
 kspprotocol.online.japaplanreloaded.shop
 kstar-nft.space
+kucoin106.com
 kuroro.kr
 kyber-networks.fun
 labs-paramgaming.com
 lalalalamanans.com
 land-memecoin.com
+latchpay-wallet.com
 launch-topg.com
 launch-treat.com
 launchpad.paaldao.trading
@@ -923,6 +927,7 @@ lic-official-ledger.pages.dev
 licrxhuteajsi.com
 lido-v2.mailing-database.com
 lidonft.fi
+lightli.cloud
 liightter-onchain.xyz
 linea.org-w.pro
 lineabuild-snapshot.com
@@ -934,6 +939,7 @@ livemainnet.syncprotocol.online
 livepumpsolstreamers.live
 login.whm.dev.ww1.login.ssh.auth.mantle-airdrop.pw
 looks-claim.com
+loopring-claim.info
 lsscai.cc
 lu-remboursement.com
 luckyssn.cc
@@ -1193,7 +1199,6 @@ pocketbitcoindesktop.com
 pointsparlor-degods.com
 polarnodesbase.netlify.app
 polusdt.lat
-poly-market.com.ua
 polygonairdrop.events
 polymarket-get.org
 polymarket-polska.pl
@@ -1218,6 +1223,7 @@ privatealtokensale.pages.dev
 prizewoo.com
 probably-allocation.com
 process-abi.pages.dev
+project-resources.online
 prokccin.com
 prooftxc.com
 proposal-fablesfi.pages.dev
@@ -1294,6 +1300,7 @@ renderdapp.org
 renzoprotacol.app
 renzoprotocol.support
 reploy-rewards.xyz
+reprotocol-v2.com
 reservationmachine.com
 resonant-pithivier-ac4da8.netlify.app
 restoresprotocols.pro
@@ -1329,7 +1336,6 @@ roinen-wallit.godaddysites.com
 role.everyvorld.pro
 roobet.co.no
 rpc-updates.top
-rpqtil7v42knu3wce6tdxk6rwbgggymn2y3vy4fo26lxao7wqzhq.arweave.net
 rseth.top
 rsz6k.pro
 rufinalove.com
@@ -1508,6 +1514,7 @@ thogonsol-presale.pages.dev
 thrivethrone.cn
 thrustarflnonce.org
 tigerbob.wl-minting.xyz
+tk-binance.cn
 tkocryptocurrency.xyz
 toadex.cc
 token-celestia.com
@@ -1545,6 +1552,7 @@ trezorrussia.ru
 trezr-suite-secure.typedream.app
 tripwex.com
 tron-refund.org
+tronlitad.ink
 trscan.co.com
 trump-wlfi.today
 trumppepeeth.lol
@@ -1838,7 +1846,6 @@ zksyncswap.fun
 zksyncsyonline.icu
 zksynignite.xyz
 zksyrioyyvoallet.webflow.io
-zoom-authmeet.com.es
 zoomagentmeeting.info
 zoommeetjobiinvite.top
 zulunetwork.vercel.app

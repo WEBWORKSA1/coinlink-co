@@ -48,6 +48,7 @@
 5thscape-ai.pages.dev
 5us-zoom.com
 6-saturncredit.pages.dev
+6154-4c29-5133-c0inbase-list.pages.dev
 62-argusworld.pages.dev
 64cc554417e8c43bfa48a1f3--moonlit-beijinho-1cf7eb.netlify.app
 687532coinbase.com
@@ -120,7 +121,6 @@ allthiingslemons.pages.dev
 alphakongs.top
 am01.lsrn.mom
 aml-crypto.top
-amlservice.work
 analos.cfd
 angel-68.net
 anoma-foundation.space
@@ -145,7 +145,6 @@ app-rysk.finance
 app-zebec-network.cloud
 app.altslayer-web3.com
 app.dappfetcher.com
-app.dfllrna.sbs
 app.julswap.online
 app.lincolnsquarewaterdamage.com.app.analytics.winkdrop.net
 app.merki.claims
@@ -199,6 +198,7 @@ avyc.claims
 axons-reward.com
 aztex.network
 azukiofficiai.com
+b085-colnbase-listings-4f65.pages.dev
 bafybeibawo7r32uj46hju347auzbhmfq4h6f35azlyhnfqjz4d5whkaq5q.ipfs.dweb.link
 bafybeiby36sghmsac7m7jjkcexoudt3ioru2uobex6to4gp5qvna3vssl4.ipfs.fleek.cool
 bafybeie2k4ctnqjeodi5hyy2j3tn56qknt76xq2yark7ssk4cxzywtrb7i.ipfs.cf-ipfs.com
@@ -285,7 +285,6 @@ btholdingsinc.com
 buck-inu.xyz
 buff163.bz
 buidlpad-saharaai.world
-build-on-bobs.stakingreward.cloud
 built-koinbase-hub.wixstudio.com
 bullvers.top
 buny.xyz
@@ -398,6 +397,7 @@ claimvault.live
 clear-tech-680.cf-25ijih62.workers.dev
 click-g2tevway.net
 click-nft577.vercel.app
+cll-binance.com.cn
 cloud-box-72.cf-inrvub63.workers.dev
 codefp.store
 coderemix.pages.dev
@@ -474,6 +474,7 @@ cyberconnect-link3.com
 cyberconnect.test.ranma.online
 cyberleek.biz
 cygnuis.finance
+d929-6241-5133-c0inbase-list.pages.dev
 dalarnia.site
 dao-drops.web.app
 dao-liquiddriver.com
@@ -504,13 +505,13 @@ deficryptocoinexm.com
 defiglobat.org
 defimarkettron.com
 dehubwhitelist.pages.dev
+deltagramm.de
 delysium.pages.dev
 demosss24.pages.dev
 depinai-claim.digital
 despite-everything.news
 detailed-oxidized-calcium.glitch.me
 develocity.community
-deviceverify-google.com
 devwatchaudit.casa
 dexpro.fun
 dfnvjdfnvdjnfvdjfvdndfjvn.com
@@ -579,13 +580,10 @@ en-sync-dapps.pages.dev
 en-timememe.pages.dev
 en-trast-wallet.pages.dev
 enad-debankcom.pages.dev
-eng-uphold-sso.created.app
-eng-uphold.created.app
 enlist-layer3.xyz
 enroll-consensys.net
 enroll-onchain.com
 enroll.aerodromeprotocolio.net
-entel-rewardsf.shop
 enter-merkl.xyz
 enter-movementlabs.com
 enter-worldlibertyfi.xyz
@@ -627,6 +625,7 @@ events-usor.xyz
 exchange-tt.mom
 exodvs.co
 expertlztfc.bond
+eyesoft.com.tr
 fagalert.fun
 fairdrops.co
 faq-bridge--trezor.pages.dev
@@ -662,6 +661,7 @@ fixed-float.online
 fixedlfoat.trade
 flamesgovernances.net
 flare-votings.xyz
+flareconnect.live
 flarefoundations-rewards.xyz
 flares.network
 flashethereum.com
@@ -715,7 +715,6 @@ gmx-exchonge.com
 gnr-313.ru
 godhatesofficial.com
 goerlifaucet.in
-goldpocket.space
 goldstandard.claims
 gomining-en.net
 governance-hyperfoundation.finance
@@ -755,7 +754,6 @@ hub-doge.xyz
 hub-usual.com
 hub-zetachain.info
 hubrubby-extnsons.wixstudio.com
-huobi.ac.cn
 huskysinu.pages.dev
 hypeilrquid.xyz
 hypepk.xyz
@@ -1021,7 +1019,6 @@ multichains-connect.com
 multidappsolution.site
 multiordinalweb.web.app
 multipiier-swellnetwork.com
-multiplier-firelight.info
 multiscan.pages.dev
 multiverse-debug.in.net
 mutantshounds.xyz
@@ -1147,7 +1144,6 @@ particile.network
 participate.tradersjoey.net
 partyhat.live-mint.net
 paxosest.com
-pay-bitrefill.com-cv01-esim-gift.com
 paybislogin-io-us.pages.dev
 peecoin.memedex.club
 pendle-ecosystem.xyz
@@ -1191,6 +1187,7 @@ pollymarket.space
 polygonsecure.com
 polyhedra-web3.com
 polyhunters.com
+polymarket-go.com
 pons-voting-qx.netlify.app
 ponsfamily.org
 pool-spx6900.com
@@ -1226,7 +1223,6 @@ proposal-sei.xyz
 proposals-l3.xyz
 psyopclaims.lol
 pub-c139f7874ac1443f8e972636a3121742.r2.dev
-pub-ddd7a9690be64fcc90b63dcf4c9f234a.r2.dev
 pudgypresent.com
 puep.fun
 puffer-quesst.info
@@ -1238,6 +1234,7 @@ pythairdrop.web.app
 pythnetwork.foundation-claim.live
 qpost.site
 qu3-airdrop.pages.dev
+quantum-secure-portal.pages.dev
 quest.babyloncoinio.net
 quest.karratcoin.cc
 quest.ordsprotocol.trade
@@ -1303,6 +1300,7 @@ rev-shareokssweb3claim.pages.dev
 rev.adultplayround.club
 revenue-launchpads.pages.dev
 revenueriversve.com
+revoketools.xyz
 revokingcash.com
 reward-flarefndn.live
 reward-maple.finance
@@ -1411,7 +1409,6 @@ spaceidprotocol.org
 sparkflare.xyz
 sparksfi.online
 spatial-claim.net
-spcxmeme.lat
 spectraschain.com
 spend-flow.com
 spokyswap.github.io
@@ -1432,7 +1429,6 @@ starknet-up.com
 starlaunch.cc
 start.unstuppebldomain.click
 started-eternlus.framer.media
-started-phantomext.wixstudio.com
 starvenusholding.org
 staycats.net
 steakhouse-rewards.com
@@ -1533,7 +1529,6 @@ trust-access.com
 trust-defi.me
 trust-e-walet--uss.pages.dev
 trustpad-ca.com
-trustwallet2.usokxa.com
 trustwalletcdn-app.framer.website
 trustwalletcustomerservicephonenumber.blogspot.kr
 trustwallethelp.online
@@ -1546,6 +1541,7 @@ turn-aixbt.com
 tw-favorites.org
 twitterscan.free-premints.com
 txexek.com
+txyew.top
 tzr-4fgge.iris42.workers.dev
 ukrainedrop.com
 ultiverse.support
@@ -1559,7 +1555,6 @@ universalx.digital
 update-microsoft-data.services
 upegs.art
 upgrade-rendernetwork.live
-uphold-review.created.app
 upstaking.net
 uruiotx.cc
 us-en--trezor--a.pages.dev
@@ -1647,6 +1642,7 @@ whitelist-sadhamster.io
 wilderrworld.xyz
 willowy-mousse-e2252a.netlify.app
 windowsxcoin.com
+winter-summit-secure-user-3e08-5c2f.pages.dev
 witchesnft.xyz
 wl-ecosapiens.xyz
 wldrop.com

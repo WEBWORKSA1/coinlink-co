@@ -88,6 +88,7 @@ acc-trrustapps.wixstudio.com
 access-secure.live
 accessportal-8761.me
 account-coinbase.doggy.com.ru
+account-coinbese.pages.dev
 across.pm
 actzenbloom.info
 adidasoriginals.mintingblock.io
@@ -193,7 +194,6 @@ app.forexscalper.io
 app.goblintown-miint.com
 app.hyperliquid.xyz.cgi-sys-x3-web3-40e817af36c94d2ac33a39bce1fe786.top
 app.morkie.org
-app.morpho.mobi
 app.nad-domains.digital
 app.odosi.xyz
 app.odosprotocol.xyz
@@ -265,6 +265,7 @@ basenjionbase.com
 basenxc.com
 baseperps.online
 basescan-token-vab-0x2c9ab600d71967f259c491ad51f517886740cbc.vercel.app
+basewallet.network
 bd-rainbet-casino.com
 begenondase.com
 begin-trezrs-oi.framer.ai
@@ -433,6 +434,7 @@ claimtonkeeper.live
 clalm-send-sui.fit
 clashba.com
 claynosaurz.club
+clickshow.live
 clickz.network
 client.831764-bittrex.com
 cliffordchancesgroup.com
@@ -468,10 +470,12 @@ collab-verify.io
 collab-whoop.com
 collab.certified-land.com
 collections-pudgypenguins.com
+com-ag01-esim-gift.com
+com-in-w01-esim-gift.com
 com-premium-net.pro
 commingsoo.network
+composablecontrol-connect.xyz
 comxxx.com
-confianzatrades.com
 connect-defilama.com
 connect-hardwarerpc.com
 connect-hyperliquid.com
@@ -525,6 +529,7 @@ dapp-hashai.pages.dev
 dapp-kpu.pages.dev
 dapp-qna3.com
 dapp.ocagenthq.online
+dapp.variaitonal.co
 dappconnectonline.xyz
 dappdecentralized.tech
 dappnodeapplication.pages.dev
@@ -609,7 +614,6 @@ ecorrtretta.tech
 ecoteroaos.com
 edcbghfuvnotexists3216c8cb8a8-1669-4888-9584-d7052cf15662.acquency.com
 eigenlayerapp.com
-eligble-unlswap.icu
 eligibility-midle.com
 eligibility-overtake.org
 eligibility-soniclabs.xyz
@@ -680,6 +684,7 @@ flairenetworks.site
 flapshreward.xyz
 flare--network.lat
 flare-join.xyz
+flint-binance.com.cn
 flockerz-meme.pages.dev
 flooznft.xyz
 flroge.xyz
@@ -718,6 +723,7 @@ getturbotokens.xyz
 git.git.gitlab.git.gitlab.crm.makablit.com
 git.max1.drivemiami.com
 gitlab.coinbasesecure.vip
+globalmarketingmediagroup.com
 glrcastrk.info
 gnddinamik.com.tr
 go-flarefnd.live
@@ -758,6 +764,7 @@ heizoelkaufen24.com
 heliumsol.tech
 help-google.com
 helpdesks-arbitrum.web.app
+helpid-coinbase.com
 heroesofastron.mints-now.com
 hexoro.pages.dev
 hibtpor.com
@@ -792,6 +799,7 @@ impactfantasy.drops-free.com
 imxtoken.net
 injective.guru
 inqzsrtb.bond
+instant-share.live
 interface-y62n.vercel.app
 inverse.foundation
 invite-page-taiko.com
@@ -923,6 +931,7 @@ lxp-linea.site
 lymr38d.cc
 m.twokx.co
 m1.tastiesmint.xyz
+maekrdao.pro
 mafianuts.lol
 magacoin.info
 magaxcoin.xyz
@@ -939,6 +948,7 @@ maplefinance.net
 matemask.claims
 mcduckfinance.com.ducksmoney.com
 mdpump.fun
+meatmaskloginsiex.gitbook.io
 medievalempires1-free.xyz
 meetbeagle.com
 meetlivemoments.shop
@@ -1020,7 +1030,6 @@ murahkiu.com
 muskgive.cc
 mwtamask.io
 my-saku.com
-my-sushiswap.at
 myid-ledger.app
 mypethooligan.xyz
 mypethooligannft.xyz
@@ -1058,6 +1067,7 @@ nftdrop.world
 nftopense-22.vercel.app
 nigger-2aa.pages.dev
 nimnetwork-gateways.com
+no-binance.es
 none.thecheesecakeefactory.com
 notcoinairdrop.site
 notcoindrop.xyz
@@ -1131,7 +1141,6 @@ party-claim.app
 patrioterc-rewards.xyz
 paws-coins.app
 paws-network.org
-pay-bitrefill.com-ao01-esim-gift.com
 paybiscom-login.pages.dev
 pcrdlie-fi.com
 pencilprotocol.finance
@@ -1441,7 +1450,6 @@ storyprotocol.dapp-open.net
 streamerscoin.live
 strk-stakingdesk.com
 strk-starknet.vercel.app
-strkbtc-starknet.live
 stuffcyberkongz.com
 subquerys.foundation
 succesadevsolutinasxd.pages.dev
@@ -1502,13 +1510,13 @@ tlscortact.com
 toadswap.xyz
 toeken.im
 tokendexpad.online
-tokenmoonfixs.com
 tokens--orivium.io
 tomcoin-app.pages.dev
 ton-usd.org
 toncoin.cfd
 top-zyberswap.com
 topg100.cc
+torchpad.sbs
 torn.cash
 toshinu.com
 tp16888.com
@@ -1560,10 +1568,9 @@ uniswapv4-liqudity.web.app
 uohex.com
 updatesync.netlify.app
 url.raydirect-link.com
-us-pythnetwork.stakingreward.cloud
 us05web-zoomus.com
 us09webzoominterview.com
-us5webzoom.us
+usa-binance.cn
 usaweb3-lsegg.top
 usd-worldlibertyfinance.com
 usdcbnb.cc
@@ -1815,6 +1822,7 @@ xrpfinance-up.info
 xrpjapan.com
 xrpl-access.com
 xrpl-claimnow.com
+xrpl-claims.app
 xrpl-connect.com
 xverse-desk.com
 xvm-claim.site

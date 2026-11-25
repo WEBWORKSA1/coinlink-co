@@ -19,7 +19,6 @@
 17-governance-jumper.pages.dev
 17-proposal-papertrade.pages.dev
 1euu.pro
-1inch-wallet.stakingreward.cloud
 1inrch.net
 20-gov-curvefi.pages.dev
 20-governance-entropyio.pages.dev
@@ -165,7 +164,6 @@ app-ethenafi.lat
 app-hyperliquid.finance
 app-prvxnet.pages.dev
 app-redstone.finance
-app-surge.xyz
 app-whiterock.fi
 app-xocietyio-drops.vercel.app
 app.altprotocol.io
@@ -199,7 +197,6 @@ apps-metamsk-ext.wixstudio.com
 appsmartsheet.berrycompaniesinc.net
 aprilbull.run
 aptos-mine.online
-apyxfi.digital
 aqr-ai.top
 ar-sbi.com
 aragon.web3-airdrop.net
@@ -274,6 +271,7 @@ bingvcf.com
 bitcoinfounder.com
 bitfinexban.com
 bitperceptivetech.pages.dev
+bitrefill.com-gift-cards-chz.com
 bitsouny.com
 bittensor-tao.com
 blackbullsol.lat
@@ -464,7 +462,9 @@ coinvista.top
 coiresolver.vercel.app
 collab-land1.pages.dev
 collabland.nexus
+com-ao04-gift-esim.com
 com-claim37649.live
+com-dk01-esim-gift.com
 com-provider.mobi
 communications-x.com
 community-usuai.com
@@ -488,6 +488,7 @@ cortexagent.tech
 cosmosdex.xyz
 cow-swaps.net
 cpoudflare.net
+craken-login.pages.dev
 crash-onbase.xyz
 crates-otcdesks.cash
 creativitblocksonax.pages.dev
@@ -646,6 +647,7 @@ evolabs.agency
 exodusverify.com
 exuff.com
 ezcripto.site
+f190-4c29-5133-c0inbase-list.pages.dev
 facai789.vip
 facetimecall.online
 fandefi.vip
@@ -746,6 +748,7 @@ gpt-x-airdrop.site
 grayboysnft.app
 greenbitcoins.xyz
 grinchcritters.com
+gta6sol.xyz
 gtareward.github.io
 guadjaola-gobc.eu.cc
 guidearbitrage.info
@@ -850,7 +853,6 @@ kermitoneth.info
 killabearsmint.com
 killeracid.on-mint.xyz
 kineteq.xyz
-kinetiq-transition.com
 kinetiqxyz.events
 kinlconbzjwjz.com
 kitienswap.exchange
@@ -958,6 +960,7 @@ merlinchain.foundation
 metacard.one
 metadapps.netlify.app
 metamask-online.com
+metamask-usdt-ecj.pages.dev
 metamask.etheros.io
 metamask.men
 metamask.org
@@ -1163,7 +1166,6 @@ participate-ordinal.net
 particlefi.pages.dev
 pawnsapp.xyz
 pax-giveaway.com
-pay-bitrefill.com-bg04-gift-esim.com
 pay-zkasino.com
 pdul.top
 peaq.vu
@@ -1230,7 +1232,6 @@ portfolio-metamaskinfo.com
 powerai.one
 powers-protocol.org
 ppdex.xyz
-pqc-ledger.gd
 pr0curi0ssh0pingcart.cloud
 prelaunch-web-mxxjz.ondigitalocean.app
 prerelivemigracxz.pages.dev
@@ -1369,6 +1370,7 @@ securityonedrivehome.xyz
 seinetwork.foundation
 semjj.com
 sensei-fi.web3fast.net
+sgvweb.cc
 sherafight.nl
 shib-airdrop.com
 shib2.expads.top
@@ -1417,7 +1419,6 @@ sonart-tool-free-airdrop.netlify.app
 sophon-registering.com
 soxugamb.com
 space-jup.app
-spaceship-x.com
 spaceweberwe.pages.dev
 spacex2.org
 sparkdex.events
@@ -1496,6 +1497,7 @@ testnet.pharosnetwork.pw
 testpengu.pages.dev
 testsite242.pages.dev
 testwebsiteeeee21.com
+testxuests2777.com
 tether-survey.lead-meta.info
 tether888.com
 tgrexchange.site
@@ -1534,7 +1536,6 @@ trezor-suite-app-eng.pages.dev
 trezor-update.io
 trezore-suite-welcome.pages.dev
 trezorsecure.io
-trezorsuite.ltd
 trezorwallet.live
 tron.discount
 trueorange.xyz
@@ -1651,7 +1652,6 @@ wallet-coinbase.netlify.app
 walletcoin.wixstudio.com
 walletflarenodev.com
 walletflux.site
-wallettrustapp.com
 wallsec.app
 wallsmemes.cloud
 watchstream.fun
@@ -1681,6 +1681,7 @@ welcome-safe.app
 welikethefoxx.com
 wemndgid-official.top
 wenchange.org
+wgowsap.study
 whitelist-illuminex.com
 whitelisted-peaqnetwork.com
 wieneerdog.com
@@ -1851,7 +1852,6 @@ yona.finance
 ytihoqjawljzjs.space
 yugibao-mint.com
 yxybef3m.57889.net
-zama-rewards.xyz
 zenzozo.xyz
 zero-zillion.com
 zestprotocol-dasboard.xyz

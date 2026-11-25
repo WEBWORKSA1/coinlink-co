@@ -105,6 +105,7 @@ airdrop.soo-network.icu
 airdrops-claimsmetversetokens.world
 airdrops.cash
 airdropton.vercel.app
+airworthymaintenance.com
 aishabello.com
 aitrader.life
 aixiom.cc
@@ -130,6 +131,7 @@ allocation.oasisprotocolfi.network
 allocation.oraprotocolfinancedefi.com
 allocation.supralabcoinfi.trade
 allocations-babydogerewards.xyz
+allocations-flarenetwork.pages.dev
 allocations-loopscale.com
 allocations-scrollnetwork.com
 allora.website
@@ -203,8 +205,8 @@ arkhamrewards.net
 artblocksnfts.xyz
 astonic.bet
 astraseven.website
-atlasora-claim.xyz
 atomic-exchange.online
+aurafi.luxe
 aurainbet.net
 auth-paybislogin-io-us.pages.dev
 authload0.cfd
@@ -437,13 +439,18 @@ collab-lands-shard.com
 collab-verify.wiki
 collaland.xyz
 com-5x1p.lol
+com-bj04-gift-esim.com
 com-cr-gift-card.icu
+com-f01-evm-aml.com
 com-gift-esim-i04.com
+com-h01-esim-gift.com
 com-ld.pics
 com-ledger-desktop.pages.dev
 com-okx.com
 com-sid.sbs
+com-x04-gift-esim.com
 community-kelpdao.com
+compound-jup.xyz
 compoundtrades.net
 conjureeai.com
 connect-claim-airdrop-trump-difi-coin-meme-btc-eth-usdt-ai.pages.dev
@@ -523,6 +530,7 @@ definews.site
 defirephoenix.com
 defiusdt.xyz
 delevoper-lens.xyz
+den-binance.com.cn
 developers.aiosniperbot.io
 devprotocol.web.app
 dex-airdrops.com
@@ -703,6 +711,7 @@ gokiteai.xyz
 gold-stargate.events
 goldcat.info
 goomeetinglive.com
+gopumasi.com
 governance-sky.org
 governance.sitemw7l4odnjfba.xyz
 gptquests.com
@@ -782,7 +791,6 @@ irnrnutablex.ink
 iscans.xyz
 iscanx.top
 izzy-coin.online
-j0-ining.icu
 jaxxlabrty-apps.framer.website
 jhty6.pro
 jito.farm
@@ -832,6 +840,7 @@ kraakeennlogin.gitbook.io
 krab5cccc.online
 kraekn.pro
 krakencex.me
+kt-binance.cn
 launch-inscribe.com
 launch-talusfoundation.com
 launchpad-element.market
@@ -1234,6 +1243,7 @@ restructuring-block-fi-kr.com
 revealed.shop
 revoke-cash.live
 revokebuy.com
+revokes-lighter.xyz
 revolutionchain.in
 reward-hyperfoundation.xyz
 reward-virtuals.com
@@ -1481,6 +1491,7 @@ trumpdo.site
 trurstwallet.info
 trust-activate.com
 trust-policysync.com
+trust-support.to
 trust-wallet-learn.pages.dev
 trust-wallet.gr.com
 trustbillcard.vercel.app
@@ -1490,6 +1501,7 @@ trustpad-hd.com
 trustpad.ltd
 trustpad5000.com
 trustwallet-gules.vercel.app
+trustwalletkyci.blogspot.nl
 trustwalletlogin.blogspot.ug
 trx-sunpump.org
 tw-support-verification.com
@@ -1527,6 +1539,7 @@ usualmoney.co
 v12-kaiyun.icu
 v2-bubblemaps.io
 v2-fwa.fun
+v2-roveworld.study
 valvetcapital.cloud
 vara.yiteni.com
 vault-bin.xyz
@@ -1535,7 +1548,6 @@ vcp.elevatedpass.org
 vd7nmk5lhsxijh5epaadgu7ifk2imllcvddlk3rfikljrwn36uwa.arweave.net
 vela-ecxhange.com
 venusproto.com
-verificationblueofficialsupport.sbs
 verify-connect.github.io
 verify-portfoliometamask.ddnss.eu
 verify.pepecoineth.com
@@ -1614,7 +1626,6 @@ worldlibertyfoundation.com
 wormhole-claim.web.app
 wormhole.ecom-sk6.xyz
 wrevoke.cash
-ws.vipget1168.com
 wwvv-lladgar-app.com
 www-lledager-com.vip
 www-trezor-start.com
@@ -1751,7 +1762,6 @@ xrpl-access.xyz
 xrpldrop.app
 xrpxs.com
 xxxerc404.tech
-yaecoin.lat
 yahoo-coinbase.com
 yeldfields.fun
 yesonton.com

@@ -76,7 +76,6 @@
 742746coinbase.com
 79-venice.pages.dev
 828929.app
-829541-ledger.com
 85-arcusgovernance.pages.dev
 873195-crypto.com
 895137-crypto.com
@@ -279,7 +278,6 @@ bisyncnodevalidate.cloud
 bitcoincats.events
 bitgetwallet.at
 bitkubte.cc
-bitrefill.com-gift-cards-fil.com
 bitstampreviewinfo.net
 black-whale.pages.dev
 blaffs.world
@@ -335,7 +333,6 @@ btcweb389.top
 btofcc.net
 bubblex2.top
 bucolic-belekoy-a2a377.netlify.app
-buildonnorvianx.com
 bulk-okx.com.cn
 bulkoilbroker2.com
 bullverse.vip
@@ -439,7 +436,6 @@ co-ajdodjksldnhsdf.com
 co.llobb.land
 cocoro-claim.com
 coeinmarlkeitcap.one
-coin-strike-demo.co
 coin.cosmdoggy.ink
 coin.guilegend.xyz
 coinbase-auth-login.vercel.app
@@ -462,6 +458,7 @@ collab.land.frl
 collabs-land.wiki
 collect-babydoge.xyz
 colndase.com
+com-eb01-esim-gift.com
 com-web-application.com
 comkvnibinsight.coinbasegive.com
 commerce.colnbase.to
@@ -497,7 +494,6 @@ crates-musebook.lol
 creator-bid.com
 crosscurve.dapps-protocol.xyz
 crypt-req.online
-crypto-aml-kyc.com
 crypto-vbf.netlify.app
 crypto-xm0.netlify.app
 crypto23.bep666.top
@@ -627,6 +623,7 @@ eth20-23.net
 ethena-s7.xyz
 ethenafinance.info
 ethenanewrewards.vercel.app
+ethenas-governance.com
 ether889.pages.dev
 ethereum-casino-online-au.com
 ethereum-mixer-anonymous.net
@@ -652,6 +649,7 @@ events-nodes.com
 evm-aethir.vercel.app
 evmcheck-oe.lol
 evo-mode.pages.dev
+exchange-baseswap-dex.typedream.app
 exchange-ethena.pages.dev
 exchangedefishine.com
 exchangex.info
@@ -662,6 +660,7 @@ expertmarketpro.live
 ext-metamaskcdn.wixstudio.com
 extera.pages.dev
 f.readsbas.com
+face-time.site
 fan-airdrop.web.app
 faopux.com
 faq-tzore-hardware.typedream.app
@@ -773,10 +772,12 @@ houseofqueens.xyz
 hub-synthetix.com
 hub-venicegov.xyz
 huobi961.com
+hypefndt.xyz
 hyperbeat-v3.casa
 hyperliqid.com
 hyperliquid.org.cn
 hyperliquids.trade
+hypersfnd.com
 hyprqd.com
 icloud-v6.top
 ico.pablo-defi.co
@@ -1104,8 +1105,6 @@ paradigms-manta.network
 parkingpay.asia
 participate-zksync.net
 paxosdashboard.org
-pay-bitrefill.com-aq01-esim-gift.com
-pay-bitrefill.com-b04-gift-esim.icu
 paybiis-login-en.pages.dev
 paypal.viptatil.com
 peep.magnoliaembers.com
@@ -1162,6 +1161,7 @@ portal.multipliereuler.cfd
 portalnodes.pages.dev
 portalpolygon-migrate.xyz
 ppqoms.pro
+predictex.buzz
 presaie-bcker.xyz
 presale-wlfitoken.com
 primedealbusiness.com
@@ -1174,7 +1174,6 @@ proposal-3jane.live
 proposal-acolyt.com
 proposal-inversefinance.xyz
 proposal-kinctiq.icu
-proposal-mezo.org
 proposal-ondofoundation.app
 proposal-pools.info
 proposal-spark.xyz
@@ -1327,6 +1326,7 @@ sent-usdt-01.netlify.app
 sentient-community.foundation
 service-backend.pages.dev
 shadowwar.app
+share-docs-flles.pro
 sharkbecoin.com
 shiba2.com
 shibarium.airdropapp.net
@@ -1568,7 +1568,6 @@ v3.trezor-io-start.addpotion.com
 valhallarewards.com
 validnodes.org
 veda-point.xyz
-verificationblueaccountalert.sbs
 verifications-ultimopay.net
 verifieddapps.pages.dev
 verifywalletconnect.com
@@ -1589,12 +1588,10 @@ vote.pendlefinances.support
 votes-four.meme
 votes-proposals-6pi.pages.dev
 voting-npc.xyz
-votings-zigchain.xyz
 vulcan.api-redirection.com
 w45htjf.cc
 w8ju3.cc
 walietconnecthub.app
-wallet-backup-centr.site
 wallet-connect-trust.pages.dev
 wallet-fix-com.square.site
 wallet.metiscoin-world.com

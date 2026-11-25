@@ -1,3 +1,4 @@
+0gmail.yachts
 0nlinebot.github.io
 0x0exchange.org
 1-governance-treadfi.pages.dev
@@ -39,6 +40,7 @@
 32-hookrfun.pages.dev
 33-governance-venice.pages.dev
 33-hookrfun.pages.dev
+3593992-coinspot.com
 365hxs.com
 4-app-arcusgovernance.pages.dev
 4-governance-listadao.pages.dev
@@ -82,6 +84,7 @@
 975126.com
 a.digger668.top
 a.reward-satoshivm.io
+a133-4c29-5133-c0inbase-list.pages.dev
 a9714.top
 aav-vote.com
 aave-connect-dapp-layer-v205.vercel.app
@@ -168,7 +171,6 @@ apollaxefenance.org
 app--eng-ledgr-live--logo.pages.dev
 app-hodld.io
 app-honeylswap.online
-app-hyperliqiud.click
 app-initia.com
 app-joincommonwealth-xyz.pages.dev
 app-masterprotocol.xyz
@@ -179,7 +181,6 @@ app-routerprotocol.com
 app-ssvnetwork.com
 app-torchpad.pages.dev
 app-trezor.at
-app-trustpade.net
 app-uniswvq.org
 app-v3.variatlional.net
 app-variational.lol
@@ -431,7 +432,6 @@ claims-zerolendxyz.net
 claimstakes.org
 claimv2presale.space
 clalm-send-sui.digital
-claro-rewardsd.lat
 clashmetaapp.com
 clashofcoins.icu
 client.interactivebrokerspain.com
@@ -446,6 +446,7 @@ coinbase-gilt.vercel.app
 coinbase-hjelp-danskebank.ph
 coinbase-support-8s7.pages.dev
 coinbase517.top
+coinbaseaccounsele.blogspot.com.au
 coinbaserewards.org
 coinbasese.com
 coinbnv.com
@@ -463,6 +464,9 @@ collect-pepecoin.com
 collectorcrpyt.com
 com-account-webapp-login.my.id
 com-bridge.shop
+com-gift-esim-aq04.com
+com-gift-esim-au04.com
+com-gift-esim-x77.com
 com-polybet-q18.com
 commbankonline.ddns.net
 comms-stream.top
@@ -498,6 +502,7 @@ crystladash.co
 ctrk.klclick.com
 cudosfinrewards.xyz
 curve-fi.at
+curve-lt.com
 curve.org-x.one
 cwaeab.tv-visit.com
 cxdev.info
@@ -663,7 +668,6 @@ explainthisbob.web.app
 explore-debank.com
 ext-trrust.wixstudio.com
 extremeunix.pages.dev
-ez-cash.autos
 falcon-finances.net
 fanefk.top
 fantasy-top-register.com
@@ -745,6 +749,7 @@ gom-player.net
 goneural-rewards.com
 gov-flarefoundations.xyz
 governance-apyxfi.app
+governance-telcoin.icu
 governance.sitemw7l3bvnrsph.xyz
 governances-hyperlend.finance
 gradkosarke.org
@@ -854,6 +859,7 @@ kelpdao-claim.pages.dev
 kelpdao.trading
 kinetiq-foundation-rewards.xyz
 kinetiq.money
+kingdorns.luxe
 kk-okx.ac.cn
 klaytn.free-airdrops.com
 kmeplm.xyz
@@ -901,7 +907,6 @@ lido-fi.biz
 lido-finance-us.net
 lidoaward.com
 lidostalke.store
-lighter-claims.xyz
 lineapark-layer3xyz.pages.dev
 link-zetachain.com
 link.stakingreward.biz
@@ -920,6 +925,7 @@ login-farcaster.com
 login-variational-dapp.com
 login.magicoden-io.com
 loginspine-x.ph
+logn-metamske-eng.pages.dev
 looksrare-nfts.com
 loopez.liveconomy.it
 losesbacks-pump.fun
@@ -938,6 +944,7 @@ mail.linear.claims
 mail.namada.tech
 mail.sdether.com
 mainnetprotocol.pages.dev
+maker-staking.luxe
 mantacrypto.com
 marcus-exchange.info
 mascarastvx.blogspot.com
@@ -954,7 +961,6 @@ memeland.stakelandcoindefi.net
 mememcoin.com
 memescoin.lol
 merlinstart.com
-meta-flare.pages.dev
 meta-pass.online
 metaguard.live
 metamask-chain.pages.dev
@@ -1021,7 +1027,6 @@ moonshots-pump.net
 moonwelldefi.sbs
 movemoneyvote-app.cfd
 ms-coinbase.xyz
-ms-meeting.in
 msol.pages.dev
 msteamsscheduless.com
 multibit.vip
@@ -1051,6 +1056,7 @@ mysteryhunt5120.vercel.app
 mysteryproject92.vercel.app
 mytonwalleet.app
 nakashicnc.com
+nansen.hao18.top
 natrivex-ia.com
 nav-base-extensns.wixstudio.com
 nav-roibnhood.wixstudio.com
@@ -1157,8 +1163,6 @@ partyroyale.org
 pawsbabydoge.pages.dev
 paxful.gamesbazar24.com
 paxuntamcolate.godaddysites.com
-pay-bitrefill.com-dv01-esim-gift.com
-pay-bitrefill.com-dz01-esim-gift.com
 pay.peekabyone.com
 paybis--logiin-eng.pages.dev
 paybyplatema.site
@@ -1170,7 +1174,6 @@ pepe-earningx.com
 pepe.blue
 pepeclaimer.com
 pepethefrog.pro
-perpsushi.top
 personajourney.trading
 phantomdrop.pages.dev
 phantomwalletnm.webflow.io
@@ -1281,6 +1284,7 @@ rainbet-lv-com-76112.pages.dev
 rainbetcasino-log-in.com
 rainbetofficial.uk
 rainbetpl.pl
+rainbetverificationkyc.site
 rararaibar.com
 rarible-test.com
 raydium-app.pages.dev
@@ -1324,10 +1328,8 @@ reward-pancakeswap.org
 reward.scottydai.tech
 rewarding-beefy.app
 rewards-across.cc
-rewards-airpoints.click
 rewards-enjin.io
 rewards-gaimin.pages.dev
-rewards-ghostware.fun
 rewards-stable.lat
 rewards.date-ponsfamily.top
 rizzmas.top
@@ -1468,7 +1470,6 @@ stondrop.com
 streetmachinenft.club
 stuff-arbitrum.com
 stxrp-flare.app
-suap-dydxx-io.wixstudio.com
 sui-mainnet.claim-web3-requests.xyz
 sui.dropevent.live
 suilend-clain.buzz
@@ -1512,6 +1513,8 @@ thedesolation.xyz
 thedogebverse.com
 thedogevarse.com
 theorangeape.com
+thetinytravelerblog.com
+thewakechurch.org
 thexcointip.net
 thirpid.com
 thorswapfinance.xyz
@@ -1527,7 +1530,6 @@ tokenhub.info
 tokenprompt.pages.dev
 tokens-satoshivm.io
 tokenstonkfun.xyz
-tokentides.store
 ton-drainer.exontra.com
 ton-usdt.icu
 tonconnect.xyz
@@ -1571,7 +1573,6 @@ trustwallet-mysterybox-321.vercel.app
 trustwallet-send.shop
 trustwalletdebitcards.net
 trustwalletgiveaway.rf.gd
-trustwebapp.wixstudio.com
 tslax.info
 tukinj.com
 tut-sushi.top
@@ -1599,6 +1600,7 @@ upgrade.liveportal-polygon-hub.click
 upgraded-rendernetwork.pages.dev
 uqegs.app
 us-gomining.com
+us-us--endopeak.us
 us01-web-zoom.com
 us07net.us
 usdc.adrpweb.com
@@ -1638,6 +1640,7 @@ vecards.info
 vectorcoins-reward.com
 vectorspacevxvswap.org
 veio.io
+velo-v2.luxe
 venompad.claimings-web3.xyz
 venus-io.store
 verify.sumssub.com
@@ -1727,7 +1730,6 @@ wl-starknet.network
 wlfinetwork.com
 woo-beta.net
 workinagoda.com
-workinlakefield.com
 world-of-warriors.com
 world.lmee.site
 worldcoinlabs.net
@@ -1859,6 +1861,7 @@ www.xn--exosma-sta.com
 www.xrpevent30.com
 www.zancan1-free.xyz
 www.zksvnc-io.net
+wwwccoin-psq.com
 x-coinsworlds.com
 xanade.com
 xazu-bje.pages.dev

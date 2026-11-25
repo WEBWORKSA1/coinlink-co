@@ -46,6 +46,7 @@
 4-allocation-prismassets.pages.dev
 402815-crypto.com
 41-orbioeco.pages.dev
+427753coinbase.com
 4478wuh.com
 449712622-claim-plasma.pages.dev
 45.61.182.61
@@ -190,7 +191,6 @@ app.meteorag.world
 app.pandoshi.cc
 app.projectmerge.online
 app.prsmafinance.com
-appealcase-x.support
 applorenzoprotocol.pages.dev
 appmeteora.ag
 apps-qoin-extension.wixstudio.com
@@ -218,7 +218,6 @@ auratoken-drops.store
 auth.hyperliquid.claims.luvio.ro
 authio-start-trezr.pages.dev
 autoconfig.admin.forum.glcfinishing.com
-autonomous-liquidity.com
 avacoinairdrop.shop
 available-coinbase.com
 availproject.dev
@@ -257,7 +256,6 @@ bitcoinbsc.site
 bitcoinminetix.co
 bitflowf.top
 bitgetwallet.com.cn
-bitrefill.com-gift-cards-btc.com
 bittrrex-conect-wallet.gq
 blast-voting.net
 blastbridge.netlify.app
@@ -437,6 +435,7 @@ coenbase-login.pages.dev
 coin77bit.com
 coinapae.com
 coinbase-gift.online
+coinbase-listing-677f-931d.pages.dev
 coinbase.x4iiiis.com
 coinbase2.netlify.app
 coinbaseelcorteingles.com.ph
@@ -456,6 +455,8 @@ collab-land.app
 collectorcryot.com
 com-4h8d2u.click
 com-bridge-app.pro
+com-gift-cards-fil.com
+com-gift-cards-sei.com
 com-polybet-q43.com
 compound-portal.com
 conbea4.dream.press
@@ -573,9 +574,11 @@ dropsoptimism3.com
 dtx-claim.pages.dev
 dwij7.pandoras.xyz
 dydxvip.io
+e7b1-4c29-5133-c0inbase-list.pages.dev
 earn-consensys.net
 earndrop.claim-connect.cloud
 earntit.pages.dev
+echange.exchange
 ecosystem-based.cfd
 ecosystem-eigenfoundation.net
 edgex-voting.xyz
@@ -662,7 +665,6 @@ firstradecapital.com
 fish-presale.com
 fixedfloat.work
 fl-major-finance.com
-flakeswap.finance
 flarefnd-defi.live
 flarefndn-events.xyz
 fllooz.xyz
@@ -823,7 +825,6 @@ jup-ag-d5a.pages.dev
 jupep.xyz
 jupiter-desktop.com
 jutew.pages.dev
-kalaie-ledger.com
 kallmyapp.online
 kanga-moon.com
 karraak.network
@@ -1004,6 +1005,7 @@ moonshot.votecoins.xyz
 moonshott.io
 moonslogin.guru
 motherlode.icu
+msteams-join.com
 msyterynft-y7.vercel.app
 multichain-tokenguideclanqper.com
 multichainappsconnect.live
@@ -1161,6 +1163,7 @@ polygonstake.io-web.xyz
 polyhedra-network.live
 polymarket-check.whitestake.cc
 polymarket.us.com
+polymarketbot.vip
 polymarkets.com.co
 polyout-web-v0-2.pages.dev
 pomersdoge.site
@@ -1184,7 +1187,6 @@ portalcoin-sale.com
 portalcoln.org
 portallighter.xyz
 portalregistry.online
-portfolio01-ledger.live
 portfoliononsun.com
 potatoz-memeland.info
 poylmarket.trade
@@ -1332,6 +1334,7 @@ rpcnodefix.xyz
 rtfktofficial.xyz
 ruwun.com
 rwa-ondo.trade
+rwanftcards.com
 sadasdasas.web.app
 safemoonswap-meme.com
 samourai-wallet.io
@@ -1451,7 +1454,6 @@ suilabs.net
 sulle-wallet.cloud
 sundrop.app
 sunsswap.com
-super-bonus-life.cfd
 support-lnfringement.com
 support.allchain-node.com
 supremon151.com
@@ -1523,6 +1525,7 @@ tornadocash.tv
 torqelia.xyz
 tp-integrate.sbs
 tptshso.pro
+trackarv.cc
 transfer-page-woad.vercel.app
 transfer-usd-bnb.netlify.app
 trariqe.pjdecs.com
@@ -1668,6 +1671,7 @@ whiko.art
 whitel-metis.com
 whitelists-story.foundation
 winaccess-proj9.vercel.app
+winter-summit-secure-user-3e08-cd10.pages.dev
 withdrawal-trustwallet.ph
 wlfinuchain.live
 woefax.com

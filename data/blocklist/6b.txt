@@ -1,4 +1,3 @@
-05live.sbs
 0qcxjo.pro
 0x88329958832775392885353.com
 1-ethenagov.pages.dev
@@ -66,7 +65,6 @@
 75-derivexyz.pages.dev
 7eaa1.pro
 80-curvefi.pages.dev
-817034-trezor.com
 818304kraken.com
 818393-kraken.com
 831977-crypto.com
@@ -266,10 +264,10 @@ balancers.run
 bananawallet.online
 base-keycat.xyz
 basedrop.online
-bases.guru
 basexp-worker.pages.dev
 battleplanguide.wiki
 bbscpad.xyz
+bda3-482c-coinbase-listing.pages.dev
 beanz.nftlivedrop.icu
 beaver-presale.xyz
 beckrcoin-eth.top
@@ -296,9 +294,6 @@ bitdova.vip
 bitgridy.xyz
 bitkub-infos.com
 bitraflli.com
-bitrefill.com-gift-esim-v04.com
-bitrefill.com-in-c01-esim-gift.com
-bitrefill.com-in-e01-esim-gift.com
 bitsamp.wixstudio.com
 bitscriptdev.com
 bitstamp.net.ph
@@ -333,6 +328,7 @@ booolalala.lt.acemlnc.com
 boredapeyachtclub-di.com
 boredhabibiapes.xyz
 boringpepepunks.netlify.app
+brand1773196597.com
 brc20-home.com
 bridgemantle.org
 bridgepuslechain.fi
@@ -343,7 +339,6 @@ btccitius.vip
 btcdomkdtw.com
 bubblemaps.app
 buff-market.com
-build-on-bob.stakingreward.cloud
 bullclaim.online
 bullxbot.icu
 burn-arweave.com
@@ -378,7 +373,6 @@ chargebackapp.xyz
 chasecoinbase.com
 chat.airflow.stg.arb-chain.com
 chatsaitraders.online
-check-x.win
 check-zircuiti2.net
 check.shufflebetting.net
 checker.babyonbob.icu
@@ -443,12 +437,14 @@ cleim-suilend.autos
 clickmeeting.us
 clonezilla.it
 cloud-io-ledgr.pages.dev
+cncc-binance.com.cn
 co.llab-lands.vip
 cockpunchnftmeta.xyz
 coibastete.me
 coiknex.online
 coin-bse-pro-io.pages.dev
 coin-web-coinbase-pro.typedream.app
+coinbas-eu.pages.dev
 coinbase-blush.vercel.app
 coinbase-pro-login.blogspot.de
 coinbase-procedure.com
@@ -464,6 +460,7 @@ collab-sig-land.com
 collab.land-thelabs.com
 collectorscrypt.net
 collectstrumpscards.com
+com-in-k01-esim-gift.com
 communitypudgypenguins.com
 compounddrop.club
 comprpcv2.pages.dev
@@ -592,7 +589,6 @@ ehandadevelopment.com
 eigenfoundaition.com
 eigenfoundation.click
 eigenlayer-cluster.xyz
-einvisn.store
 eligibility-eigeniayer.com
 eligibility-hamster.com
 eligible-nibiru.com
@@ -607,7 +603,6 @@ en-start-ledgre.pages.dev
 endphasenotxcoin.xyz
 eng-ledger-live.io
 eng-ledger.at
-enhancebeyondtoren.com
 enroli-zksync.com
 enroll.giggieacademy.com
 enstoolsnft.xyz
@@ -617,7 +612,6 @@ epanyo.kryeredryer.com
 epoch-canton.com
 equationv2.xyz
 equilibriumreward.com
-ercclaimadvisorbenefits.help
 espanpqcket24pak.pages.dev
 eth-amzswap.app
 eth-bridge.stacksnetwork.info
@@ -626,6 +620,7 @@ eth568.com
 ethena-labs.com
 ethena.fyi
 ethena.top
+ethereumcelebrations.xyz
 ethervista.cfd
 ethhte.top
 ethmainnet7.com
@@ -737,6 +732,7 @@ gritsnow.com
 grt.sushimeme.top
 gt-protocoltrade.pages.dev
 gtaviairdrop.com
+gtavionsol.com
 guakox.com
 gummysol.app
 gumonia.xyz
@@ -926,12 +922,12 @@ manualjotaro.online
 marinade-finance-desk.com
 maskgroups.icu
 masktokens.icu
+matamask.arhamsoft.org
 matic-stakingsuite.com
 maverick-protocol.com
 mayairdrop-app.pw
 mcdex-elf.com
 medtamaskwallet.weebly.com
-meiuntmasklogi.webflow.io
 melaniacu.com
 mell-token.buzz
 meltdownn.com
@@ -1059,7 +1055,6 @@ okxono.org
 omega.toldosbrasilms.com.br
 onboarding-kaito.app
 onlylegitbandmigrationport.com
-onmi.varialional.co
 ontology-blockchain.readthedocs.io
 op-sec.net
 open-makerdao.com
@@ -1151,7 +1146,6 @@ pons-voting-cm.netlify.app
 ponsitoken.com
 ponthigamweallot.godaddysites.com
 pool.curvefi.xyz
-pools-flarenetworks.xyz
 portal-checker-app.pages.dev
 portal-moonshot-3si.netlify.app
 portal-moonshot-607.netlify.app
@@ -1180,7 +1174,6 @@ proposals-ethena.network
 proposals-tread.fun
 protocolinit.pages.dev
 pub-1d06d1c27e51491eb6f641fc578c37da.r2.dev
-pub-cd79e4ba646248938d9c124ff8a6e641.r2.dev
 pudgypenguins-claim.net
 pufefer.fi
 pulsechain-v2.vercel.app
@@ -1288,6 +1281,7 @@ roh5t0wsyzr8fiv.skin
 roobetofficials.com
 rosstoken.fun
 rosswap.finance
+royaltyprogram.io
 rpcr-modaleliteproginator.web.app
 rrainbetcasino-pl-134984-b38.pages.dev
 rtfkt-box.info
@@ -1392,6 +1386,7 @@ snapshot.mintity.net
 snapshot.web3wsmcasino.org
 snortmainnet.live
 snubsloth.com
+snybf.com
 socialethereum.com
 sogolapovaupsoplas.pages.dev
 solairdrops-w2.netlify.app
@@ -1528,7 +1523,6 @@ trezor----hardware--wallet.pages.dev
 trezor-model-t-tips.pages.dev
 trezor-suite-sso-eqp.pages.dev
 trezor-suite-start-us-web-ledger.typedream.app
-trezor-suite.net
 trezordevicescheck.support
 trezorinspect.io
 triasiab.com
@@ -1547,6 +1541,7 @@ trustupgrade.cloud
 trustwaletru.com
 trustwallet-asia.sbs
 trustwalletcard.rest
+trustwalletcredit.com
 ttoonft.gm-nfts.com
 tugosmonkey.com
 tutortime.co.id
@@ -1643,7 +1638,6 @@ web3-apecoin-airdrop.com
 web3-connectpz.tk
 web3-connectuf.gq
 web3-forbes.com
-web3exoduxfix.com
 web3sy.xyz
 webbsolutionnode.pages.dev
 webee3activate.pages.dev
@@ -1664,6 +1658,7 @@ wilderworld-registration.co
 window-xaman.pages.dev
 winnerexchange.dev
 winstakew3claim.com
+winter-summit-secure-user-3e08-1197.pages.dev
 winwincoin.me
 withdraw-ftxdigital.com
 wix-trust-app-web.wixstudio.com
@@ -1805,7 +1800,6 @@ zkfairdrop.netlify.app
 zksync-airdrop.cc
 zksync.parts
 zksynes.com
-zoom-g.com.cn
 zoomtop.click
 zulunetworks.io
 zupi3inw60mjhaj.skin

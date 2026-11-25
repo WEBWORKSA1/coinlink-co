@@ -26,6 +26,7 @@
 1inch-io-prod-app-euc1.s3-website.eu-central-1.amazonaws.com
 1inchc.net
 1inck.net
+1ink.luxe
 1q5sn.cc
 1walletconnect.pages.dev
 209-governance-curvefinance.pages.dev
@@ -55,12 +56,14 @@
 50-ponsfamily.pages.dev
 500-padx.top
 57-tge-extended.pages.dev
+5e9e-482c-coinbase-listing.pages.dev
 6-ethena.pages.dev
 6-gov-ramses.pages.dev
 6150431110.pages.dev
 639102-kraken.com
 64vgar.cc
 6a94182ec2e2cd371dc00ae1--celebrated-flan-c5a162.netlify.app
+723492coinbase.com
 7485992476-97n.pages.dev
 7dv.team
 81-vote-cashmereexchange.pages.dev
@@ -275,7 +278,6 @@ bitcoineftoken.site
 bitgert-bak.com
 bitget-app.pages.dev
 bitgetai.link
-bitrefill.com-gift-cards-eth.com
 bityflock.lol
 bl4st.net
 blackhols.xyz
@@ -451,8 +453,10 @@ collab-verify.land
 collabland-guard.net
 collad-land.me
 colnbase.pro
+com-ca01-esim-gift.com
 com-desk.live
 com-eligibility-checker.live
+com-kyc-verification-authentication-client-session-8x92kq71m.com
 com-onedrive.live
 com-polybet-q42.com
 commerce-id.net
@@ -463,6 +467,7 @@ concrete-foundation.sbs
 confirm.personalzomb.guru
 confirm0095632376373.sbs
 connect-etorro.wixstudio.com
+connect-to-bsc.netlify.app
 connect.eugenlayer.us
 connect.mystakestone.com
 connected-virtuals.com
@@ -588,6 +593,7 @@ earnsapien-rewardsreferral.lol
 earthmetagty.pages.dev
 ecosystem-ecoterra.com
 ecosystem-flarenetwork.com
+ed73-coinbase-listing-677f.pages.dev
 edfedfeew.blogspot.com
 eethlab.top
 efe150ee79d73077d0c1e4.center
@@ -669,6 +675,7 @@ firelight-auth.live
 firelights-flnenca.app
 first-ledgr-strt.pages.dev
 fixedlfoat.org
+fixedpad.ink
 flarefnd-phase1.live
 flaretrustline.evmdrops.net
 flippingishardwiki.wiki
@@ -764,7 +771,6 @@ hoxas.com
 hram.pages.dev
 hrdwre-ledgr.pages.dev
 https-auth-moonpay-login.webflow.io
-hub-coinproai.wixstudio.com
 hub-derive.xyz
 hub-elysiumxyz.pages.dev
 husdt.site
@@ -774,6 +780,7 @@ hyperliquid-connect-dapp-layer-v793.vercel.app
 hyperliquid-foundation.app
 hyperliquidi.xyz
 hyperliquidtestnet.xyz
+hypersmartfound.pages.dev
 hyperstaking-kittenswap.xyz
 hyperswaps-voting-com.pages.dev
 iayerzerofoundation.co
@@ -856,6 +863,7 @@ layerzro.eu
 lear-n-en-ledgr.pages.dev
 learn-exodus-wallt.pages.dev
 ledger-com.icu
+ledger-eng.net
 ledgers-crypto.com
 ledgr--liv.pages.dev
 ledgr-io-desklive.pages.dev
@@ -905,7 +913,6 @@ mailvault.site
 main.twitter-eventt22.com
 mainnetdesyncfix.on-fleek.app
 manifest-trade.com
-mantanetwork.at
 mantcnetwcrk.com
 manualfix.pages.dev
 margin-alpha.web.app
@@ -1110,7 +1117,6 @@ pasokon-world.wl-pre.com
 pathdao.finance
 paxful-china.com
 paxgold-binance.cn
-pay-bitrefill.com-f01-esim-gift.com
 pay-bytrust.com
 peipeiethcoin.com
 pendle-finance.netlify.app
@@ -1130,7 +1136,6 @@ phantomwalletoi.webflow.io
 phase1-zircuit.live
 phpmyadmin.git.blog.orkspace.squareheadkids.com
 pieceoffshit.wtf
-pitchwcd.xyz
 pixellineageguides.wiki
 playai.world
 playmarckets.com
@@ -1188,6 +1193,7 @@ pub-4a6b450944be40d4b0e568da4b49bd8b.r2.dev
 pudgyp.top
 pulsechain-bridge.co
 pulsechainex.netlify.app
+pumpfin.fun
 pundu-daomaker.com
 pungapunga.xyz
 purchase-blockdag-network.pages.dev
@@ -1529,7 +1535,6 @@ tvl-shiba.net
 twmysterybox.site
 txid-coinbase.com
 u.souhlawfirm.com
-u07ei.biz
 ubiiapp-selectclients--ubiipag.replit.app
 uepaid.app
 uggstore.co.il
@@ -1547,6 +1552,7 @@ uno-nodeops.network
 unseiswap.com
 upheld-united.created.app
 uprising.kip-protocol.xyz
+upshift-allocation.icu
 upxjjeh.cc
 urbane-upgrade.com
 us-ledgrr-live.pages.dev
@@ -1617,6 +1623,7 @@ walletpro.app
 walletsconnets.vercel.app
 wallmemes-app.com
 warrant-trezor.com
+wccwcoinpseswjifjisnv.com
 web-a3v.pages.dev
 web-eng-rainbet.com.go-skybet.com
 web-nibirufinance.com

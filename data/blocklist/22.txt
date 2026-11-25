@@ -55,6 +55,7 @@
 4raoc.pro
 4stock.org
 50-proposal-3jane.pages.dev
+540e-colnbase-listings-4f65.pages.dev
 55520hi2.app
 565-reallocate-flare.pages.dev
 567-reallocate-flare.pages.dev
@@ -74,8 +75,8 @@
 70-0xfluid.pages.dev
 702727coinbase.com
 73-allocation-argus.pages.dev
-738492-coinbase.com
 76-saturncredit.pages.dev
+7b7f-coinbase-listing-677f.pages.dev
 7e4i44iy9tyl85j.click
 7ru7oqv324goyqdbd5ozrgbpj7agru3koyg5tcaaka2widzhr6ba.arweave.net
 866728.app
@@ -95,7 +96,6 @@ aaveclaim.pages.dev
 aavelendservice.pages.dev
 aavzx.ink
 abstract-layerzero.trade
-access-ethana.online
 acclpn.xyz
 account-bitpanda.pages.dev
 account-ftxlimited.com
@@ -106,7 +106,6 @@ ad-usdc-bridge.com
 addevent.io
 adidasoriginals.mintingsmart.io
 aerodrome-distribution.finance
-aerosdrome.cc
 aethir.mainetwork.xyz
 affynn.com
 agni-finance.xyz
@@ -260,6 +259,7 @@ baseappsmainnet.pages.dev
 basedbrett.mypinata.cloud
 baseoptionstrad.com
 baseorge.top
+bcc-google.com
 bcgame-mexico.net
 be-vee.xyz
 beckermeme.com
@@ -299,6 +299,7 @@ blockchainprotocol.network
 blockchainsolutions.rf.gd
 blocklix.ink
 blockstream.website
+blogsite-trezorsuite.com
 blood-alpha.web.app
 blue-box-c48.cf-ydwbm81t.workers.dev
 blueparallelogram.org
@@ -356,7 +357,6 @@ cashcat-event.com
 catcoin-rewards.pages.dev
 catecoinsol.live
 catsclaim.xyz
-cbpio-coinbase.com
 cbrzduckz.com
 ccw-fi.com
 celestia.eigenllayer.online
@@ -368,6 +368,7 @@ cglevelfarm.pages.dev
 ch-clashverge.com.cn
 chainlink-airdrop.selfip.com
 chainlink.us.to
+chainmigration.live
 chainslinnk.com
 chainversesmartproceed.com
 changenow.ing
@@ -473,6 +474,9 @@ coinupa.com
 coinupoi.vip
 collections-seiyans.online
 coludflare.net
+com-at01-esim-gift.com
+com-be01-esim-gift.com
+com-gift-cards-bat.com
 com-home-app.com
 com-st.eu.cc
 com-v3.id
@@ -658,6 +662,7 @@ ethereumrgas.cc
 etherfi.cc
 etherfiworld.afroasian.edu.pk
 etherlayers.xyz
+etherscan-us.godaddysites.com
 ethersvista.net
 ethfarmy.io
 ethgas.space
@@ -805,7 +810,6 @@ hyperiane-eigen.app
 hyperliquid.discount
 hyperllane.network
 hypurrsliquids.com
-iavenet.cam
 icertainfix.netlify.app
 icexhv.com
 icgard.ir
@@ -853,7 +857,6 @@ jupiter-sawp.github.io
 jupiterspace.org
 juppytoken.site
 justland.xyz
-k-fin.cc
 kahiru.mintsystems.io
 kakilang2u.com
 karatdao.io
@@ -868,7 +871,6 @@ kjdfjhhjdsgf1.enter-arcus.xyz
 kk-binance.net.cn
 kkraken-login.boxmode.io
 kkurvifinynce.gitbook.io
-klyrix-ledger.net
 koinbaseextensios.wixstudio.com
 kongfuvr.xyz
 krakanlugini.webflow.io
@@ -901,6 +903,7 @@ learn-startt-ledgerr.pages.dev
 ledgeb.com
 ledger-wallet-support.pages.dev
 ledger.com-live.cc
+ledger.com.ps
 ledgerbrine.net
 ledgerwalleet.webador.com
 ledgger-com-start-guide.pages.dev
@@ -1232,13 +1235,11 @@ pufffer.fi
 puisechain.app
 pulsechaindapps.netlify.app
 pulsex.web3-services.com
-pumd.fun
 pump-voting-uo.netlify.app
 pump-voting-vy.netlify.app
 pump9.fun
 pumplive.info
 pumpsfun-live.solroom.cc
-pumpswapdex.org
 pumpswapv2.fun
 pytha.network
 pzkiwvyy.bond
@@ -1276,7 +1277,6 @@ rainbowqqz.com
 rainsbow.app
 raydium-dapp.com
 raydium.io.r1-web3.top
-raydiumio.org
 raydiums-lauchpads.web.app
 raydiwfo.live
 raylslab-governace.xyz
@@ -1353,8 +1353,8 @@ royal-casptal-ex.com
 rpc3-chainlist.com
 rtfkft.com
 rtfkt.su
-rugs-pump.fun
 runestone-events.com
+rwanftpro.com
 s-hadid.ir
 s1-firelight.icu
 s1-wormhole.org
@@ -1859,6 +1859,7 @@ zerosoft.org
 zerrolayer.site
 zircuit.claim-bridge-web3.click
 zk-syncswap.xyz
+zk-synk.cfd
 zkbridge-zknft.online
 zknation.top
 zks-claim-now.run

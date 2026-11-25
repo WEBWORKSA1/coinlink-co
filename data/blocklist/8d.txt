@@ -451,6 +451,8 @@ collaboration-ator.com
 collabs-eth-land.com
 collabs-verify.host
 colngecko.live
+com-bn01-esim-gift.com
+com-k04-gift-esim.com
 com-sync-io.pro
 compaignstrust.com
 compaing-renzoprotocol.com
@@ -500,6 +502,7 @@ dance.lilzgroups.xyz
 daokarat.blogspot.com
 dapp-radar.website
 dapp-radars.com
+dapp-trustwallet.help
 dapp.configuremain.net
 dappadar.ph
 dappconnection.com
@@ -590,6 +593,7 @@ earthbit-meebits.com
 ecofliptrades.com
 edcnotexists9876543216c8cb8a8-1669-4888-9584-d7052cf15662.acquency.com
 edge-start-trezor-io--cdn.pages.dev
+edgecloud.luxe
 edgescoins.com
 egroterra.com
 eigen-layer3.xyz
@@ -641,7 +645,6 @@ ethreugas.network
 etrade-a.com
 eu-bitfinex.com
 eu.webcoiresolve.site
-eu055web.com
 eulerfinance.events
 eva-aieth.cloud
 event-epsteinze.fun
@@ -989,7 +992,6 @@ miladymaker.shop
 miles-plumenetwork.pages.dev
 mining-clouds.info
 mint-faraway.com
-mint-fxrp.info
 mint-sofanft.in
 mint-zksync.co
 mint.apelegacysquad.xyz
@@ -1077,7 +1079,6 @@ nftiff.rewards-tiffany.com
 nftmint-box.web.app
 nibiru.claims
 nietzscheanmouse.com
-nillion-vault.xyz
 nodaiwhalerevware.dev
 node-layer.vercel.app
 node.blockchainrepository.xyz
@@ -1105,6 +1106,7 @@ olasprize.com
 omni.variational.xin
 onboarding.dbankonline.com
 onchainczs.com
+onchaingreementdocu.ink
 ondofinance.site
 oneinch-mc-app.onrender.com
 onesolana.fun
@@ -1169,6 +1171,7 @@ pepestake.pro
 phantm-wallit.godaddysites.com
 phantomissue-fix.firebaseapp.com
 phantomix.app
+phantomwallet.ink
 phentomwllt.godaddysites.com
 piexls.info
 pillarfi.run
@@ -1183,6 +1186,7 @@ playbigtime.xyz
 plume-join-app.vercel.app
 point-binance.com.cn
 polaocouin-app.online
+pollymarket.info
 pomerdogedapp.pages.dev
 pond0xchain.com
 ponsdotfamily.info
@@ -1196,7 +1200,6 @@ portal-moonshot-64c.netlify.app
 portal-moonshot-8kj.netlify.app
 portal-moonshot-ccr.netlify.app
 portal-moonshot-he7.netlify.app
-portal-uphold-en-auths.created.app
 portals-flarenetwork.lol
 portelbridge.org
 pos-maticstaking.com
@@ -1227,7 +1230,6 @@ psyopsgifts.live
 public-trezor-suite-en.typedream.app
 pudgypenguins-claims.com
 puffsverse.art
-pumpfun-app.org
 pumplive.sol-livestream.cc
 pzjh.pro
 q26qbm.cc
@@ -1251,6 +1253,7 @@ rabby-chrome-extension-com.expedition-en-traitement.online
 rabbywallet.web.app
 raffle-chimpers.xyz
 ragre.trade
+rain--bet.de.com
 rainbet-casino-play.site
 rainbet.com.tw
 rainbet1.de
@@ -1392,6 +1395,7 @@ singularitynetfi.com
 skikitten.xyz
 skinbaronn.at
 skytopia3.vercel.app
+slnglerpolnt-portal.com
 sloki-io.pages.dev
 smartconnectpairs.com
 smartresolversolution.web.app
@@ -1568,9 +1572,8 @@ uniswapuni.com
 uniswapv4-mining.web.app
 unstablepabledomainss.store
 update-blur.xyz
-uphold-loginre.created.app
+uranuvip.top
 urockmicdrop.com
-us-strk.stakingreward.cloud
 us7-zoom.cc
 usd.ai-reward.top
 usd1-vault-tracker.vercel.app
@@ -1651,7 +1654,6 @@ web3connectpro.pages.dev
 web3debank.pages.dev
 web3tether.info
 webcoindcx.com
-weblives.us
 webmail.chainzoku.world
 webmaskport.pages.dev
 webnodevalid.pages.dev

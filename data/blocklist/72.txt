@@ -109,7 +109,6 @@ aaveethdefipro.com
 aaveprivilege.com
 access-portalgaming.app
 accountf-www.register-gtprotocol.io
-acys.cc
 aedodrome.finance
 aerodrome-finance.ec
 aerofromefi-vote.xyz
@@ -257,7 +256,6 @@ atllayer-claims.top
 auth-ledger-live-page.pages.dev
 auth.cropper-dex.com
 authorization01-ledger.app
-authverify-payment.com
 autoconfig.api.en.vertex.joinweb-3.com
 availproject-airdrop.com
 avive.pages.dev
@@ -299,8 +297,7 @@ bitget-wallet.claims
 biti-nauts.icu
 bitkubs.com
 bitlayer-airdrop.xyz
-bitrefill.com-g01-esim-gift.com
-bitrefill.com-w04-gift-esim.com
+bitrefill.com-gift-cards-kava.com
 bitroflil.com
 bitshares.org
 bitstmap-us.wixstudio.com
@@ -381,6 +378,7 @@ claim-hash256.org
 claim-huddle.com
 claim-iomantrachain.xyz
 claim-layerzero.org
+claim-loopring.app
 claim-lucidly.finance
 claim-mantra.com
 claim-melondogcoin.com
@@ -468,12 +466,16 @@ collab-land-port.com
 collabland-pepe.com
 collect-asterdex.com
 collect-pepe.vip
-com-swap.at
+com-a01-evm-aml.com
+com-gift-cards-snx.com
+com-h04-gift-esim.com
+com-in-q01-esim-gift.com
 com-token.info
 com-xjues.cfd
 communeaidot.org
 community-eigenfoundation.xyz
 compatibility-ledger.live
+compliancereview-apple.com
 concrete-app.icu
 connect-page-rectify.cloud
 connect-skate.com
@@ -692,7 +694,6 @@ finance97-laborum25.sbs
 finlab4-maxime56.sbs
 firelight-fxrp.fi
 firelight-voting.icu
-firmware1-ledger.com
 flamingo-official.xyz
 flaredportal.net
 flaredrops.com
@@ -706,6 +707,7 @@ floki.snapshot-register.net
 floki.technology
 flokiairdrops.online
 flow-on.fun
+flywheelmedtech.com
 foamroofca.com
 fomo-family-t0f.netlify.app
 fortunefinanceltd.net
@@ -831,7 +833,6 @@ innovateera.lat
 instant-dconnect.firebaseapp.com
 integratechainfix.pages.dev
 interest-onyx.org
-interface-fuelnetwork.stakingreward.cloud
 internetmoneyio.com
 investorplacetoken.com
 io-solscan.site
@@ -883,6 +884,7 @@ kinetiq-wallets.xyz
 kintsu-allocation.xyz
 knowledgedrop.saaharaal.xyz
 koocoin.xyz
+kraken-secure.network
 krakensupport.com.lc
 kybersvap.com
 kyrowin.com
@@ -960,6 +962,7 @@ manage-nodes.online
 manta.network-v2.xyz
 mantanetworktoken.xyz
 mantle.jorney.xyz
+marketn.cc
 marketplace-web3-v2.codeanyapp.com
 marspoolindappsync.com
 mask-airdrop.duckdns.org
@@ -990,8 +993,10 @@ metamaskchromeextensionn.blogspot.ae
 metamaskioextension.wordpress.com
 metamaskk-exteensioin.gitbook.io
 metamasks.finances
+metamasks.godaddysites.com
 metamaskxextensionee.gitbook.io
 metameskae.com
+metamsk-lgin.blogspot.gr
 metamsk-login-en.pages.dev
 metamsknsexion.gitbook.io
 metamxsk.com
@@ -1009,6 +1014,7 @@ mexc-partner.com
 mexcglobal.top
 microsoft-ai-claude.top
 microsoftsystemserver.top
+micrsoft-login.com
 migrate-opsec-cloud.pages.dev
 migratedrops.pages.dev
 migratelayerai.com
@@ -1127,7 +1133,6 @@ okxviewpointstatuscommunity-gdbfkjnhs.netlify.app
 okxwallet.services
 omni-network.icu
 onchain-binance.com
-onchain-ex.com
 onchain-launch.com
 ondno.finance
 onlylegitbicomigrationport.com
@@ -1188,7 +1193,6 @@ particle-networks.site
 pass-samoyed.com
 pavantumogin.godaddysites.com
 pawzones.net
-pay-bitrefill.com-gift-esim-x04.com
 paylynxy.top
 payments-web3.fi
 pbiagix.net
@@ -1205,6 +1209,7 @@ pepecoin666airdropclaim2023newvyazhikoshelek.top
 pepes-tau.vercel.app
 pepes-vips.eu
 perle.community
+perpie.luxe
 personaspm.xyz
 pfstreams.top
 phantomarchive.xyz
@@ -1243,7 +1248,6 @@ poseidonrewardbonus.pages.dev
 power-airdrop.site
 pravacomp-dds.top
 precoursesignapp.pages.dev
-predeposit-flare.com
 premint-thepotatoz.xyz
 premintvulcan.xyz
 presale-blockgames.xyz
@@ -1285,6 +1289,7 @@ queststudies.com
 quick-net-21f.cf-i1xea9tn.workers.dev
 quickfeatureszerion.pages.dev
 radiantcapital.info
+rain2betamp.top
 rainbet-au.it.com
 rainbet-casiono.com
 rainbet-danmark.dk
@@ -1385,7 +1390,6 @@ s2-morpho.xyz
 saderatgb.live
 safeassetscan.site
 safegive.cfd
-safepalwallet.co.com
 safes-guards.com
 sandpass.events
 sandwichtrader.lol
@@ -1402,8 +1406,8 @@ seasons1-renzoprotocol.com
 secret-dymension.xyz
 secure-paybis.webflow.io
 secure-trezor-bridges.pages.dev
-securedeficustody.pro
 securely--sso-cdn-kucoin.webflow.io
+securerelay31d290-google.com
 security-kraken.com
 seinetwork.trading
 sensayservice.pages.dev
@@ -1446,7 +1450,6 @@ solaxyclaims.com
 solclaim.fun
 solidmetalresolutions.xyz
 solpos.me
-solsticefinances.app
 solvfinance.app
 solvfoundation.bet
 someium.com
@@ -1482,6 +1485,7 @@ storeteampowered.ru
 stramllow.finance
 strtcoin-basepro-login.pages.dev
 studio-avantgarde-design.netlify.app
+stxrp.us
 suilend-reward.com
 suite-trezor-support.pages.dev
 suivivors.mintfree.online
@@ -1569,7 +1573,6 @@ trust-today.com
 trustcoint.vip
 trustpad-ul.com
 trustsurvey.website
-trustwallet-infos.com
 trustwalletcard-ai.com
 trustwalletsupporrt.com
 trustwalletzrewards.com
@@ -1787,7 +1790,6 @@ xmcv4.pro
 xn--cinbas-bya9z.com.ph
 xn--coinbase-wallit-cons1e-rfc.webflow.io
 xn--gte-ipa.com
-xn--ldg-krac01b.com
 xn--metamasklogin-lobs.webflow.io
 xn--monshot-vote-fib.xyz
 xn--moonshoo-eyb.app

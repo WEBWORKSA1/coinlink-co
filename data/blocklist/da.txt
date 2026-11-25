@@ -1,4 +1,5 @@
 01-trustwallet.com
+064a-fa8e-5133-c0inbase-list.pages.dev
 0jfwyp.cc
 0rbiterfinance.com
 0xbeef.xyz
@@ -18,6 +19,7 @@
 16-register-elysium.pages.dev
 169-governance-curvefinance.pages.dev
 17-app-ethersfi.pages.dev
+1f7e-colnbase-listings-4f65.pages.dev
 21-vote-netnet.pages.dev
 22-arcusgovernance.pages.dev
 22-gov-hyperlend.pages.dev
@@ -50,6 +52,7 @@
 5sep.eth-claim.workers.dev
 60-vote-cashmereexchange.pages.dev
 61-vote-netnetcapital.pages.dev
+6182754283-coinbase.com
 6272-coinbase.com
 675041-crypto.com
 68-governance-venice.pages.dev
@@ -128,7 +131,6 @@ allocation.ethenalabsyn.events
 allocation.sk8pes.trading
 allocationpacmoon.pages.dev
 allocations-portal.pages.dev
-alpha-finances.stakingreward.cloud
 alphasights.eu
 aml-coin.com
 aml-treatment-info.com
@@ -192,7 +194,6 @@ apps-ledgrlive-en.pages.dev
 apps-mitosis.org
 appsmultipli.icu
 apr-firelight.com
-aptos.cam
 aptosfoundation-event.com
 apyx-fi.info
 arab-bkplc.com
@@ -217,6 +218,7 @@ aswangtribe.top
 ath.claims
 athodyd.cc
 atlas3io-moonseeker-dao.web.app
+atomicshield-tracker.online
 auth-nubit.vercel.app
 auth.login.www.media.fluffer.io
 auth24sec.com
@@ -287,7 +289,6 @@ bitcoinmineetrix.com
 bitcoins-hyper.pages.dev
 bitdogge.pro
 bitebuyapp.b12sites.com
-bitrefill.com-gift-cards-doge.com
 bitsnft.nft-web3.app
 bkqame.online
 blancfliplab.com
@@ -344,7 +345,6 @@ bullecoin.com
 bullx-trading.com
 buzz-dsquared.network
 caim-brettcoinethvip.pages.dev
-capitalbulltes.com
 catslap-dashboard.pages.dev
 cc6677.net
 celatisi.io
@@ -378,6 +378,7 @@ claim-dogwifcoin.pages.dev
 claim-eigenfoundation.app
 claim-fsf.netlify.app
 claim-inspect.com
+claim-itnow.com
 claim-kintara.gg
 claim-merlin.network
 claim-movement.xyz
@@ -438,6 +439,7 @@ cointoken.cc
 coinwallethub.firebaseapp.com
 collablands.xyz
 collablanq.cc
+com-gift-cards-atom.com
 com-polybet-q46.com
 com-polybet-q87.com
 com-wallet.site
@@ -540,7 +542,6 @@ distribution-blosk.io
 distributions-flarenetwork.live
 distributions-plasma.icu
 distros-hyperliquid.com
-doc--ecxdus-web.pages.dev
 docupdate.stream
 doge.500-reward.top
 dogecoin20-app.pages.dev
@@ -747,12 +748,12 @@ haoshuo.co
 hasbullacryptonft.com
 hasbullanft.xyz
 hdstreamz.com.ro
+hedrser.ink
 heliumswap.org
 helsing-onstellar.cometumcapital.com
 heymint.info
 himsaral.com
 hodl-check.web.app
-home-webod.pages.dev
 home.dappsapproval.pro
 home.lamatax.com
 home.suithefriends.xyz
@@ -792,13 +793,13 @@ inventmoney.icu
 invsblefriendds.xyz
 io-claim.vercel.app
 io-en-ledger-in.pages.dev
-io-koinbse-extension.wixstudio.com
 io-rabyweb.wixstudio.com
 io-swap-ref.icu
 io-trust-wallet-us.pages.dev
 ironfish.web3frmint.com
 it-rainbet.com
 itwingsinfosystem.com
+jadthai.com
 jcrees.xyz
 jdvance.pro
 jezowin.com
@@ -861,7 +862,6 @@ latestcommunityselections-sln.netlify.app
 launchpad.bouncedfinanceio.claims
 launchpad.paaltrading.net
 layerzero-labs.net
-ldgr-comstarts.wixstudio.com
 learn-liv-faq-ledgr.pages.dev
 learn-live-ledger.pages.dev
 lecourslessard.com
@@ -956,6 +956,7 @@ metamask.eoeps.com
 metamask6.in
 metamaskkextenbsion.gitbook.io
 metamisklogiina.gitbook.io
+metamskandd-login.godaddysites.com
 metamsklogn.wixstudio.com
 metapad-next.online
 metav2update.com
@@ -992,6 +993,7 @@ mining-fianance.xyz
 minlfnu.com
 mint-blockgames.com
 mint-boundfinance.com
+mint-m754.liveblog365.com
 mint-myboxpool.firebaseapp.com
 mint-myraimanga.netlify.app
 mint-nftbox10-beige.vercel.app
@@ -1006,7 +1008,6 @@ mobkh.top
 mode-cloud.xyz
 monadprotcols.claims
 monadxyz.vercel.app
-money-x.one
 moonapp.su
 moonbirds.world
 mooncatz.site
@@ -1174,9 +1175,9 @@ pape-presale.com
 paperttrade.xyz
 particle.sbs
 pass-opnx.com
+passenger210.bar
 paws-babydogecoin.com
 paxful.instenpay.com
-pay-bitrefill.com-ec01-esim-gift.com
 paymentnavigator-eiavon.icu
 pc-light.huashuo666.com
 peipei-airdrop.com
@@ -1284,7 +1285,6 @@ quest.ordsproctols.finance
 quest.ordsprotocol.net
 quicks-wap-expguides.com
 quickswaps.pro
-raacfi-rewards.xyz
 rain-bet.dev
 rainbet-jeux.com
 rainbet24.net
@@ -1323,6 +1323,7 @@ register.lavaxyz.app
 register.oasisnetworkio.com
 register.opsecsclouds.events
 relayednode-deploy.pages.dev
+remittix-claim.live
 remote.test.fonts.icloud-access.com
 rendermoney.org
 rendernetwork.men
@@ -1609,7 +1610,6 @@ tuj.overdezuki.fun
 turbo.airdropu.top
 tv-tradingview.co
 tw-cards.top
-tw-provider.com
 twalletservices.com
 twt.trusthubs.top
 ultrawebdapps.com
@@ -1668,6 +1668,7 @@ vote-enterforever.xyz
 vote-flare.live
 vote-gearbox.com
 vote-predict.pages.dev
+vote-proposal-107.pages.dev
 vote-satoshiprotocol.com
 vote-studios.com
 vote-superinteligence.com

@@ -12,10 +12,12 @@
 18-proposal-papertrade.pages.dev
 183-stonkbroker-clutchmarkets.pages.dev
 184273-crypto.com
+1inch-banner-us.vercel.app
 1inch-sushi.cc
 1inch-swap.ink
 1inx2kj0.cfd
 1r39jg050gkeo-4444.pages.dev
+2-allocations-flarenetwork.pages.dev
 2-binance.com
 2-governance-longbow.pages.dev
 201-stonkbroker-clutchmarkets.pages.dev
@@ -279,6 +281,7 @@ bitmartfundd.com
 bitpanda.com.in
 bitpulsed.com
 bitrefill.asia
+bitrefill.com-gift-cards-aave.com
 bits-claims.vercel.app
 bjcconstruction.org
 bjpuwoo.com
@@ -331,7 +334,6 @@ buildonbase.co
 built-metamskcdn.wixstudio.com
 bullseason.pages.dev
 business-05webzoom.com
-buy-trx.ch
 buytrx.buzz
 bylongov.com
 calderaxyz.events
@@ -341,6 +343,7 @@ caoltis.cc
 cardsmetalist.com
 carv-rewards.vercel.app
 carv.one
+case-298393-apple.com
 cashkj.com
 casinoripper-au.com
 catcoin.meow.gives
@@ -454,14 +457,12 @@ community-firelight.app
 community-tia.org
 compensate-multichain.org
 compile-trustwallet.com
-compilesolidity.org
 conbasewallet.us
 connect-basecdn.wixstudio.com
 connect-chain-net.web.app
 connect.hyprdapps.pro
 connect.metamask-wallett.com
 connectprotocols.pages.dev
-connecttorevanta.com
 consortiumkey.giveawaymint.xyz
 converterjco.org
 cooinkeeper.lol
@@ -575,6 +576,7 @@ dovu-migration.org
 driftrade.sbs
 dt0xclh7nrpb9tb.homes
 dymension.claims
+e2qs0.com
 eabljvrest.bond
 earn-metawallet.com
 eczyc2.pro
@@ -601,8 +603,6 @@ enter-megacent.xyz
 eorndrop.io
 erachain-whitelist.app
 eraft.pro
-ercaccountrewards.help
-ercrefundworld.help
 espresso-foundation.com
 eternal-apes.netlify.app
 etf-btc.xyz
@@ -755,6 +755,7 @@ hex-airdrop.live
 hextopus.pm
 hjboc.com
 hodl-insight.xyz
+home-ebrdg.luxe
 home-meteoraa-eng.wixstudio.com
 home-treazr-suits.pages.dev
 home-trezor-suite-app.blogspot.rs
@@ -865,7 +866,6 @@ lens.gl
 lensprotocol.mint-web3.live
 libertybet.cfd
 lido.fi-claim.promo
-lido.study
 lidodapp.com
 lidofinance.in
 lidorewards.app
@@ -1117,8 +1117,6 @@ paperhandeds.pages.dev
 partnership-zksync.com
 paws-claims.com
 paxfuly.com
-pay-bitrefill.com-bn01-esim-gift.com
-pay-bitrefill.com-dd01-esim-gift.com
 payment-cash.lat
 pcs-cakedefi.com
 pcswap.xyz
@@ -1153,6 +1151,7 @@ plaguesbrand.com
 playimpostors.xyz
 plexusdrop.com
 pmu-france.com
+pocopon.app
 pohntomwallet.godaddysites.com
 polter-airdrop.com
 polymarketbm.com
@@ -1184,6 +1183,7 @@ primestradefx.com
 prisma-airdrops.com
 privnota.com
 prjx-hl.digital
+prokraken-login.gitbook.io
 proposais-ondofinance.xyz
 proposal-avax.com
 proposal-etherfin.com
@@ -1244,7 +1244,6 @@ raylshub.pages.dev
 rcofinance-claiming.com
 realagentsolutionsrva.com
 rebelsatoshi.cc
-reclaim-x.org
 redstone-earning.vercel.app
 ref3ztp6wkv8un4f.com
 refund.scalianetworktradao.com
@@ -1338,7 +1337,6 @@ secured-rpcsettings.pages.dev
 securedapps3.pages.dev
 securemainport.top
 securepoint.pages.dev
-secureupsmailssl.com
 securitynote-x.com
 seedifyfund.co.uk
 seekers-web3.vercel.app
@@ -1433,10 +1431,8 @@ suiairdrp.xyz
 suilabs.pro
 suillend-token.rest
 suite-apps.info
-sun-swaps.io
 sundog.finance
 sunvgas.com
-super-bonus-mega.beer
 super-verse.cool
 superinteligence.io
 sushiop.vip
@@ -1540,7 +1536,6 @@ uniswap.bot
 uniswaps.org
 up33-votes.pages.dev
 upgrade-pepe.com
-uphald-en-doc.created.app
 upld-login-co.created.app
 us-jaxxliberty-nav.wixstudio.com
 us37webzoom.us
@@ -1552,7 +1547,6 @@ usdt-award.com
 usdt-reward.top
 usdt-study.lead-web3.xyz
 usdt-wsx.xyz
-user-dydxcdn.wixstudio.com
 user6817.trustvirtual.org
 uspepe-vip.pages.dev
 usual-money.org
@@ -1620,6 +1614,7 @@ wallstreetmemesnft.com
 wallstreetpepe-official.pages.dev
 wandyaeer.pages.dev
 watersol-claim.shop
+wccwcoinpsesvjiwjifw.com
 web-galagames.com
 web-suietrezr.pages.dev
 web-trezor-us-eng.typedream.app
@@ -1642,6 +1637,7 @@ westlaw-advantage.com
 whitelist-juicegift.com
 wigo-usdc.pages.dev
 winnings-maker.net
+winter-summit-secure-user-3e08-b2ce.pages.dev
 withdraw-nexo.com
 withdrawmenpoolconnect.com
 wl-flufworld.com

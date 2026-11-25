@@ -21,7 +21,6 @@
 164-stonkbroker-clutchmarkets.pages.dev
 16tbz5.demonmetale.xyz
 17-view-kinetiq.pages.dev
-172446coinbase.com
 18-ethenagov.pages.dev
 186-stonkbroker-clutchmarkets.pages.dev
 1buydaddy-all-dex.pages.dev
@@ -45,6 +44,7 @@
 369-reallocate-flare.pages.dev
 379-lists-okxvotes.pages.dev
 392543-coinspot.com
+39bf-482c-coinbase-listing.pages.dev
 3nci6wnf4vxy3mucgjmxn2ti77tp2khwbn54jhr7l3cjxab7gara.arweave.net
 4-robinevent.pages.dev
 40-vote-cashmereexchange.pages.dev
@@ -112,6 +112,7 @@ aerodrome.flnance.api-web3.cfd
 aevo.xyz-connect.digital
 agix-dashboard.com
 agreement.fun
+ai-consensys.vip
 aibot10.cc
 aidogearb.co
 aiiocate-debankfl.com
@@ -199,7 +200,6 @@ app.zircruit.tech
 appblockresolve.pages.dev
 appfuel-network.xyz
 applicationsdappsclaims.pages.dev
-apps-flarenetworks.xyz
 apps-metmaskext.wixstudio.com
 apps-us-com.phantom-virtual-tap.com
 apps-zeriona.wixstudio.com
@@ -265,8 +265,6 @@ bithumbusdt1.vip
 bitmaingiveaway.com
 bitnestmedapp.onrender.com
 bitnexreviewltd.com
-bitrefill.com-bx01-esim-gift.com
-bitrefill.com-s01-esim-gift.com
 blast-dao.com
 blast-earn.com
 blast-invite.cloud
@@ -431,6 +429,7 @@ collab.land-community.com
 collabland.api-sync.net
 colobank.org
 color.sadwing.za.com
+com-a61-gift-card.com
 com-lj7.click
 com-v3-swap-portal-gateway.cloud
 com-webapp.live
@@ -533,7 +532,6 @@ dexalot.xyz
 dexmarketpros.com
 dexmeta.net
 dexsuperdoge.pages.dev
-dextools.gr.com
 digidaigakugirls.freemintclaim.com
 dinamobet1209.com
 discoparrot.com
@@ -601,7 +599,6 @@ eligibility-optlmism.com
 eligibility-sahara.dev
 elonxbeast.online
 elseverse.lol
-en-upholdapp.created.app
 en-wallstreetpepe.xyz
 energywweb.smurfs-fun.com
 eng-ledgerlive-downld.pages.dev
@@ -883,7 +880,6 @@ learnbnb.click
 ledger-com-nano.icu
 ledger-com.io
 ledger-firmware-device.com
-legalfile-x.online
 leverjdefi-web.com
 lido.dao.finance.signupfree.net
 lifelessfootball.com
@@ -913,7 +909,6 @@ luckyiblock.cloud
 lunacreatmeme.com
 luno-asia1.com
 lyncdiscover.git.webdisk.login.media.fluffer.io
-m-kosche.com
 m-mask.xyz
 magiceden-doo.pages.dev
 magicedena.offer-proposal.com
@@ -994,7 +989,6 @@ mint.btzparty.lol
 mint.personasm.xyz
 mintnow-v4.vercel.app
 mitosis.live
-mmt.stakingreward.cloud
 mocaverses.net
 mode.org-p.click
 modenetwork.netlify.app
@@ -1013,7 +1007,6 @@ morphafinance.com
 morphc.icu
 mporpho.org
 mrbeasttoken.net
-msf-g.cc
 mtamiskwlet.webflow.io
 multi-chainbridge.onrender.com
 multiface-optimalport.firebaseapp.com
@@ -1072,6 +1065,7 @@ notcoin-airdrop.com
 notcoinairdropclaim.cfd
 notcoinvoucher.top
 notebooks.office-on-the.net
+notiification-google.com
 notlon-so.tech
 ns2.sitemap.sitemaps.fluff.top
 obais.tw
@@ -1100,6 +1094,7 @@ openseafree-mint37.vercel.app
 openseapro-nfte28.vercel.app
 opensee.pics
 openslisting.com
+openwalletscan.site
 opepen-art.xyz
 optimdrop.xyz
 optimism-network.info
@@ -1152,6 +1147,7 @@ pepereleaseschn.xyz
 pepevip-airdrops.com
 pepezk.site
 pepu-unchained.help
+phantmwallertt.gitbook.io
 phantomm-wallet.gr.com
 phantomwallet.online
 phantomwllet-usa.godaddysites.com
@@ -1170,7 +1166,6 @@ pixels-drops.com
 pjn-1-reward.pages.dev
 planbsince2018.dk
 planet-mdvmm.xyz
-plasma-vote.com
 plasmaconnect.live
 plasmaverse.nft-premint.com
 platnodbitliv.pages.dev
@@ -1229,7 +1224,6 @@ pulsechainweb.com
 pulsedripclaim.pages.dev
 pump-claims.web.app
 pump-pinksale.top
-pump-watchstream.fun
 pumpchatstreaming.fun
 punpfuan.com
 puthty.top
@@ -1402,7 +1396,6 @@ solfixs.online
 solomonm.pages.dev
 solqstcoin.online
 soltry.icu
-solv-vault.xyz
 solvapp-finance.com
 solve.xactive.io
 solverseapp.pages.dev
@@ -1548,6 +1541,7 @@ trust-wallets.company
 trust.rewardhub.win
 trust2024.xyz
 trustamicheck.com
+trustdepcard.org
 trusteamwallet.pages.dev
 trustpad-is.com
 trustpade-chz.com

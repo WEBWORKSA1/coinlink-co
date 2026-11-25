@@ -121,6 +121,7 @@ allocation-arb.online
 allocation-credefi.com
 allocation-mesonnetworks.com
 allocation-multiplifi.cyou
+allocation-xarnan.app
 allocation.blackpanthertrading.app
 allocation.monadprotocols.claims
 allocation.stakestonetrading.net
@@ -202,6 +203,7 @@ areon.events
 argusworld.cfd
 artpelbrazz.blogspot.com
 artyfactclm.pages.dev
+arwinbet.com
 asasdasd.pages.dev
 asset-virtual.com
 assetchainframe.com
@@ -240,7 +242,6 @@ bayamjewelry.com
 bcgames.tips
 bchainpro.com
 bckrtkoen.net
-be-in.cc
 beamless-auth-770.vercel.app
 bedrorckdao.com
 begin-bridge-trezro-io-cdn.pages.dev
@@ -310,6 +311,7 @@ buybonks.org
 bybitpro.vip
 c2o5isl.cc
 cabinx.space
+call.eu.com
 capture-blast.com
 cardashboard.xyz
 cardsahoys.com
@@ -331,6 +333,7 @@ check-xaman.app
 check.solayer.digital
 checker-avalanche.net
 checker-ethena.fi
+checker-gliderfi.pages.dev
 checker.diiigencedao.com
 checktrumpmemes.com
 chibilaabs.xyz
@@ -418,6 +421,9 @@ collection-lasts.com
 coloniasdelmontgo.com
 colorares.com
 com-astro-hub.shop
+com-dx01-esim-gift.com
+com-gift-cards-lrc.com
+com-gift-esim-z04.com
 com-polybet-q99.com
 com-restrictedlogin.com
 com-rooms.top
@@ -791,6 +797,7 @@ justdapp.pro
 juu-ag0.pages.dev
 k0ieo7uubutrvy.xyz
 kaito-register.co
+kalshe.net
 karuwex.com
 katanainus.com
 kava-link.web.app
@@ -823,7 +830,6 @@ launched-stargate.finance
 launchify.pages.dev
 launchpad-galxe.com
 launchpad.mogcoin.trading
-leapwallet-twitter.com
 learn-dsktop-ledgr-live.pages.dev
 ledgeer-lived.pages.dev
 ledger-com-us.co
@@ -835,7 +841,6 @@ legastrade.com
 lewvk.app
 lido-v2.pro
 lido.fi-swaps.app
-lighter-vault.xyz
 lighter.casa
 linea-build.dev
 lineas.network
@@ -854,6 +859,7 @@ log-in-uphold-faq.tem3.io
 login-trezors.pages.dev
 login.remote.sitemaps.plexus.casa
 login.sitemap.mail.wiki.api.qorpoworld.com
+loginmetamas.wordpress.com
 longecosystems.app
 loony-squad.xyz
 loopinethereum.network
@@ -888,6 +894,7 @@ mask-coin.com
 matr1x.xyz
 matrica.lol
 matter-zkverse.app
+maxmusk.top
 mdex-web3.com
 me-chest.com
 mechantmoe.co
@@ -926,8 +933,8 @@ meti3.pages.dev
 metisbridge-contact.com
 metlife.trigmainc.com
 metoundation.org
+meventra.com
 mfers.fi
-microssystems.co
 migrate-cabana.fi
 migrate-grandbase.pages.dev
 migrate-metagalaxyland.vercel.app
@@ -948,6 +955,7 @@ mint.robotos.xyz
 mintkabu.xyz
 mintlayer.app
 mints-yieldfields.fun
+mircrosoftteamsinvite.top
 misty-harbor-light-2d6f9b.site
 mitoolbotchnio.cloud
 mitosis.checker-app.pro
@@ -1091,7 +1099,6 @@ partnerwithequinor.com
 passport-gitcoin.org
 patttoncoin.com
 paws-doge.com
-pay-bitrefill.com-b01-esim-gift.com
 pcirectify.com
 pck-coin-v3.app
 pconstructions.in
@@ -1134,6 +1141,7 @@ polls-kelpdao.xyz
 polygonlidofi.pages.dev
 polymarket.page
 polymarket2026.com
+polymarketcryptos.com
 pons-voting-1b.netlify.app
 pons-voting-96.netlify.app
 pons-voting-fz.netlify.app
@@ -1178,7 +1186,6 @@ pudgeypengus.com
 pudgygolden.com
 pudgypengunis.com
 pulsex-app.io
-pump-streamchats.fun
 pumpchatstreams.fun
 pumpsolstreamings.xyz
 purplepepe.co
@@ -1275,7 +1282,6 @@ ringsc.fun
 ripleair-airdrop.pro
 ripperz-casino.com
 rnagic.store.babydoge.io
-rndrsushi.top
 robertmondavi.xyz
 robinhood-main-dex-fmt.netlify.app
 robinhoodbridge.com
@@ -1596,7 +1602,6 @@ vote.swellnetworkdao.net
 votes-pollokx-14.pages.dev
 voting-dfinity.net
 vusdstable.com
-w6smyqgkr4fzgcaafenk7jr5v5p55az7tmjlaymxcow6sczaqera.arweave.net
 wafgyu.xyz
 waguyu.xyz
 wallet-dominionmarket.xyz
@@ -1638,7 +1643,6 @@ worldlibertyfinancialcoins.com
 wqliquid.org
 writetcrplp.bond
 wukongethcoin.com
-www-trezor.to
 www.0xleverage.xyz
 www.admin.tradcrjoexyz.com
 www.airdrop-community.com

@@ -57,6 +57,7 @@
 7-allocation-yieldfields.pages.dev
 7-gov-ponsfamily.pages.dev
 7-reallocation-concrete.pages.dev
+7-variational-tge.pages.dev
 77-arcusgovernance.pages.dev
 8-governance-torch.pages.dev
 8-proposal-derive.pages.dev
@@ -115,14 +116,11 @@ aligned-drop.online
 allarsecur.com
 alldefiant.xyz
 allocation-bouncebit.app
-allocation-lienfi.app
 allocation.cardanofoundation.finance
 allocation.hyperliquidtradingfi.com
 allocation.metisl2coin.com
 allocation.rendernetworkio.app
-allocation.variaitional.app
 allocations-caldera.xyz
-allocations-citrea.xyz
 allocations-evergrow.pages.dev
 allocations-ventuals.com
 allrectify.network
@@ -131,7 +129,6 @@ alphakongsclub.wtf
 altlayer.ink
 amazn.sbs
 amazon-5hz.pages.dev
-ambirewallet.app-airdropalert.cam
 ammswapx.com
 anceo.vip
 animus.rktfkt.com
@@ -265,7 +262,6 @@ bitcoinminetixb.com
 biterfili.com
 bitflix.finance
 bitpanda-bonus.com
-bitrefill.com-gift-esim-ap04.com
 bitrefill.com-gift-esim-bitrefill.com
 bits-vip.com
 bittensor.link
@@ -436,7 +432,6 @@ coinbase-america.com
 coinbase-event-kw3xve13t-arafs-projects.vercel.app
 coinbase-prevention.com
 coinbaseprologin-auth.net.ph
-coinbaseservices.us
 coinbaseshop.top
 coinbaseu.org
 coincitiair.com
@@ -456,6 +451,7 @@ collabland-validate.firebaseapp.com
 collect-foundation.com
 colonylab.online
 com-cloud-hub.shop
+com-gift-esim-y04.com
 comlpound.finance
 community-saga.xyz
 community-swell.net
@@ -776,7 +772,6 @@ incentive-firelight.online
 incentives-pendie.net
 infinite-wonderbox12.vercel.app
 infinite-wonderbox19.vercel.app
-info-exodus-us.framer.ai
 info-metacade.com
 injectivenetwork.org
 injectivepro.cloud.octoberbegood.online
@@ -886,7 +881,6 @@ lives-nodefoundation.xyz
 lmn9814.sbs
 lnkonchain.com
 lnterportfinance.com
-lobstrdesktop.co
 localbizintelligence.com
 login.home.imap.ns2.superset.drophunt.pro
 looks-rare-raffle.info
@@ -920,7 +914,6 @@ mastercardmetamask.pages.dev
 matchmadeforyou.com
 max-bltkub.blogspot.com
 mayannetwork.com
-mcirostof.xyz
 mefai-com.pages.dev
 megamask.io
 mellifluous-brioche.netlify.app
@@ -928,6 +921,8 @@ melonsair.space
 memegames2024.com
 memestreets.xyz
 memzcn.com
+mendifinance.luxe
+mendozaskalmez.com
 mergecoinbase.com
 mergecreso.com
 merlinswap.top
@@ -1075,6 +1070,7 @@ openmint95s.vercel.app
 opensea-dropclick.vercel.app
 opensea-free-claim.pages.dev
 opensea-freemints.vercel.app
+opensea-login.yolasite.com
 opensea-mint-free09.vercel.app
 opensea-nfts-ivory.vercel.app
 opensea.io.verification.dzinerstudio.com
@@ -1108,9 +1104,6 @@ pasokonworld-free.xyz
 password-coinbase.com
 paxffu-l.com
 paxful-exchange.com
-pay-bitrefill.com-bh04-gift-esim.com
-pay-bitrefill.com-cg01-esim-gift.com
-pay-bitrefill.com-i01-esim-gift.com
 paybis-login-en-us.pages.dev
 paydece.io
 peaches.finance
@@ -1231,6 +1224,7 @@ rain-betcasino.it
 rain-bnb.xyz
 rainbet.edu.gr
 rainbet.nl
+rainbetauscasino.com
 rainbetcasino-nl.net
 rainbetlogin-vip-4r8.pages.dev
 rainbetslots.ca
@@ -1312,7 +1306,6 @@ river10.vip
 rmercier-coinbase.com
 rnanta-airdrop.network
 robin-hood-airdrop.vercel.app
-robinhoobsmy.com
 robogeorgedapp.online
 rocketpool-stake.org.0s-us.com
 rocketpool.technology
@@ -1456,6 +1449,7 @@ suiweb.icu
 sukma.guccinewyork.com
 sun-almamlaka.com
 superjeetpack.network
+support-wallet.global
 swapcoin.website
 swappancake.wtf
 swapperzone.xyz
@@ -1600,11 +1594,13 @@ vareiational.io
 varialitional.co
 vault-round.com
 vaults-veda.xyz
+vbnmqwerty194.top
 velodrome-afh.pages.dev
 venomfoundationclaim.xyz
 venompunks.cfd
 venue.markets
 venus-io.gift
+vephoraholdings.com
 verifier.lightchainai.tech
 verify.gamerboom.app
 verifysbep20.pages.dev
@@ -1807,7 +1803,6 @@ www.www.community.remote.blog.speedycrm.app-radiantcapital.space
 www.www.imap.secure.hedgies.win
 www.xrpco.website
 wydhnxbh.com
-x-coins.io
 x-swap.cn
 xabi.lol
 xaman.world
@@ -1858,4 +1853,5 @@ zoedox.com
 zoomcareersworkplace-d2construction.top
 zqtscp3ybnszqtscp3ybns.mmk.supplyu.ca
 zxglj.pro
+zypointer.cc
 zyxaltrion.com

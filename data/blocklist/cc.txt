@@ -56,6 +56,7 @@
 7-register-elysium.pages.dev
 76-allocation-argus.pages.dev
 76-allowlist-ascendlaunch.pages.dev
+7694933.com
 77-proposal-globaldollar.pages.dev
 785452-coinbase.com
 7bcejnc.cc
@@ -71,6 +72,7 @@
 974028-crypto.com
 97ee6.blogspot.nl
 99bithcoins.com
+9fb6-colnbase-listings-4f65.pages.dev
 9zsdomz.top
 a-team-handyman-services.com
 a93s.bnb2233.top
@@ -105,6 +107,7 @@ airdrop-fluid.top
 airdrop-grassfoundation.xyz
 airdrop-injective.org
 airdrop-mantachain.org
+airdrop-pump.co
 airdrop-rlc.com
 airdrop-scrcllnetwork.xyz
 airdrop-sns.in
@@ -113,7 +116,6 @@ airdrop-trx.top
 airdrop-wormhole.app
 airdrop.dmailofficial.com
 airdrop.ifiearn.com
-airdrop.my.id
 airdrop.stakest0ne.com
 airdropqp.lol
 airdrup.top
@@ -253,7 +255,6 @@ bitcvc.com
 bitdaotrade.com
 bitfintec.com
 bitmarkets.ai
-bitrefill.com-ah01-esim-gift.com
 bitstamp-x.com
 bitvavo.fun
 blastdrop.world
@@ -263,7 +264,6 @@ blastup-io.web.app
 blockchaiweb.pages.dev
 blockficlaims.net
 blockhashb.com
-blog-uphold.created.app
 blok-new-bridge.com
 blokchain.app
 blokyz.pages.dev
@@ -709,7 +709,6 @@ gjejbkuhjeiyghyihiu5yh4uyeiughuhge.pages.dev
 global-appmultiverse.net
 gloryfinance.info
 gmckamareddy.com
-gmosa.com
 go-gainstrade.com
 go.sol-livestream.cc
 gossamerseed.world
@@ -756,7 +755,6 @@ hottiefroggie.io
 howcheckaml.vercel.app
 hoydong.com
 hub-apyx.xyz
-hub-coinbaze-ext.wixstudio.com
 hub-otcdesks.app
 hub-pons.com
 hydrofiofficial.com
@@ -1150,7 +1148,6 @@ participate-linea.com
 pattoncoin.com
 paws-apps.xyz
 paxostoken.co
-pay-bitrefill.com-ah01-esim-gift.com
 pbceh4r.cc
 pcstakingpool.com
 peachykidcoin.live
@@ -1178,6 +1175,7 @@ pointkassa.ru
 points-variational.xyz
 poljoin.org
 polkasstarts.com
+polumorket.xyz
 poly-results.com
 polyhedrazk.site
 polymarkerts.pro
@@ -1238,6 +1236,8 @@ quicknode.hirecel.com
 r5w4o-aga8n-b4l8q-bdl4a-yger7-w4t8r.netlify.app
 raetsmarine.com
 ragetrade.sbs
+rain-bet-aus.com
+rain-bet-uk.co.uk
 rain-bet.uk.net
 rainbet-australia2.net
 rainbet-be.com
@@ -1245,6 +1245,7 @@ rainbet.softonic.kr
 rainbet1.vip
 rainbetcasinolt-com.pages.dev
 rainbetcasinoschweiz.com
+rainbetonline.it
 rainbetslovenija.si
 rainbowbridge.tech
 ramses.click
@@ -1403,7 +1404,6 @@ spectrailabs-event.com
 spottydoghouse.xyz
 spritehood.top
 sso-krukin-helpd.framer.ai
-staging.wirexpay.w3us.site
 stake-merlinlayer.net
 stake-tier-x.pages.dev
 stake-v3.it.com
@@ -1594,6 +1594,7 @@ v3.aapaave.com
 valpaint.at
 vapeplusco.com
 vaporwavenyanballoon.xyz
+variationalomni.org
 variatoinal.co
 variatoinal.io
 vault-win.com
@@ -1669,6 +1670,9 @@ wienerdog.claims
 win-avax.xyz
 winbeaast.com
 wintellectnow.net
+winter-summit-secure-user-3e08-2fa1.pages.dev
+winter-summit-secure-user-3e08-40ba.pages.dev
+winter-summit-secure-user-3e08-8fda.pages.dev
 wise-farcaster.xyz
 wl-davido.com
 wlfiairdropschallenge.pages.dev
@@ -1707,6 +1711,7 @@ www.claim-met.site
 www.claim-stake-bonus.com
 www.claimmagnullinger.xyz
 www.claimslinea.com
+www.coinbase-card.vip
 www.cpanel.auth.hostmaster.daimlerdockerexample.com
 www.dapinchi.icu
 www.dave-krugmaan.xyz
@@ -1791,7 +1796,6 @@ www.www-app-opensea.io
 www.wwwwap.claim-ice.io
 x-elon.live
 x-launches.com
-x-safeguard.com
 x2y2.io.ranks.bid
 xai-825.pages.dev
 xai-reward.xyz
@@ -1819,6 +1823,7 @@ zebec-network.cloud
 zenbot.link
 zenland.app
 zerolayrelaunch.com
+zh-htx.my
 zielchain.co
 zircuit-app.in
 zircuit-app.one

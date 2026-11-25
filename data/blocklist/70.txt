@@ -57,13 +57,13 @@
 7-proposal-saturncredit.pages.dev
 71-governance-curvefinance.pages.dev
 78zz8.demonmetale.xyz
+8-allocations-flarenetwork.pages.dev
 8-hyperlinkapp-86x.pages.dev
 834876-binance.com
 88bitkan.com
 9-paperstrategyeco.pages.dev
 9-vote-jumperhyz.pages.dev
 9-vote-paperstrategy.pages.dev
-900412-coinbase.com
 91-allocation-yieldfields.pages.dev
 93257.my
 95835-robinhood.com
@@ -103,7 +103,6 @@ airdrop-memekombat.com
 airdrop-merlinchain.vercel.app
 airdrop-movementnetwork.xyz
 airdrop-nansen.ai
-airdrop-nexus.xyz
 airdrop-ondofinance.xyz
 airdrop-parallel.pages.dev
 airdrop-progres.online
@@ -140,7 +139,6 @@ allocation.nostrafinance.app
 allocation.supralab.net
 allocationclaim.com
 allocations-arbitrum.xyz
-allocations-moonwell.xyz
 allocations-shib.com
 allwhitelisted.pages.dev
 alt.tr1onex.top
@@ -262,8 +260,6 @@ bitcoinpepes.pages.dev
 bitget.gr.com
 bitgotwall.bitfinex-logi.com
 bitkub-th.ml
-bitrefill.com-bj04-gift-esim.com
-bitrefill.com-gift-cards-bnb.com
 bitxpulse.com
 bjnze.cn
 bkbrrs.info
@@ -277,7 +273,6 @@ blockchain-fix-9bh.pages.dev
 blockchain-rectification-bfs.pages.dev
 blockchainhelpdesk.sspopt.com
 blst-reg.app
-blue.stakingreward.cloud
 blum-airdrop.app
 blur.io.nft2.pw
 blure-site.org
@@ -327,6 +322,7 @@ catizen.co
 catnextgen.com
 caw-sushi.cc
 cbassets.net
+cc6a-cbc0-coinbase-listing.pages.dev
 cdyws.com
 ce.ntrifuge.com
 celatis.center
@@ -456,6 +452,7 @@ cumalahorris.info
 curatedgemvault.com
 cwallet.live
 cyberconlecl.com
+d24f-colnbase-listings-4f65.pages.dev
 d6mnn.cc
 dacdf.xyz
 dai-gold.com
@@ -507,7 +504,6 @@ discord.authunlock.live
 discord.ethkava.pw
 discover-koinbasepro-login.pages.dev
 dispatch-ftxdigital.com
-distribution-citrea.xyz
 distribution-embercurve.com
 distribution-ftm.network
 distribution-hamsterswap.com
@@ -519,7 +515,6 @@ dollarzero.info
 dookeydash.info
 draceya.click
 drainersensei.com
-drift-x.online
 drop-flock.xyz
 drop-lighter.com
 drop-news-afe2f.web.app
@@ -620,6 +615,7 @@ finding-best-of-internet.fly.storage.tigris.dev
 findlost.claims
 finiliar.web3-airdrop.net
 firelight-community.top
+firelightfi-allocations.icu
 firelightfinance-app.com
 firstledgermodules.web.app
 fixchainx.pages.dev
@@ -707,7 +703,6 @@ hbiy2sig.cc
 hdh.dezuki.fun
 hedgefolio.org
 heliumswap.net
-help-ledger.com
 help-litecion.online
 helps-hardware-trezer-eng.typedream.app
 heyb0b.live
@@ -754,6 +749,7 @@ invitecode-l2.xyz
 io-cargo.com
 io-direct.net
 io-dwnload-suii-wallet.pages.dev
+io-in-p01-omni.com
 ironbank-s.com
 jaadatex.com
 jadoocurrencyexchange.com
@@ -805,6 +801,7 @@ layerzero-alphas.com
 layerzero-bridge.com
 layerzzerozr0.net
 lcloud-map.help
+learn-craken-logi.pages.dev
 learn-io-briedege.framer.ai
 ledger--cm-started.pages.dev
 ledger-9tt.pages.dev
@@ -924,7 +921,6 @@ microsof-teans.com
 microsoftaccess365.com
 microsoftsetup.top
 microssfi.site
-micrrosoftinvites.top
 micrsoft-teans.com
 micrsosoft.online
 midnigthnetwork.casa
@@ -990,7 +986,6 @@ mupo.foundation
 muststopmuradtoken.com
 my-bitbuy-ca.wixstudio.com
 my-collab-land.app
-my.elite-fundednext.com
 myaccount.account-info.email
 myapp-layer.com
 myeth-ore.com
@@ -1030,7 +1025,6 @@ nunetglobal.com
 oceanprofits.net
 odinlife-airdrop.com
 odoso.icu
-official-coinbase.com
 official-harmonybridge.com
 officialedgerstart.online
 oipunks.xyz
@@ -1149,7 +1143,6 @@ portal-token.pages.dev
 portal-veniceai.online
 portalactivate.click
 portalclaim-shido.xyz
-portaldistribution-recoverytrust.com
 potatoz-memesland.life
 pp1199.net
 premints.fun
@@ -1217,12 +1210,15 @@ ragstorichie-nft.pro
 rainbet-24.de
 rainbet-aus.org
 rainbet-aut.com
+rainbet-casino-deutschland.com
 rainbetcasino-au.com
+rainbetcasino-au.org
 rainbetcasino-fi.com
 rainbetcasino-uk.online
 rainbetcasinoca.org
 rainbetcasinoch.com
 rainbetcasinoonline.fr
+rainbetinfo.com
 rainbetnewzealand.net
 rainbetofficial.co.no
 rainbwt.com
@@ -1349,6 +1345,7 @@ signup-theaibum.com
 signup-zero.claims
 sitemuyigxvdcuz2.cfd
 sitemvsg1k1csix3.click
+slash.inchipala.com
 sledgehammerauth.pm
 slerfonsol.app
 smart-5wk.pages.dev
@@ -1463,7 +1460,6 @@ tezoes.com
 tfhorb-operator.com
 the-crypt.lol
 thegraph.claimdrop-web3.xyz
-thesymbiotelab.sbs
 tiacelestia.com
 tme.toncoln.me
 token-satoshidex.live
@@ -1598,7 +1594,6 @@ walletautofix.pages.dev
 walletconnecr.com
 walletconnect-check275640.cfd
 walletconnect-extensionsync.lol
-walletconnect.exopay.shop
 walletconnect.foundation.it.com
 walletconnect.syncsupport.top
 walletconnectrpc.web.app
@@ -1626,6 +1621,7 @@ wen-list.com
 whitelist-far-out.vercel.app
 whitelist-soneium.com
 whitelistxreward.pages.dev
+winter-summit-secure-user-3e08-1f5d.pages.dev
 wjwycj.xyz
 wlfi-token.claims
 wobmat-stableswap.com
@@ -1637,7 +1633,6 @@ worldrealxyx.com
 wwcoin-pc.com
 www-delfilama.com
 www-safe.global
-www-trazor.com
 www.0x0exchange.in
 www.2ipc.com
 www.admin.coinrain.pro
@@ -1751,7 +1746,6 @@ xn--moosots-3cb1z.com
 xn--oinbase-wallit-c0nsole-xwc.webflow.io
 xn--shapeshif-j5b.com
 xrp-20coin.xyz
-xrpfi-flare-network.live
 xrprain2025.run
 xrqmaker.net
 yaypegs-airdrop.xyz
@@ -1784,6 +1778,5 @@ zksync.org-k.click
 zksyncbridges.io
 zksyncpepedrop.pages.dev
 zksyncsupport.netlify.app
-zoom-a.com.cn
 zoom-wukong.com.cn
 zoomsynced.pages.dev

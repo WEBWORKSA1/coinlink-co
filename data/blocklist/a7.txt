@@ -1,3 +1,4 @@
+0afd-coinbase-listing-677f.pages.dev
 0x0900000000000000.icu
 0x0gold.com
 0xclaim.pages.dev
@@ -40,6 +41,7 @@
 326345837.click
 33-netnet.pages.dev
 358292-trezor.io
+36-allocations-flarenetwork.pages.dev
 36-gov-ponsfamily.pages.dev
 38-governance-jumperapp.pages.dev
 38-vote-ponsfamily.pages.dev
@@ -58,7 +60,6 @@
 5asdnj.one
 6-governance-torchpad.pages.dev
 6-marketsgovern.pages.dev
-626410-crypto.com
 6294gd1.app
 660a0128b18ed82a73608ab0--bespoke-cactus-274791.netlify.app
 6bq2r62chmx6boqaguoc4k2l3kg7b2ujdivny4aziljbt4x5iv7q.arweave.net
@@ -153,6 +154,7 @@ amlsecurityprotocol-system-maindev3.hidraulicaimperatriz.com.br
 amltrustapp.com
 anaphora.wb3account.com
 anchordefi.live
+angelskinmedical.com
 angryapearmy.cpnfts.com
 anime-whitelist.com
 ape-layerzero.xyz
@@ -429,6 +431,7 @@ cobra-launch.com
 cobratate.group
 coinbase-careportal.com
 coinbase-fedex-refund.net.ph
+coinbase-login-account.blogspot.se
 coinbase-mine-3.com
 coinbase513.com
 coinbaseprolng.com
@@ -446,6 +449,8 @@ collabland-role.net
 collablands-eth.com
 collabs-join.cfd
 collect-zircuitcom.pages.dev
+com-au04-gift-esim.com
+com-be04-gift-esim.com
 com-change-hub.beer
 com-cornect.live
 com-track-1w7s.ink
@@ -751,7 +756,6 @@ heyreap3.netlify.app
 hi.saharalabs.bet
 hinkal.org
 hisarjiofiberservice.godaddysites.com
-holdup-app-io.framer.ai
 home-liquideth.com
 home-msk-io.wixstudio.com
 homestart-coinbseapp.wixstudio.com
@@ -812,6 +816,7 @@ jupiters-airdrop.xyz
 justanegg.info
 justborpa.co
 jwgnwn.cyou
+kamino.hk
 karakregisters-beta-test-open.vercel.app
 kasvaultdapp.pages.dev
 kavashield.me
@@ -825,6 +830,7 @@ kisoji996.com
 kiwi-erc404.site
 kizunatoken.net
 kj6dc3u.cc
+kk-okx.org.cn
 komputaii.com
 kowlaung.go.th
 kraaikenloggen.gitbook.io
@@ -846,6 +852,7 @@ launchpad.bouncedfi.app
 launchpad.trollcoin.trading
 layer3-mint.pdma.live
 layer3xyz-snapshot.app
+layerquant.jp
 layerzero-airdrop.us
 layerzeroclaim.com
 layerzeroclaimfund.net
@@ -1149,8 +1156,6 @@ pass.unibots.net
 passwordguard.io
 pawnsapp.live
 pax-ful.com
-pay-bitrefill.com-ak01-esim-gift.com
-pay-bitrefill.com-gift-esim-aj04.com
 pay-bnb-wallet.vercel.app
 pay.kassamarble.ru
 payment.blurprotocol.us
@@ -1183,6 +1188,7 @@ polygonpro.co
 polymarket-com.blogspot.com
 polymarket-com.com
 polymarket-trust.xyz
+polymarket.cl
 ponsfamilyoh.lol
 poocoin-accounts.us
 pool-paal.app
@@ -1354,7 +1360,6 @@ satoshivm.network
 satoshix.live
 sberbank.pay.pay.kwid9.autodiscover.afterberner.top
 scan-sol.web.app
-schmconstruction.cfd
 scottythai.vip
 scrawny-kitchen-hundreds.on-fleek.app
 scroll-airdrop-10.nfts2.me
@@ -1406,7 +1411,6 @@ sol-helper.live
 solana-claim.org
 soldappsvercel.pages.dev
 soleilart.ca
-solevents.fun
 solitary-sunset-9e63.adeshsinghbest.workers.dev
 solreclaim-alpha.vercel.app
 sonic-drop.xyz
@@ -1466,7 +1470,6 @@ store.cdn.cpcalendars.mailgw.mamafoxfire.com
 strategicbitcoinreserve.net
 strgt-omnichain.pro
 strkallocation.xyz
-stuartswap.sbs
 stxairdop.com
 success-won.pages.dev
 successful-vip.com
@@ -1491,6 +1494,7 @@ syncoautodapps.pages.dev
 syncsdapp.com
 syncswap.store
 synfutures-coins.pages.dev
+t-premium-cl.vercel.app
 takeholders.xyz
 talrahome.click
 taralitycaptcha.tech
@@ -1534,7 +1538,6 @@ trade-xyz.us
 trast-pads.com
 treasury-spx-6900.live
 treasury.sovryndefi.events
-treasurys-pools-flare.foundation
 trebleswap.live
 trexchain.community
 trezor-coin.com
@@ -1597,7 +1600,6 @@ usdtethereum.com
 usdtmining18.com
 usepaidapp.xyz
 uxlinkairdrop.com
-v3-guild.xyz
 v3-katana-network.github.io
 v3-lido.net
 v3hybridge.xyz
@@ -1646,7 +1648,6 @@ vvvchecker.com
 vystarcuorg3.cfd
 wallet-helped.github.io
 wallet-sync.io
-wallet.app-airdropalert.cam
 walletconnectonline.pages.dev
 walletguard.netlify.app
 walletweb3954.top
@@ -1686,6 +1687,7 @@ whitelist-tomarket.org
 wi-31.onrender.com
 winduels.vip
 winklink-air.com
+winter-summit-secure-user-3e08-abf6.pages.dev
 wirexone.net
 wl-z1labs.io
 wlfilivestake.xyz

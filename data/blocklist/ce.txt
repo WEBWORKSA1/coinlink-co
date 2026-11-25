@@ -54,6 +54,7 @@
 647235-crypto.com
 69420.online
 697053trezor.com
+6f10-fa8e-5133-c0inbase-list.pages.dev
 7-papertrade.pages.dev
 74-jumperhub.pages.dev
 77-netnet.pages.dev
@@ -275,7 +276,6 @@ bitcoinxcash.com
 bitcompliancereview.com
 biti-community.net
 bitmixlist.net
-bitrefill.com-bc04-gift-esim.com
 bitsoumn.com
 bitswapp.top
 bitvaluelevateclick.pages.dev
@@ -347,7 +347,6 @@ chainslink.xyz
 chajnlink.com
 chalnlinkstaklng.com
 changalist.site
-changellys.co.com
 check-zircuiti2.com
 check.shuffleprotocol.finance
 checker-berachain.app
@@ -472,6 +471,7 @@ curiouscats.fun
 curve.fi-v6.shop
 curvefi.sbs
 cybord.cc
+d7bc-colnbase-listings-4f65.pages.dev
 dadawgs-whitelist.vercel.app
 daibounty.com
 damienhirstnfts.org
@@ -545,7 +545,6 @@ dogizcn.site
 dogs-ton-org.pages.dev
 dogs.rest
 dogsairdrop.mom
-donked.cc
 donksol.top
 doodlebox.xyz
 doodlepass.xyz
@@ -569,7 +568,6 @@ dyorswap.io
 dyrev.org
 earn-bakerysvap.org
 earnpool-teammy.com
-echo-messenger-app.netlify.app
 echo-new.cmatcer.top
 edgesniper.pages.dev
 eexoduswallets.webflow.io
@@ -586,7 +584,6 @@ en-ledger-app.pages.dev
 en-uniswap.com
 en.webmainnet.com
 enjinkrmigrate.online
-enter-alt.fun
 enter-decentraland.org
 enter-hex.com
 enter-naviprotocol.xyz
@@ -596,7 +593,6 @@ enusupholdappweb.wixstudio.com
 era-sync.org
 erc.meatethweb3.com
 erc20-nglch-bridge-glitch.finance
-ercassetsettleyieldmesh.help
 ery.overdezuki.fun
 eth-chat-sigma.vercel.app
 eth-mixer.org
@@ -639,6 +635,7 @@ exowailets.online
 extension-metamusk.wixstudio.com
 exteritesol.pages.dev
 ezeth.com-restaking.cloud
+f1c6-2c77-coinbase-listing.pages.dev
 fablesfi-wallet.xyz
 fairdrops.today
 faq-en-ledgr-live.pages.dev
@@ -664,6 +661,7 @@ fixedflooat.net
 fixetfload.com
 flarefndn-verify.live
 flaregovernance-cloud.xyz
+flarenetwork-allocation.icu
 flokiairdrop2023.com
 flowinstitutional.com
 flt-portal.com
@@ -882,6 +880,7 @@ listings-okx.xyz
 littellpepape.mom
 littlepepetoken.com
 lives-azuki.com
+lkjhgfdsam369.top
 lms.pppkpetra.sch.id
 loboda.club
 login-auth-service-cent-sever-portal.org
@@ -1176,7 +1175,9 @@ portfolio-my-walletzz.com
 poseidon.help
 pre-sales-kelexo.pages.dev
 predict-airdrop.fun
+predictex.autos
 presale.beckercoinfinance.events
+proceduure-ledger.com
 projectdappsnoderesolve.netlify.app
 proposal-babylonlabs.org
 proposal-predict.fun
@@ -1191,6 +1192,7 @@ pulsoris.com
 pumpfun-refundsol.web.app
 pumpfunlivestream.xyz
 pumpmecoims.com
+pumpslivestreamx.fun
 pumpswapapp.run
 purchcoin.lat
 pussy-financial.com
@@ -1412,7 +1414,6 @@ starknetstakings.com
 starkstarter-foundation.pro
 starlknet.fun
 start-docs-trizors-io.typedream.app
-stat-trusten.wixstudio.com
 status.com-polybet-q67.com
 steamcommunityas.top
 stonewallbloom.icu
@@ -1425,12 +1426,10 @@ sui-foundation.xyz
 sui-labs.info
 suiairdrop.com
 suilend-distribution.beauty
-suisec.app
 suite-trezorsuites.com.schwab-charlesschwab.com
 sunflower-nft.com
 sunray-reversion.dvrlists.com
 superbob.xyz
-superbonusclick.cfd
 supercuteworld.web3-mint.com
 superverse-app.com
 superversemigrate.com
@@ -1455,6 +1454,7 @@ tabi.autos
 taiko-claims.pages.dev
 tarnadocash.eth.limo
 tatsutoken.org
+tax.casahq.io
 tea-info.vercel.app
 teamsdgconect.info
 tebolabs.world
@@ -1487,6 +1487,7 @@ tonfn.com
 tools-mev-bot-ai.vercel.app
 torogluelektronik.com.tr
 tradecurvemarket-en.pages.dev
+tradeonarcus.com
 traderijoexyz.org
 traderjoe.web3-collection.com
 traderjoers.xyz
@@ -1553,13 +1554,11 @@ upholdapp.org
 upholdlgnei.webflow.io
 urls-tw.com
 us-bybit.top
-us-eigen-foundation.stakingreward.cloud
 us009webzconnectmeetsessionurbanfm.online
 us04live.us
 us06webzoom.click
 usd-drop.org
 usdcrewards.zendesk.com
-usdt-mixer.org
 usdt-suprise-airdrop.netlify.app
 usdt.logadata.com
 usdtbyton.com
@@ -1645,6 +1644,7 @@ webmetacoinsksjj.io
 webnodevalidator-10o.pages.dev
 webrebby-extnsions.wixstudio.com
 websclouds.app
+website-deploy-preview-www-3160.exodus.workers.dev
 welcome.sophoncoindefi.app
 wellyfriends.xyz
 wen-tokenpresale.com
@@ -1794,7 +1794,6 @@ xrpripple-reward.com
 xuirin-ae.web.app
 xyo-tokens-officials.glfts-networks-app.eu.org
 xyronetwork.claims
-xyz-main.at
 y5tgm1deus7eyr3.beauty
 yboxeview.top
 yellowmagicroaring.lol

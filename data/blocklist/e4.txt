@@ -50,8 +50,8 @@
 4-argusworld.pages.dev
 4-gov-netnetcap.pages.dev
 42-netnet.pages.dev
+433898.com
 48-hookrfun.pages.dev
-4qvlssffg4vskgrjvapmo2oxep6uqfuoehsofib6pvxbndkmw43q.arweave.net
 4y0zp8.cc
 4z-mobily.co
 5lkl.cc
@@ -64,11 +64,9 @@
 630482-crypto.com
 6723784.top
 67to67billions.com
-689234-ledger.com
 7-argus.pages.dev
 7-vote-argusworld.pages.dev
 719314-binance.com
-720200-crypto.com
 732814-binance.com
 7443445354.beauty
 8-derivegov.pages.dev
@@ -375,6 +373,7 @@ claimalvara.com
 claimed-circle.com
 claimeggs.com
 claiming-pyth.network
+claimlittlepepe.live
 claimnft-5.vercel.app
 claimnft-now355.vercel.app
 claimnowrewardethnafinance.vercel.app
@@ -427,6 +426,7 @@ collab-land.click
 collab-sync.land
 collectivstrangers.xyz
 com-assets.live
+com-gift-esim-ak04.com
 com-link.cfd
 com-noreply.com
 com-pay.sbs
@@ -454,7 +454,6 @@ creso-io.com
 crv-sushi.cc
 crypto-airdrop.link
 crypto-bes.netlify.app
-crypto-eth.org
 crypto-ixo.netlify.app
 crypto-offer.ink
 crypto-omni.com
@@ -524,7 +523,6 @@ distributions-injective.com
 distributions-morpho.com
 dl8ytjg03lbxg.cloudfront.net
 dllbet.com
-doc--exduss-web.pages.dev
 docs-exodus.github.io
 docs-viewmicrosoft.info
 dogcoim.pages.dev
@@ -603,6 +601,7 @@ ethenna-finance.site
 ether-drops.com
 etheredw.co
 ethereum-airdrop.com
+ethereum-por.org
 ethereum-refactor.com
 ethereumai.ai
 ethereumgas.org
@@ -621,7 +620,6 @@ euhoz.top
 event-jup.ag
 event-niburu.com
 events-bluwhale.com
-events-jitonetwork.xyz
 events-owlto.org
 events-univ4labs.com
 events-zfkair.com
@@ -665,15 +663,14 @@ fisios3-est7.sbs
 fisios5-ut26.sbs
 flare-allocation.icu
 flaryfinance.pages.dev
+flex-land.com
 floki-claim.com
 floki-drop.xyz
-flowtoken.fun
 flp-coinak.vip
 forcerkzuuj.bond
 forecast-index.com
 forex-tmgm.com
 forum.support.cdn.chat.media.ks0v9.uniswapv3.xyz
-foxsushi.top
 fpmar.com
 framemarketupdate.net
 frax-4ke.pages.dev
@@ -726,6 +723,7 @@ gov-vstrk.org-y.run
 gover-firelight.xyz
 governance-ether.finance
 governance-gho.network
+governance-lighterxyz.pages.dev
 governance.sitemw91k1zjntat.xyz
 governances-3jane.xyz
 gps-altlayer.io
@@ -742,6 +740,7 @@ hdstreamz.org.uk
 hedgeswtf.fun
 helixfreemint.com
 helois.org
+helpcakewallet.com
 henrytk.xyz
 hex-network.net
 hg-boredapeyachtclub.com
@@ -766,7 +765,6 @@ huobi-binance.cn
 huy.overdezuki.fun
 hv-mti.app
 hyaena.trade
-hydroprotocol.pro
 hyperfoundation.tech
 hyperfuondation.xyz
 hyperlaene.foundation
@@ -794,7 +792,6 @@ invest-8dh.pages.dev
 investmen.game
 io-exchange.sbs
 io-quick-ref.icu
-io-stream.com
 io-swapcrypto.icu
 io-trezor-wallet.pages.dev
 io-zksync.com
@@ -857,7 +854,6 @@ kstarnft.website
 kusod.com
 kyberswapp.com
 kyc-chain.cfd
-launch-market.com
 launch-nibiruchain.pages.dev
 launch-oasisprotocol.com
 launches-creoengine.com
@@ -907,7 +903,6 @@ login.dev.mail.arbitrumchain.net
 login.vpn.cpcalendars.cdn.aaa.lodgeglaciares.com
 loserclubreborrn.xyz
 loudpunxi.com
-lsikjsns.beer
 lspnetwork.com
 lulu-okx.com.cn
 luppy-nft.pro
@@ -1195,7 +1190,6 @@ plenafinance.live
 polygon-app.meta-web3-bounty.link
 polymarket-ca.com
 polymarket.eskender.tech
-polymarket.org.nz
 pons-voting-om.netlify.app
 ponsdotsfamily-pool.top
 ponsfamily.network
@@ -1259,6 +1253,7 @@ rabbyefrhuewallet.gitbook.io
 railgunyield.xyz
 rainbet-greece-com.pages.dev
 rainbet9.com
+rainbetdecasino.com
 rainbethu.com
 ramsesexchange.top
 rangovjs.pages.dev
@@ -1554,7 +1549,6 @@ trzore-bridge.framer.ai
 tsc62p7oaicnznbop7ngeq5w4chkwcthalwuitagsqhihuovk3ia.arweave.net
 tttt-rewards.top
 tvmultiverse.fun
-tw-web3.org
 twcore.online
 twpayx.app
 twx.elevatedpass.org
@@ -1818,7 +1812,6 @@ xpsportugal.store
 xrpallocate.app
 xrpflarecoin.com
 xrpl-claim.net
-xsale.info
 xtmt.org
 xuhos.com
 y00thsofficial.com
@@ -1853,7 +1846,6 @@ zksync-main.com
 zksync.trutspad.com
 zksyncclaims.com
 zksyns.top
-zoomwebinar.live
 zora-checker.live
 zora.fun
 zssbecker.io

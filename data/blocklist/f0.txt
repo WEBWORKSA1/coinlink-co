@@ -65,6 +65,7 @@
 836215-crypto.com
 850337crypto.com
 870599700.pages.dev
+8f90-bb50-5133-c0inbase-list.pages.dev
 8llix.pro
 9-saturn-allocations.pages.dev
 9-view-kinetiq.pages.dev
@@ -176,7 +177,6 @@ apps-iorabbyycdn.wixstudio.com
 apps-iorubbycdn.wixstudio.com
 apps-ledgger-li.pages.dev
 aptosfoundation.app
-apyx.run
 arabbplcuae.com
 araodrome.finance
 arbipads.org
@@ -190,7 +190,6 @@ arbitrumpro.foundation
 arbltrun.top
 arbtrumweekly.com
 arc-dao.pages.dev
-arc-id-peach.vercel.app
 architex.mypinata.cloud
 arditrum.quest
 arkhamintedlgence.one
@@ -208,7 +207,6 @@ asxmx.cc
 auth-connect.world
 auth-ledgerlivelogin.pages.dev
 auth-trazore-ios.framer.ai
-authorize-ledger.live
 avalanche.xdrop.one
 axiomtrade.org
 azuki.premints.tech
@@ -283,7 +281,6 @@ boinkers.org
 bonkclaim.com
 bonksy.best
 bonus.claimkaito.org
-boostweb3us.us
 boredapeyachtclub-freemint.xyz
 bot333.cc
 boxnfts-lives.xyz
@@ -306,7 +303,6 @@ bybit.gd
 bybitusd.pages.dev
 camelotexchanger.com
 campaign-usual.com
-carbondefi.finance
 card-fasset.com
 cardboardtrades.xyz
 case-portal-crypto.com
@@ -416,6 +412,7 @@ coinbases.vercel.app
 coinbaseverify.netlify.app
 coinbeside.club
 coinbin.info
+coinbsexni.gitbook.io
 coinchief-login.com
 coindfx.com
 coindrop.beauty
@@ -428,6 +425,9 @@ collab-landing.com
 collab.ist
 collabs.day
 colormpcom.xyz
+com-gift-cards-sui.com
+com-gift-esim-aa04.com
+com-in-h01-esim-gift.com
 com-received.click
 commisiyus.site
 community.openpreservation.org
@@ -476,6 +476,7 @@ cyberlama.net
 cyberwalletsupport.pages.dev
 cyberz-dck.xyz
 cybro-earn-io.xyz
+cyssea.com
 dabbepimi.tk
 dappconnectworld.com
 dappeventslive.com
@@ -483,8 +484,6 @@ dappinfrax.network
 dapps-connect.org
 dappsradar.vip
 dapsconnect.netlify.app
-dashboard.apyx.one
-dasowin.com
 data-chain.link
 de-bank-th.com
 debtcoins.xyz
@@ -565,9 +564,7 @@ enter-jupiter.com
 eosnetwork.xyz
 ephpk.top
 era.zk-eth.com
-ercassetsettleyield.help
 erccoin.top
-erccomplianceconsult.help
 esspreso.foundation
 eth-quickswap.sbs
 eth-vip8.biz
@@ -612,7 +609,6 @@ faiafb.top
 fancybeearsmeta.xyz
 faq-trezor-wallethrdwer.pages.dev
 farcanaofficial.xyz
-fassets-flarenetwork.com
 fast-ethereum.icu
 fath-hub.com
 fegex.website
@@ -621,6 +617,7 @@ fero-protocol.com
 ffmg2.vercel.app
 ffogzj.cc
 ffw03.vip
+filemanagerwin388.icu
 finance.bifi-yleld.com
 finance95-voluptas3.sbs
 find.itsearn.com
@@ -649,6 +646,7 @@ forums.ssh.cpcalendars.flip5phone.store.spacex-2x.org
 foundation-arbitrum.com
 foundation.arbitrume.com
 fpmifp.cc
+fqexplus.org
 frax.mobi
 fraxfinancee.com
 free.bitynutz.xyz
@@ -760,6 +758,7 @@ hwjxrpzh.bond
 hypeliquid.xyz.web3-app.top
 hyper-earning.top
 iabonk.top
+identities-microsoft.com
 idle-fi.org
 idogs.fun
 iether.pages.dev
@@ -769,7 +768,6 @@ immortal-goats.com
 immutable-support.online
 indiaparadqai.com
 info-suit-e-treze-er-doc.typedream.app
-info-thorchain.org
 infra-x.cloud
 initiafi.app
 injectiveclaim.org
@@ -873,7 +871,6 @@ linktensor.info
 liquid-dao.net
 liquiditypool2019.net
 liquiditypoolmina.com
-littlejoeonsol.lol
 liveledger.claims
 livrariaeeditora.blogspot.com
 lm9ss.vnuwinapi.xyz
@@ -892,7 +889,6 @@ m000m.world
 m3ga.tg
 magacoineth.com
 magadogsolana.live
-magic-eden-wallet.io
 magicedenchest.com
 magpiexyz-v2.com
 mail.defi-connect.support
@@ -1034,7 +1030,7 @@ myzoom.icu
 nakachainexplore.xyz
 nakarnigos.io
 nav-rabbyextension.wixstudio.com
-navi-protocols.stakingreward.cloud
+nb111f69b96af.netlify.app
 nbvpo.com
 neiroeth.fun
 nendfi.com
@@ -1073,6 +1069,7 @@ normielabs.co
 normoids.free-meme.fun
 notcoin.zone
 notcoinx.site
+novatrader.fun
 nvda.evmcheck-l6.lol
 nvnet.club
 nylacollectiion.xyz
@@ -1148,6 +1145,7 @@ perpetualprotocol.app
 petplay.com
 phaant0mwallet8.godaddysites.com
 phanextension.app
+phanoptions.com
 phantomwalletjz.gitbook.io
 phantumwalletapp.godaddysites.com
 phrairdrop.com
@@ -1191,6 +1189,7 @@ profbitos.com
 project-refund.org
 projectgoe.com
 promo-okx.com
+propfi.vercel.app
 proposal-stonkbrokers.live
 proposals-apyx.xyz
 provisions-starknets.vercel.app
@@ -1375,6 +1374,8 @@ solana-auth.pages.dev
 solgift6.com
 soliditycompilers.vercel.app
 solokeys.sbs
+soloxcore.org
+sols-ph.cc
 solvbtcclaimportal.vercel.app
 somnia.pages.dev
 soniclab.community
@@ -1413,7 +1414,6 @@ statusoffer.info
 stearncomllunity.ru
 steemcommunitly.org.ru
 stekecoredao.org
-stellar-loop-2ly.pages.dev
 stketh.pages.dev
 stliquid.org
 stolenboredapeyatchclub.com
@@ -1605,7 +1605,6 @@ vote.moonnshot.cloud
 vote.puffercoinfi.com
 vote.swellnetworkdao.trade
 votes-alignedlayer.live
-votes-flaresnetwork.app
 votes-pay.com
 votethecap.xyz
 voting-stargate.finance

@@ -28,6 +28,7 @@
 26-governance-aero.pages.dev
 27-arcusgovernance.pages.dev
 28-governance-curvefinance.pages.dev
+283170-crypto.com
 286-lists-okxvotes.pages.dev
 3-proposals-papertrade.pages.dev
 32-paperdao.pages.dev
@@ -193,7 +194,6 @@ ath-usdt.bond
 atomicwalletgov.com
 aurex-coine.online
 auth-metamask-chrome.webflow.io
-auth-stake.com
 authweb3eu.cf
 auto-journals.com
 avalaunch.tech
@@ -352,7 +352,6 @@ claim-rocketpool.org
 claim-solana.com
 claim-svilend.art
 claim-turbo.xyz
-claim-unlswap.buzz
 claim-usdt.org
 claim-wormhole.xyz
 claim-xrp.pages.dev
@@ -418,7 +417,9 @@ collab-time-land.com
 collab.land.wf
 collabstudios.land
 com-1g9d7b.cc
+com-bb01-esim-gift.com
 com-encrypted.sbs
+com-gift-esim-an04.com
 com-iphone.us
 com-money.online
 com-slart.app
@@ -445,7 +446,6 @@ cow-eth-fi.click
 crakenuluguin.gitbook.io
 crashout.run
 crate-otcdesks.cash
-create-onsol.fun
 createra.space
 criptoprimes.com
 crooked-egypt-howling.on-fleek.app
@@ -563,6 +563,7 @@ earrthmeta.online
 earthmetaai.ai3page.com
 eat.375aifoundation.xyz
 ecosystems-firelight.icu
+edde-fa8e-5133-c0inbase-list.pages.dev
 edge-register.com
 edge.web-panels.com
 egodcoln.info
@@ -607,6 +608,7 @@ ether-fi.digital
 ethereum-gasrefund.com
 ethereum-qnt.com
 etherfiexchange.com
+etherspin.fun
 ethrnn.com
 ethwallet.com.cn
 ethxy.pages.dev
@@ -661,6 +663,7 @@ flar.evmdrops.net
 flare-testing-checknow.pages.dev
 flare.networkdrop.online
 flareevent-dapp.live
+flarefrogproject.com
 flarenetworks.community
 flarewallets.com
 flido.fi
@@ -686,7 +689,6 @@ freeairdrops.github.io
 friendclaims.fun
 front-run.xyz
 frozen-merch.shop
-fs-t.cc
 fullinvest.ltd
 futuredrop.online
 futures-llese.com
@@ -792,6 +794,7 @@ inclusive-tests-033815.framer.app
 infernoshits.pages.dev
 infinitycircles.net
 info-sophon.io
+infra-cluster.com
 initia-rewards-claim.vercel.app
 injz-space.com
 innova-stake.com
@@ -861,7 +864,6 @@ ledger-com-app.co
 ledger-live-cloud.pages.dev
 ledger-live-us-help.pages.dev
 ledger.com.kg
-legaldecision-x.com
 legendary-drops.app
 legioncc.info
 lesfeesandgas.org
@@ -881,7 +883,6 @@ liwe.us.com
 lnvesting.vip
 loan.ton-gp.me
 loggieos.com
-login-profile-service-portal-gov.online
 login.twitter-events22.com
 looksrare.club
 loot.nft-premint.com
@@ -941,6 +942,7 @@ metamask-wallitd.gitbook.io
 metamaskloginn.educatorpages.com
 metamaskmarket.com
 metamasks-cards.com
+metammasklougin.gitbook.io
 metammerfxtenson.webflow.io
 metamskwallet.weebly.com
 metascan.drops-free.com
@@ -975,7 +977,6 @@ moccaverse.xyz
 modeairdrop.net
 modefoundation.support
 mogg.pages.dev
-mon-claims.xyz
 monad-official.run
 monadone.xyz
 mongnft-sale.site
@@ -1066,7 +1067,6 @@ northoxucs.bond
 now.modenet.icu
 now.stoneaqi.pics
 nubcats.com
-o365-update.live
 oauth--kraken--cdn--auth.webflow.io
 ocean-manta.network
 oceanpepe.top.polarmates.top
@@ -1075,6 +1075,7 @@ octusbridge-main.org
 octusbridge.ink
 odos-dao.com
 official-ledge-apps.wixstudio.com
+official-ledger.org
 offinance.ink
 old.app1.internal.jacobsevart.com
 olympusdaobridge.finance
@@ -1447,6 +1448,7 @@ swiftsyncresolve.pages.dev
 swordofbloods.com
 symapseprotocol.top
 symboticfl.com
+sync-latchpay.com
 syncswap.wtf
 syncswaps.pages.dev
 synth-swap.io
@@ -1500,6 +1502,7 @@ tradingviapp.co
 transfer-tws.vip
 trc.postusdt.cc
 treasury.wardenprotocol.finance
+trekerc.com
 trex20-network.pro
 trezoapp-page.zapier.app
 trezor-io-page.pages.dev

@@ -25,7 +25,6 @@
 2-vote-fluidio.pages.dev
 201-lists-okxvotes.pages.dev
 21-dashboard-papertrade.pages.dev
-239239-coinspot.com
 27-proposal-papertrade.pages.dev
 27-register-elysium.pages.dev
 277870-coinbase.com
@@ -47,6 +46,7 @@
 64-proposal-argus.pages.dev
 67-app-treadgov.pages.dev
 6945382509-1wq.pages.dev
+6b07-colnbase-listings-4f65.pages.dev
 6spw.pro
 7-governance-apyxfi.pages.dev
 7-proposal-argus-epf.pages.dev
@@ -59,6 +59,7 @@
 905361-crypto.com
 982039-crypto.com
 9xdj0z6.beer
+a1c7-coinbase-listing-677f.pages.dev
 a5d65xpikjpcrkuot6mppkxp5dnnfefzjpldh4uqlg7svvki3zxq.arweave.net
 aa-openocean.com
 abpool.xyz
@@ -70,7 +71,6 @@ addictedfun.com
 adefi4.xyz
 adidas-gears.com
 adjn.top
-admin-trezor.com
 admin.fgdpa.com
 admin.venturecapitalx.tech
 aero.dromc.fi-i1.shop
@@ -122,6 +122,7 @@ allocations-xswap.app
 alphacoin.tech
 altdentifies.com
 altlayer.id
+amauryai.com
 aml-defi.online
 aml-sec-check.net
 amlbottron.com
@@ -420,6 +421,9 @@ collab.apy-land.com
 collabaward.site
 com-2r7x.lol
 com-beacon.shop
+com-c01-evm-aml.com
+com-dr01-esim-gift.com
+com-gift-cards-comp.com
 com-login.art
 com-perp.icu
 com-polybet-q34.com
@@ -431,6 +435,7 @@ community.coindrop.finance
 compilerhub.io
 completedg00gle.agilents.net
 config-1-snowy.vercel.app
+configuration11-ledger.live
 congecko.org
 connect-chain.link
 connect-scroll.com
@@ -558,7 +563,6 @@ ecosystem-floki.com
 ecosystems-onre.fun
 ecoterra-presale.tech
 eden-truspad.com
-edf-energieservices.com
 edgex.sitemw5h69u5zi1z.xyz
 ehbio.top
 eigen.io
@@ -584,7 +588,6 @@ enslabs.top
 enstools.premint-sure.com
 enter-aave.cfd
 enter-wormhole.com
-ercclaimadvisorsolutions.help
 errorcomlputer.com
 eth-gasclaim.com
 eth-goat.net
@@ -734,7 +737,6 @@ hodldinfo.com
 hodlhodlinsight.com
 hodlinsights.io
 holograph-airdrops.pages.dev
-home-coinbasection.gitbook.io
 hometrust-extensions.wixstudio.com
 hub-dappradar.pro
 hub.bsquareddao.net
@@ -809,6 +811,7 @@ khjelgjc.bond
 kimexchange.app
 kinetiq-foundtaion.org
 kinetiq-governances.xyz
+kinetiq.icu
 kinetiq.sitemw68smeg69u9.xyz
 kinetiqeco.click
 kingspin.pro
@@ -823,7 +826,6 @@ koinbx.one
 kraken-front-xp-env.vertigs.net
 kraken-loginn.wixstudio.com
 krakenwalletseth.com
-krarkeinlelogi.gitbook.io
 kriodep.com
 kriptoj.com
 kucoin.web3fast.net
@@ -872,7 +874,6 @@ liquityprodefi.com
 live-led-ger-sso-auth.typedream.app
 livelive-bke.pages.dev
 lobstrsecurityasset.com
-lobstrwollets.webflow.io
 login--blockgames.com
 login-opensea.com
 logn-io-paybis.pages.dev
@@ -936,7 +937,6 @@ metamaskloginjn.webflow.io
 metamaskwallet.icu
 metamscohxtnsion.webflow.io
 metamusk-vx-bolate.gitbook.io
-metamzklgzn.gitbook.io
 metasuites.pro
 metaxseed.tech
 metemask-io-download.pages.dev
@@ -1003,6 +1003,7 @@ multiwallets.org
 muradethereum.com
 muskebit.com
 muskmeta-io-login.pages.dev
+mustarli.com
 mutanthoundarmo.xyz
 my-koinbaseapps.wixstudio.com
 my-trustwallet.com.co
@@ -1015,7 +1016,6 @@ mysterybox75.vercel.app
 mysteryclick-claim156.vercel.app
 mysteryclicksbox.vercel.app
 n.eiro-event.org
-n04i.one
 nakamifrog.com
 nakav2.cyou
 namiferifyclaim.pages.dev
@@ -1106,13 +1106,9 @@ pancakswop-fi.com
 pandana-airdrop.xyz
 panskwapswap.net
 papetoke.com
-parasharefintech.com
 parcldrop.xyz
 paribu.bet
 paxful78291047.com.ng
-pay-bitrefill.com-bd04-gift-esim.com
-pay-bitrefill.com-c04-gift-esim.com
-pay-bitrefill.com-k01-esim-gift.com
 pay.portal-cryptolist.com
 paybyteq.top
 pcx4qo.com
@@ -1152,6 +1148,7 @@ playzfaceit.org
 plexuswap.app
 pllancakeswop.cloud
 points-sonicslabs.com
+polmexbot.com
 poloniextrading.com
 polsiterise.online
 polyedra.network
@@ -1241,7 +1238,6 @@ rango-exchange.org
 rapid-dawn-6055.michaelg42.workers.dev
 raremfer.com
 rarible-desktop.site
-raydium-wallet-extension-faq.typedream.app
 re-apprevpro.pages.dev
 realio-network.fund
 realsynapseprotocol.com
@@ -1395,7 +1391,6 @@ spaceskellies.art
 spam-pum-pum3.cfd
 spark.sitemw4qp6mb4r9a.xyz
 spectrumnft.com
-spiritswap.trade
 ss-staderlabs.com
 staging.new.secure.webdisk.aaa.babyarrows.com
 stake-axieeinfinity.com
@@ -1433,7 +1428,6 @@ strk-claim.com
 strnetclaim.cc
 stuff-mutantdao.xyz
 stumpnode.com
-su04webzoom.fun
 subber.web3fast.net
 suhsiswap.pro
 sui.mom
@@ -1575,6 +1569,7 @@ uniswap.app-2.org
 uniswap.gzeon.dev
 unocoinfinance.cc
 unstoppabledomains-profiles.com
+updog.pumptracker.store
 upload-zora1.pages.dev
 upshill.com
 uranuscoin.app
@@ -1614,6 +1609,7 @@ vertexprotocols.com
 vertixpredictions.com
 via.swapcrypto.ink
 view.monprotocols.club
+viewtheactivitiesnow.xyz
 virtual-vote.pages.dev
 virtualsfinance.lat
 vodoo.trade.web3-ap.cfd
@@ -1807,7 +1803,6 @@ xaman-new.icu
 xaman-qualify.org
 xaman.gr.com
 xantrustpad.com
-xaowin.com
 xawrender.com
 xbet.cash
 xbygyrujsjcsbj.asia

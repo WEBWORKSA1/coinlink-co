@@ -69,6 +69,7 @@
 926728binance.com
 98753-coinsquare.com
 99bitcoinss.pro
+a9e1-482c-coinbase-listing.pages.dev
 aaev.ac
 aavecoin.cc
 aavefam.tech
@@ -84,6 +85,7 @@ aerodromeabase.com
 aerodromefi.mypinata.cloud
 aerodromefinance.foundation
 aerodromeflnace.com
+aerofdn.click
 aeth-giveaway.net
 afekto.top
 aftermeth.finance
@@ -155,7 +157,6 @@ app-beoble.xyz
 app-c5da7117.metastakes.io
 app-claimweb.alliances-ai.xyz
 app-ethenafinance.vercel.app
-app-exodus.com.co
 app-firelight.spark233.top
 app-hypcrliguiid.vip
 app-hyperionx.xyz
@@ -169,7 +170,6 @@ app-orbler.pages.dev
 app-pancackeswap.finance
 app-pendle-finance-trade.pages.dev
 app-relay.link
-app-trustepads.xyz
 app-vela-exchange.app
 app.allbrjdge.xyz
 app.ordify-world.com
@@ -188,7 +188,6 @@ appnetworkdapp-endpointvercel.app
 appprovechain.pages.dev
 apps-chang-enow.wixstudio.com
 apps-flareportals.xyz
-apps-moanpny.wixstudio.com
 apps-ndaexcdns.wixstudio.com
 appsyncvalidator.online
 arbdogesai.co
@@ -281,7 +280,6 @@ bitget.buzz
 bitget.institute
 bitinastore.com
 bitrefill-payments.com
-bitrefill.com-in-u01-esim-gift.com
 bitwawe.com
 bl2ast-program.com
 blackwhale.info
@@ -327,9 +325,12 @@ business-su06-webzoom.com
 buy-dogcoin.com
 buy-mooky.eu
 bytedog.life
+c02d-colnbase-listings-4f65.pages.dev
 c6zvs.dxwan.top
+c8d8-colnbase-listings-4f65.pages.dev
 ca-roobet.com
 cakewallet-guide.info
+calemonk.com
 calvariapresale.pages.dev
 camelot-exchange.io
 camelotexchangee.com
@@ -447,6 +448,7 @@ coinbase55.top
 coinbasecoinslogin.gitbook.io
 coinbasegift.online
 coinbasemaxdefi.com
+coinbmi.us
 coincommunity-aa.netlify.app
 coincommunity-nq.netlify.app
 coindcxhelp.com
@@ -454,15 +456,16 @@ coingames-register.vercel.app
 coinheal.com
 coinmultiwalletapp.firebaseapp.com
 cointop.pro
-coinw.ac
 collablland.pages.dev
 collabs-connects.com
 collect-ftx.com
 collect-gho.live
 columbiarecordings.com
 com-1l.lat
+com-au01-esim-gift.com
 com-auth-product.co
 com-claim.site
+com-cr-gift-cards-avax.com
 com-icloud.cloud
 com-sg.space
 com-vector-hub.pro
@@ -527,7 +530,6 @@ dappradarr.net
 dappradarsas.com
 dappsconnectionauth.xyz
 dappsolutionss.web.app
-dashboard-6f6.pages.dev
 dashboard-apxy.app
 dashboard-early.xyz
 dashboard-flare.co
@@ -613,11 +615,13 @@ earn.jaihoz.app
 earncoinbase.com
 easyworldlegal.com
 ebay89.com
+ebcmarketplace.com
 edenbounty.com
 ehter-fi.xyz
 eigenfoundations.eth.limo
 eigeniayer.io
 elementalseth.com
+eletether.com
 eligibility-hyperfoundation-2.xyz
 eligibility.optimnism.com
 eligible-sulliend.sbs
@@ -784,6 +788,7 @@ grindery.finance
 grok-x.bio
 grumpl.xn--goblntown-ypb.net
 grumpy-banana-8164.vercel.app
+gta6logogenerator.online
 guanyuitoken.com
 guarda.gr.com
 guide-io-trezor.pages.dev
@@ -897,6 +902,7 @@ kizunatoken.app
 kkpv9.cc
 klompokhits.my.id
 kra42.cyou
+kraken-200910.com
 krakenunbound-website.pages.dev
 krakexn5.vip
 krcmanetwork.com
@@ -1091,7 +1097,6 @@ multipiier-galxe.com
 mv3nft.info
 my-exodus.com.ag
 my-hyperliquid.org
-my-magiceden.at
 mygift-web.buzz
 myopensea.pages.dev
 myso-finance.web.app
@@ -1108,6 +1113,7 @@ namadachain.xyz
 ndax-nav.dream.space
 nearyocn.michie.workers.dev
 netmind-power.top
+network.noxalink.com
 networksmode.net
 nfpromptsio.vercel.app
 nft-po.web.app
@@ -1235,7 +1241,6 @@ polimarketref-production.up.railway.app
 polkadotreward.org
 poloniexledger.vip
 polygrab.io
-polymarket.dossehshalom.engineer
 polymarketpolska.pl
 pons-voting-x0.netlify.app
 poob-nft.xyz
@@ -1395,6 +1400,7 @@ rtfktkicks.shop
 ruleton.xyz
 rvok3lmavuki.com
 rwa-eth.cam
+s3-hyperliuqiud.xyz
 safepals.online
 sageuniverss.com
 saishumirai.tolpass.com
@@ -1512,7 +1518,6 @@ stlinks.store
 stonerape-club.xyz
 str-setter.app
 stusd.pro
-su04vebzoom.us
 sui.dropmaster.tech
 suinet.pro
 suite-connect.io
@@ -1725,7 +1730,6 @@ wikiherbia.com
 wilderworldofficial.xyz
 winnerspool.xyz
 winter-valeriagames.com
-without-analytics.lol
 woo-markets.com
 worldbrain-coin.crypto-list.tech
 worldgrassdrop-invitations.vercel.app
@@ -1879,7 +1883,6 @@ zksyncoin.info
 zoom-12a-pq7-lm0d-qiwu2.com
 zoom-meet-invite.site
 zoomlnfo.us
-zoomtoken.net
 zoraco.net
 zorro-migrateswap.xyz
 zov.squidvr.com

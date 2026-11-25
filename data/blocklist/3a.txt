@@ -69,6 +69,7 @@
 7rwbo4waussfvsxgyzbphph6ffbyfczctzvv5gfspc3mg2gxx76a.arweave.net
 8-hub-concretegov.pages.dev
 841573-crypto.com
+852846coinbase.com
 85u1eg98qgd4nr.xyz
 888support.xyz
 89-reallocate-flare.pages.dev
@@ -167,6 +168,7 @@ aojdfez9nthdo5j.autos
 apac2-stats.coinbase.com.ai
 apeterminal.myvnc.com
 api-multichainfix.pages.dev
+app-base-ext.apper.so
 app-bitbuy-engs.typedream.app
 app-bitby-en-ca.typedream.app
 app-deltaliquidity.icu
@@ -198,7 +200,6 @@ apps-odos.xyz
 apptxflow-rewards.top
 aptosmainnet.net-r.click
 apyx-fi.xyz
-apyxfinance.xyz
 arb-launching.com
 arbdoges.club
 arbination.site
@@ -342,6 +343,7 @@ cashcatrellocation.xyz
 casinostrendus.ca
 catamoto-4m0.pages.dev
 catapultcatamoto.com
+catecoinsols.lol
 catsoffun.net
 cbrecovery.live
 celebrate.051bc03c.wootokenhub.net
@@ -423,7 +425,6 @@ clarity-verify.com
 clemdeep2.icu
 cloudverse-claim-opseccomputer.pages.dev
 clstiadrop.xyz
-cmbarter3.com
 cmvb5.cc
 cn1-binance.com
 cnp-land.com
@@ -456,7 +457,9 @@ collabland-pad.com
 collabland.support
 collectiveda0.web.app
 com-9567829.live
+com-a33-gift-card.com
 com-activate.co
+com-bd01-esim-gift.com
 com-connect.shop
 com-fusion-zone.pro
 compior.com
@@ -519,7 +522,6 @@ dappsmainnet.github.io
 dappsprotocol-80b.pages.dev
 dashboard-my.opensea.viewverse.org
 dashboard-soniclabs.com
-dashboard-variational.com
 debank.com-api-connect-appv2.com
 debank.com-wallet-v2-app.com
 debridge.web.app
@@ -604,7 +606,6 @@ ethminingnine.com
 eu.vualt-flap.workers.dev
 eventchecker-lh.netlify.app
 eventchecker-pi.netlify.app
-events-stakedotlink.xyz
 ex-xodu-sweb.pages.dev
 exchange-wx.mom
 exodus-en-login.pages.dev
@@ -698,7 +699,6 @@ git.blog.motsii.com
 gitlab.git.git.git.gitlab.pop3.magiiceden-lo.com
 giveaway-api3.com
 giveways-boxnft.com
-global.kb.help
 globalpaymentserver.com
 godjira.freemint-web.com
 governance-eigenlayer.xyz
@@ -757,7 +757,6 @@ hyperqiquid.com
 hyperx-launchpad-app.pages.dev
 hypurrbot.pages.dev
 icbi.co.in
-iexechange.com
 ih0zfwy.cc
 illuviiumchristmasevent.com
 imptl-buy.online
@@ -784,6 +783,7 @@ join.keyboardcatfi.app
 join.ruinecoin.net
 joinair-mode.network
 joincommonwealth-auth.web.app
+joining-now.click
 joinourplanet.idrops.art
 journey.mantle.wb3n.xyz
 jspackage.org
@@ -823,6 +823,7 @@ krakendate.com
 krakenownt.com
 krakenpro.xyz
 krkakanelogin.webflow.io
+krken-login-access.pages.dev
 kucoin-events.com
 kucoin7.vip
 kultdolce.xyz
@@ -888,6 +889,7 @@ mail.tiny-ants-worlds.com
 mainnet.elixirsnetworks.com
 mainnetvariational.info
 makeethereumgreatagain.info
+makefunai.fun
 malawicoin.app
 maminer.com
 mande-network.com
@@ -962,6 +964,7 @@ mode.net-m.live
 modern-bit-whispering.on-fleek.app
 monarch-game.pages.dev
 mongmob.org.bullmarket.news
+montramarket.live
 monykonypolymo.com
 moonshot-listing-nxv.netlify.app
 moonshot-voting-2jn.netlify.app
@@ -999,6 +1002,7 @@ mwa.overdezuki.fun
 mwvrender.com
 my-solflare.com
 myateeybox86d.vercel.app
+mycases-x.com
 myetherwalletc.com
 myetherwalleyt.com
 mymantadob.xyz
@@ -1202,6 +1206,7 @@ pump-voting-5y.netlify.app
 pump-voting-d5.netlify.app
 pumpfun.miami
 pumpfunrewards.web.app
+pumpfunstream.fun
 pumplive-stream.fun
 pums.site
 pypusd.com
@@ -1379,7 +1384,6 @@ snycswaps.xyz
 sofamon-distribution.com
 softwarerefixnode.co
 sol-ecosystem.pages.dev
-sol-inci.xyz
 sol-saga-wl.web.app
 solana-modal-webtest.space
 solanadaddys.com
@@ -1397,7 +1401,6 @@ spok-earlyadopterfarmer.com
 sqadx.com
 ssfv2sdibl53pifavn55wn2nsr63ypv5sqmohz7pov3zkyqjtgga.arweave.net
 ssi-sosovalue.xyz
-sso---web-uphold-usa.typedream.app
 sssalsopaksmn.lol
 stablearbitrage.net
 staging-zksync.com

@@ -190,7 +190,6 @@ app-legacy-portal.xyz
 app-pablodefi.xyz
 app-pundu.org
 app-shiba.net
-app-spectreai.xyz
 app-syncvulcan.xyz
 app-termmax-ts.pages.dev
 app-zkevm-cronosbridge.com
@@ -201,6 +200,7 @@ app.trustepads.com
 app.unisocksdao.site
 app.us07zoom.us
 app.v3pro.co
+app1-collab.xyz
 appenextnsimn-apps.wixstudio.com
 applchain.com
 appledog-claim.com
@@ -223,6 +223,7 @@ art-ds.pro
 artblocks-io.events
 assetnet.live
 assets-euler.xyz
+assistance-trezor.com
 auction-gomble.pages.dev
 auth-blucollabs.lol
 auth15-ledger.live
@@ -244,7 +245,6 @@ bafybeihsayik6a5ljey6ogdwzhdcsk56vrujfrtmaessoswxq55dazwnle.ipfs.flk-ipfs.io
 bakervswap.xyz
 bakeryswaps-polkadot.org
 bakeswap-org-token-staking-c.web.app
-ballotsync.com
 baofinance.pages.dev
 barnbrldge.com
 basebridge.ec
@@ -276,7 +276,6 @@ bitkong.su
 bitmart-mystery.com
 bitmartforestd.com
 bitnestclaim.pages.dev
-bitrefill.com-ad01-esim-gift.com
 bitvesttrust.com
 bitxmusk.com
 bk5.miner-bnb.org
@@ -470,7 +469,9 @@ collabland.land
 collect-gho.info
 collidercraft.xyz
 com--stared-ledgr.pages.dev
+com-bg01-esim-gift.com
 com-gift-esim-a04.com
+com-gift-esim-ax04.com
 com-info.lat
 community-pepe.vip
 compensation-symbiotic.net
@@ -632,7 +633,6 @@ eligibility-goated.app
 elixirclaim.xyz
 en-bloodflowguardian.com
 en-mudaveresul.live
-en-us-docs-exodusweb3.pages.dev
 encrypteddappsfix.pages.dev
 endpointtvercel.app
 eng-ledgrwalit.pages.dev
@@ -696,7 +696,6 @@ fassstokenguidepapy.com
 fastigiumoption.com.solaceoneheritage.online
 fegtokenmigrate.com
 femalenft.live
-ferznew.com
 fexanium.world
 ffmbiqx.cc
 ffsandusr0test2-google.ph
@@ -720,6 +719,7 @@ fixedfloat.finance
 fizzdig.net
 fjtd1.pro
 flappy-events.com
+flare-network-hub3.pages.dev
 flarefndn-proposal.live
 flarefoundation-ballot.live
 flarenetwork-connect.com
@@ -782,6 +782,7 @@ gnr-306.ru
 gnr-388.ru
 godhatesnftees.bond
 googlemeet.lat
+governance-metricxyz.site
 governance.sitemw90hpghs5bd.xyz
 governancehyperfoundation.xyz
 greu.suclimedrs.icu
@@ -1008,7 +1009,6 @@ metamasks.xyz
 metamasku.ink
 metamaskwella.webflow.io
 metamasmk.cc
-metamsklogec.gitbook.io
 metamusk.app
 metanask-download.com
 metawincryptogames.web.app
@@ -1284,7 +1284,6 @@ quest.coqinus.xyz
 quest.ordchaintradefi.app
 quest.seedifytoken.net
 quick-dev-1de.cf-y9l085f9.workers.dev
-quiqcode.com
 r.us-east-1.awstrack.me
 rabbit.claims
 rabbitmafia-megaeth.com
@@ -1452,7 +1451,6 @@ socn-okx.com.cn
 sofamon-friend.com
 sol-drops.xyz
 sol920.com
-solana-web.space
 solanatetherspin.com
 solex-eu.com
 solwalletsync.pages.dev
@@ -1514,8 +1512,6 @@ suite-trezur-learns.typedream.app
 suiwallat-en.pages.dev
 sun-pump.pages.dev
 sundropfortron.com
-super-bonus-online.cfd
-superbonusonline.cfd
 superbridge.pro
 superfastupdate.com
 superpass-mitosis.io
@@ -1900,6 +1896,7 @@ xn--sterdex-gwa.xyz
 xpadsa.top
 xpinvestment.com
 xrp.trvstpad.top
+xrp27.com
 xvmclaim.xyz
 xworld-coln.com
 xxuywcq.cc

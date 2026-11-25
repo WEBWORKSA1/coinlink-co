@@ -45,6 +45,7 @@
 376-curvefi.pages.dev
 376490-binance.com
 38-reallocation-concrete.pages.dev
+39-rewards-firelightfi.pages.dev
 3jane.events
 3landersnft.mintsecure.io
 4-governance-capapp.pages.dev
@@ -444,17 +445,16 @@ cms.store.localhost.demo.m.store.app-uniswaps.com
 cmyvqw-tw.cfd
 cnmeet.online
 co6yhk.com
-coderide.co
 cognitive-directorychain.org
 coin-pad.app
 coin-satoshivm.io
-coin-strike-hold-and-win.co
 coinbace.app
 coinbase-airdrops.vercel.app
 coinbase-id.vercel.app
 coinbase-login.blogspot.am
 coinbase-nft-ticketing.vercel.app
 coinbase883423.com
+coinbaseoffers.com
 coinbasesupprt.com
 coincommunity-0a.netlify.app
 coindappsresolve.pages.dev
@@ -471,7 +471,9 @@ collab.land-group.it.com
 collab.lands.ws
 collablands-connects.xyz
 collabs-assets.land
+com-bt01-esim-gift.com
 com-cyber.beer
+com-gift-esim-be04.com
 com-node.xyz
 com-polybet-q07.com
 com-tokens.app
@@ -650,8 +652,6 @@ enter-prevasea.com
 enter-stark.events
 er.trust-pool.club
 eralends.com
-ercbenefitadvisorclaims.help
-ercrefundgroup.help
 erpify.co
 esma-eurosec.org
 etcclassic.online
@@ -684,7 +684,6 @@ exchangebeam.com
 exodus-webswallet.wixstudio.com
 exploit-revoke.cash
 extension-rabby.com
-exxodeus-web3.pages.dev
 failsecure-warden-check.site
 farcana.world
 farm.azar.lol
@@ -699,7 +698,6 @@ financeclimable.com
 fisios2-qui61.sbs
 fixeldfloat.top
 fixpandoshi.site
-flagged-ledger.com
 flareclaim-evm.com
 flarefoundation-gov.live
 flareget.app
@@ -814,7 +812,6 @@ impostors.app
 imxcoin.eu
 imxgems.com
 income-ledger.pages.dev
-inconsk.cyou
 indemydigital.com
 infamousbitcoin.com
 ingk0a6.xyz
@@ -1276,6 +1273,7 @@ radiobuap.phase2airdrop.com
 raelians.us
 raffle.frogon-bnb.net
 rage-trade-faucet.com
+rain1betcasino.com
 rainbet-casino.co.it
 rainbet-uk-org-uk.pages.dev
 raintradeapp.cc
@@ -1323,6 +1321,7 @@ renqstake.app
 resolvemgratetoks458.pro
 restoreweb.net
 revdapsol.xyz
+revoke-lighter.xyz
 revoke.contact
 revokes-scroll.com
 reward-backpack.fun
@@ -1398,11 +1397,11 @@ shibashootout-ia.web.app
 shibio.space
 shifu-rewards.xyz
 shop.mts.by
-sicknessvnm.com
 signup-brc20.com
 signup-peipeicoin.events
 silo.gift
 singularitynetwork.cc
+siteslikerainbet.com
 skinprt.com
 skinsmonkey.bz
 skyeco-money.com
@@ -1422,7 +1421,6 @@ solarachieve.live
 solflare-app.org
 solflarewebwallet.com
 solixdb.net
-solscan-io.at
 solscan.digital
 solsniperai.pro
 solstorm-6lr.pages.dev
@@ -1443,7 +1441,6 @@ sparklemo.site
 special-kilpailuja.us
 sphere-beamless-clustered.com
 spongeclaim-vip.pages.dev
-sso-phantom-coms-autth.webflow.io
 ssv-airdrops.org
 stacker-block.xyz
 stacks.airdrop-whitelist.com
@@ -1663,7 +1660,6 @@ votes-ethena.finance
 votes-sparkfi.com
 voting-soneium.xyz
 voting-yeifi.pages.dev
-votingplasma.com
 vpn.webmail.secure.img.bc-game.pics
 vps-craft.com
 vscpectra.xyz

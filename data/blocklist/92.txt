@@ -46,20 +46,23 @@
 3pj66.com
 4-hub-ethersfi.pages.dev
 40-gov-hyperlend.pages.dev
+40-rewards-firelightfi.pages.dev
 40f9cbde.634e4ed6dabf4fea38da4da1.workers.dev
 41-hookrfun.pages.dev
 43689913134866qm2ln34ogfi43689913134866qm2ln34ogfi.nyungsep.opcaoconstrucoes.com.br
 44-vote-orbio.pages.dev
 45-derivexyz.pages.dev
 48-dashboard-concrete.pages.dev
-481955-ledger.com
 493885-coinspot.com
+4d32-colnbase-listings-4f65.pages.dev
 514221-apple.com
 57-allowlist-ascendlaunch.pages.dev
+5905-fa8e-5133-c0inbase-list.pages.dev
 597402-binance.com
 5thscape-io.pages.dev
 6-allocation-abstract.pages.dev
 6-gliderfi.pages.dev
+6084-fa8e-5133-c0inbase-list.pages.dev
 65-derivexyz.pages.dev
 65-jumpereco.pages.dev
 659408-crypto.com
@@ -78,6 +81,7 @@
 87.120.93.163
 876742-robinhood.com
 87vjarx23nddrep.boats
+890f-colnbase-listings-4f65.pages.dev
 9-arguspadgov.pages.dev
 9-vote-longbow.pages.dev
 93htx.top
@@ -228,6 +232,7 @@ avaxclaimcoin.com
 awui.xyz
 axiom.ht
 axisrobotics.lat
+b6c0-colnbase-listings-4f65.pages.dev
 baby-bonk-inu-sand.vercel.app
 babydogeswap.exchange
 babydogeswap.top
@@ -269,6 +274,9 @@ bitcoinminetriix-claim.pages.dev
 bitfinextradingbonus.bitraiin.one
 bitinauts.space
 bitrefil.info
+bitrefill.com-gift-cards-ankr.com
+bitrefill.com-gift-cards-knc.com
+bitrefill.com-gift-cards-wif.com
 bitsafe.cloud
 bitsmiley.app
 bittapdefi.com
@@ -327,6 +335,7 @@ ca-bitbuyapp.wixstudio.com
 ca-televent.tech
 cainbasaproddgiu.godaddysites.com
 candle-roasted-tuck.glitch.me
+canton-defi-lending-landingpage.pages.dev
 cartelelectriccarbaggiohf.shop
 carvprotocol.top
 casinorainbetaustralia-com.pages.dev
@@ -364,7 +373,6 @@ chimpers-freemint.xyz
 chrysalism-nft.xyz
 chubbiverse.xyz
 cimiha.pages.dev
-citrea.sbs
 claim-backpack.pages.dev
 claim-boobe.pages.dev
 claim-borpatokens.com
@@ -434,6 +442,7 @@ coin-fly.site
 coin-pape.com
 coin-prodao.web.app
 coinbase-com.instrumentautomationsolutions.co.uk
+coinbase-htx.cn
 coinbase-logins.blogspot.co.at
 coinbasehcomuslogin.gitbook.io
 coinbaseprologinq.gitbook.io
@@ -450,6 +459,7 @@ collabs-connects.top
 collabs-verify.ink
 collect-starknet.com
 com-careportal.com
+com-dh01-esim-gift.com
 com-drift.shop
 com-login.icu
 com-t.support
@@ -490,7 +500,6 @@ cryptcoin.space
 cryptoabuy.me
 cryptoallstars.art
 cryptocom.eth-air20.com
-cryptocscex.com
 cryptofixer.online
 cryptogizastake.com
 cryptogpt-home.com
@@ -669,7 +678,6 @@ finddrop.world
 findigitalbkins.ltd
 firelight-proposals.xyz
 firelightfi-app-portal.xyz
-firmware-updater.cloud
 fixedfload.co
 fixedfloat-original.xyz
 fixmypage.site
@@ -709,7 +717,6 @@ giantsprotocol.live-checker.website
 gift-woocoin.com
 giftxrpofficial.site
 girisbetparibu.site
-gitlawbv.xyz
 giv-xrp.org
 give-ts.com
 givenotaway.top
@@ -783,6 +790,7 @@ igvues.site
 img.login.autoconfig.mail.test.likitfx.com
 impfallenangels.info
 imtonken.com.cn
+inboxed-coinbase.ph
 infos-jupiter.site
 infyprotocol.infy.uk
 injective-tech.com
@@ -899,6 +907,7 @@ m.nttdatadex.us
 m9rpho.org
 maddogcarclub.nft-premint.com
 mage-merlinstarter.com
+magic-live.shop
 magiceden.icu
 magsmemecoin.top
 mail.layerizero.fun
@@ -955,7 +964,6 @@ metmskeaxteseion.webflow.io
 mexcprone.com
 mezos.org
 mi.communityscroll.xyz
-microsoft-certification.com
 microsofvisualstudioupdate.top
 migrate-goliath.com
 migration-piayzap.games
@@ -1117,7 +1125,6 @@ paperhanded.fi
 paradisemotorentals.com
 participate.traderjoefi.com
 paxosgold.top
-pay-bitrefill.com-av04-gift-esim.com
 pconsultsa.com
 peaqclaim.live
 pencilsclaimevent.online
@@ -1133,7 +1140,6 @@ pepeuncnained.xyz
 pflmop4kxxpdtz5.yachts
 pgenztokenclaim.pages.dev
 pha-event.com
-phantomsuport.site
 pharostestnet.com
 phase2-layerzeronetwork.pages.dev
 phentum-waailut.godaddysites.com
@@ -1172,7 +1178,6 @@ poutyonsol.xyz
 pre-sale.layerbret.io
 premint-dew.xyz
 premint.skin
-premium0peanseamint10.vercel.app
 preregistration-neotokyo.codes
 presaie-beckercoins.network
 presale.beckercoins.app
@@ -1337,7 +1342,6 @@ signup-fluencenetwork.net
 signup-fuelnetwork.app
 signups-mode.network
 siign.id
-simplegamb.com
 singularitydao-migrate.pages.dev
 skalespacebridge.io
 skyarksr.xyz
@@ -1416,10 +1420,7 @@ successkidsol.org
 suiairdrop.pro
 suilend-clain.fun
 suiscan-xyz.space
-suiteapp-pub-learn.wixstudio.com
 sullend-checker.sbs
-super-bonus-click.com
-superbonusmonster.cfd
 suportmetumak.webflow.io
 support-exodaswailet.pages.dev
 support.de-bridged.foundation
@@ -1536,7 +1537,6 @@ ulego.xyz
 ultronics.cash
 uni-app-web.vercel.app
 uni-swap-org.pages.dev
-unigovernance-v4rewards.org
 unisockslab.xyz
 unisvap-v3.github.io
 uniswap-airdrop.meta-claim.online
@@ -1559,7 +1559,6 @@ usd-teth-defi.com
 usdt-quantum.com
 usdtcm.org
 usdts.adrp5.org
-usdtvipx.com
 usellugay.top
 usuaimoney.net
 ut7zi.pro

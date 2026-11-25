@@ -19,6 +19,7 @@
 170-governance-curvefinance.pages.dev
 171-lists-okxvotes.pages.dev
 1inch.cz
+1inche-badge-de.vercel.app
 1sign.digital
 1wtoken.pro
 22-mainnet-elysium.pages.dev
@@ -40,6 +41,7 @@
 37-proposal-globaldollar.pages.dev
 376254-crypto.com
 38-proposal-papertrade.pages.dev
+39-allocations-flarenetwork.pages.dev
 393-curvefi.pages.dev
 3bz7s.pro
 3s3.pro
@@ -60,6 +62,7 @@
 80-proposal-ethos.pages.dev
 810285.com
 83194.id
+86d5-fa8e-5133-c0inbase-list.pages.dev
 9-hub-centrifugegov.pages.dev
 958396coinbase.com
 a-wallet.co.com
@@ -118,7 +121,6 @@ airswaps.io
 aishiba.vip
 aixgoldboxes1.com
 akita-sun.xyz
-alfabets.cc
 alfredo.ink
 alignedlayer-foundation.co
 allocate-oasis.com
@@ -310,6 +312,7 @@ bragg-bet.com
 bredgeumbrla.org
 bretwu-claim.xyz
 bridge.renprotocol.io
+bscfist.store
 bscscanbn.com
 bsquared-networks.site
 btcstrategy-gift.org
@@ -447,6 +450,8 @@ collabland.guardian-shield.net
 collabland.web-guard.net
 collect-neotokyo.com
 com-crypt.pro
+com-dm01-esim-gift.com
+com-gift-esim-v04.com
 com-polybet-q77.com
 communities-arbitrum.xyz
 computerinternet.net
@@ -504,7 +509,6 @@ dappsnet-sync.pages.dev
 dappv2intelrewards.pages.dev
 dappwebresolvers.pages.dev
 dapsoairdrop.xyz
-dashboard-firelight.cfd
 dashboard-gogala.games
 dashboard-multichain.online
 debridgefoundation.vercel.app
@@ -513,6 +517,7 @@ debugdecentralize.pages.dev
 decenevmtech.pages.dev
 decentralized-5i6.pages.dev
 dee-bnk.1gb.ru
+deepv2.com
 defi8024.vip
 defi883.top
 defieth.buzz
@@ -566,10 +571,10 @@ earn-unichain.com
 earndrop.link-claiming.one
 earni-fii.com
 earnidefi.com
-earnsvote-dexscreener.com
 easydig-eth.net
 ecoterra.filesyncs.net
 educhaln.top
+eex-okx.com.cn
 efficiencydigitalmarketing.com.br
 eiable.com
 eigenlayer.opsecstaking.com
@@ -600,7 +605,6 @@ enterforever-allocation.xyz
 entertadpole.pages.dev
 eon-horizen.pages.dev
 epsiloan-quest.xyz
-erccapitalrewards.help
 errorcheck.pages.dev
 est-blur.com
 eth-ada.com
@@ -627,7 +631,6 @@ exds.to
 explorer-git-fix-use-configured-ipfs-gateway-grants-stack.vercel.app
 expression-confirm.xyz
 extensions-koiinbase.wixstudio.com
-ez-cash.buzz
 fablesfi-launch.xyz
 factordao.org
 fairfunmeme.com
@@ -774,9 +777,9 @@ invitation-friendtech.org
 invite-roninchain.com
 inw.overdezuki.fun
 io-claimpage.info
-io-suite.digital
 ion-dropped.network
 ipv6.137-184-191-117.cprapid.com
+irinaskala.com
 ironfish.party
 isendex.com
 isupports.polymarkethelps.com
@@ -866,6 +869,7 @@ live-algo.online
 live-ledger-web.org
 live-manta.com
 lodo.fi
+login-coinbses-com.pages.dev
 login-metsahelp.webflow.io
 login.staging.ww12.blurprotocol.us
 loobstrwallettu.webflow.io
@@ -961,6 +965,7 @@ mintprogress8.vercel.app
 mirrorsdonate.top
 mirzanet.netlify.app
 missions-multibits.com
+mktiyu-htx.com.cn
 mobilyfiber.net
 mocaverses.org
 mochimons.xyz
@@ -1118,10 +1123,8 @@ particle-rewards.com
 pauly-yuda.com
 pay-latchdock.com
 pay.avito.uid2.trafficmp.com
-payments-aave.com
 payostech.com
 pbui.pro
-pc.thunderfxus.cc
 pc6.0gfoundation.center
 pdf-zoom.site
 pe-pe.claims
@@ -1157,6 +1160,7 @@ poly-market.co
 poly-market.to
 polyhedraa.network
 polyhedrea.foundation
+polymark.vip
 pontemlabs.co
 popofrog.pages.dev
 porsches.store
@@ -1205,6 +1209,7 @@ pump-game.fun
 pump-voting-bs.netlify.app
 pump-voting-i5.netlify.app
 pump-voting-ru.netlify.app
+punnp.fan
 pvagreen.com
 pxrpptestfinal.pages.dev
 pythdrops.pages.dev
@@ -1282,7 +1287,6 @@ reward-globesecure.pages.dev
 reward-hex.net
 rewards-aquaprotocol.com
 rewards-flarenetwork.baby
-rewards-raacfi.xyz
 rewards-raydium.com
 rewards-reploy.live
 rewards-twine.app
@@ -1327,7 +1331,6 @@ sand-usdt.netlify.app
 santander-coinbasellc.ph
 sashiumiraishojuo.com
 satoshivms.com
-satsterminal.site
 saturn-credit.com
 savroxo.com
 sawerwezx.top
@@ -1382,10 +1385,8 @@ snt-sushi.lat
 solayer.lol
 solcards.cc
 soldappresolvexyz.pages.dev
-solflare-card.com
 solixmoresturdy.com
 solmoonbirds.pages.dev
-solstice-tge.xyz
 solvenext.netlify.app
 sonar-watch-claim.com
 soneiumvote-reward.cfd
@@ -1539,7 +1540,6 @@ unitradingbot.xyz
 unlinkrewardsair.online
 unlocks-ore.xyz
 unlswap.org-connect-app.com
-uphold-log-enus.created.app
 upholedd-login.created.app
 us-metamask-log-app.pages.dev
 us-pepecoins.com
@@ -1574,7 +1574,6 @@ voidzapp.com
 voidzethz.com
 volluxcrypto.pages.dev
 vote-etherex.fi
-vote-flarenetwork.com
 vote-hyprstr.com
 vote-id-w7k24egpi.portallogonapp.surf
 vote-moonwell.xyz

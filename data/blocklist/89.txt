@@ -41,6 +41,7 @@
 4coinspad.top
 5-gov-usenest.pages.dev
 50-proposal-saturncredit.pages.dev
+50cf-a3b8-5133-c0inbase-list.pages.dev
 56-proposal-ethos.pages.dev
 56-vote-netnetcapital.pages.dev
 59-governance-kinetiq.pages.dev
@@ -57,7 +58,6 @@
 91-derivexyz.pages.dev
 92-proposal-papertrade.pages.dev
 931602-ledger.com
-932884-ledger.com
 969yahoo.com
 98-governance-venice.pages.dev
 a.polygonstakings.site
@@ -262,8 +262,7 @@ bitcoinwalletresetsystem.pages.dev
 bitijoin.com
 bitminetrix.live
 bitraflil.com
-bitrefill.com-an01-esim-gift.com
-bitrefill.com-u04-gift-esim.com
+bitrefill.com-gift-cards-sand.com
 bitreflll-pay.com
 bitreta.com
 bitsoasis.pages.dev
@@ -337,6 +336,7 @@ celtis.pages.dev
 centrusbolivia.com
 chain-altlayer.com
 chain-link.bet
+chain-robinhood.io
 chaingeglobaltech.pages.dev
 chainlinkapi.pages.dev
 chainsyncdapp.pages.dev
@@ -422,7 +422,6 @@ claininjective.pages.dev
 clearpoolfi.events
 cluster-verify-bridge.com
 cndzh-okx.com.cn
-coin-checker.xyz
 coin-usdt.fyi
 coinbase-accountprologin.gitbook.io
 coinbase-asset-protection.cfd
@@ -459,6 +458,7 @@ connect-param.app
 connect-trezor-us-wallet.pages.dev
 connect.evmchains-rectifier.live
 connectwoo.net
+connectzoomweb-join.xyz
 console.core.slingshot.fm
 contentrequests-x.com
 control-live--io-ledgr.pages.dev
@@ -493,6 +493,7 @@ curvefinance.io
 curvefinance.top
 cyberrbot.live
 d.velacore.xyz
+d26a-coinbase-listing-677f.pages.dev
 dapp-connect.com
 dapp-radar.llc
 dapp-resolver.netlify.app
@@ -525,6 +526,7 @@ decorbg.eu
 deelance-info.com
 deeplee.xyz
 deepseek-presale.com
+defensivewalletscan.xyz
 defi2s.com
 defiapp.portal-drops.cfd
 defiswapconnect.pages.dev
@@ -538,9 +540,9 @@ desk-allocationxrp.com
 devq.pro
 devvelaunchpad.app
 dewlists.pages.dev
-dex-e2w.pages.dev
 dexcsreenen.com
 dexsolutions.icu
+dextools.fun
 dexvip777.com
 dfbre.top
 dg2wtf2.pages.dev
@@ -717,6 +719,7 @@ get-beckermemecoins.net
 get-flockerz.com
 get-pacmoon.xyz
 get-stones.com
+getdcty.fun
 getgrasss.netlify.app
 getkeyflow.art
 getmetacard.xyz
@@ -927,7 +930,6 @@ lyg.overdezuki.fun
 lyncdiscover.api.binance.4agha.com
 lytsync.pages.dev
 m-wisemonkey.pages.dev
-m.ec-markertsork.cc
 m.marktsex-omf.com
 magiceden.bet
 magiceden.launchdrop.xyz
@@ -957,7 +959,6 @@ mashriksecurtis.com
 matamaskxextensiion.webflow.io
 mattfuriescat.info
 mavia.bz
-meetings-invite.com
 mefoundation-allocation.pages.dev
 mega-enroll.com
 megaethdao.xyz
@@ -1010,6 +1011,7 @@ minted-art.xyz
 mintnow1117.vercel.app
 mirror1-mysbox.org
 mitosisfi.co
+mll-okx.com.cn
 mmaatamskloigin.gitbook.io
 mobileappstoday.com
 mode-airdrop.life
@@ -1102,12 +1104,12 @@ notcoinar.buzz
 noticedmca-x.com
 nounsdao-free.xyz
 now-cowswap.fi
+nvdarwrds.xyz
 nwstation.site
 nyanheroes.digital
 nym-distribution.com
 oceangift.org
 oenantisym.site
-ommi.varialional.co
 onchaindw.com
 onchainwalletcrypto.com
 onestopautosalvage.com
@@ -1131,6 +1133,7 @@ openseapros-clickn49.vercel.app
 opensesolutions.com
 opensurveys.io
 opentradedexv.com
+opentrustcards.top
 opewnsea.io
 opsea10.vercel.app
 optair-claims.top
@@ -1150,10 +1153,10 @@ papertrade-join.xyz
 papesstar.com
 paragraming-claim.live
 pasaconnect.com
-pay-bitrefill.com-gift-esim-at04.com
 payments.bnbdrop.cc
 payoutcredicuotas-com.ar.cl
 pciymarket.com
+pdfview.quest
 pdfwebex.live
 pdos.top
 pemdle-protocole.us.com
@@ -1175,7 +1178,6 @@ phantomwalletextensionc.webflow.io
 phantomwalliat.godaddysites.com
 phnttom-walletextension.webflow.io
 pikamoon-coins.pages.dev
-pitchwcs.xyz
 pixelmons.pro
 pixiz-presale.org
 pixiz-wlregister.vercel.app
@@ -1203,9 +1205,7 @@ poolbvc.top
 porkscoineth.com
 portal-hydrex.xyz
 portal-moonshot-dkl.netlify.app
-portal-to-bitcoins.stakingreward.cloud
 posteditemsx-x.com
-powgamb.com
 pq45dq.cc
 pre-sale-bfdcoin-org.pages.dev
 primeprotocol.app
@@ -1347,7 +1347,6 @@ rtg.arcium.app
 runemine-pass-v7.vercel.app
 rwaf.info
 s0phonxyz.com
-sa-i.cc
 sachiclaim.xyz
 safepal-ledger-wallet.pages.dev
 saga.xyz-collect.com
@@ -1458,6 +1457,7 @@ starknetio.pro
 starknetpro.opcagent.cc
 starknetquest.in.net
 started-trezeer.framer.ai
+statements1.icu
 statistics-x.com
 steady-move.icu
 steadystack.your-mint.world
@@ -1611,6 +1611,7 @@ uniswapconnect.pro
 uniswapv2.pages.dev
 universalsolve.pages.dev
 uprising-kip.co.pepex-fun.xyz
+us-atomic.org
 us-zerolend.xyz
 us01-zoom.cc
 us03web-zoom.net
@@ -1634,6 +1635,7 @@ v3-opsec.computer
 valhalla-floki.xyz
 valorant17.com
 vanrish.cc
+variational-tge.icu
 veiiiaunch.com
 veiodromefi.net
 veretexprotocol.org
@@ -1821,7 +1823,6 @@ www.zeorland.xyz
 wwwsecure.airflow-uat.arb-chain.com
 xborg.rjnfts.com
 xdxdxddxdd.lat
-xmagnetic.io
 xn--coinbase-llit-console-40b0665o.webflow.io
 xn--ldger-6za.xyz
 xn--minippe-x8a.com
@@ -1856,7 +1857,6 @@ zknation-snapshot.com
 zknation.support
 zoog-gg.com
 zoomgex60.us
-zoorn-meeting.com
 zrafo.com
 zro.allocatiion.org
 zskuls.com

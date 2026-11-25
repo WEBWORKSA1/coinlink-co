@@ -1,5 +1,4 @@
 0203008-binance.ph
-03seucre-auth.click
 0glabsfoundation.claims
 0n1-force.com
 0x559960521623cdb48c5a2a5ad21721a967fb80e6.top
@@ -33,7 +32,6 @@
 27-proposal-paperstrategy.pages.dev
 2exchange.lindonft.net
 2fa-presearch.help
-2ncxg2j6vubdkrbjurw2qlafx4mr6nuv7643a4v3bhaecu5cadya.arweave.net
 3-governance-treadfi.pages.dev
 31-usenest.pages.dev
 322-reallocate-flare.pages.dev
@@ -52,7 +50,6 @@
 54-proposal-computersrh.pages.dev
 550838coinbase.com
 56-argusworld.pages.dev
-582945-kraken.com
 59-venice.pages.dev
 595627-binance.com
 5raydium.sbs
@@ -230,6 +227,7 @@ autistic.trading
 autofamr.trade
 autoincentive.meme-list.net
 autominter.cfd
+ava.rqecs.com
 avax-network.net
 azukiclaim.com
 b-binance.app
@@ -276,8 +274,6 @@ bitget.monster
 bitgonzoltd.com
 bitisclub.com
 bitomexcs.vip
-bitrefill.com-in-g01-esim-gift.com
-bitrefill.com-in-t01-esim-gift.com
 bittrecx.com
 blast-l2.pages.dev
 blast-mainnet.pages.dev
@@ -368,7 +364,6 @@ claim-suiland.tattoo
 claim-suilen.site
 claim-suins.network
 claim-sullend.skin
-claim-wolrdliberyfinancial.com
 claim-yuckyducks.com
 claim.aialaya.biz
 claim.allinbets.network
@@ -423,13 +418,13 @@ coinpsu.com
 coinrf.ygzkfr.top
 collab.role-assign.com
 collectiondapp.pages.dev
+com-ah04-gift-esim.com
 com-nexus-hub.shop
 com-polybet-q56.com
 com-services-manager.site
 commbank-aiert-on.line.pm
 community-ens.net
 compensations-metronome.app
-comtrucks.ca
 comvexfinamce.com.exchamge-v4.shop
 concretefoundations.sbs
 connect-bitgert.com
@@ -641,6 +636,7 @@ exodusproxs.top
 exploreapyeth.org
 ezeigen-renzo.net
 ezkalibur.app
+f02d-fa8e-5133-c0inbase-list.pages.dev
 facebook-wallets.cc
 farming.blocksgames.events
 fastrack-dapps.pages.dev
@@ -716,7 +712,6 @@ get-flarefoundations.app
 get-uninames.com
 get.wolfxinu.com
 getbased-ai.com
-getcardsdrop.com
 getmobox.org
 getroyalspin.sale
 gg5577.net
@@ -788,6 +783,7 @@ hyperfoundation-stakings.xyz
 hyperlanetoken.com
 hyperlinkxyz.icu
 hyperliquid-btc.com
+hyperliquildl.xyz
 hyperllquld.xyz.web3-ap.cfd
 ibm-ai.vip
 iborea.com
@@ -815,7 +811,7 @@ interface-cow.xyz
 intranet.twitter-events22.com
 invite-sei.com
 io-crypto.net
-io-dao.sbs
+io-ff.st
 io-swap-x.icu
 io-trezor-suite-us.pages.dev
 ioapps-exodus-web.wixstudio.com
@@ -909,6 +905,7 @@ loot-woives.net
 lorevianse.sbs
 lrq.overdezuki.fun
 lsupport-lcloud-co.us
+luna-dapp.trade
 lxp-register.com
 m.mail.cryptogift.info
 m4-zerolend.xyz
@@ -939,6 +936,7 @@ mcpepe.xyz
 mddvmn.xyz
 mehgfahn.top
 mei-proxy-ui.cgisupport.es
+meitongworld.org
 meittamaxxlogg.godaddysites.com
 meme-coin.eu
 memecoin-journey.com
@@ -959,6 +957,7 @@ metacard-nfts.com
 metacoins-wallet.network
 metamask-pc.org
 metamask-protal-apps.wixstudio.com
+metamask-wallet-io.pages.dev
 metamask-walot.webflow.io
 metamask.com-pageconnect.life
 metamask.io.kyc.regulation.45-88-108-231.plesk.page
@@ -1121,6 +1120,7 @@ paerax.com
 paezax.com
 pages-base-extension.wixstudio.com
 paimon.global
+palmai-v3.luxe
 pancakel-v2.fl-v2.website
 pancakeswap.gasmine.info
 pancakeswaps.top
@@ -1129,7 +1129,6 @@ pancakewasp.godaddysites.com
 pantry-ledger-1tr.pages.dev
 paper-foundation.xyz
 paxfuly.ltd
-pay-bitrefill.com-cr01-esim-gift.com
 paybis-loggi.pages.dev
 paybiss-io-logn-1iw.pages.dev
 paylifeat-info.com
@@ -1172,7 +1171,6 @@ porkcoinsol.xyz
 portal-canton.xyz
 portal-flarenetwork.wiki
 portal-flr-foundation.icu
-portal-ftxdistribution.net
 portal-moonshot-0ur.netlify.app
 portal-moonshot-4zh.netlify.app
 portal-moonshot-8pz.netlify.app
@@ -1221,7 +1219,6 @@ pzerd.netlify.app
 quest-befiiab.app
 quest-zircuit.net
 quests-eigenlayer.com
-quickswap.trade
 r3nltnft.com
 r632.love
 rabbyy-extnsions.mythex.ai
@@ -1296,6 +1293,7 @@ rewarding-0x0exchange.xyz
 rewards-cowswap.xyz
 rewards-cryptoallstars.com
 rewards-plus.net
+rewards-umia.finance
 rewards-vertical.network
 rewards.nodes-ai.org
 rexcloudconnect.com
@@ -1343,7 +1341,6 @@ seiyanscollection.space
 sekoairewards.xyz
 sell-honeypot.xyz
 sempraenergy.lol
-sendsushi.top
 serviciosubiionline.zya.me
 settlement.owlspriority.ca
 shackupdesign.site
@@ -1553,11 +1550,11 @@ uniswap.org-app-web-v2.com
 unlock.worldlilbertyfinance.com
 unswappe-airdrop.com
 update-data.com
-uphalds-eng.created.app
 urbanhslip.com
 urinswap.org
 us-live-v.com
 us-polymarket.net
+us13zoom.us
 usd-cryptos.top
 usddswap.org
 usdsavings.cc
@@ -1586,7 +1583,6 @@ vip1.deficloud182.xyz
 virtualhashfy.pages.dev
 voidzeths.com
 voltix-websignup.lol
-vote-ethena.info
 vote-fantasytop.app
 vote-id-8fz4vy4.portallogonapp.best
 vote-id-kkjafy.portallogonapp.lol
@@ -1616,7 +1612,6 @@ wallet-kinetiq.xyz
 wallet.billons.network
 wallet.okcatcnp.com
 walletxconnect.live
-wallnets-nodefix.web.app
 wbtc-portal.com
 wdefi19.xyz
 web-chain.pages.dev
@@ -1647,6 +1642,7 @@ windirstatpro.com
 windows-ledger-live.typedream.app
 wingcoin.site
 winner-crypto.top
+winter-summit-secure-user-3e08-658d.pages.dev
 wl-mogcoin.com
 wlflibertyfinancials.com
 wombat-exchange.host

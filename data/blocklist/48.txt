@@ -1,6 +1,7 @@
 029184-crypto.com
 02web.us
 041829-crypto.com
+0788-fa8e-5133-c0inbase-list.pages.dev
 0gai.foundation
 0x0portal.com
 0x9qofugwmd7db.website
@@ -72,6 +73,8 @@
 63-hub-treadeco.pages.dev
 641290-crypto.com
 6688online.icu
+6743-fa8e-5133-c0inbase-list.pages.dev
+70ee-colnbase-listings-4f65.pages.dev
 77-vote-orbio.pages.dev
 8-ramsesexchange.pages.dev
 84-kinetiqgov.pages.dev
@@ -81,7 +84,6 @@
 9ehurtw.info
 9gagpass.com
 9lrzctw.top
-a-cg.pro
 a-random-check.fly.storage.tigris.dev
 aavev3-ecology.com
 aavev3exchange.com
@@ -101,7 +103,6 @@ agixcrew.net
 agixlabs.net
 ai-160kg.com
 ai-etoro.vip
-ai02n.sbs
 aiai-constellation.com
 aicoinhk.com
 aiiocate-diamante.xyz
@@ -171,6 +172,7 @@ app-b1ll.com
 app-basedbrett.pages.dev
 app-dappcbase.org
 app-fixall.pages.dev
+app-hyperliqliud.xyz
 app-maga.xyz
 app-odos.live
 app-omnl-network.xyz
@@ -178,7 +180,6 @@ app-openbids.com
 app-stargate.com
 app-token.com
 app-uniswapp.pages.dev
-app.11arnawsap.ink
 app.allocation-particlenetwork.com
 app.merlinswap.top
 app.multibitbridge.net
@@ -214,7 +215,6 @@ asset-auth.xyz
 aster-investing.net
 asterbater.xyz
 astrovault.llc
-atlasora-rewards.xyz
 aumeilin.com
 aurainbet.org
 authweb3qp.gq
@@ -243,7 +243,6 @@ bakeryswap-org-token-staking-e.web.app
 bakerywap-stake.org
 balancersc.xyz
 balenciagastore.shop
-bancor.finance
 bankless-airdrops.com
 barsik-ciaim.app
 base-extension-sso.framer.media
@@ -277,6 +276,7 @@ bjfqm.psa-enterprises.com
 blancobasura.app
 blast.ong
 blastercoin.website
+block-axion.live
 blockdag.in
 blockdapponline.web.app
 blockfi-bia-disbursements.com
@@ -319,6 +319,7 @@ bxwinj.net
 bybit.fans
 bybitproe.co
 bybitsweb3.xyz
+c990-colnbase-listings-4f65.pages.dev
 cake-v3.link
 calm-meadow-6254.vercel.app
 calobit.com
@@ -394,7 +395,6 @@ claims-kinto.com
 claims-topg.com
 claimsolvtoken.io
 claimsyour.pages.dev
-claro-rewardsa.shop
 cloneforce.one
 clore-ai.co
 clotak.com
@@ -421,6 +421,8 @@ collabland-joins.github.io
 collect-not.com
 colnbaisepro.com
 com-auth-account-customer-connect.shop
+com-f04-gift-esim.com
+com-gift-esim-ar04.com
 com-glow.biz
 com.app.analytics.winkdrop.net
 community-liquideth.net
@@ -446,7 +448,6 @@ create-satoshivm.io
 creepz.tech
 crew3.one
 crownedluck.com
-crycas.sbs
 crypticcweb.com
 crypto-interest.com
 cryptocashvexa.com
@@ -611,7 +612,6 @@ ethnafinacenewrewards.vercel.app
 eurcvswap.com
 event-nazijak.fun
 event-venom.com
-event.standx.cloud
 eventcashcat.com
 eventsapyether.net
 exdus-wallet-com.pages.dev
@@ -672,6 +672,7 @@ futuristic-robots.com
 fzznmmb.cc
 g22y8.ssi-sosovalue.xyz
 g4tigf.pro
+gaicavex.blog
 gain-wormhole.com
 gala-event.app
 galaxis.bond
@@ -848,7 +849,6 @@ layerzerolabs-sybil.net
 layerzrolapps.network
 ledger-live-info-en.pages.dev
 ledgerliv-start.pages.dev
-ledgers.at
 ledgr-live-downloa.pages.dev
 ledgrlive-desktop.relumesite.ai
 ledgrwebs.pages.dev
@@ -1121,10 +1121,8 @@ panskewsao-finance.xyz
 papartrede.xyz
 parcl-e0t.pages.dev
 parclclaim.com
-paribury.co
 parion.xyz
 participate.tradejoey.net
-pay-bitrefill.com-d01-esim-gift.com
 paybis-login-io-us.pages.dev
 peachpuff-wallaby-592757.hostingersite.com
 penble-finance.com
@@ -1183,7 +1181,9 @@ portalofthetruth.io
 portalscoin.io
 posteodesigned.com
 powedex.com
+pp-okx.cn
 pps.usdt1122.top
+predictdd.com
 premints-mints.xyz
 premium-cryptolist.com
 presaie-becker.net
@@ -1556,6 +1556,7 @@ trustnewsfaq.com
 trustpad-cq.com
 trustsamm.life
 trustwalletcards.sbs
+trustwalletextension.at
 trustwallets-airdrop.sbs
 trustwallettransfers.com
 trx-sushi.top

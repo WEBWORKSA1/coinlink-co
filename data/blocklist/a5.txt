@@ -52,6 +52,7 @@
 500tokendrops.top
 552-reallocate-flare.pages.dev
 6-netnet.pages.dev
+612d-coinbase-listing-677f.pages.dev
 6294c1.app
 64-arguspad.pages.dev
 68-vote-argusworld.pages.dev
@@ -135,6 +136,7 @@ altverse.app
 alvaras-reward.com
 amlfreebots.pages.dev
 anchor.claim-gate.live
+and-okx.com.cn
 angrybirds.fun
 anitokyo.world
 anotexists76543216c8cb8a8-1669-4888-9584-d7052cf15662.acquency.com
@@ -171,7 +173,6 @@ app.usualsmoney.xyz
 app.zillq4-ecos.xyz
 appchaingpts.com
 appchainmode.pages.dev
-appealpost-x.support
 appgrowthverse.pro
 apps-astarnetwork.com
 apps-hyperliquid.com
@@ -189,7 +190,6 @@ arbitrum-id.space
 arbitrumbridge.ch
 arbitrumnow.com
 arbswap.guru
-arc-analytics-indol.vercel.app
 arizonastars.xyz
 armytokenxrp.com
 as07.ltyf.mom
@@ -210,7 +210,6 @@ authorization21-ledger.live
 autodiscover.zuperkart.com
 avantisfinance.top
 avaslaunch.net
-awardstp.sbs
 axisrobotics-dashboards.xyz
 ayazocosmetics.com
 azukireload.com
@@ -253,7 +252,6 @@ bitcoinswiftclaim.pages.dev
 bitihrauts.com
 bitiland.xyz
 bitoptiver.com
-bitrefill.com-c04-gift-esim.com
 bitsofv.info
 bitstamp-robinhood.app
 bitturboversatile.pages.dev
@@ -401,6 +399,8 @@ collection-seyans.online
 colnbaselending.com
 com-24.help
 com-airdrop.info
+com-bs01-esim-gift.com
+com-cr-gift-cards-bch.com
 com-helpdesk.app
 com-listings.info
 com-pd.info
@@ -431,7 +431,6 @@ cryptogpt.lives-airdrop.com
 cryptongpt.com
 cryptonn.io
 cryptophunks.web3fast.net
-cryptotokentest.help
 crytptoallstars.com
 csl-behring.eu
 curve.net-r.one
@@ -480,7 +479,6 @@ dev-ledgr-com-strt-temp-en.pages.dev
 dex-meteor.wixstudio.com
 dex.vlgt.live
 dexairdrops.top
-dexalot.cc
 dexfix.net
 dextercash.com
 dfx-stablecoin.web.app
@@ -547,8 +545,6 @@ ependle.top
 ephld.top
 erc20.fun
 erc20free.monster
-ercaccountrefunds.help
-ercrefundleaders.help
 eryndor.site
 etehrfi.trade
 eth-quick.click
@@ -595,6 +591,7 @@ feu0.cc
 ff1177.net
 fidenzacurated.com
 field-auth.com
+figural.click
 fimbhon.com
 finance20-iusto94.sbs
 finance88-nihil58.sbs
@@ -623,6 +620,7 @@ fr.imap.cloud.www.du.ae.quick-pay.gotbus.com
 freeethereumho992.pages.dev
 friendtech.foundation
 friendtech.mypinata.cloud
+frontline-eu.org
 fuel-airdrop.lol
 fuelnetwork.live
 fusion-open-7079-1976.vercel.app
@@ -745,6 +743,7 @@ join-blast2l.com
 join-mabaoneth.xyz
 joingrapecoin.events
 jtx-distributions.xyz
+judthai.com
 jup-ag-a.vercel.app
 jupitercatdet.com
 juppdrop.space
@@ -894,6 +893,7 @@ migrate-naoris.live
 migrate-truflation.pages.dev
 migratebenfi.live
 migrates-atorprotocol.app
+migratev2.live
 migration-ferrumnetwork.pro
 migration-vela.pro
 migration.metagalaxyland.online
@@ -1050,7 +1050,6 @@ parisblockchainweekmint.com
 participate-wormhole.com
 pawbabydoge-claim.pages.dev
 paxful-lo.online
-pay-bitrefill.com-gift-esim-ay04.com
 pay.claim-ice.io
 pe8vsj.cc
 pecland-nft.xyz
@@ -1108,6 +1107,7 @@ poll-kelpdao.app
 poly-market.click
 polygon-evn.shop
 polymarket-id.id
+polymarketinsiders.com
 pons-voting-wl.netlify.app
 pons-voting-zb.netlify.app
 ponsfamily-co.firebaseapp.com
@@ -1243,7 +1243,6 @@ rewards-babyionlabs.com
 rewards-bonklnu.com
 rewards-bouncefinance.app
 rewards-circle.com
-rewards-flare.app
 rewards-harmonixfi.com
 rewards-mantle.network
 rewards-mega.com
@@ -1279,6 +1278,7 @@ scrcllnetwork.org
 seachenn.shop
 seadrop.org
 sealed-hub-pack.online
+season2-baseecosystem.com
 sebvxukw.com
 secure----sso---robinhod-com--authh.webflow.io
 securedchainwalletsystem.pages.dev
@@ -1288,6 +1288,7 @@ sei-claim.io
 seiyans-drops.com
 sempra-23.new-mentus.com
 senseiseinu.online
+shakepay-help-center.pages.dev
 shares-babydogepaws.xyz
 shidoo.pages.dev
 shop.ee-en.com
@@ -1300,6 +1301,7 @@ signup-inspect.xyz
 sigularitynetcommunity.pages.dev
 sil-login-moonpay.webflow.io
 singularetyfinance.com
+sinlgpeorint-ubarsk.com
 sitemulrrt1unux4.xyz
 sitemup59o74qifr.xyz
 sitemvjccv9vfbmw.cfd
@@ -1332,6 +1334,7 @@ solvemultichain.web.app
 solvotelistingscore-io.netlify.app
 soneiumfoundation.events
 soneiumfoundation.net
+sonelurn-d2.study
 soniclab.events
 sophonxyz-enroii.co
 soulmate.fun
@@ -1531,6 +1534,7 @@ v365.fun
 vai-bakery.com
 validator-orbiter.finance
 valocore.top
+variational-omnio.up.railway.app
 vaultentry-coinbase.com
 vechaindex.xyz
 vedatech.xyz
@@ -1757,7 +1761,6 @@ xenocrypt.ink
 xexchswap.net
 xlm-d1v.pages.dev
 xmw-vote.xyz
-xn--ledg-eva01b.com
 xn--pacakeswap-42b.com
 xn--poymarket-1sb.com
 xn--synthetx-i2a.io
@@ -1771,7 +1774,7 @@ xx.bnb-pool.top
 xzfhex.org
 yzzq915.cc
 zackcoinsol.com
-zerionwatch.web.app
+zebec.app
 zest.sitemw68u9ifw14z.xyz
 zetachain.free-claim.com
 zigchain-community.icu

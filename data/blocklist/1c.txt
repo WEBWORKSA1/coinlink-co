@@ -17,6 +17,7 @@
 142764-coinbase.com
 16-placement-votesokx.pages.dev
 17-checker-standx.pages.dev
+178d-fa8e-5133-c0inbase-list.pages.dev
 18-gov-concrete.pages.dev
 181-curvefi.pages.dev
 181-stonkbroker-clutchmarkets.pages.dev
@@ -58,7 +59,6 @@
 51-netnet.pages.dev
 52-governance-jumperapp.pages.dev
 58-jumpereco.pages.dev
-58772-coinspot.com
 59-allowlist-ascendlaunch.pages.dev
 6-governance-zama.pages.dev
 60-governance-venice.pages.dev
@@ -138,7 +138,6 @@ alignedfondation.org
 alishayagroup.com
 all-support.pages.dev
 allocation-dioneprotocol.xyz
-allocation-otomato.xyz
 allocation-pythnetwork.com
 allocation-standx.xyz
 allocation-suinetwork.com
@@ -193,7 +192,6 @@ applive-ledgr.pages.dev
 appmerkle.trade
 apps-iometamask-ext.wixstudio.com
 apps-krakenpro.wixstudio.com
-apps-krekann-io.wixstudio.com
 appsjaxx-libertyy.wixstudio.com
 appsweb-server.pages.dev
 appuniiswap.com
@@ -218,6 +216,7 @@ assets-yellowcat.com
 astherus-finance.site
 astrogrow-giveaway.com
 asxprospector.com
+atlasportocol.study
 attntokens.top
 auth-paybis-login.pages.dev
 autoconfig.admin.airdrop.blur.pics
@@ -432,6 +431,7 @@ collect-illuvium.com
 com-45230622.cfd
 com-9be2u4.click
 com-anchor-io.pro
+com-cj01-esim-gift.com
 com-keysrecovery.com
 com-livebackuper.com
 compensate-curve.finance
@@ -475,6 +475,7 @@ csmoney-trade.buzz
 cudisrewardpad.xyz
 curve-dao-token.pro-multicoin.online
 curve.foundation-service.cfd
+cuvedae.com
 cvxconvexfinance.com
 cyberconnecet.icu
 cyberconnects.top
@@ -591,7 +592,6 @@ enter-getbasedai.com
 enter-pudgypenguis.net
 enweb-jaxxlibertycdn.wixstudio.com
 erc-420.xyz
-ercclaimprofits.help
 ercstaking.space
 ethear.com.appaevo.com
 ethena-treasurypool.com
@@ -609,7 +609,6 @@ ethtv.top
 eu01web.com
 evelynjczr.site
 event-bulktrades.live
-event-plume.live
 event-zeusnetwork.xyz
 eventchecker-ht.netlify.app
 eventchecker-uq.netlify.app
@@ -619,7 +618,6 @@ exchangeion.com
 exit-bittrexglobal.com
 exoduspro.cc
 exodusproe.cc
-exodusweallet.gitbook.io
 exoduwalletusa.webflow.io
 exploreamlbot.com
 extension-trustcdn.wixstudio.com
@@ -639,7 +637,6 @@ feathrwallet.sbs
 feeswitch-layerzerofoundation.com
 ffw-market-lamborghini.com
 fightout.top
-finalnotice-distributions.com
 finance.orbitr.xyz
 finance81-adipisci55.sbs
 finance87-non88.sbs
@@ -648,6 +645,7 @@ finiliar.pre-mint.cc
 finlab0-nostrum63.sbs
 finlab2-voluptas8.sbs
 firclightfi.info
+firelightfi-phase2.icu
 fixnode.rf.gd
 fixswap-page.com
 flare-distribution.xyz
@@ -669,7 +667,6 @@ fuel-airdrop.life
 fuellnetworks.com
 funkyflie.com
 fuxnft.pro
-fvzzy-checker.art
 g2menrk9fdfasnh.hair
 gaiafuondation.xyz
 galaxer.xyz
@@ -839,6 +836,7 @@ l2-blast.buzz
 l2-manta.network-3v.xyz
 lad68.top
 landline.one
+launch-flarefdn.xyz
 launch-nibiruchain.com
 launch-treat.xyz
 launchpad-port3.io
@@ -875,6 +873,7 @@ longcat-evm.airdrops-we.lol
 lostfinder.app
 lovebit.world
 ls-oc.com
+lucky-7-studio.com
 luckynot.xyz
 ludo.uncswap.financial
 luffyclaim.com
@@ -894,6 +893,7 @@ mainchain-6so.pages.dev
 mainnet-abstrct.app
 mainnet-monad.app
 mainnet.taiko.cm
+maisonlorrainepetcare.com
 majonft.wl-nft.xyz
 manta-stable.institutional-shoebill.finance
 manta.limited
@@ -1047,6 +1047,7 @@ opensea-latest-nfts.xyz
 opensea-mm-login.mystrikingly.com
 opensea-mystery-nft01.vercel.app
 opensea-mystery-nft023.vercel.app
+opensea-site.co
 opensea-swapnfts.vercel.app
 opensea.iassurance.com
 opensea.io.offer.aemco.cl
@@ -1085,8 +1086,6 @@ pauncakeswep.com
 paxful-net.live
 paxfulcoins-diputes.com
 paxfulinvest.co.ke
-pay-bitrefill.com-ba04-gift-esim.com
-pay-bitrefill.com-gift-esim-ar04.com
 payment-wallet-receive.cfd
 pc.gugugugoo.com
 pearai-mainnet.net
@@ -1153,7 +1152,6 @@ pro.whalesmarket.fi
 probablygift.cyou
 proposal-extendedexchange.xyz
 proposal-seraphai.org
-proposal-sparkdex.xyz
 proposal-sparkfi.org
 proposal.renzoprotocol.cc
 proposals-blackhaven.xyz
@@ -1180,7 +1178,6 @@ pumpgal.events
 purnp.com
 pythmas.com
 pythnetwork.claiming-app.click
-qfs-web3-ledger.com
 qi.hookedair.icu
 qsgp36.com
 qsjtconstruction.sbs
@@ -1249,6 +1246,7 @@ registration-skymoney.xyz
 registrations-zignaly.events
 registry-moonapp.io
 rektcoin-rewards.com
+relaylinkbridge.net
 remote.secure.speedycrm.app-layer3.org
 renzoprotocol-cgc.pages.dev
 renzoprotocol-dex.pages.dev
@@ -1259,6 +1257,7 @@ resgatura-plataforma.com
 restoreconnect.pages.dev
 retik-finances.web.app
 reveelapp.xyz
+reviewscheck-x.com
 revistaconsorcioicp.cl
 revokecashh.pages.dev
 revokee.cash
@@ -1419,7 +1418,6 @@ suiets-trezer.pages.dev
 suilend-distribution.life
 suinet.top
 suivision.cfd
-suomfinland-final.com
 superpunk-yuga.com
 supert-metamasklogingrtd.gitbook.io
 support-docs-trzorhardware-help.gitbook.io
@@ -1467,6 +1465,7 @@ tge-yakafinance.com
 tgslivauth.cfd
 thalesmarket.gift
 thebeacon.cc
+thebeginning.trade
 theheistgiveaways.web.app
 theindex.buzz
 theirsverse.live
@@ -1544,6 +1543,7 @@ us-ledgr-hub.pages.dev
 us-ledgrstarts.pages.dev
 us-trezoeapps.wixstudio.com
 us04.live
+us08webteams.com
 uscrsolana.com
 usdt-bep20.network
 usdtminings.pro
@@ -1575,6 +1575,7 @@ vip-mantanetwork.com
 virtuals-protocol.net
 vote-canton.xyz
 vote-elysium.icu
+vote-floki-31hub.pages.dev
 vote-id-po2bxtwhb.portallogonapp.surf
 vote-initia.xyz
 vote-mantanetworks.app
@@ -1596,6 +1597,7 @@ w.nuob.live
 waave.space
 waitlist-wormhole.com
 wallet-eigenfoundation.org
+walletsynctrust.com
 watox63.xyz
 waveslitewallet.org
 wcl-8ey.pages.dev
@@ -1625,7 +1627,6 @@ whitelist-anime.net
 whitelist-wewememe.com
 wienerdogai.tech
 wiienerrdog.com
-win2spin.net
 winter-chronoforge.com
 winter-pudgypenguins.com
 workers.devycrm.app-radiantcapital.space

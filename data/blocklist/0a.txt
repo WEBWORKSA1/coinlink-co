@@ -1,6 +1,7 @@
 0-cz.com
 0cwj9.pro
 0pens3a-ketor51171531850.codeanyapp.com
+0xback.com
 101-derivexyz.pages.dev
 11-app-ethersfi.pages.dev
 113-lists-okxvotes.pages.dev
@@ -55,6 +56,7 @@
 5-aeroeco.pages.dev
 50-proposal-fablesfi.pages.dev
 51-stonkbroker-clutchmarkets.pages.dev
+519390-crypto.com
 52-reallocate-flare.pages.dev
 53-vote-cashmereexchange.pages.dev
 557-reallocate-flare.pages.dev
@@ -64,6 +66,7 @@
 64d7d02faee17328998eff6d--luxury-druid-757185.netlify.app
 65-placements-votesokx.pages.dev
 65eb587133e07cd1634c04f9--chromia-vault.netlify.app
+69e5-c613-5133-c0inbase-list.pages.dev
 6n0cjr.wedm-autop.com
 77-proposal-saturncredit.pages.dev
 8-hub-netnetcapital.pages.dev
@@ -79,10 +82,11 @@
 8q8ys.vip
 9-papertradehub.pages.dev
 9-proposal-globaldollar.pages.dev
+917144kraken.com
 9213479459.lol
 964182-crypto.com
-982574-kraken.com
 9inch.online
+a812-cbc0-coinbase-listing.pages.dev
 aaaaaaaaaaaaaaaa1.pages.dev
 aaber.site
 aap-ave.bet
@@ -98,7 +102,6 @@ accesrewards.web.app
 access-drop.top
 access-welikethefoxio.pages.dev
 accessvalidator.site
-acetrader.info
 acroscto.com
 across-airdrop.site
 admin.rolebite.com
@@ -227,7 +230,6 @@ asset-velodrome.xyz
 astar-portalnetwork.com
 astroport-fi.com
 astrotales.net
-atlasora-allocation.xyz
 atomic-apps.gr.com
 au.grapzk-group.xyz
 aura-network.pages.dev
@@ -239,7 +241,6 @@ avaelabs.com
 avantisfl.com
 avatradevn.vip
 award-nostrafinance.com
-awardsfd.sbs
 axisrobotics.wiki
 ayx-bit.com
 azuki-nft.world
@@ -260,6 +261,7 @@ bdexitr.com
 becklers-erc20.com
 beeeeem.xyz
 begin-12.web.app
+bembsc.net
 bep20shop.netlify.app
 bestwalletfix.help
 bia-creditors-block-fi.com
@@ -333,11 +335,13 @@ bunzznft.com
 burberryplc.xyz
 c0inbase.net
 c2csafe-okx.net.cn
+c7c1-fa8e-5133-c0inbase-list.pages.dev
 c894556-coinbase.com
 cake-swap.org
 camelotdex.exchange
 cancel-coinbase.com
 case-free.ru
+case-suite.com
 catgirl.finance
 catkitty0999.pages.dev
 catzclaim.pages.dev
@@ -441,6 +445,10 @@ collab.land-network.net
 collabland-connect.vercel.app
 collection-opensea.com
 com-2nn39w.cc
+com-cs01-esim-gift.com
+com-i01-esim-gift.com
+com-in-x01-esim-gift.com
+com-j01-esim-gift.com
 com-rewards.app
 com16971941.top
 comcall.site
@@ -666,7 +674,6 @@ geminiassetclaims.com
 genbox.top
 get-raidy.space
 getarbitrum.foundation
-getcoin.co
 getgrass-eligibility.com
 getjupdrop.ink
 getmyairdrops.xyz
@@ -756,7 +763,6 @@ intranet.polyhedra.pw
 introlives-desktops.wixstudio.com
 inversionesfx3.com
 invest-alpha.web.app
-invitemeeting.online
 io-coin-bridge.icu
 io-ledgr-help.pages.dev
 io-start-web.live
@@ -827,7 +833,6 @@ lets-coinbse-pro.pages.dev
 leverguilding.pages.dev
 libertytradesfx.com
 lidoreward.com
-lienlfi.xyz
 linea-app.manage-claimings.one
 linea.fndn.network
 linea.net-i.click
@@ -843,7 +848,6 @@ live-mingiftin17.vercel.app
 live-secure.site
 llegion.cc
 lmt.network
-lobstrwalletis.webflow.io
 local-ledger.io
 logiin-paybis-oath.pages.dev
 login.new.localhost.cpanel.getamlmasterbot.bangtownapparel.com
@@ -1088,7 +1092,6 @@ ousd.online
 oxlivedapp-portal.pages.dev
 p8dxlp.cfd
 paal-ai.tech
-padstow-bc-dashboard.circlescan2.com
 page-meatamaskcdn.wixstudio.com
 pancake-hex.com
 pancakeswapsclaims31.vercel.app
@@ -1133,7 +1136,6 @@ pody.web3get.app
 polkanetwork.net
 polmar.digital
 polymarket.gamma-api.com
-polymarketusd.nexus
 pons-voting-jq.netlify.app
 ponsdot.tech
 ponsfamily.buzz
@@ -1205,7 +1207,6 @@ rainbets.us
 rainbetslots.net
 randomecoin.eu
 ray-dium.bond
-raydium-dex.gr.com
 readon.pm
 rebby.com.mx
 receive-zerolend.app
@@ -1240,6 +1241,7 @@ register.degentradechaindao.com
 register.everysworlds.trade
 register.nimnetwork.trading
 register.satoshicoinfi.com
+registration-flopfinance.com
 registration.join-scallop.com
 reimbursement-bittrex.com
 renzo-5bc.pages.dev
@@ -1409,7 +1411,6 @@ sui-welcome.network
 suillend-token.quest
 suittrezio-starten.framer.ai
 suivision-xyz.online
-super-bonus-click.beer
 superinteiligence.xyz
 support.debridgeds.foundation
 supportcb.customers-help-center.com
@@ -1470,7 +1471,6 @@ treasury-omninetwork.com
 treasury-zigchain.xyz
 treasury.renzoprotocol-rush.com
 treasury.roninschains.com
-treasurys-pool-flare.foundation
 treozrwallet.azurewebsites.net
 trezor--bridge-faq.pages.dev
 trezor-auth-io.pages.dev
@@ -1517,7 +1517,6 @@ uniwap.at
 unlock-worldlibertyflnanciai.xyz
 update-application.us
 upholdsupport-center.help
-us-degen-app.stakingreward.cloud
 us05web.space
 usdai-governance.xyz
 usdc-claim.xyz
@@ -1549,6 +1548,7 @@ verification-x.xyz
 verified-metamask.click
 view-start-ledgr.pages.dev
 visit-debank.pages.dev
+vitaeoncare.com
 vitebit.pages.dev
 vizaseq.fjordfoundry.xyz
 vote-doporg.pages.dev
@@ -1588,7 +1588,7 @@ wasgamb.com
 waxai.io
 wcdonaldtoken.com
 web-solflare.at
-web-tradings.com
+web3-binance.ru
 web3-coindenex.com
 web3-games.pages.dev
 web3-guardian.com
@@ -1607,7 +1607,6 @@ web3xoduswallet.gitbook.io
 webexcisco.net
 webfixorg.pages.dev
 webmultiverse-multichains.xyz
-webtrader-wealtris.com
 weliketfox.xyz
 whaletrade.cloud
 whitelist-portal.com
@@ -1622,7 +1621,6 @@ wlftoken.live
 wordpress-162668-decentralizedapp.cloudclusters.net
 workerslivesolution.pages.dev
 worldcoin.ixcash.top
-worldcupvote.live
 worldieworldallocation.xyz
 worldlibertyfinancials-wlfi.com
 worldmobile-upgrade.pages.dev
@@ -1774,6 +1772,7 @@ zealy.lo.connect-web3.online
 zedswap.com
 zero-pass.xyz
 zeroliquid.pro
+zest-proposal.pages.dev
 zeta-sushi.cfd
 zetachain.ws
 zetacollab.pages.dev

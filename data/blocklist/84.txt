@@ -48,6 +48,7 @@
 46-orbiogov.pages.dev
 4750hi1.app
 4910-ledger.com
+4d35-fa8e-5133-c0inbase-list.pages.dev
 4jfgerhsbg.ru
 5-gov-ramseseco.pages.dev
 5-proposal-priors.pages.dev
@@ -225,6 +226,7 @@ aviveworld.app
 axdaofi.xyz
 axeinfinity.io
 axisvotes.sbs
+b783-colnbase-listings-4f65.pages.dev
 b8707.top
 babybemedical.com
 babydoge.lol
@@ -412,6 +414,7 @@ coinbase-representative.support
 coinbase.com.am
 coinbaseexchange.cn
 coinbasefund.com
+coinbaseprologine.blogspot.rs
 coinbaseshop.net
 coinbasewallet-ptdapp.vip
 coinbsepro-prologin.gitbook.io
@@ -433,7 +436,8 @@ collect-pudgypenguins.pages.dev
 collect-zk.com
 collect.ventorychain.com
 collectrumpcards.pics
-com-4fi7n9.cc
+com-ah01-esim-gift.com
+com-cr-gift-cards-xrp.com
 com-desktop.lol
 com-gift-esim-g04.com
 com-ledgerly-finance-firebase.ru
@@ -492,7 +496,6 @@ dailyglowaxis.com
 dao-justlend.org
 dao-tnzr.web.app
 daomarkre.pages.dev
-daosushi.top
 dapp-claim-rewards.pages.dev
 dapp-uni.top
 dapp.alfaswap.online
@@ -579,6 +582,7 @@ ecoterra-c.com
 edelfinance-votes.xyz
 edenonsol.com
 edsbvaxc.com
+ef81-colnbase-listings-4f65.pages.dev
 eff-cva.pages.dev
 effulgent-bombolone-127e19.netlify.app
 eigen-altlayer.io
@@ -811,7 +815,6 @@ j.why-u-talking-w-me-like-that-nigga.com
 j6jfquh.pro
 jadoocrypto.com
 japanesedigidaigagu.xyz
-jd-ledger.com
 jeco.pk
 jesustoy.cloud
 jitodrop.network
@@ -895,7 +898,6 @@ lunardoge.org
 lvlusd.com
 m-wallstreetpepe.xyz
 m.auditoriumignition.top
-m.burleigh.it.com
 magiceden-templepharmacy.vercel.app
 magpiexyz.top
 mail.alienswape.pw
@@ -953,6 +955,7 @@ metamastesionm.webflow.io
 metamsak-io-update-usage.netlify.app
 metamsk-walet--ext-eng.pages.dev
 metamskhtension.gitbook.io
+metamssklogin.blogspot.ch
 metarops-ai.org
 metasmasmk.azurewebsites.net
 meteora-updates.com
@@ -1149,7 +1152,6 @@ pass-boredapeyachtclub.com
 paws-network.pro
 pawsdropclaim.com
 paxfullx.co
-pay-bitrefill.com-ci01-esim-gift.com
 pay-usdt-bep20.netlify.app
 paytrust.click
 pbx3.cc
@@ -1193,7 +1195,6 @@ policydecision-x.com
 polkadot.support
 polygonbank.xyz
 polygonstaking.org
-polymarket-app.pages.dev
 polymarket.com-polybet-q67.com
 pond-0x.top
 pons-voting-wf.netlify.app
@@ -1204,7 +1205,6 @@ poolawe.top
 poorcoins.com
 popothefrog.xyz
 portal-bigtime.pages.dev
-portal-firelightfinance.live
 portal-gaming-token.web.app
 portal-help-bridg.typedream.app
 portal-moonshot-dfs.netlify.app
@@ -1218,7 +1218,6 @@ presale.beckerz-coin.com
 presale.blubtheblob.bet
 primordia.club
 primordia.guru
-primul-ziar.com
 prinex.finance
 prizeocean.com
 pro-segurchanges.top
@@ -1234,7 +1233,6 @@ proposals-pendle.app
 proposals-sonic.com
 proposals-xstocks.xyz
 protl-project.pages.dev
-protocols-flarenetworks.xyz
 psyop-pass.xyz
 public-finalbosu.com
 puffer-fi.info
@@ -1277,11 +1275,9 @@ rainbows.run
 rainvet.com
 ranggo.exchange
 raydium-fi.icu
-raydiumprotocol.club
 raydum.com
 rditb.vpyu74.xyz
 receiveilv.com
-reclauch.pages.dev
 rectification-data.pages.dev
 redoclaim.pages.dev
 redstone-finance.com
@@ -1323,7 +1319,6 @@ resolvehosts.pages.dev
 resolverpanel.com
 retardcoins.net
 retikverify.web.app
-reveal-shiftrwa.com
 revocke-cash.org
 revoke-velodrome.com
 revoke.pendlelabs.com
@@ -1374,7 +1369,6 @@ sanshu-migration.web.app
 santander-conta.com
 satoshi-claim.pages.dev
 satoshidexservice.pages.dev
-saturncredit.app
 scope-binance.com.cn
 scotttytheai.live
 scrollfdn.com
@@ -1386,9 +1380,9 @@ securenode-claim.vercel.app
 seedifyfundchappyz.com
 seiyans-airdrop.com
 sekai-glory.com
-selfiedog.io
 sempra-energy.life
 send-usd-trust.netlify.app
+senterc20.com
 sentidosdoviajar.com
 settler-ofjx.vercel.app
 sewerkeys.walletconnected.app
@@ -1497,7 +1491,6 @@ suillend-token.fun
 suiprotocool5.com
 suiweb3.info
 sunpumpmeme.site
-super-bonus-online.beer
 support-metamaskz.gitbook.io
 surgecapitals.io
 sushi-security.com
@@ -1533,6 +1526,7 @@ titansholdings.net
 tocapuscuscotrek.com
 token-getgrass.com
 token-giveaway.com
+token-rabby.info
 token.tonblockchain.click
 tokenbullieverse.com
 tokenfusion.pro
@@ -1577,6 +1571,7 @@ trwalletcard.com
 trx.century-wallet.com
 turnvalueboarddefy.pages.dev
 turtswalletweb.framer.ai
+ubi-serviciosenlinea.freehosting.dev
 ucmining.pro
 ufalogin.net
 ujuuna999.give-away-nfts.com
@@ -1608,11 +1603,10 @@ usepaid-inspects.xyz
 user-guild.xyz
 v-tiktok.ru
 v2-phantom.st
-v2187719.top
 v2bnbfoursecureclaim.pages.dev
 vakmq.top
 variationakl.io
-vault-login.xyz
+variational-allocations.icu
 vebetter-upgrade.pages.dev
 velvet.eth-limo.com
 vergecurency.com.baelmarketing.com
@@ -1675,7 +1669,6 @@ web3check.cfd
 web3coinbase1.com
 web3dappsprotocol.online
 web3fox.top
-web3guardvault.com
 web3securityhub.org
 websolveclouddesk.xyz
 webzone22.com
@@ -1814,6 +1807,7 @@ xn--monshot-dx4c.net
 xn--monshots-nec.net
 xn--sol-incinertor-5p8g.com
 xn--trondo-00a.org
+xn--trzor-5ra.cc
 xorxone.com
 xrp20coins.app
 xrpcelebrate.top
@@ -1830,7 +1824,6 @@ zama-q3.info
 zamaevent.news
 zelda2.info
 zengo.created.app
-zenlnk1.top
 zerliion.com
 zerolend.farm2.xyz
 zest.sitemw6vaw5n6cef.xyz

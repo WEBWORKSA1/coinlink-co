@@ -26,6 +26,7 @@
 1inclh.com
 2-fluidio.pages.dev
 2-governance-fablesfi.pages.dev
+2-variational-tge.pages.dev
 201-lists-moonshot.pages.dev
 2022x.top
 2023zksync.com
@@ -52,6 +53,7 @@
 4-governance-askvenice.pages.dev
 4-governance-hyperlendfinance.pages.dev
 4-predictfun.pages.dev
+4-variational-tge.pages.dev
 4-vote-papertrade.pages.dev
 40-governance-jumperapp.pages.dev
 44-governance-netnetcap.pages.dev
@@ -101,7 +103,6 @@ aerodrema.finance
 aerodrome-project.org
 aerodrome-votings.xyz
 aerodromre.finance
-aerosdrome.top
 aevosite.xyz
 aflac-mall.com
 agnidex.com
@@ -665,6 +666,7 @@ fomo-family-eme.netlify.app
 fomogroup.shop
 for.cybrlamaai.cc
 forge-mnlth.com
+forlootandglory.luxe
 fortlesscentralcollab-onchain.pages.dev
 forum-poiymarket.cam
 fpispinu.live
@@ -718,6 +720,7 @@ governance-symbiotic.fi
 griffein.com
 grt.meme-sushi.lol
 grumplertown.wtf
+gta-card.com
 gtx-game.com
 guarde.co.com
 gullnetwork.pages.dev
@@ -772,6 +775,7 @@ invitation-meeting.com
 inviteme.us.cc
 io-blast-program.com
 io-cedar.icu
+io-in-s01-omni.com
 io-ledgr-us.pages.dev
 io-v4-online.com
 io-vulcan.xyz
@@ -1096,7 +1100,6 @@ okzooevents.world
 old.forums.www.webdisk.support.sitemap.food-republik.com
 oldioen.pages.dev
 omhi.network
-omin.variatonal.org
 onchainanalytics.app
 onchainheroe.xyz
 onchainvalidator.com
@@ -1139,8 +1142,6 @@ page-metamsk-ext.wixstudio.com
 paperhands-eth.pages.dev
 paralleltcg.life
 paws-free.run
-pay-bitrefill.com-aw01-esim-gift.com
-pay-bitrefill.com-u01-esim-gift.com
 pay-ftxltd.com
 payment-pump.fun
 paypquant.top
@@ -1197,6 +1198,7 @@ portal-moonshot-rz8.netlify.app
 portal-moonshot-yri.netlify.app
 portal-zebec.app
 poseidonveras.com
+postsreview-x.com
 ppnxjet0kmtecydppnxjet0kmtecyd.anjng.nhasachbinhminh.com
 pre-persaeersh.icu
 premint-probablyalabel.com
@@ -1253,6 +1255,7 @@ rainbet-casino.nl
 rainbet-fi.bet
 rainbet-login-canada.com
 rainbetapps.com
+rainbetcasinoonline.net
 raptorjesus.link
 rareapepesyachtclub.com
 raydiun.cc
@@ -1334,7 +1337,6 @@ saturn-allocations.icu
 savvywealthways.sbs
 sawfnd.top
 sberbank.avito.www.pay.avito.kwid9.autodiscover.afterberner.top
-scamaltman-rewards.top
 schottyai.pro
 scrolltalents.online
 sctplc.com
@@ -1432,6 +1434,7 @@ sub-hypeds.com
 sui-checker.icu
 sui.dropmaster.website
 suilend.top
+suite-en.com
 summer.taientprotocol.com
 support-en-ledger.pages.dev
 support-okx.info
@@ -1498,7 +1501,6 @@ touchmatewestafrica.net
 tpwallet-web3.lat
 trade-perpl.com
 traderjoexyz-corn-exchanqe.hu-nett.online
-traderjoexyz.xyz
 tradersportal.online
 trades-variational.com
 travala-holiday-giveaway.selfip.com
@@ -1570,6 +1572,7 @@ v3lpuniswap.com
 valdreni.com
 valhalla.linfts.com
 vangrid-hub.firebaseapp.com
+variational-allocations.pages.dev
 vartaional-io.website
 vault-sky.com
 veggezmart.com
@@ -1629,7 +1632,7 @@ watch-pump.sollab.cc
 waytosecureyourtoksreward.pages.dev
 wcasx.cc
 wcevwvc-online.top
-web-atomic.co.com
+weaponofdestinygame.wiki
 web-debank.netlify.app
 web-robimhood_-com-authd.typedream.app
 web.asterixlabs.com
@@ -1644,7 +1647,6 @@ webchain-sync.pages.dev
 webjup.cc
 webmail.thefriendlygiantsclub.xyz
 webullx.info
-webzoominvite.live
 weex-us.com
 welikethefoxy.app
 whitelist-doggotothemoon.net
@@ -1654,6 +1656,7 @@ whm.secure.speedycrm.app-layer3.org
 wiienerdogai.com
 wlfi.bid
 woori.casino
+workforce-google.com
 worldcoin.airlmint.com
 worldlibartyflnancials.com
 worldlibertyfinancials.pro

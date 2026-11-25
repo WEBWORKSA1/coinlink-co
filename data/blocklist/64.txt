@@ -138,6 +138,7 @@ altidentifier.io
 amazon-company.pages.dev
 ambervittoria.xyz
 amblre-vote.com
+ameliaaura.com
 amishvandar.com
 amlbot-web3.com
 annun.network
@@ -268,6 +269,8 @@ binancechain.cloud
 biscottiboyzca.com
 bitcoindogeclaim.pages.dev
 bitpiecpb.com
+bitrefill.com-gift-cards-mask.com
+bitrefill.com-gift-cards-vet.com
 bitvaults.netlify.app
 bitwheel.app
 blackphoenixbpx.org
@@ -352,6 +355,7 @@ chainsdex.xyz
 chainsolution.online
 chamathsredirect.blogspot.com
 chargeback-bridge.app
+chateauhub.com
 cheapbugs.lol
 check-rfyzry7wl.devwatchback.homes
 check.kaminofinances.com
@@ -456,11 +460,12 @@ collab-connection.host
 collab-land-eths.com
 collab-land-query.com
 collect-adidas.store
+com-ae01-esim-gift.com
+com-p04-gift-esim.com
 com-usdc-offer.click
 com-v2.us
 community-event.com.haouallal.xyz
 community.media.dev.login.smtps.fitlife60.com
-compound-finances.stakingreward.cloud
 conbaseprologin.onepage.website
 connect-mystiko.com
 connect-safe.net
@@ -622,7 +627,6 @@ enterprise-stream.xyz
 entr-exods-en.pages.dev
 epbi.top
 equillibria.pw
-ercclaimanalytics.help
 ercdf.com
 escoladavida.samuelteixeiraoficial.com
 etf-eth.info
@@ -654,6 +658,7 @@ europort-eurc-bridge.pages.dev
 eurvk.com
 event-peqevip.com
 event.chains-gpt.net
+evmgarden.cc
 evrecoin.com
 exchange.sync-swap.net
 exchangepapertrade.xyz
@@ -878,6 +883,7 @@ ledger-secure-access.com
 ledgernanoxs.online
 ledgre-live-start.pages.dev
 ledgrlive-desk.pages.dev
+lefthand.ro
 legder-lives.org
 legolas.one
 lens-claim.com
@@ -1146,8 +1152,6 @@ parsecfi.app
 partner-ait.tech
 partyhiredestination.com.au
 paws-claim.online
-pay-bitrefill.com-gift-esim-al04.com
-paycard.one
 payload.suiethereum.xyz
 pepe-trustpad.online
 pepe-unchaied.github.io
@@ -1166,13 +1170,11 @@ phase2flare.info
 pheetnm-waaloit.godaddysites.com
 phemexportal.com
 phsnutomwallitx.godaddysites.com
-phtmbvdw.com
 pieceofshits.wtf
 pipeflare.top
 piratesnation.games
 pistacio.meme
 plagzgroup.com
-plainswap.app
 plancknetwork-tge.pages.dev
 planet-quest.io
 platform-metamsk.wixstudio.com
@@ -1231,7 +1233,6 @@ pulsechain-com.netlify.app
 pump-ledger.pages.dev
 pump-voting-tv.netlify.app
 pumpfun-promotion.info
-punnp.live
 puslechainbridge.com
 pythnetwork.airdrop-claim.live
 pythnetwork.foundation2-web3.site
@@ -1261,7 +1262,6 @@ rainbetitalia-it.pages.dev
 rainbetnederland.nl
 rainbett-uk.com
 ram-ces.exchange
-raydium-network.pages.dev
 raymiuimiimiimim.com
 rbh-otc.cc
 rbv7sr.pro
@@ -1311,7 +1311,6 @@ reward.reclaims.xyz
 reward.threeprotocol.xyz
 rewarding-karaknetwork.xyz
 rewards-3commas.io
-rewards-airpoints.org
 rewards-cygnus.com
 rewards-mantanetwork.com
 rewards-meteora.app
@@ -1402,7 +1401,6 @@ solanomobile.xyz
 solaxy-token.net
 solflow.club
 solscan-blockchain.site
-solv-rewards.xyz
 somo-investing.net
 soneium.trading
 sonic-labs.cc
@@ -1414,7 +1412,6 @@ sosovalue-claims.live
 soulz.link
 spaceid-drop.com
 sparkdex.click
-spksushi.top
 spot-bounce.com
 ssnet-coinsapp.framer.media
 sso--s--coinbasepro-cdn---auth.webflow.io
@@ -1482,7 +1479,6 @@ talosproof.io
 tamdogieas-app.online
 tampermonkeys.com
 taya99f.com
-teams-com.live
 teams-meet.org
 teams-microsofts-meet.com
 teamz.finance
@@ -1520,7 +1516,6 @@ tonroll.cc
 torexify.com
 tradewithsupport.pages.dev
 trailblazes-claim.org
-travel-js-ns.beer
 trcjcjcece.pages.dev
 treasury-pinlink.xyz
 treasury-pool-plasma.xyz
@@ -1567,12 +1562,12 @@ unlock.genesis-arcus.xyz
 unlswaps.com
 upgrade-holdings.com
 upgraded-coin.website
-uphldlgin-enus.created.app
 uphold-log.pop.site
 upjobsead.com.br
 upsfeesdeliveryupdate.ca
 us-changelly.com.co
 us-rabby-wallet.live
+usa-polymarket.at
 usd1-worldlibertyfi.com
 usdc.imgg.vip
 usdc.line.pm
@@ -1602,7 +1597,6 @@ veriflcation.land
 viabtc-wbtc.com
 viatrustnodesync.xyz
 view.cybduckcase.xyz
-vihaandirect.in
 vinniehagernft.xyz
 viperappbasic.pages.dev
 virtuals-events.com

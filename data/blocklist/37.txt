@@ -174,7 +174,6 @@ app.pendle.mx
 app.staders.store
 appeals-somnia.network
 appl3.org
-appleonsol.lat
 applepay.addwallet.pro
 apply-blur.io
 apply-nl-com.phantom-virtual-tap.com
@@ -301,6 +300,7 @@ bybitsvip.mom
 caawiye.net
 case58285-kraken.com
 cases-sttretto.pro
+casinorainbetuk.com
 cast-aave.xyz
 catamoto-cats.pages.dev
 catamoto-catt.pages.dev
@@ -512,6 +512,7 @@ datingmemories.com
 debanx.com
 decentralizedprotocolapp.firebaseapp.com
 decryptco.org
+ded3-482c-coinbase-listing.pages.dev
 deepiefun-mint.net
 defdapp-protocol.pages.dev
 defi-bancor.com
@@ -597,7 +598,6 @@ enroll.aerodrometradingfi.com
 enter-evermoon.com
 enter-zora.co
 eq-htx.com.cn
-ercrefundworks.help
 erswk.vip
 espeluxiv.com
 etehers.com
@@ -649,6 +649,7 @@ farming-taiko.io-c.org
 fees.hyperliqud.app
 fegresorte.pages.dev
 fetchaibridge.pages.dev
+fewchapp-v2.luxe
 fi-vote.site
 fidelityoilunitedreserve.top
 finance.oppenseq.com
@@ -775,7 +776,6 @@ hypcrsvap.finance
 hypellquid.xyz.app3-web.cfd
 hyper-liquidity.com
 hyperecosystem-cast.xyz
-hyperfoundation.pages.dev
 hyperlanesdex.com
 hyperliquid-eu.com
 hyperliquid-protocol-dapp-interface-v1690.vercel.app
@@ -843,6 +843,7 @@ kybersswop.top
 kyreya.com
 l1kprx08s7p97y7.store
 lab-nearpads.tech
+latchpay-hook.com
 launch-fuel.network
 launch-kangamoon.com
 launchpad-bakerswap.com
@@ -863,6 +864,7 @@ leonardo-herrera.com
 leonet.pages.dev
 lesgerstart-live.com
 lexiaitech.app
+lgin-coin-base.pages.dev
 liantis-be-gegevens.gnr-353.ru
 lido-distribution.com
 lidodex.org
@@ -1046,7 +1048,6 @@ na4-documentadobe.pro
 naka-migos.net
 nansolvalidate.pages.dev
 naominensa-rio.lol
-nav-dydxxcdn.wixstudio.com
 nav-trust-extension.wixstudio.com
 navkarfurniture.com
 nectifyguidall.lol
@@ -1143,7 +1144,6 @@ papetokens.org
 partyworld.games
 pass-rtfkt.com
 patrioterc20-claims.com
-pay-bitrefill.com-a04-gift-esim.icu
 paymail.ethermaile.io
 payspals.com
 peipeicoin.shop
@@ -1203,7 +1203,6 @@ presale-remittix.io
 presale.bobaoppasolana.net
 presale.foxylinea.bet
 prkgilrs-usdt-draner-frant-two.vercel.app
-pro-ddns.sbs
 projectp-distribution.global
 projeto-coin.pages.dev
 promo-company.com
@@ -1236,6 +1235,7 @@ pwsign.com
 pyth.web30-foundation.run
 pythnetwork.link-claiming.icu
 pythnetwork.pro
+qatarrefill.digital
 qfsassetsxbackup.com
 quantumsecuritybackups.com
 quest-fantasytop.net
@@ -1274,6 +1274,7 @@ rec-networkchains.pages.dev
 receive-xrpl.com
 recvoke.cash
 reelsafegame.com
+refund-wagyu.com
 refund.scalianetworktrading.com
 refund.zkmlstoken.com
 refund.zkmlstrading.net
@@ -1301,6 +1302,7 @@ registrations-irys.live
 reglster-pudgypenguin.com
 remixcompilers-v325.com
 rengaapp.xyz
+renprotocols.xyz
 renzoprotocolairdropp.netlify.app
 resolv-foundation.xyz
 resolvesmartconnect.pages.dev
@@ -1647,7 +1649,6 @@ whitelist-beanz.com
 whitelist-checks.com
 whitelisted-parcl.pages.dev
 wifmagasol.com
-winplace.click
 winter-nakamoto.games
 winzio.pages.dev
 withdrawals.closure-blockfi.com
@@ -1773,8 +1774,6 @@ wwwoahlw.claim-nobody.xyz
 wwwwwwm.ethnafi.com
 x5f9jlo.pro
 xaivanguardmint.com
-xaman-voting.com
-xamanwallet-voting.com
 xamanwalletvotes.com
 xexchanger.pages.dev
 xintwv1.cn

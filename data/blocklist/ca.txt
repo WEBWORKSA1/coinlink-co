@@ -49,6 +49,7 @@
 44-usefelix.pages.dev
 473841coinbase.com
 47h2q.cc
+49bb-colnbase-listings-4f65.pages.dev
 4e1rc.vip
 5-hub-usefelix.pages.dev
 5-preview-derivexyz.pages.dev
@@ -57,7 +58,6 @@
 52-app-ethersfi.pages.dev
 53-vote-argusworld.pages.dev
 568732-coinbase.com
-582852-binance.com
 5aawyds.pro
 6-app-ethersfi.pages.dev
 6-cashmere-eco.pages.dev
@@ -68,7 +68,6 @@
 65affbf827179f179f9194ad--silver-monstera-c958a3.netlify.app
 6a58bb0f8c47c.site123.me
 6jx0hea.cc
-6uilr4crpnetzseruvgsbvzmhoerwrp7ckvwi6p24ftzvliomagq.arweave.net
 6yhgy.pro
 7-governance-orbio.pages.dev
 77-kinetiqgov.pages.dev
@@ -191,7 +190,6 @@ appdefusever.icu
 appfragment.com
 appmarinade.com
 apps-krrkencdn.wixstudio.com
-apps-metamaskcdn.wixstudio.com
 apps-mode.network
 apps-taiko.pages.dev
 appsky.money
@@ -240,6 +238,7 @@ basedomain.app
 baserewardcb.cloud
 beastgamble.cc
 beefcow.org
+belaosklvi.xyz
 benqi.co
 benqi.io
 betberry.us
@@ -260,7 +259,6 @@ bitget.gives
 bitgetno1.top
 bitinautz.com
 bitraflll.com
-bitrefill.com-ds01-esim-gift.com
 bitsttaamp-apps.wixstudio.com
 blackbull-portal.xyz
 blast-l2.firebaseapp.com
@@ -432,6 +430,7 @@ coinstimes.net
 coinswalle.com
 colabot-network.com
 coldwatcher.site
+com-cr01-esim-gift.com
 com-glide.beer
 com-polybet-q127.com
 com-pound.finance
@@ -538,7 +537,6 @@ distributions-scroll.app
 dkmwmcbguz.cfolks.pl
 dmcainquiries-x.com
 dmtriychernyaknft.com
-doccexodus-web.pages.dev
 dogeos.web.app
 dogs-haw.sbs
 domusai.top
@@ -564,6 +562,7 @@ easydig.space
 ebtc-badgerdao.net
 ecotterra.pw
 ecotuerra.com
+efficientbridgehub.site
 eigendistribution.com
 eigenefoundation.net
 eitemaps.reward-satoshivm.io
@@ -579,11 +578,9 @@ en-trezor-io-start-wel.pages.dev
 en.polyhedra-network.live
 eng-blockgames.com
 eng-ledgr-live-learn.pages.dev
-eng-upholdd.created.app
 engs-ledgerm.pages.dev
 enlist-notcoin.org
 enroll.gcracademytrading.net
-entel-rewardst.lat
 enter-saga.co
 enterclaimera.icu
 eth-curve.click
@@ -605,6 +602,7 @@ event717956.check-venom.network
 event8072.check-venom.network
 events.twitter-events22.com
 exchange-vv.sbs
+exodus.com.merge.guivalmex.com.mx
 exodusdc.com
 extendedeco.com
 factionus10.com
@@ -779,7 +777,6 @@ jieheng.net
 join-collabs.vip
 join-fantomfdn.app
 juggernaut.airdrop18.click
-jumper-exchange.org
 junioronavax.xyz
 jupgifts.com
 jupitercom.website
@@ -813,6 +810,7 @@ krakexx.com
 kryxexy.com
 kuangchi-1.live
 kucoin-en.info
+kucoin280.com
 kucoindefi.com
 kuscrlptlon.com
 l0.tayerzero.xyz
@@ -1111,7 +1109,6 @@ patrickcoin.online
 pattern-beam-8261-9210.vercel.app
 paws-news.online
 paxos-gold.org
-pay-bitrefill.com-v04-gift-esim.com
 pay.iscoinbasedown.com
 pcaccessnow.com
 pcmum.cc
@@ -1170,6 +1167,7 @@ poolyzb.xyz
 pop.shop.api.www.autoconfig.ns.mamafoxfire.com
 popopresale.com
 portal-firelight.fun
+portal-hyperliquid.xyz
 portal-keeta.com
 portal-ledgr-live-io.pages.dev
 portal-moonshot-ivg.netlify.app
@@ -1183,6 +1181,7 @@ presale.doge-20.site
 prize-ondo.org
 probox-online.web.app
 proboxsmintc.vercel.app
+proposal-pendle.live
 proposal-xstocks.top
 proposals-morphware.com
 protocolblender.xyz
@@ -1217,6 +1216,7 @@ quests-solsticefinance.cloud
 quik.pics
 qusk.pro
 rabby.ae
+rabbyeco.app
 radardapp.org
 raeioke.cc
 rainbet-casino-france.com
@@ -1226,6 +1226,7 @@ rainbet-casinos-en-ligne.com
 rainbetk.com
 rainbetlive.com
 rainbetmodels.com
+rainbetonline.net
 rainbettfr.com
 rainbowaap.net
 rajnbet.com
@@ -1379,6 +1380,7 @@ spirex-nft.com
 spkprotocol.top
 spongv2e.pro
 srexchange247.com
+ss-v1-swap.luxe
 sso-kraken--us-cdn----autth.webflow.io
 stake-blockstreets.xyz
 stake.defenderbotfi.app
@@ -1398,7 +1400,6 @@ starkhet.online
 starkknet.site
 starknet.support
 starknetclaim.online
-start-ledgar.com
 start-ledgr-desktop-io.pages.dev
 start-ledgrr-coms.pages.dev
 startcoderemix.pro
@@ -1562,7 +1563,6 @@ vote-aaveprotocoi.com
 vote-beefy.org
 vote-either.space
 vote-firelightfinances.live
-vote-flare-network.app
 vote-id-dr4on04mns.portallogonapp.lol
 vote-id-zxni1fz0hu.portallogonapp.surf
 vote-illuminaticoin.app
@@ -1570,7 +1570,6 @@ vote-okxpolls-221.pages.dev
 vote-pendlefinance.xyz
 vote-pytheco.net
 vote-renzo.net
-vote-teaprotocol-net.pages.dev
 vote-voltafamily.xyz
 vote.nimnctworks.support
 vote.opsecbasecoinio.net
@@ -1626,7 +1625,6 @@ wintergatelegal.com
 wonderpalss.com
 woridiibertyfinance.xyz
 world-friendtech.com
-worldcupcoins.live
 worldilbertyfinanclal.com
 worldscoins.org
 wormwin.com

@@ -16,6 +16,7 @@
 1inch.com-dashboard-io.click
 1inch.gift
 1inch.logininister.fun
+1inch.rbw-apas.com
 1inchcenter.tech
 1mlrcgw.pro
 1rch.com
@@ -58,6 +59,7 @@
 5-zamagov.pages.dev
 54-vote-netnetcapital.pages.dev
 57-vote-argusworld.pages.dev
+5e1d-colnbase-listings-4f65.pages.dev
 6-arguspadgov.pages.dev
 6-govern-netnetcapital.pages.dev
 6-orbioso.pages.dev
@@ -71,6 +73,7 @@
 771002-kraken.com
 7717.buzz
 8-allocations-ponsfamily.pages.dev
+8110-colnbase-listings-4f65.pages.dev
 9-governance-torchpad.pages.dev
 9-vote-apyxfi.pages.dev
 9213479678.lol
@@ -191,7 +194,6 @@ arbitrage-bot.xyz
 arbitrum-live.com
 arbitrum-reward.icu
 arbitrum-swap.com
-arbitrum.2healthandwealth.com
 arbitrumdao.one
 arbitrumtoken.foundation
 arbjtrjum.top
@@ -441,6 +443,7 @@ collabland-connects.top
 collect-puppysfun.xyz
 collectorcryptecosystem.xyz
 colossal-fountain-small.on-fleek.app
+com-di01-esim-gift.com
 com-join.us
 connect-chrome-ext.wixstudio.com
 connect.xn--cllab-6ta.land
@@ -514,8 +517,8 @@ defitrustlines.space
 defiway.xyz
 defiweb.top
 degen-bridge.xyz
-degencoinsolanas.lol
 delifydapainet.info
+deposit.mellowprotocol.biz
 desktop-analytics-zksync.vercel.app
 detifuna.click
 dev-pudgypenguins2857.pantheonsite.io
@@ -559,6 +562,7 @@ drops-uniswap.org
 drp-pepe.biz
 dukuhkupang.xyz
 dxjewaihui.com
+e86c-coinbase-listing-677f.pages.dev
 earn-bakerywap.com
 earn-taker.top
 earndrop.eu
@@ -596,7 +600,6 @@ enterkuroro.pages.dev
 enusexodus.framer.media
 eoblock.com
 erc-p.click
-ercclaimadvisorrefunds.help
 erevoke.cash
 erjnejrnejnrvjenvr.com
 espresso.trading
@@ -643,7 +646,6 @@ feisox.com
 fenna.pages.dev
 ferrsure.com
 fi-connect-space.tech
-fi-main.at
 fi2ydva.top
 fidelity-mining.net
 fifthscape.termilworld.com
@@ -752,7 +754,6 @@ home.susaver.com
 hoppy-sushi.top
 hord.live
 hourglass-wait.com
-hub-cantons.sbs
 humans-ai.tech
 hummingbirdonbnb.pages.dev
 huxox.com
@@ -783,7 +784,6 @@ io-markethub.shop
 io-online-hub.bond
 io-swapnow.org
 io-trust-tool.pages.dev
-io-ttrustapp.wixstudio.com
 iostart-lacecdn-apps.wixstudio.com
 iotolabs.cfd
 j1ljo.sbs
@@ -826,6 +826,7 @@ kilergf.xyz
 kimbosavax.xyz
 kinetiq-migration.sbs
 kinetiqgenesis.site
+kinetiqhype2.pages.dev
 kinetiqproposals.xyz
 klgqr.aj568.top
 know-trzr-suit.pages.dev
@@ -881,11 +882,9 @@ loyal.money
 lp.btcc.limited
 lrlyftagainst.bond
 ls01usls.top
-lucky-coin10.live
 lynex.io
 lytsync.live
 magicbox-airdrop.web.app
-magiceden-io.com
 mail.azuki-beans.art
 mail.cybereward.org
 mail.live-thetipcoin.com
@@ -925,7 +924,6 @@ metamask-simple-guide-for-new-users.blogspot.qa
 metamask.claimtokens.fun
 metamask.co.zw
 metamask.cryptodapps.store
-metamask.eth.ec.cc
 metamask.io.merge.tradingescalonado.com
 metamaske.com
 metamaskfx.net
@@ -967,7 +965,6 @@ mintchn.pages.dev
 mintiann.me
 mission-restakefinance.com
 mixmarvels.com
-mmicrosoft.co
 mmmm-nu-eight.vercel.app
 mnu88.cc
 moduiarium.app
@@ -1013,7 +1010,6 @@ muradsolana.net
 mutuum-finance.ink
 my-htx-x-com.square.site
 my-trezorsuite.org
-my-uniswap.at
 my.claim.voyagerdebtor.com
 mylegoshome.xyz
 myshell.sbs
@@ -1146,6 +1142,7 @@ playdoge.wtf
 pmp.fun-fast-protocol.com
 pmxi.shop
 points-zircuit.org
+poiuytrewq852.top
 polkasale.tech
 poll-hashai.com
 polymarket.icu
@@ -1233,6 +1230,7 @@ radar-app.org
 radiant-event.com
 rain-bet.pro
 rainbet-affiliate-code.square.site
+rainbet-casinos-au.com
 rainbet-fr.net
 rainbet-italia-bet.pages.dev
 rainbet-kasyno.pl
@@ -1306,7 +1304,6 @@ ritual-registers-livebeta.vercel.app
 ro-been-hud-lo.pages.dev
 robinhoodaiagent.xyz
 robinhoodmarket-otc.com
-roguezoom.com
 roobee.org
 roocketx.exchange
 roost2.pages.dev
@@ -1317,6 +1314,7 @@ ruser00aw1l.cc
 rwdtak.xyz
 ryan-presale.com
 ryptosell.shop
+saadbidoud.com
 saf-start-ledgrcom.pages.dev
 safe-dappbridge.xyz
 safegrok.network
@@ -1488,6 +1486,7 @@ tabi-bmx.pages.dev
 tagada.finance
 taikoairdrop.com
 taikoclaim.info
+tamboykun.pedestalsinks.com
 taoshi.icu
 tapdone.net
 tateterminal.com
@@ -1579,11 +1578,10 @@ uniswap-uni.com
 uniswaps.help
 uniswaxp.org
 unitedexpress.org
-up-hold-log-en.created.app
 uphold-en-page.created.app
 url4088.roche.com
-us-sui-wallet.stakingreward.cloud
 us04webmeetinginvite.sbs
+uscrakenlogin.gitbook.io
 usdc-claimback.online
 usdt-verification.com
 usdtarbitrageur.us

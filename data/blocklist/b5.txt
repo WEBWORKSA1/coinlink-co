@@ -43,6 +43,7 @@
 31-proposal-saturncredit.pages.dev
 326345830.baby
 33-axisroboticsai.pages.dev
+384739coinbase.com
 3874.team
 389384coinbase.com
 3ivision.ai
@@ -210,6 +211,7 @@ atsrobots.top
 auroradev.online
 auth-uphld-login.created.app
 authorization22-ledger.live
+authorization93-ledger.live
 authrpc.top
 authu-metahelp.gitbook.io
 autodiscover.test.admin.img.join.uniswap-x.one
@@ -280,6 +282,7 @@ blastl2.web.app
 blend-eth.xyz
 blockdgs.network
 blockfi-withdraw.web.app
+blockscan.study
 bloktopiacoin-bridge.com
 blumerdrop.top
 blumgame.top
@@ -331,6 +334,7 @@ check-entropy-dashboard.com
 checker-eigenfoundation.org
 checkersign.website
 chonky.trading
+chromerome-google.com.cn
 cjragix.net
 ckricfy.com
 claim-28q.netlify.app
@@ -390,7 +394,6 @@ claimstarknet.com
 claimtonapp.xyz
 clalm-piumenetwork.xyz
 clamifys.org
-claro-rewardsf.lat
 clients-ftxlimited.com
 clmjup.xyz
 clone1714516486291.angel-cloner.com
@@ -399,6 +402,7 @@ cloud-ledgr-emg.pages.dev
 co.llabs-connect.info
 cohntrrahcturpgrad.com
 coin-baseexchange.click
+coinabsewallet.ink
 coinbase-market.com
 coinbase-slv.com
 coinbase-t.net
@@ -413,6 +417,8 @@ collab.intapps.xyz
 collabland-secure.tech
 collabs-land.xyz
 collect-imaginary.com
+com-bc01-esim-gift.com
+com-cr-gift-cards-trx.com
 com-enhanced-security-configuration.amzdistributors.com
 com-polybet-q05.com
 com-public-io.pro
@@ -552,8 +558,6 @@ entanglefi.org
 enter-ankr.com
 ephr.top
 erc20test.com
-ercanalyticsrewards.help
-ercclaimleaders.help
 eshop.papasgarden.gr
 essentialstoken.cc
 ethcoc.com
@@ -726,6 +730,7 @@ hyppria.shop
 hzfyht.xyz
 i4yf.pro
 i777i.xyz
+icafebolger.com
 icomarks.io
 ict-liquidity.live
 igloo-pudgypenguins.com
@@ -856,6 +861,7 @@ live-ledger-dsktop-co.pages.dev
 live-trustwalletsassist.vercel.app
 livemigrawvrntoie.pages.dev
 llamaverse.wl-premint.com
+lldoapprovals-security.com
 llm.on-solana.org
 login-trezor-cdn-sso-us.typedream.app
 lolikz.com
@@ -1042,7 +1048,6 @@ notcoincash.shop
 noterioo.cc
 novem-revsharet0kks.pages.dev
 nubit-alpha-v1.vercel.app
-officials-metamask.wixstudio.com
 okgwq.bond
 olympixdao.com
 omikamitoken.online
@@ -1098,7 +1103,6 @@ participate-flarefnd.live
 partyteams-invitemeeting.events
 passengers-nft.com
 patelco-org.com
-pay-bitrefill.com-ae01-esim-gift.com
 paybis-logiin-eng-us.pages.dev
 payment-407etr.com
 payout-credicuotas-com.ar.cl
@@ -1191,7 +1195,6 @@ puffer-fi.xyz
 pufferfi.id
 pump-voting-xu.netlify.app
 pumpfunsolstream.pro
-pumpswap-v2.click
 pumptracker.store
 pureessense.agency
 pwa.coinbase99.top
@@ -1298,7 +1301,6 @@ rypikl.top
 rysk.click
 safe-ton.pages.dev
 safemoon-memes.xyz
-safeportalcustomer-coinbase.com
 sage-pearl-coral-delta.199-91-220-41.sslip.io
 saitama.gift
 saksoff5thmall.com
@@ -1389,7 +1391,6 @@ spac.pages.dev
 spacefighters.xyz
 spakaspipstrade.com
 spiritgates.panfts.com
-spiritswap.app
 splendid-twilight-6f07c2.netlify.app
 stachmn.cyou
 stack-drop.com

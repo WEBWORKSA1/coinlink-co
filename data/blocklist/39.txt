@@ -1,6 +1,7 @@
 0019-coinbase.com
 03n.us
 0b0ggltgmhnrmy.xyz
+0d7f-4c29-5133-c0inbase-list.pages.dev
 0myq.cc
 0pensea-lo.shared-smarts.com
 0x0.claims
@@ -71,6 +72,7 @@
 681419-binance.com
 6a1e57c25c550900080f2971--allora-claimdrop.netlify.app
 738141-binance.com
+772512-robinhood.com
 79-allowlist-ascendlaunch.pages.dev
 81-proposal-saturncredit.pages.dev
 82.voting-etherfi-pro.workers.dev
@@ -80,7 +82,6 @@
 979216.com
 99-arcusgovernance.pages.dev
 99bitcoin-presaless.pages.dev
-_wildcard_.nivora.vu
 aave-protocol-dex-router-v559.vercel.app
 aave-staking.cfd
 aave-v3.top
@@ -89,6 +90,7 @@ aavids.top
 accm.top
 account.my-opensea.fathiemara.com
 acemoney-transfer.top
+across-portal.web.app
 admin.jadidpdf.com
 admin.trustwallet0.club
 adopter-babylon.xyz
@@ -243,6 +245,7 @@ bake-4kd.pages.dev
 bandizip.app
 bankrupt-ftx.com
 base-coin.work
+base-pro.framer.website
 basebash.net
 basedawgz.space
 basedbrettearn.com
@@ -339,6 +342,7 @@ buytrx.dog
 capitallivefxltd.online
 cardpay.digital
 cardsahoygamers.com
+case-349483-apple.com
 cases-stretto-celsius.org
 cashcat-desk.com
 cashmere-points.com
@@ -438,12 +442,12 @@ clumdeep.fit
 cmc-traders.com
 cmeshorttermtrading.vuzg.xyz
 cnpgame.jp
+cnsweb-okx.com.cn
 cobs118.com
 cocawinz.com
 coches-com-segunda-mano-10071939.org
 cogniwallet.com
 coin-tw.org
-coin-volcano-casino.co
 coinbase-pro-app-login.pages.dev
 coinbase-reject.com
 coinbase-world.xyz
@@ -464,6 +468,7 @@ collab.land-scientist.com
 collect.niotepawd.com
 colngecko.com
 com-app-start.app
+com-gift-esim-x04.com
 com-id.online
 com-polybet-q106.com
 com-public.beer
@@ -751,6 +756,7 @@ googfildocmeet.com
 google-file-document.github.io
 gov.nidt.one
 governance-flarefoundation.xyz
+governance-monetrix.xyz
 governance-ponsfamily.icu
 governance-ryskeco.top
 grand-royal-wolinak.website
@@ -766,7 +772,6 @@ harambetoken-ai-dapp.pages.dev
 havacoinxyz-claim.web.app
 hawem.com
 helicopterhelicopter.pages.dev
-help-checker-review-unlock-recover-24h.xyz
 help-manage-extn-coinbse.pages.dev
 helps-trezor.pages.dev
 hifibridge.org
@@ -774,7 +779,6 @@ hls-6.cc
 hojxmr.com
 hokkaidoinu-migration.com
 holders-kinetiq.xyz
-home-moonpuy.wixstudio.com
 homepae-lacextension.wixstudio.com
 homepage-w-eigenlayer.gitbook.io
 hotverasguadianfi.pages.dev
@@ -786,7 +790,6 @@ human-coinbase.com
 huobi798.com
 hyp-s2.com
 hyperliquida.org
-hyperlliquidd.com
 hyperlliqurd.xyz
 hyperlock.io
 hyperrecosystems.app
@@ -810,7 +813,6 @@ injectivenetwork.com
 instant16xrenova.com
 integrateapp.top
 interapexpips.com
-interfaces-firelight.xyz
 intl-onchain.net
 inu-airdrop.click
 inv1tesecure.com
@@ -1133,7 +1135,6 @@ papertradexyz.click
 paramgaminglab.com
 paramgaminglabs.net
 pawsspindrops.cfd
-pay-bitrefill.com-gift-esim-ai04.com
 pb15.top
 pbauuv.com
 pdfonline.sbs
@@ -1144,7 +1145,6 @@ pepes20.com
 pepeunchainedclaims.pages.dev
 pepeunchains.xyz
 phantom-7er.pages.dev
-phantom-wallot-sso.webflow.io
 phantomswap.app
 pharaoh-exchange.net
 phishing-research.vercel.app
@@ -1554,6 +1554,7 @@ us-rabbyyy-apps.wixstudio.com
 us-safepal.org
 us.en-blast.io
 us03-web-zoom.us
+us10zoom.us
 us70web-zoom.us
 usdc-twitter.com
 usdcnov.com
@@ -1648,6 +1649,7 @@ wifdrop-claim.netlify.app
 wildbart.vip
 winbett-ro.com
 wirex-wallet.com
+witchontheholynightgame.wiki
 wojak.chainchest.vip
 worldcoindrop.org
 wormholedao.network
@@ -1802,7 +1804,6 @@ xn--coolctsnft-u5a.com
 xn--pancakeswp-p4a.app
 xow.fi
 xrp-gift.org
-xrpfi-flare.network
 xrplf-votes.com
 xyz-pro.luxe
 xyzowin.com

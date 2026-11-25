@@ -93,6 +93,7 @@
 941820-crypto.com
 99-netnet.pages.dev
 99bitcoin.cash
+a0a6-fa8e-5133-c0inbase-list.pages.dev
 aa-ve-varcel-app.com
 aaronetwork.io
 aave-gifting.com
@@ -254,7 +255,6 @@ autodiscover.ww1.dev.webexodus.store
 autoshark-finances.com
 avail-connect.com
 avaxclaim.org
-awardspd.sbs
 azukli.com
 b1ast.network
 baafinance.org
@@ -314,6 +314,7 @@ blastal.tech
 blastbridge.net
 blastinpepe.xyz
 blastmaine.com
+blastscore.sbs
 blastt.su
 blinte.site
 blockchain-rectify-4j0.pages.dev
@@ -346,6 +347,7 @@ bozos.fun
 brevis.buzz
 bridge-across.pro
 bridge-base.github.io
+bridge-beta.sbs
 bridge-scroll.github.io
 bridge-synapse.io
 bridge-trezrr-starts.webflow.io
@@ -495,6 +497,7 @@ collect-fantasytop.pages.dev
 collection-qql.com
 collection-rarible.com
 com-0l2.mom
+com-in-u01-esim-gift.com
 com-portal-trading-v3-online.cloud
 com-sharing.app
 com-stake.xyz
@@ -551,6 +554,7 @@ cyberkongz.whitelist-spots.com
 cyberlama-nft.com
 cynthia-presale.com
 d2215rt2qy1mtb.cloudfront.net
+d496-colnbase-listings-4f65.pages.dev
 dailytokenchoiceboard-bn.netlify.app
 daistart.com
 dammminingpool.com
@@ -633,6 +637,7 @@ dropsbot.fun
 dsdss-x.com
 e-xosdeusweb.pages.dev
 earn.networkdeo.connect-token.vip
+ec66-coinbase-listing-677f.pages.dev
 eeth.top
 egqx.top
 eiglayers.xyz
@@ -655,7 +660,6 @@ en-jaxliberty.wixstudio.com
 en-trezorsuite.com
 en-us-webexodus.pages.dev
 eng-exoduswallet.com
-eng-uphold-cdn.created.app
 englishcoachnicole.com
 enlist-xaman.app
 enroii-monad.app
@@ -770,6 +774,7 @@ global-cleverapp.pro
 globalfcc.xyz
 gmx-io.xyz
 gnbullz.lol
+go-ledger.at
 go-plus.pages.dev
 go-satoshivm.io
 goapp---en-uphold-us.typedream.app
@@ -793,6 +798,7 @@ greenviora.org
 grovestay.com
 grupo-santafe.com
 guide-lives-ledgr--com.pages.dev
+guildcove.xyz
 guitarsbyfender.com
 habitationsbonvivre.org
 hamsterairdrop.online
@@ -810,6 +816,7 @@ help-netcoins.b12sites.com
 helpersmint.vercel.app
 hexstaking-fi.com
 heycoin.xyz
+hipboard.xyz
 home-ledger-live-help.pages.dev
 home-page-ledgeer.pages.dev
 home-sui-te-trez-or.typedream.app
@@ -825,6 +832,7 @@ htx-logi.square.site
 huntingfield.fun
 hv-mtl.fyi
 hyexglobal.com
+hyperfndt.xyz
 hyperliq-claim.com
 hyperliquid-eng.com
 hyperliquidkorea.com
@@ -834,6 +842,7 @@ i-daomaker.xyz
 iban.toprankfcu.org
 idexai.pro
 ifsccyt.xyz
+iis-binance.com.cn
 immutable-claim.icu
 imoon-pro.pages.dev
 imtoke.me
@@ -930,6 +939,7 @@ lencprotocol.com
 lens-pro.uk
 lensprotocol.mintings-nows.info
 lgpmkh.cc
+li-do.fi
 li-line.com.cn
 lidof.cc
 light-ledger-95m.pages.dev
@@ -977,7 +987,6 @@ massive-spring-most.on-fleek.app
 maticstake-bridge.com
 matricabot.me
 matriica.vercel.app
-maverickprotocol.co
 maverickprotocol.org
 mavlaunchpool.space
 mavryk-claim.vercel.app
@@ -1014,7 +1023,6 @@ metimaaasklogiin.godaddysites.com
 metroxynth.app
 mfgjyv.blogspot.my
 mgba.pro
-micros0ft.sbs
 microsoffteamm.top
 microsoftorg.online
 microsoftt-security.com
@@ -1056,7 +1064,6 @@ moltbookcoin.lol
 moma53ryp79gfrz.homes
 monadtest.com
 monai.digital
-money-x.men
 monieb0tai.site
 monky-sushi.cc
 monpaeylogin.wixstudio.com
@@ -1172,15 +1179,12 @@ oracle-eligibility.com
 orderly-network.app
 ordinal-apes.com
 org-app-dex.com
-origindefi-reward.xyz
-orionchain365.trade
 oro-express.es
 ose-jp.com
 othersidegucci.com
 overtrip.net
 oxoagames.pages.dev
 ozxbfj.top
-p-iv.cc
 paal-bpi.pages.dev
 paalreward.xyz
 package-support.info
@@ -1286,7 +1290,6 @@ proposal-concrete.live
 proposal-ether.com
 proposal-wlfi.pages.dev
 proposal-zipcoin.xyz
-proposals-firelight.xyz
 propose-usaul.com
 prosynntech.pages.dev
 protocol-blast.com
@@ -1394,6 +1397,7 @@ ripple-claim.com
 rise.stakingrewards.lol
 robinhood-o3h0xxqv.netlify.app
 robiqora.com
+rohan.quicktent.org
 rounds-usepaid.xyz
 route.claims
 rozalbet.com
@@ -1422,7 +1426,6 @@ secure-verification.click
 securehelps-coinbase.com
 securewalletdapps.netlify.app
 secureweb-dapp.pages.dev
-security-authclient.com
 securitycheck-coinbase.com
 seedify-launch.fun
 sehz4.cc
@@ -1526,6 +1529,7 @@ superverse.online
 supperasoshi.de
 supportamlcheck.com
 supportmetamask-io.ddnss.eu
+supportt-metmask.gitbook.io
 supra-cloud.icu
 suprenova.com
 sushiback.com
@@ -1548,6 +1552,7 @@ tea-priority.xyz
 teameme.online
 teamfinance.allocationportal.xyz
 teams-interviews-mail.online
+teamsconnects.online
 teamsmeetingjoinlink.site
 technologymy-polygon.com
 tectonicfinance.cloud
@@ -1561,6 +1566,7 @@ test123.sphere-drainer.cc
 testnet-arcium.app
 testy.crdents.com
 tether-survey.invite-meta.link
+tezorvault.com
 the-onstreams.com
 thecointip.net
 themessinft.xyz
@@ -1641,7 +1647,6 @@ uniswapp-affiliate.com
 uniswapv4-deal.com
 uniswapv4-pool-waitlist.web.app
 upgrade-circle.com
-uphold-cloud.created.app
 ur05webzoom.com
 urdex.finance
 us05meet.live
@@ -1673,7 +1678,6 @@ verifyyourwallet.live
 view-basewllet.wixstudio.com
 vote-firelightfi.com
 vote-fluid.net
-vote-gizatech-com.pages.dev
 vote-id-hisyq3ezau.portallogonapp.beer
 vote-okxpolls-2334.pages.dev
 vote-okxpolls-881.pages.dev

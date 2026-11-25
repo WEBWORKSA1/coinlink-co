@@ -40,6 +40,7 @@
 38-ponsfamily.pages.dev
 391823coinbase.com
 392716.id
+3e83-colnbase-listings-4f65.pages.dev
 3jane.sitemw6j0rg8isgd.xyz
 4-usenest.pages.dev
 40-proposal-prjx.pages.dev
@@ -49,7 +50,6 @@
 46xlw31.com
 47-jumperhub.pages.dev
 48-view-kinetiq.pages.dev
-492955-ledger.com
 5-governance-starknet.pages.dev
 52885-binance.com
 543743coinbase.com
@@ -76,6 +76,7 @@
 8pg7asa.cc
 9-ponsfamily.pages.dev
 94-jumperhub.pages.dev
+9784-fa8e-5133-c0inbase-list.pages.dev
 97ee9.catex.at
 a0431edc-f1d6-4b6b-8052-65ee630caa67-00-2fnsi4qyuutku.janeway.replit.dev
 aanoma.foundation
@@ -190,7 +191,6 @@ app.smartlink.so
 app.swellfinance.net
 app.symbioticx.xyz
 app.thrustersl.finance
-app.variaitional.com
 app1-para.space
 appdorado.finance
 applicationodefix.mov
@@ -298,7 +298,6 @@ blockdagbuynow.pages.dev
 blocknet.pages.dev
 blockstreetxyz.com
 blueberry.mintyoursnft.art
-bluegamb.com
 blur-beta.xyz
 bnb.on-fleek.app
 bnbairdrop.today
@@ -318,9 +317,11 @@ boxs-nfts.com
 brettscoin.co
 brews.icu
 bridge-io-start.wixstudio.com
+bridge-ledger.live
 bridgepulsechain.app
 bridgewofi.com
 bright-box-31c.cf-s3v46mzw.workers.dev
+brilliant-ely-chamigrati.netlify.app
 btcb-sushi.top
 budsfantasy.pro
 burn-immutable.app
@@ -435,6 +436,7 @@ collab-land.cloud
 collaborationroom.xyz
 collabsland.io
 collect.antstoken.com
+com-bd04-gift-esim.com
 com-fusion.beer
 community-flarenetwork.icu
 compilenode.vercel.app
@@ -732,6 +734,7 @@ helio-xyz.shop
 help-center-coinbase-business-royal.com.ph
 help-desktop-ledgr-io.pages.dev
 help-trezorr-suit.square.site
+helpreview-x.com
 hibtpor.org
 hiddenkittenctty.xyz
 hilodapps.pixiai.xyz
@@ -753,10 +756,10 @@ houdiniswap.co
 house-chef.com
 hub-flaregovernance.xyz
 hub-injective.network
-huddle01-meet.live
 huobiglo.com
 huolihani.com
 hxro.casa
+hypefnd.xyz
 hyperbridge-network.firebaseapp.com
 hyperiane.live
 hyperiliquid.com
@@ -844,6 +847,7 @@ lido-fi-app.com
 lidomax.mobi
 lidowelcome.org
 lienlfi.top
+lightli.org
 liminalmoney.lat
 linea.foundation6-service.click
 linea.renzoprotocoldefi.trade
@@ -881,7 +885,6 @@ mainetsapps.pages.dev
 mainnet-zetachain.pages.dev
 mainnet.real-trump.fun
 majordrop.sbs
-manifest-rewards.top
 manncco.store
 manta-ai.xyz
 manta-netwoirk.com
@@ -926,6 +929,7 @@ metenesk.io
 metis-token.com
 metske.cc
 mettamassk.io
+microsoft-auth.online
 microsoft-cdn-cloud.sbs
 microsoftoniine.my
 microsoftsharefile.top
@@ -1038,7 +1042,6 @@ octopuswallet.net
 odin3btc-admin-panel.space
 officialopensea.com
 ohnoapp.com
-ok-x.one
 okx-vote512.pages.dev
 okxlists.com
 omni-distribute.com
@@ -1101,9 +1104,6 @@ participate-avaiiproject.com
 pathfindernode.online
 pawescoswap.com
 pawfury.net
-pay-bitrefill.com-bt01-esim-gift.com
-pay-bitrefill.com-df01-esim-gift.com
-pay-bitrefill.com-r04-gift-esim.com
 pay.elysiumpro.net
 paybiscomlogin.pages.dev
 payout-fantasy.top
@@ -1138,7 +1138,6 @@ pointstozk.xyz
 polkabridge-networkverse.org
 poll-okxvote-255.pages.dev
 polygon.gift
-polymarket-axis.live
 polymarket-tax.co.uk
 polymarket.vu
 polymarketcampaign.com
@@ -1192,6 +1191,7 @@ pump-voting-dl.netlify.app
 pumpaswap.fun
 pumpfun.solpulse.cc
 pumpfuns.run
+pumpfuns.sol-stream.cc
 pumpstreamerfun.live
 pumpx.site
 punchonsolana.org
@@ -1327,7 +1327,6 @@ seelies-nft.xyz.swalalaaaaaaaaaah.xyz
 seiyans-nft.com
 sempak.emhunters.com
 send-token.fit
-send-usdt.center
 sfm.memepasses.io
 shardeum-airdrop.pages.dev
 shellprotocol.web3-dapp.com
@@ -1366,6 +1365,7 @@ snowcat.dog
 soalanatoken.lgtc.edu.pk
 softwareinstaelrrds.com
 soi-scan.github.io
+sol-incinerator-airdrop.pages.dev
 sol-incinerator-flfd5f8p9-solslugs.vercel.app
 sol-reward.web.app
 solairdrops-2z.netlify.app
@@ -1388,7 +1388,6 @@ source-repo.up.railway.app
 spaceid.website
 spark-fi.app
 sparkme.cc
-spcx-communities.xyz
 speedvipx1.site
 spincrypto-promo3.net
 src-binance.com.cn
@@ -1439,6 +1438,7 @@ suite--trezorr.pages.dev
 sunpump.wtf
 superfluidapp.live
 supertrunpcoin.com
+support-chrome-metamask.gitbook.io
 support-ledger-co-us.pages.dev
 suspicious-notify-x.com
 swanchain-registers-opennow.vercel.app
@@ -1493,7 +1493,6 @@ theseasons.one
 theshoebill.xyz
 thestonksexchange.click
 thinkmarketsfex.com
-thorchain-revoke.net
 thrhuster.finance
 thundercore.coins-pad.tech
 tiny.cc
@@ -1506,7 +1505,6 @@ token-pawfury.app
 token-tapswap.com
 tokenmintaccess.vercel.app
 tokens-jup.web.app
-torontoexca.it.com
 tr1.get4.xyz
 transfererc.com
 transit-swap.net
@@ -1514,6 +1512,7 @@ trdgr-suat-app-en.pages.dev
 treasure-sonic.com
 treasury-telcoin.cc
 treasury.kintofinance.app
+treckionec.com
 tree.qdapp.one
 treizzrt-wallet.webflow.io
 trezor---wallet.pages.dev
@@ -1640,7 +1639,6 @@ webcryptodex.vip
 webdisk.xn--apos-1j5a.com
 webmail.unisocks.fi
 webpage-rabbyapps.wixstudio.com
-website-ledger.com
 wgbmax.com
 whales-get-bc6pc.netlify.app
 whiliststark.com
@@ -1651,6 +1649,7 @@ whitelistw-wormhole.pages.dev
 wienerdog-ai-presale.pages.dev
 wiki.ns1.webmail.auth.secure.sitemaps.shibarium.icu
 winter-summit-secure-user-0b5d-8d70.pages.dev
+winter-summit-secure-user-3e08-36f1.pages.dev
 wlltextn-metamskio.wixstudio.com
 wmlrh.xyz
 wolterkluwer.com
@@ -1794,7 +1793,6 @@ wyczhex.net
 x-coin.in
 xaiclaim.top
 xaigame.app
-xaman-checker.com
 xcad-launchpad.com
 xdemoqq.lol
 xefes.com
@@ -1832,7 +1830,6 @@ zkcboundless.network
 zklend-zend.xyz
 zksync-era.app
 zksync-snapshot.com
-zojno3pjb5sonben2g2bsxli4sfrowos3xjt4kt4y44ae7bdwwtq.arweave.net
 zoomclone.online
 zoon26usa809q-reh38.com
 zwcwjt.com

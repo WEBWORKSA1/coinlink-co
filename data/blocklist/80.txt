@@ -13,6 +13,7 @@
 12-governance-prjx.pages.dev
 13-vote-fables.pages.dev
 140-allowlist-ascendlaunch.pages.dev
+1594-4c29-5133-c0inbase-list.pages.dev
 17-rewards-firelightfi.pages.dev
 17829-crypto.com
 188-governance-curvefinance.pages.dev
@@ -51,8 +52,6 @@
 500airdropusd.top
 55-proposal-ethos.pages.dev
 582933-ledger.com
-582949-ledger.com
-592105-ledger.com
 6-governance-fraxfinance.pages.dev
 6-hub-venicegov.pages.dev
 61-allocation-argus.pages.dev
@@ -60,6 +59,7 @@
 62-arguspad.pages.dev
 69-proposal-globaldollar.pages.dev
 7-governance-longbow.pages.dev
+7c94-coinbase-listing-677f.pages.dev
 8-governance-saturn.pages.dev
 8-proposal-torchpadfun.pages.dev
 837394-coinspot.com
@@ -94,7 +94,6 @@ agree-12.web.app
 ai-dogies.pw
 ai-onchaindapp.pages.dev
 aiiix.icu
-ailocationfinder.com
 airdrop-0x0dashboard.com
 airdrop-alert.me
 airdrop-bnbchain.com
@@ -166,6 +165,7 @@ app-chatastra.firebaseapp.com
 app-creamfinance.com
 app-drift.trade
 app-eckoteira.tech
+app-google.app
 app-ledgr-livedoc.pages.dev
 app-mercle-claim.xyz
 app-netcoincdn.b12sites.com
@@ -262,11 +262,13 @@ bayholder.pages.dev
 bcbbs8.com
 beefy-io.events
 beeple-collects.com
+behuevo.com
 being-ruby-extnions.wixstudio.com
 bep20check.org
 berryeth.vip
 betgrwcasino-ca.com
 beyondhumandesign.com
+bgxcc.shop
 bhat.netbltkub.co
 biasti2.net
 bigebindonesia.com
@@ -285,7 +287,8 @@ biteyax.com
 bitget7.com
 bitmarts.win
 bitoo.store
-bitrefill.com-gift-esim-q04.com
+bitrefill.com-gift-cards-algo.com
+bitrefill.com-gift-cards-dai.com
 bka-druck.de
 blacksbullsol.work
 blalst.io
@@ -376,7 +379,6 @@ claim-renzo.fi
 claim-starrynift.pages.dev
 claim-suilendcoin.quest
 claim-svilend.gay
-claim-unlswap.pro
 claim.beamabler.network
 claim.claimblockdag.network
 claim.coindoge.org
@@ -446,6 +448,7 @@ com-pls.app
 com-spcx-bonus.top
 communitiuesdigitalvotinghub-io.netlify.app
 community-metamask.io
+connect-dcentwallet.com
 connect-exoduswallet.pages.dev
 connect-mintchain.com
 connectdappslive.vercel.app
@@ -664,7 +667,6 @@ flock-beta.xyz
 floki-claim.pages.dev
 flokita.one
 flooz-3as.pages.dev
-flowacrossnovex.com
 flrtrustonline.cloud
 fmfix.co.ke
 fnb-live3.liveblog365.com
@@ -817,6 +819,7 @@ jplawe.neva-art.com
 jumper-solana.vercel.app
 juppyfast.app
 just-swap.org
+k3-capital.app
 kamino-fi.pages.dev
 karak-eligibility.com
 kavaa-web.netlify.app
@@ -849,7 +852,6 @@ ledgelive.net
 ledger----login.pages.dev
 ledger-live-in-log.pages.dev
 ledgerlive.network
-ledgerquantfix.xyz
 ledgerrwallet.azurewebsites.net
 ledgerwalletshop-de.pages.dev
 ledgerwalletshop-net.pages.dev
@@ -922,7 +924,6 @@ martianhelper.xyz
 matic-drops.info
 matrcia.io
 matrica-holder.com
-matsk.vip
 mav-e26.pages.dev
 mavryk-testnet.online
 mbdcollection.com
@@ -938,6 +939,7 @@ metamask-coinbase.com
 metamask-defi-tips.pages.dev
 metamask-wallet.site
 metamaskaxtensionai.gitbook.io
+metamaskchrme.blogspot.com.tr
 metamaskusloginx.weebly.com
 metamaskwalleteh.webflow.io
 metamaskwalletexetension.webflow.io
@@ -986,7 +988,6 @@ moonshot-voting-mx3.netlify.app
 moonshot-voting-o7189a.netlify.app
 moonshot-voting-qvd.netlify.app
 moontool.org
-morpho-season.com
 mpvgention.com
 muitiplier-gaixe.com
 multappverse.pro
@@ -1017,7 +1018,6 @@ mysterybox7627-xi.vercel.app
 mysteryclink5.vercel.app
 mysterys-aethir.com
 mystrybox39.vercel.app
-nadextla.live
 near-intents.net
 neiroeth.tech
 neiros-coin.org
@@ -1027,7 +1027,6 @@ netnodesfix.pages.dev
 network-oeth.net
 networkclaimair.com
 new-zerionapps.wixstudio.com
-newsaljazeera.com
 newtoken-bridge.website
 nexgami.co
 nextgenfintech.rent
@@ -1043,6 +1042,7 @@ nibiruu.pages.dev
 nillion-vote.com
 ninegagtoken.vercel.app
 nitrousprotocol.com
+noctoin.study
 node-synchronize.pages.dev
 nodemainnetfix.pages.dev
 nodemodifier.org
@@ -1094,7 +1094,6 @@ orai.gallery
 orai.pages.dev
 orangecomet.nftsimint.com
 orbit-light-655-7015.vercel.app
-orderly.center
 ordinalswallet.in
 os2-migration.vip
 osecrohq.best
@@ -1123,7 +1122,6 @@ parthenon.run
 pawecoswaps.org
 pawsbabydoge.web.app
 paxfula.com
-pay-bitrefill.com-cn01-esim-gift.com
 pay.krakenbridge.com
 payment-bia.com
 pc-bybit.cn
@@ -1151,7 +1149,6 @@ pknma-ciaaa-aaaad-qdxtq-cai.raw.ic0.app
 planetcoco.wl-link.xyz
 plasma.alocation.app
 plasmas.top
-plasmaseason.com
 platform-nexo.whymarx.com
 plume-claim.xyz
 poalacolin-app.online
@@ -1171,7 +1168,6 @@ portal-moonshot-d7i.netlify.app
 portal-moonshot-vag.netlify.app
 portal-trezor-logo-on.pages.dev
 portal-umbra.com
-portal.www-gokite.sbs
 portalbdridge.com
 portallbriidge.com
 portfolio.metamask.20-187-120-219.cprapid.com
@@ -1183,6 +1179,7 @@ presale.pumpfuns.digital
 presales-infinaeon.xyz
 presales-jessecoin.xyz
 priortrade.cfd
+pro-krken-lgin.pages.dev
 projectpopularitylist.netlify.app
 projectpro.fun
 projectshojira.give-freemint.com
@@ -1203,6 +1200,7 @@ pulseaiapp.pro
 pulsepineappleheads.com
 pump-voting-2o.netlify.app
 pump-voting-hi.netlify.app
+pumpey.fun
 pumpfun.sol-livestream.cc
 pumplivehub.fun
 pumup.fun
@@ -1279,7 +1277,6 @@ registersomnia.network
 registration-apu.xyz
 registrations-bananagun.com
 reimbursyourfee.wf
-relayprotocol-rewards.xyz
 remilio.xyz
 remix-ethereum.cc
 remotecloserlabs.com
@@ -1306,7 +1303,6 @@ rio-wax.com
 riotwebsform.com
 river-eth.top
 river-us.vip
-rkccoin.lat
 rocket-originndefi.site
 rocketpool-node.net
 rocketpool.at
@@ -1442,7 +1438,6 @@ swissborgch.com
 sxdrop.cc
 symbioticmain.com
 symbiotlc-stakestone.net
-synapseprotocol.trade
 syncnode-devware.vitarts.online
 syncswap.life
 synczone.pages.dev
@@ -1451,7 +1446,6 @@ tarrastaition.info
 taylorcointl.com
 test-perfect.sbs
 test0101922dedust.pages.dev
-testimonials-x.com
 testmintfewfwef.ffox.site
 testnet.nexsu.xyz
 tether-questionnaire.invite-meta.one
@@ -1517,7 +1511,6 @@ turbojack.org
 tvl-chain.link
 twt.t-wallets.top
 txnintegrityscan.com
-tzr-tool.com
 ufo-sushi.cc
 uitiverce.com
 ultiverseprotocoi.com
@@ -1541,7 +1534,6 @@ us-en-trzor-hardware.framer.media
 us-wallet-ledger.pages.dev
 us06.cloud
 us14zoom.us.com
-usaweb3.us
 usda.avalonflnance.space
 usdcgo.com
 usdsendt.netlify.app
@@ -1787,7 +1779,6 @@ yearn.trastpad-airs.top
 ypredict-ecosystem.com
 zafagents-mint.netlify.app
 zenocard.info
-zerionwatch.firebaseapp.com
 zircuit.net-s.click
 zkapee.pages.dev
 zkpassport.net

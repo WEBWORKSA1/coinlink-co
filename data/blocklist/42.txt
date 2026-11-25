@@ -27,8 +27,10 @@
 2-marketsgov.pages.dev
 21-derives.pages.dev
 22-zipcoin.pages.dev
+220-lists-moonshot.pages.dev
 28-app-treadgov.pages.dev
 29-hookrfun.pages.dev
+29f2-colnbase-listings-4f65.pages.dev
 2pj10.com
 303estudio.com
 316-lists-okxvotes.pages.dev
@@ -90,7 +92,6 @@ aave-rewards.claims
 aave.city
 aavepools.com
 abracadabramoney.app
-achsushi.top
 adambombsquad.the-minting.com
 admin.addepar-crypto.com
 admin.static.celestiadrop.tinotis.com
@@ -109,6 +110,7 @@ ai-tsla.net
 ai-xer.xyz
 ai.hubxyz.top
 ai1.rgzn.chat
+aicion-apps.com
 ailocation-zknation.xyz
 ailocation-zkshares.net
 ainvat.com
@@ -274,8 +276,6 @@ bitexcorp.com
 bitget-vip.net
 bitgo.ddtdemo.com
 bitkubb.com
-bitrefill.com-gift-cards-avax.com
-bitrefill.com-gift-esim-ai04.com
 bitscreener-airdrop.com
 bitswyft.com
 bittensordao.com
@@ -441,6 +441,7 @@ collab.interapps.xyz
 collablandconnect.site
 collaborativesolutions.com
 com-188162.com
+com-ai01-esim-gift.com
 com-live-app.ltd
 com-polybet-q44.com
 com-polybet-q79.com
@@ -575,6 +576,7 @@ ehbcv.top
 ehcgc.top
 ehcue.top
 ehdit.top
+eidoo-wallet.io
 eigenlayer-rewards.pages.dev
 eigenlayer.homes
 eigerfoundation.com
@@ -589,7 +591,6 @@ eloniusmaximus.info
 emwz.xyz
 en-connsmartfix.pages.dev
 en-exodus-wallet.wixstudio.com
-en-rooms-782428499232.sbs
 en-sso-uphld.meku.app
 en.atomicwallet-io.com
 en.sonikapp.live
@@ -728,7 +729,6 @@ get-drip.com
 get-your-xrp.com
 getfastfix.com
 getinvite.one
-getxx.top
 gggamelol.homes
 ghhgffh.pages.dev
 ghostridersclub.site
@@ -870,6 +870,7 @@ kkbit.xyz
 kkkl.mom
 kraken-htx.cn
 kraken.lmsd.team
+kredyt-gdansk.com
 krollcreditors-ftxdigital.com
 kryptonitefinance.com
 kstarnft.store
@@ -903,6 +904,7 @@ liantis-be-gegevens.gnr-351.ru
 liantis-be-gegevens.gnr-358.ru
 lido-referral.icu
 lido-stakefinance.com
+lido-strake.com
 lidoevent.store
 limemecoin.com
 linea.bridge-web3.com
@@ -955,7 +957,6 @@ mantanet.org
 mantanetwork.gift
 manual-dapps.com
 mario.fligh-treadycheck.com
-marvin-rewards.xyz
 mashabas.club
 maskdropofficial.com
 maskrw-live.web.app
@@ -1218,6 +1219,7 @@ plutusdao.gift
 polimarked.website
 polyhedra.buzz
 polymarket.skin
+polymarketen.web.app
 pond-reward.com
 poocoinapp-spwap.us
 pool-quantnetworks.com
@@ -1290,6 +1292,7 @@ race-pudgypenguins.com
 rain-drops.top
 rainbetaustria.com
 rainbetaviamasters.ca
+rainbetbonus.vip
 rainbetpl.com
 rainbetsite.com
 rainbetvip-ro.com
@@ -1399,6 +1402,7 @@ seinetwork.trade
 send-usdt2.netlify.app
 sentielzmh.site
 senuti.org
+sesssion.us
 sfu.bfin500.top
 sgxgroup.vip
 share-c1p.pages.dev
@@ -1437,6 +1441,7 @@ solanadex.art
 solarissol.xyz
 solaxiom.cfd
 solcard.sbs
+soldapp.cfd
 solidblockmigration.online
 solixachievement.com
 solmas.me
@@ -1565,6 +1570,7 @@ trading-foe.site
 tradingeth.info
 traspad-tko.com
 treasury.basenjicoinprotocolfi.net
+trecakec.cc
 treezr-suite-eng.pages.dev
 trezor-us-portal.framer.ai
 trojanbot.work
@@ -1575,7 +1581,6 @@ truflation-revoke.org
 trumpweb.xyz
 trustaml.xyz
 trustwallet-i.com
-trustwallet-send-bep20.com
 trustwallet.plm.cr
 truth.5a-evmcheck.lol
 trwezor-io.typedream.app
@@ -1583,13 +1588,13 @@ tryflubless.com
 tryringais.com
 trzr-suite.square.site
 turbotoken.ai3page.com
-tw-site.org
 twsprocar.digital
 tycooon.pro
 tyhui.com
 tyihyg70ply3yup.baby
 u-torrent.org
 uacred.com
+ubiiipagoosoluciones-production.up.railway.app
 ucmining.one
 uforce.cc
 ugr3s9cyqp0a.pages.dev
@@ -1643,7 +1648,6 @@ velaexchange.live
 vellachange.online
 velocore.xyz.l2-app.cfd
 venom-network.com
-verificatieproces.com
 verification-guild.xyz
 verify-starknet.firebaseapp.com
 verify.wallstrmeme.site
@@ -1708,7 +1712,6 @@ web3loginee.tk
 web3wsm-casino.pro
 webauthorization-ledger.com
 webdebug-daap.pages.dev
-webinarzoom.live
 weinerdog.live
 welcomehex.com
 welcomepaxos.net

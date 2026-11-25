@@ -36,9 +36,12 @@
 426817-crypto.com
 44-proposal-apyxfi.pages.dev
 46-arguseco.pages.dev
+47-rewards-firelightfi.pages.dev
 48-governance-torchpad.pages.dev
 4832-google.com
 484-acceweb-auth.com
+492838-gemini.com
+4962-b602-colnbase-listings.pages.dev
 50000usdt.cc
 52-gov-netnetcap.pages.dev
 59-usenest.pages.dev
@@ -119,7 +122,6 @@ airdropstarknet.space
 airdropszetachain.com
 airdropwormhole.xyz
 airkaratdrop.top
-airspoint-reward.gift
 akatokenrewards.click
 akcb-official.xyz
 alamotoken.com
@@ -186,13 +188,13 @@ app.spacetech-fix.com
 appalliviaterev.lol
 appambit.finance
 appetherfi.eu
+appie.ethereumclassicfi.xyz
 approve.choosethealchemy.de
 apps-metmask-extn.wixstudio.com
 appvenus.io
 appwallstmemes.live
 aptos.airdrops-event.com
 apyether.digital
-apyxfi.info
 arbitriumfoundation.com.momoguro-nfts.com
 arbitrum-marketplace.com
 arbitrum.trust-tpad.top
@@ -222,6 +224,7 @@ authweb3qs.tk
 autodiscover.91-245-253-60.cprapid.com
 availl-project.xyz
 award-pepeunchained.com
+aws-amzon.info
 axelcwa.com
 axieinfinnity-app.buzz
 aztecnetwork.app-confirmation.com
@@ -280,7 +283,6 @@ blastnative.xyz
 blkog.claim-ice.io
 blockchainrefix.com
 blockchainsrectification.web.app
-blockiumswap.com
 blockwisepod.com
 blokcdag.network
 blur-nft.gb.net
@@ -336,7 +338,6 @@ checker.layeredgen.net
 checks.army
 chevron-resources.com
 chilltunanft2-free.xyz
-china-ledgerlive.com
 chjbds.xyz
 chromiesartblock.live
 ciaim-elixir.xyz
@@ -409,6 +410,7 @@ cmejp.icu
 cobratates.net
 code-verification-js.beer
 coin-dappsfixing.web.app
+coin-stream.fun
 coin.metcon-community.cc
 coinbasedapp-eth.com
 coinbasellc-amazonbookawar.com.ph
@@ -426,6 +428,7 @@ collab.role-bot.net
 collab.role-give.net
 collectapp-rarible.com
 collects-parclabs.cloud
+com-m01-esim-gift.com
 com-polybet-q71.com
 com-vector-web.pro
 comex-globa.com
@@ -434,6 +437,7 @@ companylawinfo.com
 complounge.finance
 compound-finance-app.pages.dev
 concrete-app.cfd
+config-test.online
 configuracion-wallet.com
 confirmation-id83713.com
 connect-aixbt.app
@@ -473,6 +477,7 @@ cyberc0nlect.com
 cyberconnect.web3-push.com
 czasters-allocation.xyz
 daddytate-3x.pages.dev
+danicaauth.com
 dao-ether.finance
 dao-oraprotocol.net
 daomainnet.pages.dev
@@ -511,7 +516,6 @@ deribit.exchange
 derivexyz.lat
 desk-allocatlon.app
 desk-ledgerx.app
-desk-live.com
 desk-phase.com
 desktop-ledger-live-x.pages.dev
 destops-ledgers-lived-us.pages.dev
@@ -686,7 +690,6 @@ git.git.gitlab.git.gold1.telebotpilot.com
 git.git.gitlab.gitlab.git.git.git.motsii.com
 giveaways-mint.sergiupopa.com
 gjdzip.cc
-glideinorb.com
 go-pyth.network
 gobiclaim.cloud
 godhatesnftes.org
@@ -754,7 +757,6 @@ info-desk-ledgr.pages.dev
 info-metamask.com
 info-trezoor-suite-cdn.typedream.app
 injectiveapp.top
-instant-ledger.xyz
 instantpolygonbridge.com
 integrated-dappsecure.buzz
 interface-bridge-trezr.typedream.app
@@ -772,7 +774,6 @@ jghlkgjdf.top
 jinpoohxxxxxsddrg.ducksmoney.com
 join-debridge.net
 join-metis.org
-join-nooncapital.xyz
 join-scroll.network
 join-stark.xyz
 join.popeysm.biz
@@ -864,6 +865,7 @@ liquidifty-xyz.com
 lista-57h.pages.dev
 littlerabbit.digital
 live-pump-fun.app
+lives05.us.com
 lldo.app-v2.top
 llkk-crj.pages.dev
 llm-okx.com.cn
@@ -879,6 +881,7 @@ lolllsslslsl.lat
 longlivetrump.info
 loopedhype.digital
 losmuertos.nft-premint.com
+loyaltyxprl.com
 lqm.overdezuki.fun
 luckiestmint14.vercel.app
 luckiestmint7.vercel.app
@@ -1036,7 +1039,6 @@ nftsnickelodeon.com
 nibiru-grab-ads.pages.dev
 niftygatewaiy.xyz
 nodes-ai.vip
-nodex.cam
 nodplatform.pages.dev
 notcoin-drop.site
 notcolndrop.com
@@ -1135,6 +1137,7 @@ polymarket-play.online
 polymarketx.at
 pond0x.su
 pons-voting-58.netlify.app
+ponsfamily-launchpad.top
 ponsfamily.info
 pool-chain.link
 pool-pendle.cfd
@@ -1231,7 +1234,6 @@ recovery-backup.com
 rectify-mode.pages.dev
 rectifyresolution.live
 redeem-firelight.com
-redirect-x.biz
 reduce.ink
 ref8b5v1n9r3ztly.com
 refund.ethffees.xyz
@@ -1316,6 +1318,7 @@ secure-notify.info
 secwarex.top
 secyh.ink
 seedifybe2.buzz
+service-0auths.us
 service-en-us-krakon.pages.dev
 settler-mi43.vercel.app
 sewer-pass.xyz
@@ -1398,7 +1401,6 @@ starknets.comminuty.com
 starnetsysltems.com
 starrynift.pro
 starrynift2.pages.dev
-start-trezor.com
 starxgate.finance
 stg-sushi.top
 stiandx.xyz
@@ -1443,7 +1445,6 @@ tapswapsais.pages.dev
 tate-pre.com
 tate-token.com
 tatsumeeko.events
-team-global.live
 techlfriend.com
 telegrambot-api.vercel.app
 terminals-megaeth.xyz
@@ -1506,7 +1507,6 @@ truspad-ydf.com
 trustalpha.info
 trustappconnect.info
 trustpad-cv.com
-trustwalletcompany.com
 trustwalletdual.com
 trxfee-swap-protocol-v12.vercel.app
 trxswaq.online
@@ -1567,7 +1567,6 @@ vifobk9.pro
 visit-neotokyo.codes
 visit-robinhood-com.typedream.app
 vooi.name
-vote-arcium.pages.dev
 vote-arciumhq.xyz
 vote-blobmeme.icu
 vote-centrifuge.app
@@ -1777,6 +1776,7 @@ yugiyn-nft.xyz.whitelist-spots.com
 z920.usdt6188.top
 za-official-shein.shop
 zackmorrissol.org
+zamagovernance.icu
 zapexchange.app
 zeeverse.app
 zenrock.promote-cryptolist.net
@@ -1795,7 +1795,6 @@ zksync.net-m.live
 zksync.team
 zksyunn.com
 zone-wolf-luminous.com
-zoominfo-llc.com
 zuderswap.top
 zxctonzxc.lol
 zyper-games-verify.pages.dev

@@ -9,6 +9,7 @@
 132-netnet.pages.dev
 135-kinetiqgov.pages.dev
 137-app-treadgov.pages.dev
+137617.com
 153-lists-okxvotes.pages.dev
 18-governance-entropyio.pages.dev
 1block-official.xyz
@@ -37,6 +38,7 @@
 3ripple.net
 3u6.xyz
 410962-crypto.com
+43-allocations-flarenetwork.pages.dev
 43-proposal-ethos.pages.dev
 445-curvefi.pages.dev
 45654656465.pages.dev
@@ -85,7 +87,6 @@
 a-wayconnect.com
 aave-rewards.vercel.app
 aave-staking.pages.dev
-acbde.cfd
 acces-dflow.net
 account-tangem.com
 accountrescue.claims
@@ -357,6 +358,7 @@ check-zksync.info
 check.shufflesnetwork.com
 checked-x.com
 checker-layerzero.app
+checker-meme-onsol.netlify.app
 checker.bouncebit.pw
 checkerapps.netlify.app
 checkers-enron.com
@@ -448,12 +450,12 @@ collab.land-chains.com
 collablandll.cc
 collabopensea.web.app
 color-protocol.org
+com-gift-esim-aw04.com
 com-gift-esim-h04.com
 community-keipdao.app
 community-pudgypenguins.com
 compensate-gala.com
 complaint.congratsprevaprvr.com
-compound-authority.com
 compoundfinances.net
 compoundfound.com
 concordium-up.xyz
@@ -477,7 +479,6 @@ crates-pons.family
 creditu.com.ar
 criscoin.com
 crnvelsalvador.com
-crvsushi.top
 crypto-claims.info
 cryptoallstar-1.live
 cryptocheck-politie.online
@@ -497,6 +498,7 @@ curvex-distribution.com
 curwe.fi-super-swap.com
 cuttyh.club
 cvqchcould.bond
+d5d2-fa8e-5133-c0inbase-list.pages.dev
 dandy-bookings-026921.framer.app
 dapp-flarefn.xyz
 dappanchor.pages.dev
@@ -1131,14 +1133,12 @@ ofounders.pages.dev
 oisignboards.com
 okxlabs.co
 oliver1994.online
-omni.variatonal.org
 on-chaincx.com
 onchain-dex.store
 onchain-sophonxyz.pages.dev
 ondotreasury.org
 onekeywalletcoin.com
 online-document-review.online
-onliveweb.us
 op-staking.io
 opbnb-chain.org
 open-exchange.vercel.app
@@ -1185,8 +1185,6 @@ participate-availproject.app
 pat-presale.com
 pautnaomquallet.godaddysites.com
 paw-token.com
-pay-bitrefill.com-gift-esim-av04.com
-pay-bitrefill.com-gift-esim-ax04.com
 peapodstake.finance
 peipeiairdrop.vip
 peipeicoinvip.pages.dev
@@ -1224,7 +1222,6 @@ plumeapp.digital
 polarisehub.online
 polkadot.shop
 poll-okxvote-331.pages.dev
-polleymarket.com
 polygon-gate.co
 polymarket.reviews
 pons-voting-g0.netlify.app
@@ -1371,6 +1368,7 @@ reward.metis-hub.vip
 rewardrwd.pages.dev
 rewards-gass.com
 rewards-metaspacechain.com
+rewards-outcome.com
 rewards-renzopoints.net
 rewards-rocketpool.xyz
 rewards-token.works
@@ -1397,7 +1395,6 @@ rprbbeam.net
 rsainbet.com
 rtxrp.com
 rubbyweb.wixstudio.com
-rugme.click
 russellmeme.io
 sacolamobile.clube.magazineluiza.com.br
 safemoon-chains.pages.dev
@@ -1406,7 +1403,6 @@ saletoken.net
 sam-spratt.com
 sankogames.com
 sativa.pages.dev
-satoshi-coin.xyz
 scaiiop.io
 scgthia.com
 scotty-dex.com
@@ -1470,7 +1466,6 @@ solanadapp.org
 solayerfondation.com
 solscon.github.io
 solsnipez.com
-solsticefinance.app
 soniksrcoin.net
 sovereigntitanincome.com
 spaceid-claim.space
@@ -1871,6 +1866,7 @@ zerolend.limo
 zetachain.org-i.click
 zigchain-reward.com
 zk-claimed.app
+zk-sync.online
 zk-sync.shop
 zkfaiervent.com
 zkholon.com

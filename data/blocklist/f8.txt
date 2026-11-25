@@ -1,4 +1,3 @@
-0odos-v3.icu
 0xcocobet.net
 1-fluidio.pages.dev
 10-allowlist-ascendlaunch.pages.dev
@@ -36,7 +35,6 @@
 33-reallocate-flare.pages.dev
 336721gmail.com
 363-curvefi.pages.dev
-384515.com
 399-lists-okxvotes.pages.dev
 40-stonkbroker-clutchmarkets.pages.dev
 423291-ledger.com
@@ -45,6 +43,7 @@
 45-proposal-saturncredit.pages.dev
 4burn-giveaway.netlify.app
 52-proposal-stark.pages.dev
+537823google.com
 58-view-kinetiq.pages.dev
 582953-coinspot.com
 59-vote-papertrade.pages.dev
@@ -56,6 +55,7 @@
 618402-crypto.com
 64-saturncredit.pages.dev
 65lzt.airdrop-eth.mom
+675c-fa8e-5133-c0inbase-list.pages.dev
 6qlky4-8080.csb.app
 73-proposal-globaldollar.pages.dev
 731892-binance.com
@@ -84,7 +84,6 @@ aero-4dm.pages.dev
 aerodromeapp.finance
 aeroe.trade
 aetheris.company
-aethir-rewards.xyz
 aethircloud.pages.dev
 afbltrums.foundation
 ai-dogee.eu
@@ -208,6 +207,7 @@ areyoubullish.org
 argent.claims
 aribtrum.lol
 artblocks-dameinhirst.com
+arturpruzinski-com.pages.dev
 arvestb.co.com
 ascendlaunch.icu
 asdf4kfg.beer
@@ -347,6 +347,7 @@ caxpalink.xyz
 cbdroyaloficial.com
 cbridge-celer-network.org
 ccoinbaseprologiie.godaddysites.com
+cdnportalwin.com
 cealtis.net
 celestia-projects.net
 celestz.top
@@ -428,7 +429,6 @@ cmbpkrejqucgdz.college
 cmegp.art
 cms.staging.autodiscover.admin.www2.mocbarbellandfitness.com
 cnain.link
-codeinlaguro.com
 coin-invoice.pro
 coinbase-airdops.com.ru
 coinbase-cmc.com
@@ -444,6 +444,7 @@ cointokenlaunch.pro
 collab-dash-land.com
 collab-land-connections.vercel.app
 collab.lland-api.com
+com-gift-cards-pepe.com
 com-qr.me
 com-start.info
 com-web.online
@@ -557,7 +558,6 @@ doomercto.com
 dooogsssssssssss.shop
 doppler.sitemw7yrel9wmgl.xyz
 doprewardsmarkets.com
-downaldtwump.lol
 download-en-ledger.pages.dev
 dralituncer.net
 drop-nibiru.fi
@@ -630,7 +630,6 @@ evernodexrplairdrop.live
 evilpcpecoin.com
 evm-ho.netlify.app
 exchange-pp.mom
-exchangeio.net
 exodus.bot.cd
 exodus.clarity-regulation.com
 exploremanta.com
@@ -660,6 +659,7 @@ firelight-allocation.live
 firelight-gov.top
 firelightfi-take.live
 fix.blockdagsclaim.network
+fizzdig.click
 fjordfoundry.net
 fkwnzd1n3neb3pl.monster
 flare-portal.io
@@ -768,6 +768,7 @@ incognito-umbra.com
 inkonchain.fi
 innetdigital.com
 instant-bastion-guard.site
+intelligentkernel.site
 interface-je05.vercel.app
 invitation-lido-rewards.com
 invite-blastl2.com
@@ -816,7 +817,6 @@ kyc.amlclever.com
 l7finance.com
 lad82.top
 lag77lf8mu6bpry.website
-laluggage.com
 lander-dn9.pages.dev
 launch-01ai.com
 launch-aevo.com
@@ -925,7 +925,6 @@ memeaicoin.io
 memebeckers.com
 memebeefpro.site.octoberbegood.online
 memesclaim.netlify.app
-mento.run
 merklxyz.lat
 messhynffg.space
 meta-cryptopods.com
@@ -1126,7 +1125,6 @@ passes.city
 pauly-riches.com
 pawfurry.site
 pawfury-claim.live
-pay-bitrefill.com-ap01-esim-gift.com
 pay.avito.avito.avito.www.sell32.com
 pay407etr.com
 pbf6e.cc
@@ -1144,7 +1142,6 @@ peperonimakaronis.com
 pepetokens-claim.com
 pha-event.xyz
 phanntoumwallet.godaddysites.com
-phonixtrade.xyz
 photonproject.xyz
 pinksalefinance.network
 pipworld.cloud
@@ -1185,6 +1182,7 @@ prisma8.top
 prismaxlove.web.app
 proceed-x.com
 producerc-nft.xyz
+profitlinefinance.net
 project-live--ledgger.pages.dev
 projectivenode.pages.dev
 proposal-mantrachain.com
@@ -1278,7 +1276,6 @@ rewardgomble.net
 rewarding-symbiotlc.com
 rewards-cardano.app
 rewards-curvefi.com
-rewards-gautnlet.fun
 rewards-lombardfinance.xyz
 rewards-peipeieth.xyz
 rewards-pixeiverse.com
@@ -1308,6 +1305,7 @@ satkeland.com
 satoshivm.events
 scalable-ledger.xyz
 scan-wallet-sg.org
+scbmanag.top
 sclo-okx.com.cn
 scotia-connect-business.com
 scottytheai-xyz.pages.dev
@@ -1372,7 +1370,6 @@ smogtokens.shop
 snapshot.bvmnetworkcoin.com
 snazzyactivedex.pages.dev
 sneaksofnature.mint-now.co
-solback-pump.fun
 soldistributions-token.vercel.app
 solfimoon.com
 solicitacreditubi.iceiy.com
@@ -1437,9 +1434,7 @@ sujwar.com
 summer-paper-9148.on.fleek.co
 sunny.ag
 sunpump.fyi
-super-bonus-mega.cfd
 superblockcore.pages.dev
-superbonusonline.beer
 superrare-pass.com
 support-trustiwalet.gitbook.io
 supports-x.com
@@ -1504,10 +1499,8 @@ track-portfolio.ink
 trading.pulsechaindao.net
 traitsniper.web3reconnect.org
 transsaction-9d6028cc-7714-4955.com
-treasury-pools-flare.foundation
 treasury-swell.xyz
 treasury.basenjicoinprotocolfi.com
-tresgamb.com
 trezor-helps-support.com
 trezor-io-sso.plasmic.run
 trezor-login-start-conect-us.typedream.app
@@ -1571,6 +1564,7 @@ v2.areon-claim.network
 v4-onboard.cfd
 vantagecommodity.com
 vapornodes.com
+variaitonal.cam
 varlatlonal.com
 vectcr.fun
 veda-points.xyz

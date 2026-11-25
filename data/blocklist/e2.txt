@@ -49,7 +49,6 @@
 3wb.cam
 45-netnet.pages.dev
 483921coinbase.com
-529952-binance.com
 54-governance-curvefinance.pages.dev
 54-proposal-globaldollar.pages.dev
 582406-crypto.com
@@ -66,8 +65,10 @@
 7-vote-fluidio.pages.dev
 71-curvefi.pages.dev
 7104860568.pages.dev
+723195coinbase.com
 72351coinbase.com
 741829-crypto.com
+786231-crypto.com
 8-governance-cashmerelabs.pages.dev
 8-governance-metric.pages.dev
 82-allowlist-ascendlaunch.pages.dev
@@ -76,6 +77,7 @@
 88-derivexyz.pages.dev
 8882358.app
 94.74.164.101
+9733-482c-coinbase-listing.pages.dev
 97ee6.blogspot.md
 98-proposal-prjx.pages.dev
 99-1.tapekit.org
@@ -235,6 +237,7 @@ asterlinknet.pages.dev
 atmsolcoins.com
 aura-network.xyz
 aurainbet.com
+auth-cbbs.pages.dev
 auth-ledgr-com-strt.pages.dev
 authwallet.org
 autoatendlmentobb.com
@@ -286,7 +289,6 @@ bitget2.vip
 bitinft.io
 bitmartexchange-com.com
 bitmaxplatform.pages.dev
-bitrefill.com-p01-esim-gift.com
 bitstampsignin.wixstudio.com
 bitubuylogins.gitbook.io
 bitxex-login.com
@@ -457,6 +459,7 @@ cloudverse-opsec-computers.pages.dev
 co.nnect-land.vip
 codecdigital.com
 coimngecko.click
+coin-base-nft-reward.brodinsplat.se
 coin-offers.com
 coinbase-help-login-secure.net.ph
 coinbase.com.paypol.live
@@ -474,7 +477,9 @@ collabland-user.vercel.app
 collateralnetworks.pages.dev
 collect-eigenlayer.com
 colossal-terabyte-whispering.on-fleek.app
+com-c04-gift-esim.icu
 com-find-device.support
+com-gift-esim-ab04.com
 communesai.xyz
 community-awards.com
 community-soneium.xyz
@@ -501,12 +506,10 @@ cornerfarm.xyz
 cornergain.xyz
 coursesigdapp.pages.dev
 cousdt.com
-crashboost.cc
 creativewebsiteconcepts.com
 creator-livepump.fun
 cropper-dex.com
 crosswindexs.com
-crptlg.kraken.avilios.com
 crypto-8qi.netlify.app
 crypto-care.pro
 crypto-tdk.netlify.app
@@ -616,7 +619,6 @@ easie-jet.com
 ecosystem-frax.com
 edendrop.io
 eerni.org
-eigen-foundation.stakingreward.cloud
 eigencloud.support
 eigentoken.site
 ekf.addictgirl.site
@@ -692,6 +694,7 @@ fakeai.info
 farm-sophon.firebaseapp.com
 farm-v1.sbs
 farquest-r21s6rq3h-glebmartynov-tutanotacom.vercel.app
+farrn.luxe
 fartcoinonsol.com
 fastsoluudapppmigratee.com
 fderkqrd.bond
@@ -748,6 +751,7 @@ get-pepe.vip
 get-vouchers.vip
 getbeastmemcoins.com
 gethgas.pages.dev
+getphantomcard.click
 getsolspin.xyz
 ghost-app.top
 gift-nexo.com.lionsglobal.net
@@ -828,6 +832,7 @@ illuvium.io-claim.tech
 immutable-events.com
 impactivecreator.com
 impostors.nfts-premints.com
+in-coinbseprolog.pages.dev
 indead.xyz
 inexpensive-otter.static.domains
 inqubesta.site
@@ -836,6 +841,7 @@ interact-zerolend.xyz
 invite-aave.com
 invite-wen.com
 io-honor.pro
+io-in-n01-omni.com
 io-op-claim.top
 io-suitepanel.com
 iossoenuphldsappcdn.wixstudio.com
@@ -1068,7 +1074,6 @@ mysteryclaims26.vercel.app
 mysterygift3.vercel.app
 mysteryinc4.vercel.app
 mysterylink7.vercel.app
-n-xt.cc
 nano.bigmumbai.fun
 nasdanq-evm.airdrops-s4.lol
 native.bera.cx
@@ -1105,7 +1110,6 @@ oauth2.evergreenfin.ltd
 october-jup.info
 oen-okx.com.cn
 onchaincoin.lol
-ondovoting.app
 online-bitget.com
 onlypbase.com
 opanseas.org.kz
@@ -1154,7 +1158,6 @@ partnerships-apecoin.com
 pass-galxe.com
 paxfulclala.com
 paxosexchange.com
-pay-bitrefill.com-gift-esim-q04.com
 paypal.pncfinanceinternational.com
 pellnetworkclaim.icu
 pendle-vote.site
@@ -1174,7 +1177,6 @@ piaza.finance
 piratenation.web3fast.net
 pjppnft.xyz
 playermon.fun
-plumenetwork-distributions.xyz
 points-hyperliquid.xyz
 polar-case.com
 polexbot.net
@@ -1259,7 +1261,6 @@ quirkmaster.live
 qw1566a.top
 qz-bybit.com.cn
 rabbyy-en-us.wixstudio.com
-raccoons.atlas.burrow.tools
 radiantcapital.live
 radixltd.tech
 rainbet-ca.radio.fm
@@ -1510,6 +1511,7 @@ terrrayy.com
 tesla.genesis-collectible.com
 test.aac6ad967ab524e93af5b32c.ckcch.mte.m.convexfinence.com
 test00101.pages.dev
+testmytrezorsuite.com
 testnet-reformdao.com
 tetherusd.org
 teyinoksawaycom.pages.dev
@@ -1546,7 +1548,6 @@ tranzzak.pages.dev
 treasure.re
 treasury-degen.net
 treasury-pools-ethena.com
-treasuryspools-flarenetwork.com
 trezor-suite-officall.framer.ai
 trezr-hardwae-wall.pages.dev
 trezzr-earn-us-suite.typedream.app
@@ -1696,6 +1697,7 @@ white-net-e36.cf-u7zqwlnj.workers.dev
 whitelist-satoshivm.com
 widgets.commoninja.com
 willie-coin.site
+winter-summit-secure-user-3e08-2694.pages.dev
 withdrawal.vaults-ftx.com
 wlfl-trump.me
 wolvesdao.app

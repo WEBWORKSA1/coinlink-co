@@ -35,6 +35,7 @@
 33-proposal-stark.pages.dev
 35-rewards-firelightfi.pages.dev
 3822937-coinbase.com
+3de1-colnbase-listings-4f65.pages.dev
 3jane-allocation.click
 4-arguspadgov.pages.dev
 4-hyperlinkapp-86x.pages.dev
@@ -54,6 +55,7 @@
 53-ponsfamily.pages.dev
 53-usenest.pages.dev
 537814coinbase.com
+54-rewards-firelightfi.pages.dev
 55-netnet.pages.dev
 582221-trezor.io
 59-host.phantom-virtual-tap.com
@@ -174,7 +176,6 @@ app.sweill.network
 app.swellnetwork-token.com
 app.unsiwap.org.kz
 app.webdisk.cpanel.cdn.tornado-cash.io
-appealcontent-x.support
 appintegratedverse.pro
 appjojoexchange.pages.dev
 applebtc.co
@@ -259,8 +260,7 @@ bitinaw.top
 bitkubne.cc
 bitpie.download
 bitrefill-pay.at
-bitrefill.com-i01-esim-gift.com
-bitrefill.com-w01-esim-gift.com
+bitrefill.com-gift-cards-dash.com
 blast.connected-web3.net
 blastprojct.icu
 blastupclaim-cfg.pages.dev
@@ -317,8 +317,8 @@ chaingptweb3.org
 chainiink.xyz
 chainzeriondapptoken.pages.dev
 chalnlink-claim.net
-changelly-v2.at
 changenow-dex.at
+check-amlbot.icu
 check-babyioniabs.com
 check-browse-youid.info
 check-recallnetwork.pages.dev
@@ -379,7 +379,6 @@ clippydistribution.xyz
 clouds-okx.com.cn
 cme-g.vip
 cnpcharm.com
-coachjvtech.us
 code-stack.pages.dev
 coin-interest.xyz
 coin-liquid.com
@@ -407,6 +406,9 @@ collab-mpc-land.com
 collab.walletgate-land.com
 collect-fantasy.top
 com-alpha-app.pro
+com-ce01-esim-gift.com
+com-cn01-esim-gift.com
+com-in-n01-esim-gift.com
 com-ld.lat
 comfyui.evergreenfin.ltd
 compensation-bia.com
@@ -419,7 +421,6 @@ connect.collgb.land
 connect.kavaxyz.xyz
 connects-bridge--trezo.pages.dev
 consenchain.eth.link
-contentguideline-x.com
 contract-moonwell.finance
 cornerswap.me
 cortensors.network
@@ -513,7 +514,6 @@ distribut-ethena.pages.dev
 distribute-hyperliquid.xyz
 distribute-meritcircle.net
 distribution-vvsfinance.com
-distributions-claims.com
 distributions-empyrealsdk.com
 districtoneio.app
 dklsu8.com
@@ -594,7 +594,6 @@ exodus.com.sc
 exodus.compliance-clarity.com
 exoduslogin.webflow.io
 exoduswallet-usatop.godaddysites.com
-exsodu-walet.wixstudio.com
 exteriterances.design
 falcons-drop.com
 familleunity.top
@@ -699,11 +698,11 @@ grok-solanas.xyz
 guozex.com
 gxeeut.com
 gxhik.com
-h-cl.top
 halbornsecurities.pages.dev
 hamsterdrp.top
 hamsterkombatcashout.online
 hamstersallocation.pages.dev
+hardware-gemini.com
 hashkele.com
 heave6-cucumber5-foyer1-slinky5.nl.tuna.am
 hederatxns.org
@@ -823,7 +822,6 @@ lido-rewards.app
 lido-staking.site
 lidoawards.com
 lidool.info
-lidoprotocol.org
 lidorewards.pages.dev
 lifi.pm
 linea-build.us
@@ -883,8 +881,6 @@ marketoneplacex.blogspot.com
 martianwallet.net
 matrica.bot
 maverickfi.xyz
-maxsolutionwallet.live
-mdslh.com
 mee6confirm.com
 melon.evergreenfin.ltd
 membersdrop.live
@@ -896,6 +892,7 @@ merlenswap.org
 meta-drops.top
 metabnb.xyz
 metacade.app
+metamasck-us-lginus.godaddysites.com
 metamask-docs-git-feat-mm-connect-docs-consensys-ddffed67.vercel.app
 metamask-guideincidentguiderequest-hn.gitbook.io
 metamask-info-servicedeskdeskdeskservicedeskservice.net.ph
@@ -906,6 +903,7 @@ metamask.io-portal.org
 metamaskchroomeextnsion.gitbook.io
 metamaskilogii.godaddysites.com
 metamasklabs.cloud
+metamaskportal.io
 metamaskrestores.pages.dev
 metamasku.com
 metamaskutensionusiq.gitbook.io
@@ -920,6 +918,7 @@ miconsoftonline.com
 microsoft365.fi
 migration-ar-io.xyz
 mindnetwork-get.vercel.app
+mindoguard.com
 mine-bot.fun
 mining6662.com
 mint.bidog.club
@@ -1088,8 +1087,6 @@ pass-bayc.org
 pass-pendle.finance
 pauhox.com
 paws-claims.xyz
-pay-bitrefill.com-an01-esim-gift.com
-pay-bitrefill.com-cz01-esim-gift.com
 payai-network.com
 peaqxyz.top
 pedidasu-ar.za.com
@@ -1305,6 +1302,7 @@ shlibtariium.com
 shop.admin.ww12.worldcoin.pw
 shop.ciansbera.click
 shopsplus.live
+signalstacktrendx.live
 signup-buiidonhybrid.com
 signup-seedify.fund
 signup-syncswap.com
@@ -1493,7 +1491,6 @@ turboscoin.org
 tvl-shib.net
 twitch.am
 twittercash.net
-tygamb.com
 ug2zqby.cc
 uipiler.com
 un00.xyz
@@ -1584,7 +1581,6 @@ walletresolverdapp.pages.dev
 wallstreetmenes.net
 walltsreetpepes.com
 walpxcoin.com
-wasowin.com
 watts-refund.com
 wave-2we.pages.dev
 web--trezorsuite--doc.pages.dev
@@ -1598,6 +1594,7 @@ web3.mainkava.one
 web3coinvenmobase.com
 webfixvalidator.org
 website-791b73bc.olz.qrr.temporary.site
+weex-ex.vip
 weinerdogai.live
 wfp-connect.online.zionfinance-ltd.com
 whitellst-dymension.xyz

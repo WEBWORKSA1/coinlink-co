@@ -27,7 +27,6 @@
 250-allowlist-ascendlaunch.pages.dev
 26-app.pages.dev
 28-governance-jumpereco.pages.dev
-2fa-live.io
 2lhk8ym.pro
 3-allocation-abstract.pages.dev
 3-proposal-computersrh.pages.dev
@@ -38,6 +37,7 @@
 334284-coinspot.com
 341731coinbase.com
 379665-binance.com
+395839kraken.com
 4-coinbase.com
 40-proposal-saturncredit.pages.dev
 439-reallocate-flare.pages.dev
@@ -115,7 +115,6 @@ airdropeventhorizon.xyz
 airdropi.app
 airdroptg.lol
 airlaunch.gg
-airspoint-reward.day
 aitprotocols.net
 aixboxes-gold.cloud
 alchemynode.cloud
@@ -129,7 +128,6 @@ allocate-solv.xyz
 allocate.pikesfinance.trade
 allocated-ether.fi
 allocation-apustaja.com
-allocation-chomage.com
 allocation-firelight.xyz
 allocation-hyperfoundation.app
 allocation-neiroeth.com
@@ -275,6 +273,7 @@ bexarrbibliotech.org
 bezoeknummer130594839.info
 bia.claims.my-debtor-withdrawls.com
 biccrypt.pages.dev
+bifanpro.com
 big3-nft.com
 bigboyabudabi.com
 bigspingame.mobi
@@ -285,8 +284,6 @@ bit-virgo.com
 bitgos.blog
 bitistores.com
 bito.xin
-bitrefill.com-gift-cards-op.com
-bitrefill.com-in-x01-esim-gift.com
 bitufu.com
 bitzerofusionchartfil.pages.dev
 bl0ckdagnetwork.com
@@ -458,8 +455,10 @@ coinstat.top
 cointrackinginfo.com
 collab-txd-land.com
 collab.land.com.se
+com-by01-esim-gift.com
 com-converge-web-app-login.com
 com-eco-pro.pro
+com-in-ac01-esim-gift.com
 com-securenode3.lol
 com-updatebilling.info
 com-webb.asia
@@ -780,7 +779,6 @@ hoiow.com
 holders-revshares.pages.dev
 holdstation.pages.dev
 homa-gang.xyz.whitelist-spots.com
-home-exdusweb3-us.pages.dev
 home-ledger-live-web-us.pages.dev
 home-pay-bis.pages.dev
 home.grabix.club
@@ -968,6 +966,7 @@ migrate-onyx.org
 migrate.cloudsverse-opsec.com
 migratelayerai.tech
 migrationplazapgame.xyz
+mihaocatsol.icu
 mijngegevens-portaal.info
 mininghex.net
 mint-claimboxes.web.app
@@ -996,7 +995,6 @@ moonshot-voting-wl.netlify.app
 moonwell.digital
 morpheusai.app
 movieblastap.com.in
-msollayer.xyz
 msxn34.pro
 muitiplier-getfloki.com
 multiplier-chain.link
@@ -1106,7 +1104,6 @@ patriot-rewards.info
 pauly-5percent.com
 pawecoswaps.net
 paxfel-loinu.godaddysites.com
-pay-bitrefill.com-ce01-esim-gift.com
 paybice.wixstudio.com
 paybis-refunds.com
 pc-teams.live
@@ -1119,6 +1116,7 @@ pepe-unchained.icu
 pepecoin.limited
 pepewifhat.pages.dev
 petonium.com
+phantomwallet.unicornplatform.page
 pharmachoicecanada.com
 phase1-sentientagi.net
 phpmyadmin.ftp.img.sitemaps.dydx-trading.com
@@ -1190,7 +1188,6 @@ pump-voting-gq.netlify.app
 pumplivechat.fun
 pumpmeme.com
 purchase2blockdag-network-net.pages.dev
-purplebitcoin.lat
 puwus.com
 pyowin.com
 q.nuob.live
@@ -1307,6 +1304,7 @@ sbiamax.top
 scottyheai.pro
 scroll-fndn.com
 scroll.capetown
+scurecheck672.icu
 sdf4-c5v.pages.dev
 season-flarefoundation.com
 season3-etherfidao.com
@@ -1361,6 +1359,7 @@ snapshot-floki.app
 snapshotbox.lat
 sol-spin2026.sbs
 solanapaperhands.xyz
+solapoint.online
 solflar.at
 solidity-compiler-v1-8-6.web.app
 sollletwallet.com
@@ -1475,6 +1474,7 @@ treasuredao.qa
 treasury-netnet.capital
 treasury.sovryncoin.net
 trezor-suit-info.pages.dev
+trezorsuiteapp.at
 trezorweeallet.gitbook.io
 tron-rental-v62.vercel.app
 tron-swaper-v53.vercel.app
@@ -1517,7 +1517,6 @@ unisocksdao.pro
 uniswap-app-dusky.vercel.app
 uniswap-blockchain-ovm4e8xya-hussainr565.vercel.app
 uniswap-bridge.com
-uniswap-chi.vercel.app
 uniswap-protocol-interface-v18.com
 uniswapapp-interfaces.com
 uniswaplive.pages.dev
@@ -1617,7 +1616,6 @@ widgywidwhd.buzz
 winner777goldcas.com
 world-robinhood.xyz
 world.libertyfinancial-unlock.com
-worldcollectiveoilreserve.top
 wsx711.it
 wwvv-laedger.app
 wwvw-bitkub-th.com
@@ -1754,6 +1752,7 @@ xn--portagaming-v3b.com
 xpl-plasma.info
 xuzus.com
 xversesync.online
+yoruprotocol.fun
 ypredict.myairdrop.online
 ypredicty.com
 yxgfnv.cc

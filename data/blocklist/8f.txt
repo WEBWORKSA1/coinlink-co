@@ -60,6 +60,7 @@
 4827b0c3.drop-floki.pages.dev
 5-dashboard-kinetlqgovern.pages.dev
 5-hyperlinkfi.pages.dev
+5-variational-tge.pages.dev
 500-giveaway.top
 543-reallocate-flare.pages.dev
 5517.bet
@@ -284,6 +285,7 @@ bendog.top
 benevolent-licorice-ce2ba2.netlify.app
 bentencoin.io
 beradrome-register.xyz
+bestsafetyjacket-dstsy.pages.dev
 betflex.pro
 bevm.pages.dev
 bia-approvals.com
@@ -299,7 +301,6 @@ bitbueyappcdn.b12sites.com
 bitget-walle.us
 bitget.com.ph
 bitpulsed.org
-bitrefill.com-d04-gift-esim.icu
 bitswapwhitelist.com
 bittensorwallet.com
 bizmatic.club.mobisoft360.com
@@ -474,7 +475,8 @@ collect.adialts.com
 colnbase.cccma.com
 com-1a.lat
 com-573135.help
-com-c6fi7.cc
+com-bj01-esim-gift.com
+com-in-r01-esim-gift.com
 com-polybet-q98.com
 com-vault-hub.bond
 com-verifier.com
@@ -646,7 +648,6 @@ enter-monad.co
 enter-morpho.xyz
 enter-omni.app
 equityorexa.com
-ercclaimmasters.help
 esteritence.pages.dev
 ethar.fi
 ethe.top
@@ -977,7 +978,6 @@ meta-wins.space
 metablox.tech
 metagirlls.xyz
 metaker.cc
-metam-ask-wal-let.pages.dev
 metamask-docs-6dp5b21ex-consensys-ddffed67.vercel.app
 metamask-polygon-airdrop.digital
 metamask-verify-winbet80.ph
@@ -1003,7 +1003,6 @@ mew3-project.com
 mexcmeme.com
 mhccuvl.cc
 mickeycoin.network
-microsofts.cfd
 migrate-gauntlet.com
 migrate-micropets.lol
 migrate-moniebotai.com
@@ -1170,7 +1169,6 @@ paxflfl.com
 paxobcxr.com
 paxos-redeem.net
 paxosi.xyz
-pay-bitrefill.com-bq01-esim-gift.com
 pay-coinbase.net
 pay.usdc.polygon.fans
 peakvision.ltd
@@ -1211,7 +1209,9 @@ polter-airdrop.org
 polydrop.info
 polygon.mint-magiceden.io
 polyhedra-airdop.com
+polymarket-sports-bot.pages.dev
 polymarket.financial
+polymarkex8.com
 polyperps.pages.dev
 pomerdoge.us
 ponkaceapp.com
@@ -1237,7 +1237,6 @@ presale.boroviktokendefi.net
 presele-pewscoin.com
 printmining.pro
 prmainchains.pages.dev
-pro-coinbase.com
 profit7hari.pro
 projectmainnetservers.com
 promptsrevaccesspage.pages.dev
@@ -1245,7 +1244,6 @@ proposal-3jane.info
 proposal-polytrader.com
 propose-ondofinance.xyz
 protectionio.com
-prowinners.icu
 psyoprewards.com
 public-help-terezor.framer.ai
 pufendorf.live
@@ -1375,7 +1373,6 @@ s1-zrc.app
 s1ny.cc
 s5-ether.finance
 sageuniversecto.com
-sap-careers.us
 satoshipanda.network
 saturnefi.today
 sbr-sushi.top
@@ -1503,7 +1500,6 @@ straknet.tech
 streaanpf.top
 stream-pump.top
 styxmarkett.com
-suipad-dapp.pages.dev
 sundancespasadvantage.com
 sunpvmp-home.com
 sunswap.pro
@@ -1644,7 +1640,6 @@ v8888.cfd
 valeriagames.web3fast.net
 validator-hyperfoundation.xyz
 vanarman-free.xyz
-variational.cc
 variational.us
 variationalio.site
 variatoonal.io
@@ -1682,6 +1677,7 @@ wagy7.xyz
 walconnectapply.com
 wallemetaomak.gitbook.io
 wallet-connect.vl-503.ru
+wallet-latchpay.com
 wallet-stake.com
 wallet.supportcoinbase.com
 walletconnection-rpc-reset.vercel.app
@@ -1703,7 +1699,6 @@ web3-xion.com
 web3boxes.xyz
 web3bugsfixer.xyz
 web3devs.org
-weblink.contact
 webmobilepage.net
 webpage-faq-en-trezr-login.typedream.app
 webs03.us
@@ -1857,10 +1852,12 @@ xn--moonshts-r3a.xyz
 xn--mtamaask-b1a.lol
 xn--slflare-l0a.app
 xn--tr-bnance-j5a.com
+xn--treor-7hb.io
 xn--unstoppabledmains-c1b.com
 xoin.space
 xpolymarket.co
 xrp-hunter.com
+xrpaylabs.info
 xrpl-claim.xyz
 xulblocksnodegene.pages.dev
 xuxe.io

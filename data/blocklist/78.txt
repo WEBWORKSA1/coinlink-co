@@ -30,6 +30,7 @@
 194028-crypto.com
 1inch-aircrypto.com
 1inch.web3-dexapp.online
+1inche-hull-de.vercel.app
 1strk.pro
 2-katananetwork.pages.dev
 20-curvefi.pages.dev
@@ -78,6 +79,7 @@
 734892coinbase.com
 77713b1.app
 812519-cb.com
+827302coinbase.com
 96-stonkbroker-clutchmarkets.pages.dev
 aave.app.avwork.top
 aave.com-appv2-connect-api.com
@@ -277,6 +279,7 @@ blastcode1.cloud
 blastsi2.com
 blasttop.eu
 blaze-ong.vercel.app
+blg-okx.com.cn
 blip-blop.com
 block.multidappshub.live
 blockchaindex-6cv.pages.dev
@@ -337,7 +340,6 @@ centralchain-elitebridge.web.app
 centrifuge-governance.com
 chain-dymension.com
 chain-link.pro
-chain-swap.com
 chainfliplabs.com
 chainlink-participate.xyz
 chainmigration.net
@@ -415,9 +417,11 @@ clw.fi
 co.lllabz.land
 co.nnect-collabs.top
 coin-base-assist.com
+coin-streams.xyz
 coinbase-clone-silk.vercel.app
 coinbase-event.vercel.app
 coinbaseinformationalsecurity.com
+coinbasesupportlogin.blogspot.ae
 coinexfutures.top
 coingeckorewards.life
 coinlist.icu
@@ -430,6 +434,7 @@ coinworkv.xyz
 collabs-verify-lands.vercel.app
 colladland.com
 com-drive-web.pro
+com-dw01-esim-gift.com
 cometbridge.finance
 common.foundaition.xyz
 community-flarenetwork.asia
@@ -623,7 +628,6 @@ exosama.mintlive.org
 exoticlooks.net
 ext-metaamsk.wixstudio.com
 extnsionsweb.wixstudio.com
-ez-cash.lat
 fallguysnft.com
 far-token.icu
 farebuildstak.pages.dev
@@ -649,7 +653,6 @@ flarenetworks-reward.xyz
 flaresclaim.xyz
 flarevanilla-app-94807.b-cdn.net
 flashtoken-creator.site
-flatbedcentral.ca
 floki-protocol.xyz
 fnfnfnfnf.store
 fomo-voting-q6.netlify.app
@@ -757,6 +760,7 @@ imaginaryones.finance
 imperiomxcarvao.com
 in-zerolend.xyz
 inch2.top
+incidents-gemini.com
 infamouzltd.silies.xyz
 inj-protocol.com
 injective-join.xyz
@@ -828,7 +832,6 @@ ledgerlivedesk-top.pages.dev
 ledgr-enlive.wixstudio.com
 ledgr-strts.pages.dev
 ledgre-live.pages.dev
-legaldecision-x.info
 legendsofcrypto.org
 leggers-live.us.com
 legogaga.xyz
@@ -920,6 +923,7 @@ metisl2airdrop.xyz
 mexcnet.top
 mfmskkvjsnnsnajprroon.cc
 mica-compliance.xyz
+mica-safepal.com
 microsoft-vault.cc
 microsoftonline-auth.us
 microtsof.sbs
@@ -1023,7 +1027,6 @@ numiofficial.air-mint.com
 nwjko.com
 o7tvdiqqj1jg7c.sbs
 octra-distribution.xyz
-official-secure-portal.info
 oiwetga.com
 okx.sahaaral.xyz
 okxcoins95.top
@@ -1032,6 +1035,7 @@ omnis.finance
 onbeam.website
 onchain-dex.net
 oncybernfts.xyz
+ondofi.luxe
 onebitget.red
 onlineairdrop-claim.web.app
 onweblive.com
@@ -1099,6 +1103,7 @@ playzap-migration.games
 points-friendtech.net
 poiymarketai.com
 polkastarter.org
+pollymarket.pro
 pollyonsol.live
 polymarket.astuca.com
 polymarket.capital
@@ -1115,6 +1120,7 @@ popneirosol.pro
 portal-moonshot-6p0.netlify.app
 portal-moonshot-paa.netlify.app
 portal.forgerewards.live
+portaldocview.icu
 portfolio-metamask-io.net
 pota.live
 pravacomp-ddw.top
@@ -1267,6 +1273,7 @@ rwa-eth.cyou
 rwaconnect-claim-airdrop-trump-coin-meme-doge-btc-eth.pages.dev
 ryfzgbe.top
 rysk.online
+s2-baseecosystem.com
 sadot.site
 safemoonnet.pages.dev
 sale-zama.xyz
@@ -1283,7 +1290,6 @@ secur-metmaskio-eng.pages.dev
 secure-monpay-us.wixstudio.com
 secure-zendesk.com
 securecb.live
-secureonline-auth-87645.live
 securywallets.vercel.app
 seedify.live
 send.portal-drops.club
@@ -1427,7 +1433,6 @@ thegraph.fi
 themaxiimals.com
 themgratekenokiki167.pro
 theo.airdrop4.click
-thepacktradingsol.com
 thesisdysmorphia.site
 theupdate.meta-shop.site
 thuw.cc
@@ -1464,7 +1469,6 @@ trezor-bbridge-app.pages.dev
 trezor-suiteapp.blogspot.com
 tron-five.vercel.app
 tronsscan.com
-trouble-up-hold-en.pages.dev
 trozor.io
 trsetkline.trustwalletai.net
 truerootcapital.com
@@ -1514,7 +1518,6 @@ vartex-protocol.online
 vdtr.pro
 vegasolana.com
 venom-wallet.net
-verificationbluebusinessalert.sbs
 verify-restore.com
 via.swapcrypto.cc
 virtuais.org
@@ -1559,7 +1562,6 @@ walletconnext.pages.dev
 walletdappsecured.netlify.app
 walletrecoverry.com
 wallitiqpresales.com
-wallnet-nodefix.firebaseapp.com
 walltstmeemes.com
 walnetixs.vercel.app
 walstreetsmemes.com
@@ -1615,6 +1617,7 @@ worldsbeyondours.com
 worm1212.pages.dev
 wukongsol.org
 wwcoin-pki.com
+www-changenow.st
 www.0-gaswap.io
 www.0xpro.art
 www.aa-ve-protocol.com
@@ -1750,6 +1753,7 @@ zesty.icu
 zetaswap.lol
 zfcud7b.top
 zg.aiusdc.cc
+zhc-okx.com.cn
 zhifeijidianb.com.cn
 zipcoin-gov.xyz
 zkdarkpool.com

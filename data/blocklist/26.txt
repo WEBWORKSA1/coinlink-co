@@ -38,7 +38,6 @@
 3000jup-rubot.netlify.app
 312-curvefi.pages.dev
 33-orbioeco.pages.dev
-338592-trezor.io
 394-curvefi.pages.dev
 394834-coinbase.com
 395862-binance.com
@@ -47,10 +46,8 @@
 4trustwallet.com
 4zbv.cc
 5-proposal-saturncredit.pages.dev
-512955-ledger.com
 54-vote-orbio.pages.dev
 55-allowlist-ascendlaunch.pages.dev
-557348-overviewgmail.com
 56-gov-argus.pages.dev
 57-arcusgovernance.pages.dev
 57-proposal-papertrade.pages.dev
@@ -63,11 +60,11 @@
 6315729644-81m.pages.dev
 65-vote-cashmereexchange.pages.dev
 68-stonkbroker-clutchmarkets.pages.dev
+6a3d-coinbase-listing-677f.pages.dev
 706hrs.fun
 772512coinbase.com
 77dapp.cfd
 79-governance-jumperapp.pages.dev
-7ougulwesknactsyb4tenmmv4pz6iodd3exw3vdapjcytoecwwbq.arweave.net
 8-gov-argus.pages.dev
 80-netnet.pages.dev
 81-saturncredit.pages.dev
@@ -76,6 +73,7 @@
 86-kinetiqgov.pages.dev
 874362coinbase.com
 88-a.vip
+8973823-coinbase.com
 9-proposal-megaeth.pages.dev
 910281coinbase.com
 94-arcusgovernance.pages.dev
@@ -175,6 +173,7 @@ app-compound.pages.dev
 app-dctpay.com
 app-dusd.info
 app-hyperliquid.pages.dev
+app-hyperluiqid.xyz
 app-investvoyager.com
 app-ledqer.app
 app-lens.xyz
@@ -303,6 +302,8 @@ biswap.xr-coins.com
 bitcoinminetrix.icu
 bitflexy.com
 biti-nauts.fun
+bitrefill.com-gift-cards-flow.com
+bitrefill.com-gift-cards-xmr.com
 bitrefillbroadcasts.com
 bitversezone.com
 blackrockfund.org
@@ -334,6 +335,7 @@ bridge-grandbase.xyz
 bridge-metis.tech
 bridge.thoreumcapital.pro
 bridgewebzite.com
+bright-base-639.cf-byc4q8zz.workers.dev
 broadcast-ip.twitter-eventt22.com
 bscpadlaunch.net
 btcwrapped.com
@@ -463,6 +465,7 @@ coinminingstrategy.com
 coinomi-desktop.com
 cokeazukicanvas.com
 collab-security.land
+com-gift-esim-al04.com
 com-orderino3892.cfd
 com-polybet-q03.com
 com-polybet-q28.com
@@ -525,7 +528,6 @@ cyrowex.com
 daddytoken.fi
 dailydripsupply.com
 dailywinx.com
-dao-firelight.foundation
 dao.origindefis.world
 dapp-mainframe.pages.dev
 dapp-module.pages.dev
@@ -705,6 +707,7 @@ flaregovernance-access.xyz
 flarenetworksallocation.xyz
 flarescan.live
 flareswaps.com
+flashshare.online
 fllaer.network
 flokisummer.com
 floos.pages.dev
@@ -773,6 +776,7 @@ gtf-s.com
 gtx-global.com
 guiser.link
 gz3qnvm.cc
+h-ledger.io
 halo-social.pages.dev
 happyiih.com
 hardwareledgerprogram.com
@@ -833,6 +837,7 @@ instumets-odessa.online
 invisiblefriendsio.com
 io-03u.site
 io-app-start.online
+io-eu.ink
 io-perpertual.biz.id
 io-phntom-en.pages.dev
 io-ref-pay.icu
@@ -1083,6 +1088,7 @@ namster.homes
 nanaclaimsio.web.app
 nav-coinbase.wixstudio.com
 naventcoins.wixstudio.com
+nb-binance.cn
 ndejodijdsdsd.pages.dev
 neirocoins-eth.vercel.app
 neiroethcoin.top
@@ -1138,6 +1144,7 @@ onchain-live.com
 onchaindynamic.com
 onclick-space.id-reg.org
 ondaxbt-xyz.com
+ondoperpetuals.top
 onevision360.online
 onlyfans.pe
 onlygems-web3.lol
@@ -1185,7 +1192,6 @@ papayayoutiaom.netlify.app
 paperhands-dapp.web.app
 pass-mantle.com
 patekrolex-nfts.com
-pay-bitrefill.com-gift-esim-bb04.com
 pdao.live
 peaq.live-checker.website
 pendale.finance
@@ -1218,10 +1224,12 @@ pnutwin.ai3page.com
 point.manta.rs
 polkastart.xyz
 pollens.app
+poly-market-research.replit.app
 polygon.protccol.site
 polyhedra.top
 polyhedralabs.org
 polymarcket.life
+polymarketgo.cc
 polymarketsports.com
 ponsdotfams.digital
 ponsfamily.us.com
@@ -1237,6 +1245,7 @@ portal-moonshot-lvl.netlify.app
 portal-moonshot-xct.netlify.app
 portal-solana.net
 portal.shitcoinbase.net
+portals-flare.pages.dev
 portals-rabby.com
 portfolio-metamask.info
 powareshkaantonapizdec.cfd
@@ -1354,6 +1363,7 @@ revert.financiels.com
 review-ticket-river.com
 reviewed-coinbase.com
 revoke-caslh.com
+revoke-guard.com
 revokecash-3z9.pages.dev
 revokecash.net
 reward-elixir.xyz
@@ -1422,6 +1432,7 @@ sdboardwajod.live
 sea-coin.io
 seaport-drainer.netlify.app
 season2-biasti2.com
+season3-hyperliquidl.xyz
 season5-proposal-etherfi.xyz
 sebraai.tech
 secure-auth.cfd
@@ -1464,7 +1475,6 @@ smogtoken.tech
 smoogtoken.site
 snapshot-monad.app
 snapshot-ponzimon.com
-sniptourl.com
 sol-incinerctor.xyz
 solairdrops-rz.netlify.app
 solana-so.com
@@ -1525,6 +1535,7 @@ stepn-claims.com
 stonfi.chat
 stonkbrokers-hub.live
 su-shi.xyz
+subspromo.com
 sui-dao.pro
 suicommunity.io
 summer.money.l6-3web.top
@@ -1536,6 +1547,7 @@ sushiswaps.app
 swapsushi.net
 swiftchainresolver.com
 swiftrectifysync.pages.dev
+syb-us.org
 symbiotic-etherfl.com
 symbiotic-fi.net
 symbiotic-v2.com
@@ -1571,7 +1583,6 @@ thefurballstech.com
 thegoodgroupcom.site
 thegraph.fast-airdrops.com
 thewarlords.shop
-thorchain-revoke.com
 thoreumcapital.live
 timocestenatecom.pages.dev
 tipcoin.website
@@ -1732,7 +1743,6 @@ web--uphold-us-being.tem3.io
 web-balancerfi.com
 web-giftcenter.top
 web-io-tre-zo-strt-us.typedream.app
-web-upholden-doc.created.app
 web-us.cc
 web3-debug.pages.dev
 web3-js-1us.pages.dev

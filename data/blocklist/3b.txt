@@ -30,7 +30,7 @@
 275-curvefi.pages.dev
 276-allowlist-ascendlaunch.pages.dev
 282127-binance.com
-2j5p.com
+29-allocations-flarenetwork.pages.dev
 3-proposal-ethos.pages.dev
 33-proposal-paperstrategy.pages.dev
 35-register-elysium.pages.dev
@@ -177,6 +177,7 @@ app.shadowsnode.com
 app.swellnetwork.io.r1-web3.top
 app.thrbuster.finance
 appmetatime.online
+apps-concrete.xyz
 apps-iorabyy-en.wixstudio.com
 apps-metamskextensio.wixstudio.com
 apps-proton.com.cn
@@ -214,7 +215,6 @@ avax-protocol.net
 avaxlamaclaimapp.pages.dev
 avicimoney.pro
 avoids-collab.land
-awardspr.sbs
 axes.co
 axisroboticsai.com
 azuki.nfts-premints.com
@@ -263,7 +263,6 @@ bitcoinminetrix.pw
 bitcoinmintrix.com
 bitcoinverifyaccess.pages.dev
 bitdeerofficial.medium.com
-bitrefill.com-gift-esim-as04.com
 bitskub.xyz
 bittrefiil.com
 bitverablockverse.pages.dev
@@ -308,6 +307,7 @@ bright-dev-88a.cf-6lus6h8c.workers.dev
 brokeez.online
 bsc-pad.pages.dev
 bscbridge-multichain.com
+bscfist.online
 bttcbull.org
 buildbeam.net
 bulljak.fun
@@ -435,7 +435,6 @@ collectvox.web3-airdrop.net
 com-1w.xyz
 com-gift-esim-c04.com
 com-m25bq.lol
-com-meet.com
 combo-opbnb.org
 commbank-support.linkpc.net
 community-apucoin.xyz
@@ -624,13 +623,11 @@ evm-dappsmainnet.vercel.app
 evm-h6.top
 evm-webbnodde.io
 evm.airdrop20.click
-evmpiler.com
 evmsreolvetech.pages.dev
-exodus-wallet-psi.vercel.app
-exodus.co.mz
 exodustrademarketcap.com
 exosama.art
 expeditionmanta.biz
+extended-xten.top
 extension-rabbyy.b12sites.com
 ezrug.live
 fabub.com
@@ -670,6 +667,7 @@ flndapple.us
 flokiceoio.com
 flrconnectportal.live
 flyingketaminehorse.net
+flytrade.luxe
 fostertrip.info
 foundation-arbirtum.com
 foundation.xn--clim-6na.com
@@ -739,6 +737,7 @@ grant-claims.network
 graphtoken.org
 greenkys.top
 grenoble-boxe.fr
+grokie5.solroom.cc
 grovedotfinance.events
 grt.tpdclaim.top
 grupoprotecno.com
@@ -880,6 +879,7 @@ ledgers-app.pages.dev
 legacy-bitfun-dex.sbs
 lemperkuda.mobilitydirector.com
 lev7el.com
+levyer.net
 lger-live-download.pages.dev
 lifinity.cx
 lilac-coral-station-wave.199-91-220-41.sslip.io
@@ -1158,8 +1158,10 @@ presales-topg.com
 previews-usepaid.xyz
 prime-binance.com
 prism-binance.com.cn
+procedure-ledger.com
 produceai.xyz
 profla-renetwork.org
+promocoderainbet.com
 prompt-x023342x.com
 proposal-gliderfi.xyz
 proposal-velodrome.org
@@ -1244,7 +1246,6 @@ restakemantle.org
 revoke-paraswap.com
 revoke.pm
 revokecash.ai
-reward-airpoint.link
 reward-claimportal.pages.dev
 reward-lighter.com
 reward-shihtzu.com
@@ -1376,7 +1377,6 @@ squigsig.com
 sso--apps-meiutamsuki.gitbook.io
 sso-uphold-com-authen.weebly.com
 ssoitrustcapitalouth.wixstudio.com
-ssouphod-learn.created.app
 stable-dex.vercel.app
 stakcstone.com
 stake-infinex.com
@@ -1501,6 +1501,7 @@ trustspend.vercel.app
 trustwallet-authority.com
 trustwallet.worldbankio.com
 trustwalletcards.online
+trustwallets.top
 trustwallettrx.com
 tstons.top
 ttopolotos.neocities.org
@@ -1562,7 +1563,6 @@ verification-collabs.vercel.app
 verify-collab.vip
 verify.gatekava.top
 verifyclaim-dao.pages.dev
-verifydevice-google.com
 verifytocontinue.x2y2.pii.at
 vernexcapital.com
 view.sofarun.biz
@@ -1596,7 +1596,6 @@ voting-virtuals.com
 voting-xamam.com
 w21zoom.us
 waitlist.yieldfields.pics
-wallet-backup-centr.xyz
 wallet-livevalidations.vercel.app
 wallet-zkfair.pages.dev
 wallet.cnpcinvest.com
@@ -1604,6 +1603,7 @@ wallets-coinbase.com
 walletvault.network
 washingtonpostnow.com
 watercoln.online
+wccwcoinpsesnvpwjis.com
 wdex06.com
 web-connectfe.tk
 web-giftcenter.sbs
@@ -1616,6 +1616,7 @@ web3-curve.vip
 web3-extension.b12sites.com
 web3-starknet.com
 web3-wsmcasino.tech
+web3defimax.com
 web3tools.lol
 webdev54321.pages.dev
 webdisk.blog.mail.nutravitalis.pro
@@ -1699,6 +1700,7 @@ www.hlflflnanse.org
 www.honeylsvvap.online
 www.hostmaster.www.admin.forum.glcfinishing.com
 www.infamouzltd.silies.xyz
+www.joergdressler.com
 www.kanpaipanda.dropsclaim.xyz
 www.kgveiofg.ink
 www.kopgold.xyz
@@ -1761,7 +1763,6 @@ x-okx-fwd.com
 x.billbrows.com
 xambush.top
 xeriqedge.com
-xertra.info
 xn--aav-dma.com
 xn--artgobblrs-4q3e.com
 xn--fxedflaot-g5a.com
@@ -1771,7 +1772,6 @@ xn--monshots-e4a.xyz
 xn--monsht-qxa12e.app
 xn--porschnft-g4a.com.murasai.pro
 xn--pxels-n4a.xyz
-xn--rydium-w0a.io
 xoxo-blogs.site
 xpay-app.cc
 xprnetwork-vote.co

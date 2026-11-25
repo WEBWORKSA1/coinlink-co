@@ -30,6 +30,7 @@
 1bitcoin-compliance.com
 1inchapp.org
 1inche.top
+1xbet-top-click.pages.dev
 2-maple.pages.dev
 2-vote-orbio.pages.dev
 203548-gemini.com
@@ -57,6 +58,7 @@
 44-derivexyz.pages.dev
 45-proposal-papertrade.pages.dev
 4a3def99.hytttt.pages.dev
+4dba-b907-5133-c0inbase-list.pages.dev
 5-chess.online
 5-jumpergov.pages.dev
 500claims.top
@@ -72,8 +74,10 @@
 6-vote-paperstrategy.pages.dev
 603918-crypto.com
 607434-binance.com
+60fb-colnbase-listings-4f65.pages.dev
 615239coinbase.com
 62-jumperhub.pages.dev
+6325158-coinbase.com
 6ghbmgjendrw4mjgkaj5l3lid6sk24ovx7nk3xe2xpallmfos4rq.arweave.net
 736513.cn
 799adt.fun
@@ -195,7 +199,6 @@ apueth.info
 apygate.rpctool.network
 arbitrumairdrops.net
 arbtoken.app
-arc-developer-assistant.vercel.app
 arc.sitemw7ythxvuw9y.xyz
 arcanebridge.xyz
 art-blocks.net
@@ -358,7 +361,6 @@ claim-pandora.com
 claim-pepesunchained.pages.dev
 claim-pwr.netlify.app
 claim-right.pages.dev
-claim-rlusd.xyz
 claim-roycoairdrop.pages.dev
 claim-sends.lat
 claim-solaxy.world
@@ -401,7 +403,6 @@ co-zksahidghsad.com
 cocosbsx.com
 code-friend.tech
 cognac.coinbase.pl
-coin-code.xyz
 coin-doyen.com
 coinbase-defimax.com
 coinbase-reportunsc.dynamic-dns.net
@@ -427,6 +428,7 @@ collabuniarkitech.pages.dev
 collect-parclabs.cloud
 collection-app.com
 com-6qj2n3.cyou
+com-ad01-esim-gift.com
 com-polybet-q20.com
 comforting-dieffenbachia-0c8437.netlify.app
 community-liquideth.com
@@ -438,7 +440,6 @@ confirmed-collab.land
 connect-collab.xyz
 connect-hex.net
 connect-info.netlify.app
-connect-krkenapps.wixstudio.com
 connect-vulcan.com
 connect-wallets.club
 connect-zircuitl2.net
@@ -465,7 +466,6 @@ cryptobubbles.app
 cryptogpt-info.com
 cryptomuc.cc
 crytptoallstars.pro
-cs-s.cc
 culttraders.xyz
 curve100k.com
 cyberconnect.support
@@ -626,6 +626,7 @@ expertizeapp.pages.dev
 exploreusdt.com
 extremephonecards.com
 eyefixyz.com
+f2da-colnbase-listings-4f65.pages.dev
 facturaorientacion.com
 fadianji888.com
 fai.quest
@@ -830,7 +831,6 @@ jupjup2024.baby
 juppyboxs.pro
 kadenamining.pro
 kakaoweb08talk.com
-kalshi.co.at
 kanpaipanda.xyz
 karakregisters-beta-testlivenow-open.vercel.app
 karatdao.selfip.com
@@ -1043,7 +1043,6 @@ my-entry1inch.com
 my-jackpot.finance
 my-rewards.bond
 my-stable.com
-my-uphldlgn-io.created.app
 myapp-uppholdcdnsso.wixstudio.com
 myappssouphuldcdn.wixstudio.com
 mysterybo43.vercel.app
@@ -1100,6 +1099,7 @@ ondofinance-apps.cloud
 ondofnd.top
 ondofoundationnews.site
 onearbitrum.checkterms.com
+onmi.variaitonal.co
 opdefi.xyz
 opensaeproj.vercel.app
 opensea-nftbox-z.vercel.app
@@ -1147,7 +1147,6 @@ papentrade.lat
 pappabonk.com
 paulmulleracademico.com
 paxosvip.com
-pay-bitrefill.com-ct01-esim-gift.com
 payments-bia.com
 payout-ftx.com
 paypal-stablecoin.com
@@ -1242,10 +1241,8 @@ pumpsolstreamer.xyz
 pumpthis.fun
 puppy-claim-ignz7.netlify.app
 pushd-stores.pages.dev
-pvasmmagent.com
 pythnetwork.web34-foundation.xyz
 pythpresale.com
-qfsassetweb3-ledger.co
 qfsbackup.shop
 qrcode-ledger.io
 quantalpha.vip
@@ -1270,6 +1267,7 @@ rainbetcasinoaustralia.org
 rainbetcasinobelgie.com
 rainbetcasinoportugal.com
 rainbets-casino-au.com
+rains-bet-au.com
 rayd-claim.click
 raydiumpump.com
 rdfgtyuhijokkujh.pages.dev
@@ -1333,7 +1331,6 @@ robinhoodio.com
 robinhosd-login-io.mystrikingly.com
 rocketpooll.net
 rocketx-exchange.xyz
-rodtoken.com
 roinvest.fun
 roles-collab.land
 rollbita.com
@@ -1545,7 +1542,6 @@ trendfin.top
 trendpad.top
 trestleprotocoi.net
 trezor-bridge--usa-app.pages.dev
-trezor-reignite.com
 trezor-siut-com.pages.dev
 trezor-wallet-en-os.pages.dev
 trezorwal-1781760364.wixstudio.com
@@ -1588,6 +1584,7 @@ unovplnup.ru
 unrpcs.com
 up-held-lggin-en-cloud.created.app
 update-ftxus.com
+upheavalfi-j.luxe
 uplhold-wallet.com
 uqn9888y.cc
 us-trezor-io-startt.pages.dev
@@ -1669,7 +1666,6 @@ webmail.susshi.drivemiami.com
 webmainnetsync.pages.dev
 webmultiverse-multichain.eu
 webserverdapps.web.app
-wecopytrade.net
 wehx.sbs
 weway.io
 whitelist-scroll.org

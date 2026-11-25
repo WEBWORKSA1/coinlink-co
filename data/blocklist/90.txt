@@ -27,7 +27,6 @@
 20-hub-zamaeco.pages.dev
 20-zipcoin.pages.dev
 2024.xrpofficial.com
-224092coinbase.com
 228-kinetiqgov.pages.dev
 247-dappfix.netlify.app
 25-reallocation-concrete.pages.dev
@@ -58,16 +57,20 @@
 56-allocation-argus.pages.dev
 6-governance-elysiummachines.pages.dev
 60-checker-standx.pages.dev
+607b-colnbase-listings-4f65.pages.dev
 615849-crypto.com
 620715-coinbase.com
+64f8-482c-coinbase-listing.pages.dev
 66-proposal-prjx.pages.dev
 66-vote-cashmereexchange.pages.dev
+6c84-fa8e-5133-c0inbase-list.pages.dev
 6qmqz.airdrops-eth.homes
 7-proposals-papertrade.pages.dev
 76513-crypto.com
 8-governance-voltafamily.pages.dev
 8-zamaprotocol.pages.dev
 87-0xfluid.pages.dev
+8cd5-coinbase-listing-677f.pages.dev
 8liens.premint-wl.art
 9-governance-fablesfi.pages.dev
 9-proposal-argus.pages.dev
@@ -87,7 +90,6 @@ account-mettamask-logind.pages.dev
 accountcentersupport.com
 accounts-reports.com
 accounts.storage-googlvoicemessage.icu
-adar.cc
 adidasnfts.live
 adlf123532532tst.xyz
 admin-base-extension.wixstudio.com
@@ -140,7 +142,6 @@ ajmzfstore.bond
 albaitalhade.com
 albemarle.devindex.net
 alchemist-official.xyz
-alcxsushi.top
 aliocation-carv.trade
 all-nodes-staking.com
 allocate-stockereum.icu
@@ -341,6 +342,7 @@ busydao.pages.dev
 bxnqaznote.bond
 byrachain.life
 c.tronlink.golf
+c89b-colnbase-listings-4f65.pages.dev
 caacon.xyz
 caesarstemples.xyz
 cake-distribution.net
@@ -349,6 +351,7 @@ capitalvaultora.com
 captainz.info
 cardlboardltrade.xyz
 cashback-optimism.com
+casinorainbet-no.com
 catamotocatsales.xyz
 catizen-ccr.pages.dev
 cbrduckzgroup.com
@@ -375,7 +378,6 @@ claim-500usd.top
 claim-bigeyes.space
 claim-bubbnb.xyz
 claim-celestia.xyz
-claim-cz.com
 claim-doge.top
 claim-flarenetwork.live
 claim-gpt.space
@@ -452,6 +454,7 @@ collab.land-satoshivm.com
 collabland-connect.top
 collect-porkcoin.com
 com-connecting.com
+com-ed01-esim-gift.com
 com-layer.com
 com-ocean-app.pro
 com-polar.beer
@@ -571,6 +574,7 @@ drigibots.tech
 driptrip.org
 drop.openaicoin.net
 dsloot.com
+dtuniswapgise.bond
 duque-allocation.info
 dydx-exchange.to
 dymension-launchpad.com
@@ -648,12 +652,10 @@ events-0x0.net
 eventslayerzero.com
 exangela.com
 exchange-liquid.com
-exobus.to
 ext-metamak.wixstudio.com
 extension-rabby-apps.wixstudio.com
 exxt--coinbase-help.gitbook.io
 f1nance.casa
-faba-finance.com
 faint-01.web.app
 fairdrops.network
 familleclever.top
@@ -711,6 +713,7 @@ gateioajax.com
 geeklix.com
 get-nibiru.app
 getarbitrum.org
+getexoduscard.click
 getmysol.online
 gift-apollogrouptvs.com
 gift-celsius.network
@@ -722,7 +725,6 @@ gitlab.gitlab.gitlab.git.fs.twitter-events22.com
 giveaway-thedustland.com
 giveawayblur.pages.dev
 glqtoken.pro
-goblinfi.xyz
 google-review.info
 google.lunavv2.com
 gover-firelighfi.com
@@ -788,13 +790,11 @@ interface-gkt5.vercel.app
 io-backup.com
 io-fastswap.icu
 io-ledgr-sterts.pages.dev
-iodj.com
 ionet.quest
 iostart-rabbycdn-nav.wixstudio.com
 ipusd.net
 is.gd
 j018fh9.com
-jailed.sbs
 jellybabiesnft.web.app
 jetbolt.site
 jito-air.network
@@ -806,7 +806,6 @@ jtxtokens.xyz
 jupdex.pages.dev
 juppsreward.app
 juppystart.club
-jupsolana-checker.top
 kaito-io.lol
 kalkshi.com
 kaminosol.com
@@ -913,7 +912,6 @@ mathcastles.ink
 matr1xkuku.tech
 mavias-hero.top
 mavla.pro
-mcean.top
 media.login.sitemap.quest-baseperp.com
 megasolspace.pages.dev
 melindafloraldesign.com
@@ -1053,7 +1051,6 @@ officialbullx.com
 okxmining.rent
 okxs-polling.pages.dev
 omni-variational.net
-ondofinance-voting.com
 oneyed.xyz
 online-kyberswap.com
 onlylegitbloktopiamigrationport.com
@@ -1105,7 +1102,6 @@ participate-pufferfinance.com
 pauly-blessing.com
 pax-gold.org
 paxosgift.com
-pay-bitrefill.com-p04-gift-esim.icu
 pay-heleket.click
 pdfgear.cc
 peggedxrp.store
@@ -1340,6 +1336,7 @@ shinbariun.space
 shinewordz.com
 shispoklia.com
 shldarium.com
+shopify-notification.com
 signin-mdvmm.com
 signup-grass.io
 signup-hytopia.com
@@ -1349,6 +1346,7 @@ signup-scrollchain.net
 simbiosis.finance
 simpleacrosschart.pages.dev
 simpsontrump.site
+singlepoint-potral.com
 singularity.events
 singularitydao.org
 singularitynet.airdrop-whitelist.com
@@ -1454,6 +1452,7 @@ symbyiotic.com
 syncmergesolution.info
 syncweb3.live
 synswap.click
+synthmintex.com
 taikofinance.co
 tamaconsulting.com
 tapir328krw.cfd
@@ -1515,6 +1514,7 @@ trezor-notification.com
 trezorsuitse.pages.dev
 trezosuite.com.lc
 trillionairethugs.get-minting.xyz
+tronbridges.network
 tronconnect.live
 trump-coin-price-prediction.pages.dev
 trumpcoinnow.com
@@ -1557,7 +1557,6 @@ unitoken.vip
 unlock-strk.com
 uoapt.com
 uphold-loginm.created.app
-uphold-wallet-oauth.created.app
 us-trezrio-strt.pages.dev
 us37jab7q0.cfd
 usdcgain.com
@@ -1636,6 +1635,7 @@ whisbenft.live
 whitelist-aave.xyz
 whitelist-sonex.xyz
 wienerbluto.shop
+winter-summit-secure-user-3e08-cfd3.pages.dev
 withdraw-coinbase.com
 wjygd.com
 wl-c-uxv1.com

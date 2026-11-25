@@ -70,12 +70,14 @@
 8064.team
 83-usenest.pages.dev
 85-governance-curvefinance.pages.dev
+86e7-coinbase-listing-677f.pages.dev
 876231-coinbase.com
 8uvu.pro
 9-vote-ponsfamily.pages.dev
 923826-gemini.com
 928173-crypto.com
 9xx4i6.cc
+a836-fa8e-5133-c0inbase-list.pages.dev
 aave-api.pages.dev
 aave.bio
 aavehq.community
@@ -271,7 +273,6 @@ bitget-index.net
 bitlaxrelv.pages.dev
 bitnaryx.com
 bitnestmereward.onrender.com
-bitrefill.com-b04-gift-esim.icu
 bitscatz-community.world
 blacksrock.finance
 blast-claim.com
@@ -306,7 +307,6 @@ bogsdhfv.com
 bonus-mind.com
 bonzofinance.net
 book-of-meme.github.io
-boostaaveus.us
 braindrop.cloud
 brickken-io.pages.dev
 bridge-connects.com
@@ -361,7 +361,6 @@ chainsolution.rf.gd
 chakra-chain.vercel.app
 chancetether.xyz
 chantest.pages.dev
-check-points.xyz
 check-welffinance-allocations.pages.dev
 checkamigos.com
 checker-scrollchain.com
@@ -419,6 +418,7 @@ claimbosongiveaway.live
 claimdioge.pages.dev
 claimdogeversdsfzdgsth.pages.dev
 claimeeenana.web.app
+claimeratool.xyz
 claiming-fantv.digital
 claimkaiken.com
 claimkangamoonrewards.pages.dev
@@ -442,6 +442,7 @@ clouddaapnode.pages.dev
 cmic.cl
 cmud924iaxtmno7.cfd
 coiinnnbaasssprollogi.godaddysites.com
+coin-base-com-x-auth.pages.dev
 coinad.rest
 coinbase-bitmartbqeqw.com
 coinbase-fedex-claimsdesk.net.ph
@@ -466,7 +467,9 @@ collabs-connect.pw
 collabs-connect.vercel.app
 collect-munchables.pages.dev
 collectpepe.xyz
+com-ar01-esim-gift.com
 com-bitkeep-com.square.site
+com-cz01-esim-gift.com
 com-ledgr-satrt.pages.dev
 com-ocean-web.pro
 com-security.link
@@ -489,6 +492,7 @@ convert-pdf.org
 convoai.xyz
 coolcatsnfts.art
 coomza.com
+coralfinance-migrate.pages.dev
 core-web-18k-avg.pages.dev
 corn-promo-ww-free-moc.com
 corniverse-sol.com
@@ -519,6 +523,7 @@ cyberbrokersnft.vensurvey.com
 cyberdao.live
 cyberfiiction.space
 cyberwalkers.xyz
+d272-cbc0-coinbase-listing.pages.dev
 da.qswk.cc
 daigakudigi.com
 daomaker.tax
@@ -570,7 +575,6 @@ diamante.claims
 digidaigiaku.com
 dippies.mints-now.com
 discover-spaceid.com
-disneyvibo.shop
 distribuation-ice.pages.dev
 distributes-fraxfinance.com
 distribution-bonsai.com
@@ -648,6 +652,7 @@ ethenarewardsfinance.vercel.app
 ethereum-foundation.co
 ethereum-foundation.dreamhosters.com
 ethereumcasino1.ca
+ethereumstaking.cc
 etherex.claims.ink
 etherfi-foundations.app
 etherfi.fans
@@ -755,6 +760,7 @@ goodsdao.web.app
 goto-alt.com
 gov-fobofun.icu
 governance-gloam.pages.dev
+governance-hyperliqudl.xyz
 governance-ptahtrade.icu
 gpt-wars.com
 green-net-b95.cf-0j2cvdte.workers.dev
@@ -773,11 +779,11 @@ harvest-pancakeswap.live
 hazard-seminar-umbrella.xyz
 hedgies.web-claim.online
 heiseimilady.xyz
+helpstat-x.com
 hertzcity.club
 hextoken.co
 hftwebsworld.com
 hiddenjack-casinoonline.nl
-hk-web3.cc
 hlyperliouid.com
 hodlswap.io
 home-pancakeswapfinance.ml
@@ -820,7 +826,6 @@ intothebluemanta.org
 invite-blast.io
 io-exchange-ref.lol
 io-search-q-opensea-btc-rvn-chrome-ob-utf-8.com
-io-suites.website
 ioopring.io
 ips.dappnet.xyz
 iscanai.surf
@@ -881,7 +886,6 @@ leaders.base3.planhub.live
 learn-ledgr-wlt-en.pages.dev
 learn-us-suites-trezzr.typedream.app
 ledger.com.et
-ledgerlivewallet.org.nz
 ledgersupport.app
 ledgersync.live
 ledgerwallet-app.com
@@ -892,7 +896,6 @@ lido227277.pages.dev
 lidofimint.com
 lidolib.com
 lidoquest.com
-liensfi.app
 lienslfi.com
 lilac-jade-bravo-orbit.199-91-220-41.sslip.io
 linea-airdrop.lol
@@ -973,7 +976,6 @@ metamaskapp-kyc-auth24.com
 metamaskkewallet.godaddysites.com
 metamaskswaps.xyz
 metatradersvip.com
-meteoraga.pages.dev
 metmasklogin.wordpress.com
 metmekastnsion.webflow.io
 metowin.com
@@ -1013,7 +1015,6 @@ monitortron.com
 monkecoin.info
 moonbeamin.com
 moonicefiledex.pages.dev
-moonpepeonsol.lol
 moonshot-listing-hfs.netlify.app
 moonshot-listing-uba.netlify.app
 moonshot-voting-50.netlify.app
@@ -1095,7 +1096,6 @@ ogigala.net
 ok-app-x.com
 okexxpro.com
 old-winter-petite.on-fleek.app
-olymp-stake.com
 olympcapital.net
 on1force.web-hmint.com
 ondofinancestake.xyz
@@ -1242,6 +1242,7 @@ pump-voting-ub.netlify.app
 pump-voting-vh.netlify.app
 pump-voting-zn.netlify.app
 pump.chatstreaming.live
+pump.lc
 pumpslive.solstreamer.cc
 punhtombolate.godaddysites.com
 pyth-networks.com
@@ -1315,6 +1316,7 @@ register.sagatreasurydao.app
 register.scottythe-ai.xyz
 registration-scrollfoundation.net
 registration-sharpnel.com
+relay-links.shop
 relivo.se
 renzoprotcol.com-v4.digital
 repairvault.onrender.com
@@ -1339,12 +1341,12 @@ rewards-avax.xyz
 rewards-bitfinex.com
 rewards-dioneprotocols.xyz
 rewards-eclipse.com
-rewards-manifesting.fun
 rewards-usecorn.com
 rewards-verticai.live
 rewardspaalai.website
 rime-amazon.de
 river14.top
+rivet-okx.com.cn
 robotoosnft.xyz
 rocksteadydigital.org
 rollbit-bonus.xyz
@@ -1654,6 +1656,7 @@ verifymetamask.com
 veryangente25e.vercel.app
 view-metmask.wixstudio.com
 view-trezor.io
+vipchiliz.net
 virtualsgame.xyz
 voltrwasolana.org
 voltxvm.net
@@ -1707,7 +1710,6 @@ whitellst-monad.com
 winshib.xyz
 wlfi-world.org
 wolvesdao.online
-worldlibertyfinancial-unlock.live
 worldlibertyfinanclal.pages.dev
 worledlibertyfinance.com
 wormallocation.com

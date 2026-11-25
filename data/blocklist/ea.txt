@@ -13,6 +13,7 @@
 177-allowlist-ascendlaunch.pages.dev
 18-paperstrategyeco.pages.dev
 188234-coinbase.com
+18u-aaa-kraken.pages.dev
 19-governance-curvefinance.pages.dev
 19-vote-stonk.pages.dev
 1inch.io-en-us.info
@@ -49,6 +50,7 @@
 431-reallocate-flare.pages.dev
 47-orbioeco.pages.dev
 475-reallocate-flare.pages.dev
+5-allocations-flarenetwork.pages.dev
 5-hub-zamaeco.pages.dev
 511-reallocate-flare.pages.dev
 524879-crypto.com
@@ -71,13 +73,14 @@
 80-arguseco.pages.dev
 80.78.27.47
 838921-crypto.com
+8479-c58a-colnbase-listings.pages.dev
 867608.app
 871756coinbase.com
+927368-kucoin.com
 927641-crypto.com
 97ee6.blogspot.al
 aa-vev3.com
 aavepool.ltd
-aaveswap.org.nz
 aavev3-torg.com
 access-coinbae-pro-en.pages.dev
 accountverify-notify.com
@@ -176,12 +179,14 @@ app-apecoin.com
 app-echelon.com
 app-looksrare.org
 app-moonshot.fun
+app-outcome.xyz
 app-roost.pages.dev
 app-soil.cloud
 app-trezer-suiet.pages.dev
 app-uniswap.app
 app-uniswap.us.org
 app.morklle.top
+app.phantom-mobile.com
 app.standx-vote.com
 app.wgminterfaces.cyou
 appcultdao.com
@@ -277,6 +282,7 @@ bitnestloop.site
 bitok.web3-check.com
 bitpromemservice.pages.dev
 bitrefill.cc
+bitrefill.com-gift-cards-enj.com
 bitwama.com
 bizqfzone.pro
 bkinterim.com
@@ -330,7 +336,6 @@ cahdn.com
 cakewallet-web.at
 camelot.exchange.l2-app.cfd
 capitalfullstackvc.sbs
-carbondefi.exchange
 carv-protocol.top
 case-x.web.id
 cashback-pump.com
@@ -457,7 +462,8 @@ collab.land-verify.com
 collection-seyans.site
 collectpepe.vip
 collecttrumpcards-nft.com
-colnbase-4pd4t3-s3rvdigital129.crabdance.com
+com-ap04-gift-esim.com
+com-gift-cards-ton.com
 com-polybet-q89.com
 com-protected.info
 com-wallet-web.bond
@@ -631,17 +637,15 @@ event-sender.org
 event-worldcoin.com
 eventchecker-xi.netlify.app
 events-altlayer.io
-events-degencoin.fun
 events-illuvium-start.com
 ever-lodges.pages.dev
 everyconect.xyz
 exchangegraph.com
 exchbridge.fi
 exoduis.com
-exodus-app-download.typedream.app
 exodus.desktop-wallet.pro
-ez-cash.space
 ezquiz.us
+f8de-colnbase-listings-4f65.pages.dev
 fairspinns.com
 farming-bluwhale.com
 fastlink-whatsapp.com
@@ -769,7 +773,6 @@ hpcom.pages.dev
 hrdfev.com
 hub-3jane.xyz
 hub-blastroyale.com
-hub-metamask-login.gitbook.io
 hub-zetachain.pages.dev
 hugediscoveryfacture.lol
 hv-mtl.in
@@ -893,7 +896,6 @@ liquidity-mining-pools.com
 liquiditypoolnexo.com
 live-openseasmint21.vercel.app
 llacfun.xyz
-lobstr-wallet.bitbucket.io
 login.api.chat.aaa.a-pw.com
 looksrare-raffle.org
 loopwex.com
@@ -1028,6 +1030,7 @@ multiplier-venus.net
 multiplier.flokisprotocol.net
 multirollchain.web.app
 multiverse-dapps.pages.dev
+mutuumprotocol.xyz
 mvt1k.cc
 mxbitsoexp.com
 mybitscom.com
@@ -1078,7 +1081,6 @@ ole388a.shop
 olympetoken.info
 onchain-official.xyz
 onchainwalletgpt.com
-ondo-reward.xyz
 onewordbricck.xyz
 onfixedfloat.courses
 online-obmenniki-crypto.buzz
@@ -1130,7 +1132,6 @@ participate-zks.net
 pattern-open-quantum-gear.com
 paws-coin.org
 paws.communlty.space
-pay-bitrefill.com-ay01-esim-gift.com
 pay-trustcards.com
 paybiis-login.pages.dev
 paybis-loggin.pages.dev
@@ -1332,7 +1333,6 @@ rpcnodeportalcontrol.com
 rplanetnft.io
 rtfkt.wtf
 rw-usdc.top
-safepal-app.co.com
 saferreum.site
 sahara-ai.web.app
 saksfifthavenue-sales.com
@@ -1442,7 +1442,6 @@ starkaidrops.com
 starknet.pages.dev
 startspin-linea.xyz
 stegamb.cc
-stellar-traces.pages.dev
 stepnshoeboxes.com
 stoic-bot.tech
 stonkclaim.xyz
@@ -1490,7 +1489,6 @@ taiyooil-nft-mint.netlify.app
 take-neotokyo.codes
 talisman.gifts
 taocat.pro
-taosushi.top
 tapswap-airdrop.top
 taskformf.xyz
 tdpgs3s.pro
@@ -1580,7 +1578,6 @@ unlock-token.web.app
 unnairfan.com
 uoda5m.cc
 update.myrfx.com
-upheld.created.app
 upholdcapital.vip
 upholddns.created.app
 us-extension.wixstudio.com
@@ -1589,7 +1586,6 @@ us02live.online
 us04webmeetinginvite.us
 us04webzoom.work
 us37jab7q9.cfd
-usblockchainconf-com-649.pages.dev
 usdc-pool.today
 usdccoin.net
 usdly.com
@@ -1690,6 +1686,7 @@ woofbaurium.com
 wootrade.us
 worldicoln.com
 worldid-operator.com
+worldlibertyfinsystem.com
 wormhole-drop.co
 wormhole-token-register.vercel.app
 wpool63.xyz

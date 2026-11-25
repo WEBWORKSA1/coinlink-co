@@ -87,7 +87,6 @@ adexnetwork.vercel.app
 adidas.shopping
 adopters-pump.fun
 adopters.firebaseapp.com
-aerodromefi-rewards.xyz
 aerodromme.finance
 aethir-claim.pages.dev
 aevoproject.net
@@ -144,6 +143,7 @@ allocation.hub-eigenlayer.com
 allocation.hyperliquidtrading.com
 allocation.xswaplink.support
 allocations-ethermail.com
+allocations-firelightfi.icu
 allocations-mantle.app
 allocations-pendlefinance.life
 allocations-usual.com
@@ -252,6 +252,7 @@ bep111.com
 berachaln.pro
 beradrome.xyz
 beraswap.top
+bert-hom.xyz
 best-wallet.xyz
 bestmixer.app
 beta-gui.luxe
@@ -414,6 +415,7 @@ cold-trazor-bridge.pages.dev
 collab-lands-connect.vercel.app
 collab.land-ppk.com
 collab.llands.app
+com-a22-gift-card.icu
 com-complete-captcha.info
 com-premium-app.pro
 com-secure.lol
@@ -519,7 +521,6 @@ distribution.biasti2.net
 distributionton.com
 diyd.top
 dn930.demonmetale.xyz
-dodoex.finance
 dogcoinwif.org
 doodlesforyou.pro
 doodlintown-mint.com
@@ -565,7 +566,6 @@ enter-basedai.com
 enter-concrete.sbs
 enter-onxy.app
 enter-smr.com
-ercclaimsuccess.help
 eternity-booketh.app
 eth.mana888.top
 ethbeacon.xyz
@@ -573,6 +573,7 @@ ethen.lat
 ethena-dxm.pages.dev
 etheregas.com
 ethereumhub33.net
+ethereumyield.cc
 etherfi-backup.com
 etherfi-rewards.quest
 etherfirestake.site
@@ -718,6 +719,7 @@ hashverse.tech
 hauslt.network
 hawk-allocation.app
 hd-streamz.me.in
+help-binance.ru
 help-ss-metamask.gitbook.io
 help.kraken-tor.co.com
 helpingvotes.forum
@@ -773,6 +775,7 @@ io-stake-it.icu
 io-trezostarts.wixstudio.com
 iogx.claims
 ipv6.91-132-48-214.cprapid.com
+isolation-mantis.stockbox.cfd
 ivtfxip.com
 izzi-connect.com
 jaxx-librety.wixstudio.com
@@ -791,7 +794,6 @@ jup.ag-fast-v3-swap.com
 jupcases.xyz
 jupiter-claims-rouge.vercel.app
 juppboxes.app
-juprewards.org
 jupswap.world
 justiceforcharlie.xyz
 kaitoai-registration.co
@@ -935,6 +937,7 @@ metamask-verify-winbet30.ph
 metamask-wallet.icu
 metamask.io.merge.dbs.web.id
 metamaskclognine.gitbook.io
+metamaskiologii.gitbook.io
 metamaskonline.vercel.app
 metamaskx.cyou
 metamasskwallett.webflow.io
@@ -1135,7 +1138,6 @@ phanatomwfalleet.godaddysites.com
 pharaohexchanger.org
 phase1-sentientagi.com
 phntaum-wallxts.godaddysites.com
-phoenix-drop.com
 photon.astrotrade.app
 phpmyadmin.vpn.phpmyadmin.m.www.auth.nothingordinary.com
 pianetmojo.com
@@ -1216,6 +1218,7 @@ rainbet-casino.org
 rainbet-es.com
 rainbet-login.ca
 rainbet-sverige.com
+rainbet2111.sbs
 rainbetcasino-canada.com
 rainbetcasino-pl.com
 rainbetfra.com
@@ -1262,7 +1265,6 @@ registrations-optimism.com
 renzo-proto.org
 renzoprotocoi.events
 report.twitter-eventt22.com
-reportfiles-x.com
 respondaoquiz.com
 restructuring-blockfi-kroll-fl.com
 results-hamsterkombat.space
@@ -1342,7 +1344,6 @@ sitemvsftrybyni8.click
 sitimapo.register-gtprotocol.io
 skelliesonline.com
 skimaskdog.co
-skin-port.gr.com
 skinbaron.com.pt
 skinclub.wales
 skyeco.digital
@@ -1580,6 +1581,7 @@ vitals-ledger-8zs.pages.dev
 vote-cyber.com
 vote-fantomfoundation.com
 vote-id-tcgrhz.portallogonapp.quest
+vote-proposal-44v.pages.dev
 vote-superseeds.xyz
 vote-trovemarket.pages.dev
 vote-ub.xyz
@@ -1602,6 +1604,7 @@ vpnzdeg.xyz
 vsgstaking.website
 vt7f1a.cc
 vvcflnance.com
+vvirexapp.org
 w0lrdcolin.com
 w3group.sbs
 waillstreetmemes.com
@@ -1653,7 +1656,6 @@ withdrawal0.vercel.app
 wjmcbt.xyz
 wl-kingroyal.art
 wl-wolfgame.com
-woosushi.top
 worldfilibrerty.xyz
 worldinvest.org
 wormhole-swap.com

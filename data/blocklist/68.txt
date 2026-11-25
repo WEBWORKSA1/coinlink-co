@@ -39,6 +39,7 @@
 20-saturncredit.pages.dev
 20010610.xyz
 20eth.eu
+223-lists-moonshot.pages.dev
 224-stonkbroker-clutchmarkets.pages.dev
 24-dashboard-papertrade.pages.dev
 247-kinetiqgov.pages.dev
@@ -72,7 +73,6 @@
 4y7h6j.top
 5-orbiogov.pages.dev
 5-pons.pages.dev
-54qapn7jwitovnq7zbv2tsdfwvno5ukzyk74bsjrzx7n26wjl4qa.arweave.net
 55-derivexyz.pages.dev
 558392-crypto.com
 564820-crypto.com
@@ -163,6 +163,7 @@ alienxchainxyz.pages.dev
 all-web3m-ultichainxportal.xyz
 allocate-ethenalabs.com
 allocate-mamba.com
+allocation-liminal.money
 allocation-nyanheroes.com
 allocation-worldcoin.net
 allocation.madscientistslab.com
@@ -232,7 +233,6 @@ arcusz.xyz
 argenrt.com
 argus.sitemw4uaxdpsnme.xyz
 arnostvasicek.com
-asteroidshiba-erc20.xyz
 aswangtribenft.com
 atlantisdex.world
 auth-portal-onlinegov.com
@@ -288,7 +288,6 @@ bitcoin-on-line.vip
 bitconetf.com
 bitgeweb3wallet.shop
 bitnest.mainet.online
-bitrefill.com-ab01-esim-gift.com
 bitswapsite.com
 bittap-login.at
 blackshibabnb.com
@@ -301,7 +300,6 @@ blastairdropclaim.pages.dev
 blenderprotocol.xyz
 blendr-network.acrobertrevs.live
 block568.com
-blockchainsupport-center.lovable.app
 blockchance.events
 blocksolutions.pages.dev
 bloomdddddfse.buzz
@@ -332,7 +330,6 @@ bubblegumkids-free.xyz
 buildonhybrid.net
 buleres.xyz
 bullpump.net
-bum-da9.pages.dev
 burn-boxpoolnow.web.app
 bus14di.top
 bwbairdrop.vercel.app
@@ -387,6 +384,7 @@ ciaims-movementnetwork.xyz
 cibertechologies.com
 cinbisepproologiizz.godaddysites.com
 circlelab.juanwig.shop
+cit-barks.com
 claim-0xzerebro.net
 claim-1win.com
 claim-blast.io-o6.xyz
@@ -767,7 +765,6 @@ gobblegetitts.xyz
 godlike-withdrawal.com
 goldentradingfund.com
 gomoonvote.fun
-gork-x.com
 governance-fluid.info
 governance-hellhoundmeme.icu
 governance-netnetcap.pages.dev
@@ -836,6 +833,7 @@ invite-lens.xyz
 invites-collab-land.com
 io-net.online
 io-qr.cc
+io-support-metamaskw.gitbook.io
 ion2.pages.dev
 iostart-rabbyapps.wixstudio.com
 iroiro-world.xyz
@@ -879,7 +877,6 @@ kraken-one.site
 kraken-pro-logini.wixstudio.com
 kraken-slon--cc.info
 krakenlogin-us.wixstudio.com
-kub-cheat.top
 kulz.cc
 kybe-swap.com
 kzwholesomeliving.ru
@@ -1282,6 +1279,7 @@ qfsassetsvault.com
 qies8.demonmetale.xyz
 quaeth.com
 quant-win.com
+quantumtokenomics.consulting
 qudefiai.site
 quest-layerbank.com
 quest.sakumonstersapps.claims
@@ -1371,9 +1369,9 @@ row-moderate-1302.vercel.app
 rplanetnfts.net
 runi.wl-spost.com
 rwa-xau.cyou
+rx-blumpoints.pages.dev
 s-enroli.co
 s2-kelp.xyz
-sacl.cc
 safelink-1w2.pages.dev
 safepal-web.pages.dev
 saga-promo.xyz
@@ -1402,6 +1400,7 @@ seedify.vn
 seiyan-whitelist-allocation.vercel.app
 seiyansnft.com
 selfiedog.isaashiru.com
+serainanelson.com
 sgevipe.com
 shapefaces.com
 shapeshifxt.click
@@ -1625,7 +1624,6 @@ varanetwork.node-rectify.site
 variational-phase3.top
 variationalio.pages.dev
 veggefe.cc
-verificationbluehelpcenter.sbs
 verify-checker.site
 verify-t3rn.my
 verify.gatekava.pro
@@ -1647,7 +1645,6 @@ vote.swellqrotocols.net
 voting-zentrafinance.xyz
 vtmarketsmex.cc
 vww.raczgroups.xyz
-vz-c.cc
 vzjler.cc
 w-tokens.com
 waffershop.com
@@ -1684,7 +1681,6 @@ webdapp-fix.pages.dev
 webmail.shelby-growth.pro
 webs3connects.pages.dev
 website1x-142.pro
-webtrader.theexchangetraderspro.io
 weebkaaavva.netlify.app
 wen-get-ia448.netlify.app
 wetspace.fun
@@ -1863,6 +1859,7 @@ zerolend-l2.pages.dev
 zerolenddrop.xyz
 zerrolayer.fun
 zetamarkets.netlify.app
+zh-mexc.my
 zkapes.pages.dev
 zkasino.top
 zkcs.org

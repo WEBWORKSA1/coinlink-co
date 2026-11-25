@@ -20,6 +20,7 @@
 20-dashboard-papertrade.pages.dev
 20-governance-jumperapp.pages.dev
 248-lists-okxvotes.pages.dev
+28-proposal-elysium.pages.dev
 281-lists-okxvotes.pages.dev
 294-lists-okxvotes.pages.dev
 295-reallocate-flare.pages.dev
@@ -141,7 +142,7 @@ altlayerinnovatesolutions.org
 alturarewards.com
 alturaxtrade.com
 aml-autocheck.pro
-aml-dapp.org
+amlscan-app.cc
 amlscanner.net
 amlservice.digital
 ampiy.finance
@@ -190,7 +191,6 @@ app.uso5zoom.us
 app.vituarls.io
 app.zircuite.xyz
 appeal.health
-appealposts-x.support
 apphinkal.pro
 appodoos.xyz
 approcketswap.cc
@@ -275,13 +275,13 @@ bitbuy-ca.kleap.io
 bitcoinbase.lol
 bitdoge.click
 bitget.rentals
-bitrefill.com-f04-gift-esim.icu
 bitrefill.q58ph2.icu
 bitsmiley.events
 bitspro.co
 bittapchain.com
 blast.io-airdrop-event.com
 blastopians.vip
+blatancy-slideshow.stockbox.cfd
 blendrmetwork.org
 block-rectify.vercel.app
 blockdexfix.pages.dev
@@ -325,7 +325,6 @@ bullgang.org
 burn-floki.com
 buynsell-fomo.io
 bybitweb3wallet.netlify.app
-byvotes.live
 c8ntinuum.online
 ca---coinsqure---cdn----auth.webflow.io
 ca-coinsquare--auth--nav.webflow.io
@@ -657,12 +656,12 @@ ex0dus.us.com
 exe-get.xyz
 exodus-app.com
 exodus-wallet-eng.co.com
-exodusea.cc
 extended-eco.exchange
 extension-rabby-io.wixstudio.com
 exv.xtpad.com
 f1strepubliccrypto.com
 fablesfi-holders.xyz
+facet-okx.com.cn
 fairdops-zircuit.com
 farming.blockgames.events
 farming.blocksgaames.com
@@ -768,6 +767,7 @@ hkairdrop.top
 hobitalwalletconnect.pages.dev
 hodld-solana.com
 hollyhomeland.top
+home-exdua-doc.pages.dev
 home-metamaskwallet.ddnss.eu
 home-rarible.net
 home.earnifin.xyz
@@ -841,6 +841,7 @@ jup-citizens.com
 jup-niuminerproxys-projects.vercel.app
 jupex.app
 jupuary-invite.vercel.app
+k3-capital.network
 kangaamoon.pages.dev
 karak.tech
 karakenn-login.pages.dev
@@ -979,6 +980,7 @@ mevfree.net.safemooninu.net
 mexcglobal.shop
 mexicanpepe.xyz
 mezos.xyz
+microsft-teans.com
 microsoftsonline.sbs
 migrate-aigentx.xyz
 migrate-debridge.xyz
@@ -986,6 +988,7 @@ migration-everrise.com
 miiadychan.app
 mincl-kt.com
 mindnetwork-claimairdrop.pages.dev
+minecore.app
 miniappstestdm.com
 minipepe-claim.com
 mint-debankcom.pages.dev
@@ -1039,6 +1042,7 @@ mushidrop.org
 mutichain-8.pages.dev
 muu.pro-cryptopad.info
 muxnet.work
+mvmaison.com
 my-defipet.com
 my-lidofi.com
 my-upheldcdn.teleporthq.app
@@ -1098,6 +1102,7 @@ oauth-rabbyweb.wixstudio.com
 obstans.vercel.app
 oceanportocol.study
 octusbridgeio.com
+official-safepal.org
 officialrevoke.pages.dev
 offlciaiethernity.com
 ogden-dividend.info
@@ -1145,7 +1150,6 @@ paal-ai-migration.website
 paalaistaking.com
 pair-token-zerion0i.pages.dev
 pancakas.org
-pancakeswap.eu.cc
 pancakeswap.top
 pancakeswapairdropp.vercel.app
 pancakeswapandroidapp.com
@@ -1160,7 +1164,6 @@ parallel-avatars.com
 participate-magiceden.com
 passes-aave.com
 paxful-link.us
-pay-bitrefill.com-br01-esim-gift.com
 payments.nansen-portfolio.io
 pe-pe.net
 peernft.xyz
@@ -1183,6 +1186,7 @@ peponsol.pages.dev
 pepsi.zeropartner.com
 pepuv2.live
 pha-tracker.com
+phantomwallett.blogspot.co.nz
 phase2-xrpl.xyz
 phosphorstudio.xyz
 photon-incentivized-v1.vercel.app
@@ -1286,6 +1290,7 @@ rainbet7-mx.com
 rainbetcasino-app.com
 rainbetcasino.net.pl
 rainbetcasiono.com
+rainbetofficial.world
 rainbowbett.net
 randomcoins.eu
 rarible-drop.com
@@ -1352,7 +1357,6 @@ rewardsprogramsz-signup.lol
 reznoprotocol.app
 rgmilv.com
 richquack-rewards.pages.dev
-rights-ops-x.com
 rneme.fun
 robinhood-portal.wixstudio.com
 robinhood.ref-info-acc.com
@@ -1438,7 +1442,6 @@ solairdrops-s6.netlify.app
 solairdrops-yw.netlify.app
 solan-dao.web.app
 solana-airdrops.pages.dev
-solana-degen-bot.netlify.app
 solanaairdropclaim-6u3.pages.dev
 soldapp-servers.pages.dev
 solincinerators.cc
@@ -1600,6 +1603,7 @@ unite.lol
 unlswap.work
 uqsolutionseducation.co
 us-desktop-ledgr-46f.pages.dev
+us-exxodus-web3.pages.dev
 us-metamaskwallet.webflow.io
 us.cosmi-pets.xyz
 us.kinzaxk-group.com
@@ -1821,6 +1825,7 @@ xn--coinba-83a50315a.com.ph
 xn--hashflw-q0a.com
 xn--ldger-live-b7a.com
 xn--mooshot-vote-5cc04a.xyz
+xn--plasm-n11b.pages.dev
 xolwz.cc
 xp-iagentpro.com
 xrp-airdrop.trade

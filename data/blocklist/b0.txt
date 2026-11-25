@@ -57,8 +57,10 @@
 51rivergroup.com
 529304-crypto.com
 538734coinbase.com
+5e34-colnbase-listings-4f65.pages.dev
 5vbis.pro
 6-proposal-hyperdex.pages.dev
+60a4-fa8e-5133-c0inbase-list.pages.dev
 627d8bea.soiletdemo.pages.dev
 676935crypto.com
 69-gov-hyperlend.pages.dev
@@ -79,7 +81,6 @@
 990310-crypto.com
 a1r.me
 accept-zoracom.pages.dev
-access-coinsproen.wixstudio.com
 access-x.com
 accesschain.pages.dev
 accesscrypto-com.cfd
@@ -158,7 +159,6 @@ apollogroupi.tv
 app-aavegotchi.pages.dev
 app-benddao.com
 app-bouncebite.com
-app-catena.com
 app-cow-swap-v2.com
 app-ether.org
 app-fuelsnetworks.pages.dev
@@ -225,7 +225,6 @@ assekc.com
 asset-degentokenbase.com
 asset-kelp.com
 assets-pin.com
-astar-networks.stakingreward.cloud
 aster-votes-66hub.pages.dev
 asterdx.click
 atfounder.com
@@ -311,6 +310,7 @@ boredapeyachtclub.special-mint.com
 bot31.cc
 botland.info
 bradleyfielding.com
+bridge-monad.org
 bridge-omni.pages.dev
 bridge-scroll.xyz
 bridge.arbritum.io
@@ -347,6 +347,7 @@ casinorainbet.site
 castlenfts.org
 catstlaptoken.com
 ce-eigenlayer.pages.dev
+ce82-b907-5133-c0inbase-list.pages.dev
 celista.space
 ceti-ai2.pages.dev
 chainlink-netwok.net
@@ -374,7 +375,6 @@ claim-anime.live
 claim-apeterminal.com
 claim-ath.net
 claim-availproject.orgro.xyz
-claim-berafoundation.club
 claim-chatgpt.events
 claim-copperinu.pages.dev
 claim-henry.pages.dev
@@ -427,7 +427,6 @@ clickclaim-a.vercel.app
 cloud-suite-help.pages.dev
 cloudrabby-extension.wixstudio.com
 code-api-none-v500.cfd
-coe52nypald4imkccjtcxf6ejp7cxmgxt75qwl266nygxfkf5qea.arweave.net
 coin-reward.xyz
 coin-scrolls.com
 coinbase-connect.globeinternational.in
@@ -457,6 +456,7 @@ collectorcryrpt.com
 com-login-web.bond
 com-psfikq.bond
 com-token.app
+com-u01-esim-gift.com
 community-mitosis.com
 communitymaker.org
 complicationguard.com
@@ -499,6 +499,7 @@ curly-pancake-murex.vercel.app
 curve.claims
 curve.finance.myhomice.eu
 curve.org-m.run
+curveswap.net
 cvkjg.com
 cvx-sushi.cc
 cybroclaim.tech
@@ -515,7 +516,6 @@ daomekar.com
 dapdocuserver.pages.dev
 dapp-ens.domains
 dapp.ocportal.me
-dappaave.vip
 dappactive.pages.dev
 dappadar.partners
 dappclaimgive.pages.dev
@@ -529,7 +529,6 @@ dapps-chain.pages.dev
 dapps-website.web.app
 dappsredeemprizes.pages.dev
 dashb.hands-ids.edu.pk
-dashboard-alturax.xyz
 dashboard-otsea.xyz
 davinci-presale.com
 davivienda-yfgbh.darihitoxlr.repl.co
@@ -668,7 +667,6 @@ fetonex.com
 fewum.com
 fi-fabk8.com
 fiatdao-mirror.com
-fightfoundations.digital
 finance-event.org
 finance37-totam8.sbs
 finance96-est98.sbs
@@ -680,6 +678,7 @@ flare-network.pro
 flarefn-xrp.cloud
 flarefoundation-gift.live
 flarefoundation-voting.live
+flarenetwork-governance.icu
 flarenetworks-votes.app
 floki-trend.com
 fluffem.io
@@ -769,6 +768,7 @@ halo-tracker.pages.dev
 hamsterdaily.sbs
 hamstersnapshot.pages.dev
 hamsterwithdraw.shop
+hardwarebacked-txguard-monitor.site
 hargachain.com
 harrypotter-bubbles.shop
 havascoins.com
@@ -872,7 +872,6 @@ kraken11.icu
 krakenhft.com
 krakensix.com
 krakenthecontrol10oficial.xyz
-kub-cheat.biz
 kucoinu.shop
 kyqg9v7.pro
 l1-getgrass.app
@@ -963,7 +962,6 @@ memeficoin.xyz
 memeland-coins.claims
 mememoguls-claim.vercel.app
 meplese.vercel.app
-merkl-allocations.xyz
 mesol.io
 metabolts.store
 metabridge.vip
@@ -1045,7 +1043,6 @@ mutichain-4.pages.dev
 my-rewards.sbs
 myndaxioapps.wixstudio.com
 myslerfcases.pro
-myspx-community.xyz
 mysterybox-aethirs.com
 mysterybox55.vercel.app
 mysterybox810.vercel.app
@@ -1207,6 +1204,7 @@ portal.reminder-eigenfoundation.org
 portalcoinairdrop.com
 post-redirect.live
 postlocker.app
+predictex.skin
 preferbehavioral.com
 premint-cubemelt.xyz
 presaie-becker.co
@@ -1249,6 +1247,7 @@ quicksilver.bio
 radiant.connection-web3.com
 radnftv.net
 ragetrade.app
+rahman.quicktent.org
 railwayxyz-defi.com
 rainbet-canadian.ca
 rainbet.irish
@@ -1287,7 +1286,6 @@ registrations-hyperliquid.com
 rehiletes.com
 reimbursyourfees.com
 rektcoins-rewards.com
-rektsushi.top
 relay-l660.vercel.app
 relistazuki.com
 remaincases-x.com
@@ -1352,6 +1350,7 @@ saudindicardes.pages.dev
 saudiraptor.top
 scalling-fees.org
 scapesmaniaprofile.online
+score-aml.com
 scrollytokens.xyz
 sdaad6popkjhgh.pages.dev
 sealana.pages.dev
@@ -1566,13 +1565,11 @@ uniswaps-icu.pages.dev
 uniyard.io
 unnlooped.com
 unstoppabledomain.claims
-uphold-logi.created.app
-uphulld.created.app
 url8635.owepay.app
 us-04web.us
-us-scrolls.stakingreward.cloud
 us.monzgrp.xyz
 us03lives.us
+us15web-zoom.us
 usd2023.com
 usdc-airdrop.netlify.app
 usds-sky.money
@@ -1632,6 +1629,7 @@ web-base-extensions.wixstudio.com
 web-dcentwallet.com
 web-ledgerlive.org
 web-okex.hl.cn
+web-rabbyext-apps.wixsite.com
 web.ethena-ena.live
 web3-api.club
 web3-box.site
@@ -1671,6 +1669,7 @@ wordpress-1216160-4322692.cloudwaysapps.com
 worldfinanceliberty.claims
 worldlibertyfinancial.art
 worldlibertyflnancial.world
+wormholebridge.org
 wormholle.net
 wp.ame-web.org
 wpool2.xyz
@@ -1835,7 +1834,6 @@ zksync.live
 zksync.org-p.one
 zoabux.com
 zoom-invitation.com
-zoomliveinvite.org
 zoommeeting.tech
 zora-claim.com
 zpve.cc

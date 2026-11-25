@@ -21,7 +21,6 @@
 194683-kraken.com
 198-stonkbroker-clutchmarkets.pages.dev
 1984.red.stakefree.xyz
-1fn66.com
 1inch-cryptodrop.com
 1inch-cryptos.top
 1inch.live-airdrop.com
@@ -81,12 +80,14 @@
 924864-binance.com
 930328333.pages.dev
 991820-crypto.com
+9c77-coinbase-listing-677f.pages.dev
 aave-protokol.com
 aavefi.cfd
 aavev2.xn--stakng-lwa.com
 abks43.icu
 abs-alphapass.com
 abstract-distributions.com
+access-login-krekn.pages.dev
 accessportal-87643-solana.netlify.app
 account-moonpay.bttc.de
 aceminersnfts.xyz
@@ -170,7 +171,6 @@ app-saga.co
 app-tea.network
 app-turtle.lat
 app-xaman.lat
-app-xorca.fun
 app.extendedapp.live
 app.git.admin.blog.lyncdiscover.mocas.io
 app.kiloex.live
@@ -256,6 +256,7 @@ bhomes.biz
 bicoinminetrixi.com
 bicoinonbnb.co
 bids-fragment.com
+bifanpty.com
 bigbang-claim.org
 bigeyescoindapp.pages.dev
 bill-docsverify.online
@@ -271,7 +272,8 @@ bitcoinbsc.click
 bitcoinminetrix-app.pages.dev
 bitget.finance
 bitgetswap.org
-bitrefill.com-r01-esim-gift.com
+bitrefill.com-gift-cards-hbar.com
+bitrefill.com-gift-cards-pol.com
 bitsampccu.com
 bitstampv.vip
 bitwexpro.com
@@ -323,7 +325,9 @@ bydra.fast-mint.com
 bytefixtech.site
 c.node-web.xyz
 cake-pies.app
+cakewalletapp.at
 calgo.pages.dev
+callconnect.cloud
 calvinsolana.com
 camellot.exchange.ai-web3.cfd
 caml.one
@@ -336,6 +340,7 @@ catslapeth.com
 cegmjj.pro
 ceiestia.app
 celtis.fail
+cf-hlab3e2k.workers.dev
 chackinvite-app.cloud
 chaingpt.air-drop-u.live
 chainlinkannouncement.com
@@ -423,7 +428,6 @@ coinswqrelo.wixstudio.com
 coldpalmer.a1kpgra.com
 collection-offers-opensea.web.app
 com-apple.support
-com-base.digital
 com-logln.sbs
 com-safety.us
 commons.sollab.cc
@@ -605,7 +609,6 @@ event-gmx.io
 event-linea.com
 event-niblru.com
 event-rektober.fun
-event.zksymc.cc
 eventchecker-v8.netlify.app
 eventinvite.one
 events-pudgypenguins.net
@@ -777,12 +780,14 @@ inkonchain.live
 integration-trezor.com
 inv2scroller.xyz
 investearn.com
+invitation-teams.team
 invites.originslgns.live
 io-extensnmetmask.wixstudio.com
 io-net-airdrop.pages.dev
 io-snapshot.net
 io-suitetrezr-en.typedream.app
 io-uk.xyz
+ionicdigital.co
 iuasuydyas.com
 jeffcoin-early.com
 jitosol.site
@@ -847,7 +852,6 @@ lhfesjfz.bond
 lhyperfndl.com
 lidodashboard.org
 lidofi-dashboard.com
-lidofinance-v2.com
 lidov3.com
 likecoins66.top
 limited-tknmint92.vercel.app
@@ -904,6 +908,7 @@ mantao-network.pics
 mantaswap.net
 mantra-rewards.com
 maqilamd.web.app
+marginfi.luxe
 market-room.com
 market.openseai.co
 marscoin.5a-evmcheck.lol
@@ -961,7 +966,6 @@ mint-near.com
 mint-nftsean0w.firebaseapp.com
 mint.bdogsclub.xyz
 mint.niftygateway.live
-mintcampaign7.vercel.app
 mintingpads-q.com
 mintswap03.vercel.app
 mirai.exploreadrevs.run
@@ -1136,6 +1140,7 @@ performs-monpay-io.wixstudio.com
 perkmoney.lat
 perlelab.xyz
 phantom-walats.gitbook.io
+phantom-wallet-extension.blogspot.ie
 phantommwallets.gitbook.io
 phase1-berachain.com
 phenometa.net
@@ -1618,7 +1623,6 @@ web3-giveaway.com
 web3-trcklink.tech
 web3.smartchainlive.xyz
 web3girls.fun
-web3globalleaders-com.pages.dev
 web3shib.pages.dev
 web3skyhigh.top
 web6868168.com
@@ -1712,6 +1716,7 @@ www.migrate-otsea.pro
 www.migration-micropets.tech
 www.multichainbridge2.com
 www.murakaml-flowers-kaikaikiki.xyz
+www.myepaw.com
 www.mygooddeed-wo5u.vercel.app
 www.newyorknewyork.site
 www.nomlswlap.tech
@@ -1760,6 +1765,7 @@ wwwnodepay.xyz
 wwwrainbet.com
 x-attention.fun
 xamanpcwallet.com
+xball.top
 xcoin-buy.com
 xencrypto-io.claims
 xexodus-wallet.webflow.io

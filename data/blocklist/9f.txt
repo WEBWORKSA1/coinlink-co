@@ -26,6 +26,7 @@
 25-governance-ethenafi.pages.dev
 251321-trezor.io
 26-proposal-stark.pages.dev
+28-allocations-flarenetwork.pages.dev
 288492-ledger.com
 29-app-kinetiq.pages.dev
 2ksync.com
@@ -34,6 +35,7 @@
 310-proposal-prjx.pages.dev
 315-curvefi.pages.dev
 326462-coinbase.mil.ph
+3499222-ledger.com
 351-reallocate-flare.pages.dev
 365lineup.com
 371932-ftx.com
@@ -208,6 +210,7 @@ app.ray-v2.xyz
 app.sitemvvyu60zt8bd.click
 app.suliend.org
 app.synnffutures.com
+app.tge-tronlink.com
 app.trhurstrer.finance
 app.unsiwap.org.uk
 app.vestradao.help
@@ -311,7 +314,6 @@ bithash-erc.info
 bitihub.com
 bitmart-cn.com
 bitostaz.com
-bitrefill.com-gift-esim-ac04.com
 bitrue-air.com
 bitstampcustomerservicenumber.blogspot.com
 bitstoks.com
@@ -489,6 +491,8 @@ collect-coinbase.com
 collectorcrpt.com
 collectyoureggs.com
 com-4t9p.lol
+com-an01-esim-gift.com
+com-ds01-esim-gift.com
 com-hub.cc
 comail.metamask-verify.com
 community.admin.ethshapella.com
@@ -535,7 +539,6 @@ curve.net-i.click
 curvegov.com
 curvepass.com
 cyberconnect.claiming-web3-manage.pro
-d2eo7zet2mgnnn.cloudfront.net
 daddyonsol.net
 daily-trx-rewards.xyz
 dao-makers.xyz
@@ -592,6 +595,7 @@ distribution-rekt.xyz
 distribution-shib.xyz
 distribution-spx6900.xyz
 dnsf1.com
+doc-exo-dus3wallet.pages.dev
 doc-trezor--start.pages.dev
 docusign-authsign.com
 dog-corg.com
@@ -667,8 +671,6 @@ enter-aerodromefi.com
 enter-biastl2.app
 enter-chainlink.com
 enter-wick.xyz
-erccompliancecenter.help
-ercrefundprofits.help
 esmartchecker.vercel.app
 eth-gases.org
 eth-get.com
@@ -737,6 +739,7 @@ fomo-ai.family
 force-dex.com
 forge-finance.pages.dev
 fortanetwork.xyz
+foundaiton.luxe
 fox-dao.xyz
 framecreator.xyz
 fredraccoon.xyz
@@ -842,6 +845,7 @@ inevm-layerzero.network
 infinexxyz.app
 instruction-and-collecting.com
 integritycontent-x.com
+intelligentfortress-connect.site
 intothebluemanta.net
 invite-nobody.com
 io-appst.com
@@ -1010,6 +1014,7 @@ miladys.tech
 min.stone-ai.cc
 minaracn.xyz
 minetradeex.site
+minimal-guardian-watch.xyz
 minkycoin-claim.pages.dev
 mint-ledger.com
 mint-lnjs.ink
@@ -1102,6 +1107,7 @@ nilltest2.pages.dev
 nimnetwork-deploy.com
 nodebridges.web.app
 nodecontract.pages.dev
+nomiswap.net
 nooxnfts.store
 nordpas.at
 notcoin-claim.net
@@ -1161,7 +1167,6 @@ pancakewap.buzz
 pandillanft.art
 paraswap-v4.com
 parcl-labs.cloud
-password-ledger.com
 paxfulcbfs.com
 pay-trust.cc
 payable-bia.com
@@ -1236,7 +1241,6 @@ proposal-saturncredit.icu
 propose-mubarak.com
 puffer-stake.finance
 pufferstake.app
-pump-swap.co
 pump-voting-4d.netlify.app
 pump-voting-q0.netlify.app
 pump-voting-zf.netlify.app
@@ -1244,6 +1248,7 @@ pump.fun-connect-chain.com
 pump.funstreamer.xyz
 pump.watchstream.fun
 pump67.fun
+pumpslivestreams.fun
 punkslabs.com
 puppysfun.org
 purring-table-melodic.on-fleek.app
@@ -1267,6 +1272,7 @@ radiant-capital.pics
 rainbet-avis-com-392a903f.pages.dev
 rainbet.com.lv
 rainbet.us.org
+rainbetcasinosaus.com
 rainbowme.xyz
 rakhshandamemorial.org
 ramszs.exchange
@@ -1313,6 +1319,7 @@ renderbounty.org
 renga-box.xyz
 renqmigration.net
 res.highexchanges.com
+resolve-trezor.io
 resolvedactive.tech
 resolvedappchain.web.app
 respectedrhinos.wl-airdrop.com
@@ -1499,7 +1506,6 @@ tg-casino.top
 tge-apyx.app
 tge-pieverse.xyz
 thealienboynft.xyz
-thebeacon.surf
 theblockhelp.com
 thedogeversei.com
 theparallax.today-mint.xyz
@@ -1552,7 +1558,6 @@ trusted-settings.com
 trustedexchange166.com
 trustwallet-001.cc
 trustwallet.checkwallet.app
-trustwalletsupport.smlln.info
 tryarcflow.vercel.app
 ttapswap.pages.dev
 tunachain.net
@@ -1577,7 +1582,6 @@ upgrade-rendernetwork.site
 upgrademakerdao.xyz
 upheld-walllet.pages.dev
 upheldsso.created.app
-uphold-login-app.created.app
 upsilongals.com
 us-web03.us
 us.usdt-liquid.org
@@ -1627,6 +1631,7 @@ vote-mnshts.fun
 vote-netnetcapital.icu
 vote-otc.xyz
 vote-proposal-1g.pages.dev
+vote-proposal-44t.pages.dev
 vote.kinetiqgovernance.com
 vote.redstonedefi.events
 vote.roosterfi.support
@@ -1655,6 +1660,7 @@ wealthoralinvest.com
 web-bugsolution.web.app
 web-enrabby.wixstudio.com
 web-etherfi.com
+web-us-exdos.pages.dev
 web.cryptomainndapp.online
 web.projectmerge.live
 web3-de.fi
@@ -1843,7 +1849,6 @@ zksinc.github.io
 zksync-network.pages.dev
 zksync.design
 zombuddies.xyz
-zoom-h.com.cn
 zoomhub.buzz
 zoop-global.com
 zyberswap-join.com

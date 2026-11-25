@@ -7,6 +7,7 @@
 11-allocation-abstract.pages.dev
 11-derivegov.pages.dev
 12-priorseco.pages.dev
+12f4-fa8e-5133-c0inbase-list.pages.dev
 13-preview-derivexyz.pages.dev
 132uae.fun
 134-netnet.pages.dev
@@ -30,6 +31,7 @@
 234-reallocate-flare.pages.dev
 25-derivexyz.pages.dev
 268-allowlist-ascendlaunch.pages.dev
+26a8-cbc0-coinbase-listing.pages.dev
 27-vote-cashmereexchange.pages.dev
 3-proposal-priors.pages.dev
 30-arguseco.pages.dev
@@ -39,6 +41,7 @@
 33-proposal-ethos.pages.dev
 334-curvefi.pages.dev
 373-curvefi.pages.dev
+38-rewards-firelightfi.pages.dev
 38423-crypto.com
 3eth.info
 4-clutchmarkets.pages.dev
@@ -124,6 +127,7 @@ aitokensradar.com
 aixbts.run
 alakhttiar.com.sa
 albaronrealestate.com
+alignedlayeer.xyz
 alldrops.live
 allocation-infrastructure.finance
 allocation-munchable.com
@@ -176,9 +180,11 @@ app-dextools.io
 app-flareportal.vercel.app
 app-gasp.xyz
 app-hashport-network.pages.dev
+app-hyperliqudl.xyz
 app-inchfixresolve.xyz
 app-liquidity.land
 app-moonwellfi.top
+app-msteams.com
 app-radar.org
 app-slotsvalid.live
 app-stakelayer.pages.dev
@@ -228,6 +234,7 @@ atlasminesdev.com
 atorprotocols.com.shibrariumtech.com
 atsnfts.pw
 audisgifts.pages.dev
+aureviaskincare.com
 aus-rippercasino.com
 auth.betdex-exchange.com
 authdecentralized.pages.dev
@@ -321,6 +328,7 @@ bounce-bit.xyz
 bridge-metis.app
 bsc-chain.com
 bsc.0xdac17f958d2ee523a2206206994597c13d831ec7.shop
+btc-huobi.com
 btc-laundry.org
 buff163.cx
 bulei.icu
@@ -433,7 +441,6 @@ claims.puffer.pw
 claims.puffer.run
 claimsolaxy.xyz
 claimstrk.xyz
-claro-rewardsa.lat
 cleim-suilend.biz
 clever-chouxcomm.netlify.app
 cloud-trust-walet.framer.wiki
@@ -455,6 +462,7 @@ colis-ups.com
 collabland-id-343234678.com
 com-cap.xyz
 com-gateway-api-gateway-dex-app.cloud
+com-in-g01-esim-gift.com
 com-liveapp.site
 com-polybet-q54.com
 com-psfikl.bond
@@ -520,10 +528,10 @@ dappsrectify.pro
 dashboard-ston.io
 dashboard.fiare.click
 dashboard.layeradge.com
+data-guild.xyz
 datawebrpcfix.top
 ddapprectification.pages.dev
 debak-web3-wallet.blogspot.com
-debridge.trade
 decentralizedairdrop.com
 decentralizedfix.online
 decentramindbot.com
@@ -616,7 +624,6 @@ ens-money.com
 entering-modenetwork.com
 ephxe.top
 eqlb5i.ethereumd.ltd
-ercassetsettlebridgeyield.help
 etena.xyz
 eth.caga-web3.com
 ethana-4jk.pages.dev
@@ -874,6 +881,7 @@ kmspico.zip
 kraken-balanced.epiccrypto.io
 kraken-handover-tracker.pages.dev
 kraken.com.support.bc1qdvjvj3sh93ypwcer5gacyv6tgupr3avkryz90a.panamericanco.com
+krakenlogenes.gitbook.io
 kslglobaltrade.com
 kstar-nft.wiki
 kucoinclaim.io
@@ -989,6 +997,7 @@ metamoon.io
 metawins.info
 metisdex.com
 metumaskwale-usa.godaddysites.com
+midnigthnetwork.luxe
 migrate-kamino.com
 migration-portal-pi.vercel.app
 milady-nft.vip
@@ -1138,14 +1147,12 @@ ordizk.finance
 orederly-network.pages.dev
 oregovernance.top
 org-jaxxliberty-apps.wixstudio.com
-origindefi-bonus.top
 orochiairdrop.top
 ot-sea.io
 otcdeals.io
 ouis.cc
 owl-verification.netlify.app
 ozakai.pages.dev
-paalsushi.top
 page-ledgre-en.pages.dev
 pagi-inv.com
 paidpartnerships-x.com
@@ -1236,12 +1243,12 @@ promote-foundation.net
 promptfixchain.pages.dev
 propbase-staking.com
 proposal-aave.top
+proposal-arendt.com
 proposal-bera.com
 proposals-degentoken.xyz
 propose-pinlink.org
 pros-krkenapps.wixstudio.com
 protocolrepairrpctools.com
-protocols-firelightfi.xyz
 prymeart.live
 psyop-coin.xyz
 pub-4629bee5fe1648658c7bb2c2e4aa7f96.r2.dev
@@ -1552,7 +1559,6 @@ toacttab.com
 token-pepepow.org
 token-reward.fun
 token-suilend.sbs
-tokenizations-ondo.com
 tokens-zilliqa.com
 tokenvault.pages.dev
 ton-bonus.top
@@ -1648,6 +1654,7 @@ vote-pufferfi.com
 vote-signal.info
 vote.ethersfinansce.net
 vote.fantomprotcols.network
+vote.kaminoecosystem.icu
 vote.moonweil.net
 vote.nimnetworkcoindao.com
 vote.swelltoken.info
@@ -1701,6 +1708,7 @@ whitelist-worldlibertyfinancial.com
 whitewhale-aliocation.xyz
 why24k.rest
 wienerdog.wtf
+winter-summit-secure-user-3e08-3312.pages.dev
 withvana.org
 wl-defi.com
 wlconnect.app

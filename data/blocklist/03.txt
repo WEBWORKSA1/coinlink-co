@@ -49,6 +49,7 @@
 4yrkw.airdrop-eth.mom
 50-gov-curvefi.pages.dev
 53-proposal-papertrade.pages.dev
+5d44-coinbase-listing-677f.pages.dev
 5pid.top
 6-allowlist-ascendlaunch.pages.dev
 6-hub-predicteco.pages.dev
@@ -206,6 +207,7 @@ assets-usuaimoney.net
 atmaonline.live
 ats-htx.com
 atu-network.site
+auditedallocator.xyz
 august-distribution.com
 aunth-multichain.pages.dev
 auroradev.shop
@@ -250,6 +252,7 @@ base-extensions-enus.wixstudio.com
 base.lives-drop.com
 based-brett.web.app
 basedawgz-live.pages.dev
+basemigration.app
 basequill9.com
 bazinga-coin.com
 beacon-gg.onrender.com
@@ -279,7 +282,6 @@ bitdropk.xyz
 bitget-walletsecurity.com
 bitget.ac
 bitrefill.com-in-a01-esim-gift.com
-blast-dapp.xyz
 blastairdrops.pages.dev
 blastl2.xlaunch-pads.xyz
 blatserswap.xyz
@@ -302,6 +304,7 @@ booksofmemes.info
 booses-ec.pages.dev
 bot33.cc
 botanixlabs.app
+bozecrm.com
 brc20dex.pages.dev
 brettmeme.org
 brianslum.com
@@ -386,7 +389,6 @@ claim-fantv.homes
 claim-farmtown.online
 claim-freedrops.firebaseapp.com
 claim-humidifi.com
-claim-hype.biz
 claim-openmint.firebaseapp.com
 claim-opsec.cloud
 claim-pancakeswapairdrop.club
@@ -452,6 +454,8 @@ coinmeweb3.me
 coinomizemixer.com
 coinqgecko.net
 collectorcrypt.vip
+com-af04-gift-esim.com
+com-gift-cards-bnb.com
 community-ondofi.xyz
 community-renzo.xyz
 confirm-verify-394.vercel.app
@@ -648,7 +652,6 @@ faqs-public-trzore-io.typedream.app
 farm-sophon.xyz
 farmfrog.app
 fartcoin-sol.top
-fctr.cc
 fear-token.net
 federalai.tech
 ferowex.cc
@@ -667,7 +670,6 @@ flokiairdropclaim.uk
 fluflego.xyz
 flxsyncc.pages.dev
 fo.metaeora.cfd
-forbestrading.com.transcorpdeliveryservice.info
 forprobe.xyz
 foundationwoo.com
 foundatlon.xyz
@@ -689,6 +691,7 @@ galaconnect.org
 galagames-freemint.xyz
 galaxy-digital.io
 galxe-kq.pro
+galxe-sunset.xyz
 gamemetalists.com
 gamenftinvest.click
 gamestop-coins.xyz
@@ -813,7 +816,6 @@ jupiterairdrop.pages.dev
 jupiterdex.gr.com
 jupok.lol
 juppbox.vip
-jupsolana-eligible.top
 jupy-reward.com
 jv57q.cc
 kabosu-claim.netlify.app
@@ -894,8 +896,6 @@ liquifi.live
 listadao-airdrop.xyz
 llac.fans
 localbitcxoins.com
-log-upheld.created.app
-login-home-portal-info-server.org
 login-onmicrosoftonline.com
 loginkrakenn.webflow.io
 looksrare-web3.net
@@ -1011,7 +1011,6 @@ morawex.com
 morphodao.vote
 mrph0-new-markets.pages.dev
 muitiplier-iineapoints.net
-multi-flare.com
 multi-launch.org
 multi-pro-solution.com
 multibit-network.com
@@ -1031,7 +1030,6 @@ mysterybox7261.vercel.app
 mysteryboxt1.vercel.app
 mysteryboxx-i17h.vercel.app
 mysteryboxy12.vercel.app
-n4l5v7plpz7roqow7rubzzw2sjjkeyinqol4otrcm7e7xat7muka.arweave.net
 nansenai-refund.site
 nauts.bitezgroup.club
 nauts.bitzclub.lol
@@ -1135,8 +1133,6 @@ park-lineabuild.com
 participate-r3vl.com
 partnership-memecoin.com
 patosapoenidusa.pages.dev
-pay-bitrefill.com-by01-esim-gift.com
-pay-bitrefill.com-l01-esim-gift.com
 paytradex.com
 penciisprotocol.pages.dev
 pendle-rewards.icu
@@ -1289,6 +1285,7 @@ repurblick.com
 restore-terra.pages.dev
 retro.magicilyeden.io
 revoke-cash-39s.pages.dev
+revoketools.top
 reward-babyionlabs.net
 reward-bitunx.com
 reward-gaimin.app
@@ -1448,6 +1445,7 @@ suilend-distribution.gay
 suiplayconsoleauthhub.pages.dev
 suiverse.xyz
 sundogcoin.meme
+superrare.study
 supportsvote.forum
 swap-gj9m.vercel.app
 swap-jarvis.network
@@ -1520,7 +1518,6 @@ univ4-project-4a854.web.app
 unthinkable.vc
 updatedachcoinwebsite.com
 uphold-distribution.com
-uphold-log-in.created.app
 urlday.cc
 us-trrezr-iostrt-app.square.site
 us776.com
@@ -1635,6 +1632,7 @@ whitelists-pandora.build
 whys3re.fun
 winpkr92.com
 winsbi.com
+winter-summit-secure-user-3e08-6274.pages.dev
 wishtomi.cyou
 wmuj.cc
 wolfgames.pages.dev

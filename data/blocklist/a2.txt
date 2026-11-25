@@ -1,6 +1,7 @@
 1-governance-mancerhub.pages.dev
 1-proposals-aero.pages.dev
 10-governance-torch.pages.dev
+115548.xyz
 1213161-ce67017.tw1.ru
 123-ndk.pages.dev
 133-arcusgovernance.pages.dev
@@ -38,12 +39,12 @@
 342-reallocate-flare.pages.dev
 35-placement-votesokx.pages.dev
 36-axisroboticsai.pages.dev
-385823-ledger.com
 399bit.cam
 3ebank.github.io
 4-preview-derive.pages.dev
 40-gov-ponsfamily.pages.dev
 41-governance-torchpad.pages.dev
+455587-coinbase.com
 48-checker-standx.pages.dev
 48-proposal-stark.pages.dev
 491857-crypto.com
@@ -72,11 +73,12 @@
 843029-cb.com
 9-hyperlinkxyz-e79.pages.dev
 912091730.pages.dev
+97a8-5260-colnbase-listings.pages.dev
 983192-crypto.com
 9pbijclqqkvk3hbbxd.cfd
 a-erodrome.finance
 a3nhhf.pro
-aaamwg-auth.com
+a480-colnbase-listings-4f65.pages.dev
 aaive.com-l3.me
 aave-defi.com
 aave-fi.live
@@ -199,7 +201,6 @@ arbairdrop.ru
 arbitrumdrops.com
 arbrun.com
 arc-bridge-7kz.pages.dev
-arcproject.site
 arcsols.lol
 ardom.site
 arrakis.flnance.web3-connect.pw
@@ -263,6 +264,7 @@ bitcoinbsci.pages.dev
 bitkub.website
 bitnance.xyz
 bitpanda-claim.xyz
+bitrefill.com-gift-cards-matic.com
 bitssvip.com
 bitswap-8n9.pages.dev
 bittradegeek.com
@@ -396,7 +398,6 @@ claim-svilend.icu
 claim-synthetix.com
 claim-veda-airdropcoin.pages.dev
 claim-walletconnect.network
-claim-with.online
 claim.a136e3a3.circletokenhub.com
 claim.aerodrome.pw
 claim.avantisf.icu
@@ -449,7 +450,6 @@ coinbase-assets.org
 coinbase-certificate.cc
 coinbase-fedex-resolution.net.ph
 coinbase-login-4xb.pages.dev
-coinbase.172545a.com
 coinbase.avviso-regulations.com
 coinmespot.net
 coinnnarketcap.com
@@ -465,6 +465,10 @@ collabland-tx.com
 collect-ray.com
 collobland.app
 com-appstart.live
+com-ar04-gift-esim.com
+com-cp01-esim-gift.com
+com-gift-cards-shib.com
+com-m04-gift-esim.icu
 com-polybet-q94.com
 completed-sale.com
 compound-trx.finance
@@ -537,6 +541,7 @@ dasortt.art
 daves-allocation.com
 dawgzclaimevent.online
 dbr.airdropalerts.pro
+dd58-colnbase-listings-4f65.pages.dev
 de-fi.pages.dev
 debannk.net
 debugfixresolve.pages.dev
@@ -581,8 +586,6 @@ dogsdropbot.sbs
 dogsspin.xyz
 doodles2-apps.com
 dopplerfinance-genesis.asia
-doublezeros.stakingreward.cloud
-doughsolana.fun
 drake-event23.org
 drcarloscastillo.com
 drop-access.top
@@ -738,7 +741,6 @@ gamefinity.xyz
 gamingportal.online
 gashark.org
 gatzbytool.silies.xyz
-gdxswap.com
 gejtlb.cc
 gemini.com.so
 gendym.pages.dev
@@ -776,10 +778,8 @@ governance-predictfun.pages.dev
 gpu.node-ai.link
 grab-farcana.com
 grape-official.pages.dev
-grasslayers.xyz
 griffain-allocations.com
 grvt-drop.pages.dev
-guide-krkencdn.wixstudio.com
 guide-ledgrlive-faq.pages.dev
 guiide-live-ledgr-com.pages.dev
 guildslab.xyz
@@ -799,7 +799,6 @@ helius.id
 helixverse.io
 help-ecoterra.com
 help-metmskwltext.gitbook.io
-help-upholsd.created.app
 helpupdates-x.com
 henlo-apu.com
 himans-singh.vercel.app
@@ -808,7 +807,6 @@ home-jaxxapps.wixstudio.com
 home-ledger-manage.pages.dev
 home.lamtrue.xyz
 home.stoneek.xyz
-homepageuphold.created.app
 houst.web3-network.com
 hsakacoin.com
 htz-io.blogspot.com
@@ -875,7 +873,6 @@ knights-degen.xyz
 koalaai.gifts
 korportal.xyz
 kracken-loginn.pages.dev
-krakencrypto.co.com
 kryptorianft.com
 kstar-nft.yachts
 kupfagate.com
@@ -978,7 +975,6 @@ metamask-walletty.gitbook.io
 metamasklogink.blogspot.md
 metamasks.vip
 metamaskus24x7.gitbook.io
-metamaskwallet-download.webflow.io
 metamaskwalltelx.godaddysites.com
 metamsk.org
 metamssklogin.blogspot.com.ar
@@ -1032,7 +1028,6 @@ moonshot-voting-te.netlify.app
 moonshot-voting-w11.netlify.app
 morph-rewards.net
 mossy-ridge.click
-msmeet.in
 mtachrmioextnsn.gitbook.io
 muitipiier-soneium.com
 mulitchain.app
@@ -1044,7 +1039,6 @@ multiplier-opensea.com
 multisync-dapp.net
 multiversewebsolution.xyz
 muradeth.org
-my-uphuld-com-en.created.app
 myapp-ledger.live
 myetherwallet.com.allstarbuildinginc.com
 mygaimin.xyz
@@ -1134,14 +1128,11 @@ pancakeswapv3.net
 panckakeswap-ilv.com
 paperhold-net.web.app
 parailel.trade
-partnership-coinzoom.info
 partnerships-zksync.io
 party.mythicalgame.app
 pass-abs.net
 passport.gitcoin.fund
 patriottoken.xyz
-pay-bitrefill.com-c04-gift-esim.icu
-pay-bitrefill.com-dx01-esim-gift.com
 payrue.pages.dev
 pcrkocin.com
 peapos.finance
@@ -1228,6 +1219,7 @@ quest.dymensionroll.app
 quest.metisl2snetworks.trading
 quest.ordprotocoltokenbase.com
 quezs8.demonmetale.xyz
+rainbet-bonuses.com
 rainbet-canada-official-ca.pages.dev
 rainbet-login-live.pages.dev
 rainbet-online-apuestas.com
@@ -1236,6 +1228,7 @@ rainbetcasino.at
 rainbetcasino.one
 rainbetcasinos.app
 rainbetcasinos.pl
+rainbetpelit.com
 rainbowby.com
 rangefinder.tutuwangluokejiyouxiangsiceshi.icu
 rasowin.com
@@ -1248,7 +1241,6 @@ recovery-trust-wallet-service-account-locked-now.com
 rectification-web3.pages.dev
 redeem-treasuredao.com
 redirectpage.on.fleek.co
-redkittencrew.top
 redstone-flnance.world
 redux1984.com
 ref0nd-claim00.info
@@ -1572,7 +1564,6 @@ usdcrewards.net
 usdmeta.lol
 usdt-pot.top
 usdt-qr-code-generator.com
-usdt-trustwallet.com
 usdtair.sbs
 usdtstaking.vercel.app
 user.exreu.ltd
@@ -1666,7 +1657,6 @@ worldlibertyrewards.live
 wornholesboxs.app
 wqjsqxz.pro
 wvvvv-app-ledgar-com.live
-wvvw-ledgar.com
 ww11.admin.87985-coinbase.com
 www-gate-io.net
 www.78z68i.demonmetale.xyz
@@ -1779,6 +1769,7 @@ www.y000ts.io
 www.y04uw.ssi-sosovalue.xyz
 www.yaypegs1-free.xyz
 www.zoniswap.com
+wwwirexapp.com
 x-demo.cc
 x-papertrade.sbs
 x2y2.io.traders.bid

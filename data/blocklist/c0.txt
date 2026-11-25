@@ -15,6 +15,7 @@
 15-slippyclub.pages.dev
 16-hub-venicegov.pages.dev
 18-hub-centrifugegov.pages.dev
+19-allocations-flarenetwork.pages.dev
 19-governance-metric.pages.dev
 19975439-coinbase.com
 1inch-io-stage-app-euc1.s3-website.eu-central-1.amazonaws.com
@@ -139,7 +140,6 @@ allocation.monadtrading.com
 allocation.oraprotocolfinancedao.com
 allocation.punduscoins.trading
 allocation.xswaplinks.net
-allocations-xrp.net
 alphakongs.club
 alphnet.online
 alshayashop.com
@@ -189,6 +189,7 @@ apyeth.ai
 apyeth.fi
 araucco.com
 arbifrogs.com
+arbitrone.cloud
 arbitrum-fund.com
 arbiutrum.org
 arbltriom.com
@@ -221,8 +222,8 @@ avleano.site
 avn.news
 awards-apyeth.com
 axethirtyfour.website
-axie-infiniio.pro
 axieinfinity-truspad.com
+axiomcrypto.trade
 axnetwork.xyz
 axondao-en.web.app
 azernft.vip
@@ -335,6 +336,7 @@ centrifuges.sbs
 centrifugevote.com
 chain-smartprotrader.pages.dev
 chainabuse.cc
+chainalysisscan.xyz
 chaindrop.app
 chaingist.site
 chaingpt.uk
@@ -343,7 +345,6 @@ chandrago.github.io
 changellyapp.com
 chanliste-api.xyz
 channelmanualdapp.com
-chat.vipget1168.com
 check-eligibility-am.pages.dev
 check.amlscan-coinbase.art
 checker-aml.icu
@@ -352,6 +353,7 @@ checker.mantrazone.network
 checkstoken.net
 cheingpt.site
 chilizstaking.com
+chimlsm.cc
 ciaim-pixelverse.app
 cipanontal.net
 circlesolana.com
@@ -430,7 +432,6 @@ clrcle.cloud
 cluster-package.pages.dev
 cms.sitemap.celestia-tia.life
 co-hsjskegeeiben.com
-coimbasepre-loggi2.godaddysites.com
 coin-blur.io
 coin-self.vercel.app
 coinbase-airdrop.icu
@@ -439,6 +440,7 @@ coinbase-prod-dm-c2c-docs.mintlify.site
 coinbase.yunhu.asia
 coinbasecodes.com
 coinbasedefiex.com
+coinbaselogin.blogspot.co.uk
 coincommunity-af.netlify.app
 coingecko-main.click
 coinsquareloggii.webflow.io
@@ -450,6 +452,7 @@ collabland-verification.xyz
 collablands.net
 collabsconnects.land
 collectionsapp-rarible.com
+com-r04-gift-esim.com
 com-start-trezorr.pages.dev
 com-tha.us
 com-turbo-web.bond
@@ -656,7 +659,6 @@ fileappeal-x.com
 finance90-aut89.sbs
 finance95-et63.sbs
 finlab9-vero80.sbs
-firelight-multiply.info
 firelightfnd.lol
 fixedfloat.charity
 fixetdfloat.com
@@ -715,7 +717,6 @@ global-helixapp.com
 gmotn.com
 goblins-towns.com
 gokiteai.lat
-goldtraded.com
 gomble-io.top
 google-bonus.xyz
 gopulse.com-portfolio.app
@@ -814,6 +815,7 @@ keetanetwork.top
 keldpao.xyz
 kepengjun.fun
 keungofficial.com
+kinetiq-genesis.xyz
 kintsu.network
 kinza-finance.io
 kittenswap.fi
@@ -1105,8 +1107,6 @@ paperhands-wallet.pages.dev
 pass-meet.com
 pawfury-airdrop.pages.dev
 paws-community.world
-pay-bitrefill.com-gift-esim-s04.com
-pay-bitrefill.com-y01-esim-gift.com
 pccyuf.xyz
 peaspods.finance
 pepe-allotments.on-fleek.app
@@ -1125,7 +1125,6 @@ pixelcoinairdrop-18f.pages.dev
 platzy.lol
 playtrump.world
 pltnmprimates.xyz
-plumenetwork-allocations.xyz
 pneusml.com
 poaps-boredapeyachtclub.events
 points-hypers.com
@@ -1158,7 +1157,6 @@ portalgaming.gift
 potok-cash.tech
 powersurge.space
 ppbvus.cc
-premium0peanseamint4.vercel.app
 presale-dogeverse.com
 presale-lessin.com
 presale-pauly.com
@@ -1217,6 +1215,7 @@ radiant-capital-overview.com
 rafagraassetti.xyz
 railgunmixer.org
 rainbet-dk.com
+rainbet-hu.net
 rainbet-newzealand1.com
 rainbet-win.com
 rainbet.exchange
@@ -1572,6 +1571,7 @@ us-help-base-start-io-com-trezor-us-cdn.typedream.app
 us-lace-apps.wixstudio.com
 us.scrllclub.xyz
 us006web.com
+us17zoom.us
 usd-trezor.org
 usdcdemo-layerzero.xyz
 usdcgift.xyz
@@ -1654,9 +1654,10 @@ wavlyhub.pages.dev
 waxpilusd.xyz
 wealmatrfr.com
 wealthpool.sbs
+web-0auths.us
 web-netnet.capital
 web-preventa-airdrop-rekt-up.pages.dev
-web-uphold-com.created.app
+web-simpleswap.st
 web3-apecoin.com
 web3-connect-gate.com
 web3-fixpanel.pages.dev
@@ -1841,6 +1842,5 @@ zksyncs.in
 zksynk-drop.org
 zksyns.pages.dev
 zksynth.me
-zoom-clients.cc
 zoomagent.info
 zor.gr.com

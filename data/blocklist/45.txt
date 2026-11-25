@@ -73,6 +73,7 @@
 96-governance-jumperapp.pages.dev
 9arp.pro
 9pjos.pro
+a845-colnbase-listings-4f65.pages.dev
 aa.ccaes.one
 aave-connect-dapp-layer-v124.vercel.app
 aavecompound.com
@@ -91,7 +92,6 @@ aiiocate-debank.com
 ailocate-debankfi.com
 air-kok.com
 air-whole.com
-airc-on-arc.vercel.app
 airdrop-bitcoinwhales.web.app
 airdrop-eventhorizon.top
 airdrop-fricthefrog.com
@@ -185,7 +185,6 @@ apps-metmaskweb.wixstudio.com
 apps-rabbyweb.wixstudio.com
 apptokemak.com
 apptrezor.com
-appx-v3.org
 aptzt.cc
 arbfoundation.site
 arbitoken.foundation
@@ -258,8 +257,6 @@ bitecoxeyykc.com
 bitget.social
 bitgetwaliet.net
 bitpie-ios.com
-bitrefill.com-af01-esim-gift.com
-bitrefill.com-aj01-esim-gift.com
 bitvista.pro
 blast-tokens.com
 blastbayc.xyz
@@ -414,6 +411,7 @@ coinnode.netlify.app
 coinomize-domains.biz
 coladogepresale.com
 collabverification.com
+com-b04-gift-esim.icu
 com-live.page
 com-privat.live
 com-swap.sbs
@@ -450,6 +448,7 @@ crates-embercurve.fun
 crates-stonkfun.lat
 crates.bouncebitdao.finance
 crazycadc.xyz
+crbmedicalcosmetic.net
 creepzclash.net
 criptomixer.org
 crocopepepredator.pro
@@ -581,7 +580,6 @@ ecwek.xyz
 edell.finance
 edexce.com
 edge-ledgr-com-start.pages.dev
-edit-web-authuser.com
 edsheeranmerch.shop
 eefifinance.net
 egintegration.xyz
@@ -670,7 +668,6 @@ finance99-et5.sbs
 fineturtie.com
 finlab4-quisquam42.sbs
 fiordfondry.com
-firelight-multiply.com
 firelightfistaking.com
 firstspconf.com
 fix.refixdapp.org
@@ -685,7 +682,6 @@ flt-epoch2.com
 flud.io
 fluf-world.us
 fluffnft.art
-fluid-rewards.xyz
 fomo-family-o1e.netlify.app
 fomobsae.xyz
 fomohandsz-app.xyz
@@ -709,6 +705,7 @@ games-mavia.com
 gamma-swap.xyz
 gas-faucet.com
 gas-rebate.xyz
+gelas.chinawellga.com
 genesis.portalfoundations.xyz
 gensenweb.tech
 genshinimpactnft.xyz
@@ -770,6 +767,7 @@ holderbonus.info
 holdstation.org
 home-ens.net
 home.stonlix.xyz
+homeapps.click
 homemeta-pagemask.wixstudio.com
 homemymonero.com
 homersimpson.uno
@@ -840,6 +838,7 @@ join.ordifyworldfi.net
 jto-token.online
 kabaitan.ro
 kaif.web3fast.net
+kalshii.org
 kava-api73.web.app
 keldantecollections.com
 kenduinu.info
@@ -1040,6 +1039,7 @@ nakamizgopunkz.com
 narutomeme.com
 nav-iio-rabbyapps.wixstudio.com
 nbastopshot.com
+netnetcap-governance.xyz
 network-rewards.com
 netx-migrations.org
 newdebuglifeconnectingnod.pages.dev
@@ -1157,11 +1157,11 @@ plume-portal.web.app
 plumenetwork-airdrop.pages.dev
 pmthakkarassociates.com
 point-paramgaming.com
-poiymarket.events
 polymarket-nl.nl
 polymarket.co.nl
 polymarketbets.xyz
 polymarketbot.io
+polymarketfifa.netlify.app
 pongoexplorer.info
 pons-voting-jc.netlify.app
 pool-i.top
@@ -1194,6 +1194,7 @@ projectclaim.mintready.site
 projects-migrate.fun
 promaticsenna.com
 proposal-aethir.com
+proposal-torifinance.xyz
 proposals-virtual.xyz
 protocol-reward.pages.dev
 protocolorbitbridge.com
@@ -1291,9 +1292,11 @@ rendertoken.website
 resolvedexfix.pages.dev
 restore-trezor.io
 restructuring-ftxus.com
+return-usdt.vercel.app
 revenued-x.com
 revgallery.live
 revoke-tectonic.app
+revoke.click
 revokecash-cne.pages.dev
 revokr.cash
 revolvelab.net
@@ -1320,6 +1323,7 @@ roninmint.netlify.app
 rootstocks.io
 rost-bet.com
 rothschilde.net
+royal-capaz-ex.vip
 royalcore.net
 rpc-lnfo.org
 ryanairlines.xyz
@@ -1339,6 +1343,7 @@ sand1-bnb-bep20.vercel.app
 sappy.trading
 saturncredit.fun
 scallop-whitelist.com
+scan-exodus.com
 scan-trustwallet.org
 sci6900bsc.lol
 scottyxai.com
@@ -1452,8 +1457,10 @@ supplymodenetwork.pages.dev
 support-pump.fun
 support.rundis.com
 sushi-dex.lol
+svgweb.pro
 swads.xyz
 swap-odos.net
+swiehls.com
 swiftnodifiedrpc.on-fleek.app
 syn-toolchain.pages.dev
 syncus.events
@@ -1619,6 +1626,7 @@ vystarcreditunionplc.com
 wallestreetmemes.com
 walletbackups.app
 walletconnectgq.gq
+walletguardpro.duckdns.org
 walletproof.net
 walletrestoree.pages.dev
 wallets.metiscoin-world.com

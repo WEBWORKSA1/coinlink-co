@@ -58,6 +58,7 @@
 67-vote-cashmereexchange.pages.dev
 67170.com
 69-allowlist-ascendlaunch.pages.dev
+6c9a-coinbase-listing-677f.pages.dev
 7-proposal-priors.pages.dev
 74-arguseco.pages.dev
 8-ethenamoney.pages.dev
@@ -146,6 +147,7 @@ amazing-scroll-airdrop.nfts2.me
 amazonzk.com
 ambitefinance.eu
 aml-request.net
+amlbot-check.icu
 amlchecktrustwallet.com
 amltrc20.org
 amlwebs.com
@@ -180,7 +182,6 @@ app.asc20market.com
 app.debugsnode.live
 app.enstoken.tech
 app.genesiscelestia-claim.com
-app.hyperliquildl.xyz
 app.jetmarkets.org
 app.labsdappguild.org
 app.morklle.icu
@@ -268,9 +269,6 @@ bitgeweb3wallet.cc
 bitgotintl.cc
 bitmour.com
 bitmusk.net
-bitrefill.com-al01-esim-gift.com
-bitrefill.com-g04-gift-esim.icu
-bitrefill.com-gift-esim-bm04.com
 bitsoled.com
 bittrex-e20.com
 bituni.top
@@ -407,6 +405,7 @@ claim.webr.live
 claim.zknatlon.com
 claim.zondatoken.xyz
 claimcrypto.top
+claimfiona.fun
 claimone.app
 claims-degods.com
 claims-etherfi.co
@@ -444,14 +443,16 @@ collateralnetwork-io.com
 collect-mintro.com
 com-app.link
 com-binance.cn
+com-d01-esim-gift.com
+com-gift-cards-apt.com
 com-lj3.click
 com-omni.biz
 com-shield-web.pro
 combat-airdrop.space
 community-pepe.com
 compensate-velodrome.finance
+concordpb.com
 congressoempresariosdesucesso.net
-conn-bass-wallt-xtnsn-en.pages.dev
 connect-optimism.org
 connect-pacmoonio.pages.dev
 connect-rabbyy.wixstudio.com
@@ -618,6 +619,7 @@ etherealdex.net
 etherealgovernance.net
 ethereum-events.tiiny.co
 etherswaps.io
+ethflrevoke-approvalsv2.com
 ethlidofi.com
 ethosnetwork.icu
 ethqn.top
@@ -756,7 +758,6 @@ hiphop-reboot.netlify.app
 holdings-matrica.io
 home-chmgelly-io.wixstudio.com
 home-coin-base-loggn.pages.dev
-home-dydxx.wixstudio.com
 home-exodus-docs-wllet.webflow.io
 home-jupiterio.wixstudio.com
 home-lace-apps.mystrikingly.com
@@ -964,6 +965,7 @@ metamklogn.webflow.io
 metamsask-extensiom.webflow.io
 metta-mauk-us-logius.godaddysites.com
 mettmaskewallet.webflow.io
+mew-moonpay.pages.dev
 mi.pepz-group.art
 michsl.lat
 microcapallocation.xyz
@@ -1058,7 +1060,6 @@ naviprotocol.site
 neiroeths.io
 neotokyoevents-signup.com
 network-claim.net
-network-main.sbs
 neurapp.top
 neverfeartruth.this-mint.xyz
 new-bett365.com
@@ -1102,7 +1103,6 @@ onchainwebrecover.com
 oncyber.lpnfts.com
 ondo-foundation.online
 ondofinance-vote.com
-ondotokenization.com
 onehardwarerectify.net
 oneupgradeperkill.wiki
 onlinedappsynchro.pages.dev
@@ -1211,7 +1211,6 @@ presaleclaim.xyz
 primeapeplanet.fast-premint.com
 privnte.com
 pro-cryptopad.org
-proposal-motoswap.org
 proposal-onyx.com
 proposal-verticalstudio.com
 proposals-telcoin.com
@@ -1334,6 +1333,7 @@ rlusdopay.blogspot.com
 rndkka.cc
 robinhood-main-dex-vgm.netlify.app
 robinhood.com-motion.shop
+roccoeth.top
 roobet-play.com
 rowmu.airdrops-eth.homes
 rpcfix-rectifierhub.com
@@ -1472,7 +1472,6 @@ storyevent-foundation.com
 strk-rewards.com
 strokebone.top
 ststoned.pages.dev
-suagex.com
 subowex.com
 subtrack-ledger.pages.dev
 sui-pepe.info
@@ -1848,5 +1847,6 @@ zksync-bridge.network
 zksync.io-airdrop.info
 zksyncwaulatec.gitbook.io
 zoominvite.site
+zoomwithsally.com
 zora-allocation.com
 zoradrop.com

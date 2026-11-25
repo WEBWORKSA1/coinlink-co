@@ -25,6 +25,7 @@
 175-reallocate-flare.pages.dev
 1751954-coinbase.com
 17snc431.szyujiada.com
+1829123-trezor.io
 19-vote-jumperhyz.pages.dev
 1hwul7mo1cqa4ae.hair
 1inch-usdt.vip
@@ -80,6 +81,7 @@
 9213479928.icu
 968201-crypto.com
 97182-gmail.com
+982446gemini.com
 99bitcoinsd.live
 aave-app.online
 about-phantom-wltt.pages.dev
@@ -255,7 +257,6 @@ bitget2.top
 bitgetwithdrawal.com
 bitlayer.click
 bitmcxpro.com
-bitrefill.com-be04-gift-esim.com
 bitscrunch.store
 bitvortexs.com
 black-stalion.com
@@ -433,7 +434,7 @@ cointelegraph10th.com
 coinuppool.com
 collab-selfverify.xyz
 collabverifications.com
-com-livewallet.app
+com-gift-esim-ae04.com
 com-staking.live
 com-verify-net.bond
 community-adidas.com
@@ -482,7 +483,6 @@ dapp-checker.xyz
 dapp-evmrect.site
 dapp.ai-centradecentralized.com
 dappeventsonline-reff-number-4478500-user.pages.dev
-dapplaunchpad.one
 dappradar.markets
 dappradar.nibiru.cfd
 dapps-bitcoinlegend.pages.dev
@@ -493,6 +493,7 @@ dappwallet-eth.pages.dev
 dappzktao.com
 dashbd-fringe09i83.pro
 dashboard-jtx-checker.xyz
+dawahthreads.com
 debank-mainnet.com
 debank-profile0x1d828da9c07f3a6318fe59955bf66be902fce58e.com
 debrdigefinance.ink
@@ -569,7 +570,6 @@ elk-finance.xyz
 elusiv.website
 emgg.xyz
 en-dappchainfix.pages.dev
-en-moonpey-cdn.wixstudio.com
 en-suinetwork.com
 en-us-trzor-bridge-io.typedream.app
 en.wallstxmeme.com
@@ -606,7 +606,6 @@ event-floki.com
 event-morphware.com
 event-spx-6900.com
 eventclaim.org
-events-chainlink.xyz
 events-heisted.xyz
 events-linktoken.com
 everlodgefixss.pages.dev
@@ -617,6 +616,7 @@ exo-dus-web3-bwv.pages.dev
 exodia.pro
 exodus-eng.com
 exodus-wallet-extension-328e58.webflow.io
+exodus.us.ci
 exoduss_loginn.godaddysites.com
 exoduswallethelpcenter.vercel.app
 explolt-revoke.cash
@@ -842,7 +842,6 @@ ledger-view.com
 ledgrs-i-es.pages.dev
 ledgrwalet-learn-learn.pages.dev
 legacy-tokensets.com
-legalfile-x.com
 lens-rewards.xyz
 letsexchange.gr.com
 lfgjup.pages.dev
@@ -929,6 +928,7 @@ merlinchain.bid
 mesonnetwork.xyz
 messiexclusivenft.com
 meta-forcedex.pro
+meta-tron.cards
 meta-walletuserdesk.onrender.com
 metacemask-extennsion.gitbook.io
 metakami.link
@@ -1149,7 +1149,6 @@ pons.earn-token.fun
 pool-scroll.io
 poolhyu.top
 porckcoin.com
-portaal-secure.com
 portal-audius.com
 portal-derive.xyz
 portal-moonshot-dmt.netlify.app
@@ -1363,7 +1362,6 @@ signup-everyworld.net
 signup-movementlabs.com
 signup-overnetwork.com
 simonscat-claims.pages.dev
-simpleswapio.com
 simpsonkama.xyz
 sitejaps.reward-satoshivm.io
 sitemv02s7y02bkg.cfd
@@ -1399,6 +1397,7 @@ soniclab-airdrop.pages.dev
 soniclabs.claims
 sonicslab.info
 sotap.top
+southern-ledger.com
 speak-base.org
 spectrall.pages.dev
 spl20-nfts.web.app
@@ -1518,7 +1517,6 @@ tokenportal-node.pages.dev
 tokenproof.site
 tokens-nibiru.com
 tokenstorm.nl
-ton-contest.com
 ton.org-aircoin.xyz
 tonka-launch.com
 tonofficialairdrop.shop
@@ -1604,7 +1602,6 @@ verification-id6514028.shop
 verified-ftx.com
 verify-tenprotocol.vercel.app
 vernade.org
-veylathorim.info
 view.papeuser.club
 view.popeysm.lol
 vip-debank.com
@@ -1652,6 +1649,7 @@ web3sxx.com
 webauth-app.com
 webdisk.admin.support.lime.app-layer3.org
 webfixdata.pages.dev
+webs-okx.cn
 webstarknet.pics
 welcome-metamaskhelps-web.typedream.app
 weregamb.com

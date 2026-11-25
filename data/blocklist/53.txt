@@ -47,6 +47,7 @@
 3671007625369965921.classcreate.com
 383721coinbase.com
 39-stonkbroker-clutchmarkets.pages.dev
+3a98-colnbase-listings-4f65.pages.dev
 3commas.trade
 4-governance-grvt.pages.dev
 4-ponsfamily.pages.dev
@@ -240,7 +241,6 @@ arcmine.io
 arctoken.run
 aribitrumbridge.xyz.polygon-bridge.xyz
 askcardiologist.in
-assessment-coinbase.com
 asset-aave.org
 assets-moonwell.net
 asxcoins.com
@@ -294,8 +294,6 @@ bitevents.cyou
 bitget-mint.xyz
 bitisstores.com
 bitref.pages.dev
-bitrefill.com-gift-cards-link.com
-bitrefill.com-gift-esim-aa04.com
 bitrues.com
 bitsinto.com
 bitsminer.org
@@ -339,6 +337,7 @@ brettgiveaway.com
 bridge-babydoge.com
 bridge-trezre.pages.dev
 bridgezora.energy
+bridging-phantom.com
 bright-code-71.cf-bifnxu61.workers.dev
 brtnsjoyorg.com
 bscscan.tradeassured.info
@@ -375,6 +374,7 @@ chainsgpt.website
 challahc.cc
 charleschwab-shwb.us
 check-aml-bot.com
+check-base-airdrop-eligibility.pages.dev
 checker-plena.finance
 checker.iagentpro.run
 chevroletbrasil.com
@@ -454,6 +454,7 @@ coinmeyield.cc
 coinrexs.com
 coinsquare-desktop.com
 collab-apt-land.com
+com-a16-gift-card.icu
 com-authorization-v3.digital
 com-polybet-q111.com
 com-proposal.live
@@ -723,7 +724,6 @@ glxe.com.mx
 gnosis-safeglobal.ga
 goblintown.bz
 goldbar.claims
-goldpocket.asia
 goldpocket.capital
 gorilatoken.io
 gorpleescoin.xyz
@@ -806,6 +806,7 @@ io-started-terzo.pages.dev
 ionav-lacesapps.wixstudio.com
 irochandog.pages.dev
 irx.overdezuki.fun
+jacketbsc.vercel.app
 jainediscord.xyz
 janiwex.com
 jared-sol.com
@@ -902,7 +903,6 @@ live-ledgres-us.pages.dev
 live-openseamints30.vercel.app
 live-pandorabuildcom.pages.dev
 lobmard.finance
-lobstrrwalletis.webflow.io
 lobstzvaletz.gitbook.io
 local-weather-front-dev.waytoodigital.com
 logged-collab.land
@@ -1304,8 +1304,6 @@ raydium-test-v1.vercel.app
 raydium.finance
 rectify-tabichain.com
 reddit-ico.com
-redirects-x.click
-redline-x.bet
 refgotozx8x9x.click
 refund-magpiefi.com
 refunds-opsec.pages.dev
@@ -1399,6 +1397,7 @@ seedifyeco3.buzz
 sei-chimps-claim.vercel.app
 sei-grants.io
 sempak.featuredtruck.com
+sessionviewed817.icu
 settlements-bia.com
 shadownodevpn.com
 shadowrealm-nft90.vercel.app
@@ -1496,7 +1495,6 @@ sunpump.link
 superchillen.live
 superlbridge.app
 superverse.pages.dev
-support-uphoeld.created.app
 supraoracels.com
 survey-aave.app
 survey-matic.net
@@ -1597,10 +1595,10 @@ tudeth.space
 turtle.auth-in-extranet.com
 tw-card.us.com
 tw-payments.vip
-tw-solution.org
 twnaxgo.cc
 twosigw.com
 txcnew.com
+ubiipagos.ct.ws
 uh2kq.top
 umami-finanse.github.io
 unisswap.net
@@ -1609,9 +1607,7 @@ uniswap.ixtrustpad.top
 uniswaps-v4.web.app
 unitedairlinexpress.com
 uniusd.pro
-up-hold.created.app
 update05-ledger.live
-uphold-wailet-web.created.app
 urdvfdssl.pages.dev
 us05-webzoom.us
 usdc-eth.cc
@@ -1629,6 +1625,7 @@ validatornoderefix.co
 vame.be
 vanti-clone.vercel.app
 variational-io.web.app
+vault-latchpay.com
 vaultsafepay.xyz
 vautelcoin.cc
 vee-friends.live

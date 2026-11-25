@@ -60,7 +60,6 @@
 572819-crypto.com
 5839172.com
 58uzzb7gq1d58uzzb7gq1d58uzzb7gq1d.mmk.supplyu.ca
-592953-ledger.com
 5iretoken.top
 6-proposal-apyxfi.pages.dev
 62-usenest.pages.dev
@@ -76,6 +75,7 @@
 80-governance-treadfi.pages.dev
 81-proposal-globaldollar.pages.dev
 828768840-5em.pages.dev
+829944.com
 840339-overviewyahoo.com
 861942-crypto.com
 881772coinbase.com
@@ -88,7 +88,6 @@ aave.cam
 aave.com.arb-l2.icu
 aave.freedrops.top
 aavechain.network
-aaveplatform.xyz
 aavev3-rsr.com
 aavev3-wethdefi.com
 accepts-wormhole.pages.dev
@@ -194,7 +193,6 @@ app-zyphergames.pages.dev
 app.beamswap.online
 app.dfllma.cfd
 app.galxe.ink
-app.hyperfndt.xyz
 app.joitify.io
 app.l7sdex.com
 app.logx.sale
@@ -279,8 +277,6 @@ bitflyer-binance.cn
 bitget-pool.pages.dev
 bitgetweb3.capital
 bitgoldmx.com
-bitrefill.com-gift-cards-near.com
-bitrefill.com-in-o01-esim-gift.com
 bitsmiley.vercel.app
 bitsofsmith.co.uk
 blabsxx.com
@@ -439,7 +435,10 @@ collabland-verif.xyz
 collabllandz.online
 collectcorcryrpt.com
 collecttrumpcards-nfts.com
+com-aa04-gift-esim.com
 com-claim3759.live
+com-cr-gift-cards-usdc.com
+com-gift-cards-ltc.com
 com-gift-esim-b04.com
 com-ledgr-learn.pages.dev
 community-lineabuild.com
@@ -452,7 +451,6 @@ connect-kinetiq.sbs
 connectliquid.org
 connectocard.com
 connectsupports.web.app
-cono-base-apps.wixstudio.com
 consensysmkei.com
 contentapply-x.com
 coqinu.finance
@@ -610,7 +608,6 @@ event-covalent.com
 events-plume.com
 everberexetentional.pages.dev
 exduiswallgt.godaddysites.com
-exodus.safe3.cfd
 exodusawalleta.webflow.io
 ext-iometamaskapps.wixstudio.com
 extn-coinbase.wixstudio.com
@@ -751,6 +748,7 @@ ifsfxwuxbrg5hsotaawq5u2rdtl6pndr26p3cu7q7ht3mjssoalq.arweave.net
 iito.world
 illuvials-mint.com
 illuvium.brealxed.com
+ingridhope.org
 inherit-manta.network
 inkton.xyz
 instinct.yreje.com
@@ -918,6 +916,7 @@ methlab-xyz.web.app
 metis-io.tech
 metmaskcdn-pages.wixstudio.com
 metmschrmextenson.webflow.io
+mexc-mexc.my
 mgli.pro
 miaonsa.wixstudio.com
 microgptclaim.xyz
@@ -945,7 +944,6 @@ modern-eventide-quick.on-fleek.app
 moj-maly-slodziak.pl
 monad-claim.today
 monad-gate.pages.dev
-money-x.biz
 moonshol.xyz
 moonshot-boosts.com
 moonshot-listing-1we.netlify.app
@@ -1082,8 +1080,6 @@ pastartr.icu
 paw-dot.pages.dev
 pawsrewards.lol
 paxfuldisputemoderators.com
-pay-bitrefill.com-ac01-esim-gift.com
-pay-bitrefill.com-az04-gift-esim.com
 paybiss-logn-io.pages.dev
 paysendz.top
 pcee.top
@@ -1174,6 +1170,7 @@ pyth-team.web.app
 pyth.org-q.one
 pythnetworks.pro
 qfsassetconnects.com
+qorpoworld-v3.study
 qorpoworld.casa
 qqf0bw.cc
 qsybg.com
@@ -1359,6 +1356,7 @@ stakewisedefi.net
 staking-pond0x.com
 staking.yoraclesio.events
 staking.z1labprotocol.trading
+standartreserve-votes.sbs
 stargate-events.net
 stargate.finance.fi-l1.shop
 stargateconnect.com
@@ -1391,7 +1389,6 @@ sultry-ledger.shop
 summer-chain.link
 summerfl.in
 suncoast.us.com
-super-bonus-life.beer
 super-pancake.com
 superfest-jumper.exchange
 superfformfoundation.org
@@ -1555,6 +1552,7 @@ walletconnect.fi.babydoge.io
 walletdmc55.top
 watchlist-earnifi.io
 wdquant.org
+web-ledger.at
 web-ledgr-logen.pages.dev
 web-ston.fi
 web.claim-roost.wtf

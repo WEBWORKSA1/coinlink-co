@@ -43,6 +43,7 @@
 337zq6sqgz3anob54tda4tzbayuf66yfm2rdxaxbwip4bwqf3vna.arweave.net
 33cc33.xyz
 34-app-treadgov.pages.dev
+39d7-fa8e-5133-c0inbase-list.pages.dev
 3ton-airdrop.pages.dev
 4-allocations-abs.pages.dev
 4-elyspump.pages.dev
@@ -270,7 +271,6 @@ bit112.biz
 bitbridgeuk.com
 bitexeu.vip
 bitfiyer-ef69-731c4.bitfiyer-akwqm.com
-bitrefill.com-b04-gift-esim.com
 bitscouts.ru
 blasrtio.com
 blast-register.pages.dev
@@ -440,6 +440,7 @@ collabs-auth.com
 com-account.us
 com-case.live
 com-mint-web.pro
+com-n04-gift-esim.com
 comex.cam
 community-flarenetwork.lol
 compliance-okx.cc
@@ -522,6 +523,7 @@ distribution-bitstable.com
 distribution-simonscats.com
 distribution-syncswap.xyz
 dmin.dumfriesweadmin.webexodus.store
+docinforecords597.icu
 doge-coin20.pages.dev
 dogeclaim.run
 dogecoin-20.pages.dev
@@ -599,7 +601,6 @@ event-tuanh.fun
 event-wreckleague.xyz
 eventchecker-s5.netlify.app
 events-memecoin.org
-events-ntm.xyz
 events-pyth.network
 events-sonicslab.net
 evm-resolve.xyz
@@ -622,7 +623,6 @@ fast-proj-8904.oppome7272.workers.dev
 fastliveresolutiondevx.icu
 faufax.com
 fcfmfy.cc
-fi-main.sbs
 fidelitygroup.top
 fiexdflout.com
 finanaces-cakesswap.pages.dev
@@ -771,6 +771,7 @@ israelneedsyourhelp.support
 itraits.io
 iweb3sync.com
 izpr.top
+izzy-flare.pages.dev
 jadacha.com
 jcsc.pro
 jgcjjxjb.bond
@@ -829,7 +830,6 @@ layerbank.net-s.pro
 layeredge.link
 layerxzerofund.com
 layezrero.in.net
-le4w5thr.lol
 leandro-lopes.pro-cryptopad.info
 leapwalletdesktop.net
 learn-en-ledgr-x.pages.dev
@@ -858,6 +858,7 @@ littlepepe.mom
 lives-ledgr-es.pages.dev
 lmaxcoins.com
 lneabuild.org
+lobstrdex.web.app
 logi-metomask.weebly.com
 login-metamask-l-eogin.webflow.io
 longbow.sbs
@@ -1020,6 +1021,7 @@ opbnb-chains.pages.dev
 opensea-gift-nft33.vercel.app
 opensea-gift12-two.vercel.app
 opensea-offer.as-media.rs
+opensea-tech.netlify.app
 openseaclickclaim.on.fleek.co
 openseahannahowo.online
 opensean-claim.vercel.app
@@ -1041,7 +1043,6 @@ owanofriend.bond
 owlto.events
 oxfun.icu
 oxyaorrigin.xyz
-p-in.cc
 p.almai.network
 p.uffer.cfd
 pages-tarazer-suate.pages.dev
@@ -1157,7 +1158,6 @@ pythnetworks.app
 qualify-apecoin.co
 quest-oasisprotocol.app
 quests-scroll.net
-quickswap-allocations.xyz
 quickswap-exchange.gifts
 quickswap-io.claims
 quiet-beacon-7466.vercel.app
@@ -1252,6 +1252,7 @@ ryce.fi
 ryow1h.top
 rzzx238.icu
 saber-dex.com
+sable-binance.com.cn
 sacred-serpent.com
 sadertn-hamrh.live
 sadnew.site
@@ -1432,7 +1433,6 @@ thegooda-io.xyz
 theledger.info
 thesauudisnft.xyz
 threeprotocoi.net
-ticket2249-binance.com
 tics.live
 tiny-cats.com
 titaniumwallet.icu
@@ -1483,7 +1483,6 @@ uat.base.bh.edu.pk
 ubxya.com
 udstsendd.netlify.app
 uk-300usdcbonus.online
-uni-airdrop.org
 uni.pro-coins.top
 unibases-vote.net
 uniexchanger.xyz
@@ -1521,6 +1520,7 @@ veminex.com
 venice-ai-hub-sprint-1-3b.pages.dev
 venompad.bounty-connect-web3.website
 venomsbridge.com
+veridaraadvisory.com
 verify.connectkava.xyz
 verify.worldskava.pro
 vertex.exchange

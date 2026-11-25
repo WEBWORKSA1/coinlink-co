@@ -28,8 +28,8 @@
 218-kinetiqgov.pages.dev
 22-proposal-apyxfi.pages.dev
 237qdhsd.276dahwa.freeusdcairdrop.top
+26-allocations-flarenetwork.pages.dev
 270-reallocate-flare.pages.dev
-295893-ledger.com
 2dns4vd.cc
 2flc.pro
 3-hub-marketsxyz.pages.dev
@@ -250,7 +250,7 @@ bitiones.com
 bitispace.store
 bitlands.zone
 bitnoma.com
-bitrefill.com-bq01-esim-gift.com
+bitrefill.com-gift-cards-egld.com
 bitstamps.top
 bittensor-ecosystem.vercel.app
 bittget.co
@@ -290,7 +290,6 @@ bot888.icu
 botamlverified.top
 boyco.beraschain.icu
 bpcinternational.org
-briansclubcm.com
 bridge-portal.com
 bridge.bridge-arbitrum.ink
 bridgerectifyprotocol.com
@@ -305,6 +304,7 @@ buypepe-vip.pages.dev
 bybk.net
 byte-sushi.cc
 cagacrypto.pages.dev
+caishen88.ai
 cakepanspot.finance
 calmbellykitchen.com
 captcha-bot.site
@@ -407,9 +407,9 @@ cmebitdapp.com
 cms.cloud.www.du.ae.quick-pay.gotbus.com
 cogingecko.click
 coin-2-base-fa-factor.com
-coin-strike-4.co
 coinbase-89q.pages.dev
 coinbase-fedex-claimssecure.net.ph
+coinbase-pro-login.blogspot.com.au
 coinbase-walletdepartment-deposit.com
 coinbase.saferguard.net
 coinbaseporlognu.godaddysites.com
@@ -431,6 +431,7 @@ com-gift-cards-usdt.com
 combustion-rewards.site
 compensation-pump.fun
 concrete-foundations.xyz
+conect-krraken-login.pages.dev
 confirmbnb.online
 connect-asset-land.vercel.app
 connect-ilv.net
@@ -591,7 +592,6 @@ en-ledger.net
 en-phantom.apper.so
 en-treezer-us-logins.typedream.app
 en-tronlink.at
-en-us-uphld-portal.created.app
 engage-safe.net
 enmask-extensions.wixstudio.com
 enroll-linea.com
@@ -649,6 +649,7 @@ farm.crypto-gtp.org
 farming-blasterswap.xyz
 farming-meme-coin-meme-land-dasboard-airdrop-live-join.1832.info
 fawuy.com
+fdts.dev
 fefe.multichains-pads.top
 fetdao.tech
 fi-app.eu.cc
@@ -658,6 +659,7 @@ finance29-voluptatem50.sbs
 finance39-ut87.pro
 finance87-atque99.sbs
 finance94-quis28.sbs
+fincoins.pro
 fingserzfrog.xyz
 finlab9-magnam13.sbs
 firelightfn-xrp.xyz
@@ -742,6 +744,7 @@ gpunodes.network
 green-pool-f8e.cf-yraicvxg.workers.dev
 greenbitapp.com
 gta3b.aj568.top
+gtavi.video
 guide-doc-extension-base.pages.dev
 guide-ex-xodus-doc.pages.dev
 guildcred.com
@@ -880,6 +883,7 @@ linera.lat
 link-neotokyo.pages.dev
 link3.site
 linkedpayservices.com
+liquidchainchecker.pro
 listing-defi.com
 listing-ig071m.orbitrelaylogs.click
 litecoin-token.com
@@ -975,7 +979,6 @@ mgn.mintpad.org
 microsoft.join-meets.com
 microsofts.work
 microsofttinvites.top
-microstream.co
 midnightnetwork.firebaseapp.com
 migrate-aminorewards.com
 migrate-cosmicnetwork.pages.dev
@@ -1012,7 +1015,6 @@ moonlisting.one
 moonmeme.space
 moonshot-listing-4xz.netlify.app
 moonshot-listing-fep.netlify.app
-moonshot-trendings.digital
 moonshot-voting-285.netlify.app
 moonshot-voting-2dodl1.netlify.app
 moonshot-voting-efi.netlify.app
@@ -1131,7 +1133,6 @@ orai.events
 orangecomet.wlmint.art
 orangie-drops.xyz
 orderiy.com
-osmosis.exchange
 othreside.xyz
 oxglens.net
 paal-ai.fi
@@ -1158,8 +1159,6 @@ participate-degentips.com
 partnership-sui.org
 passengers-mint.netlify.app
 paxosgold.net
-pay-bitrefill.com-d04-gift-esim.icu
-pay-bitrefill.com-gift-esim-aw04.com
 peargarden.events
 pegasuscapital.xyz
 pejddlzh.bond
@@ -1186,6 +1185,7 @@ plume.bet
 points-hyperfoundation.xyz
 poll-moonshot.fun
 polstaking.top
+poly-market.store
 polyairdrop.com
 polygondropsfaucet.online
 polyhedra-apps.com
@@ -1207,7 +1207,6 @@ portal-moonshot-cbi.netlify.app
 portalbredge.org
 portfolio-metawask.com
 portfolo-metamesk.world
-premium0peanseamint8.vercel.app
 presale-altcoin.xyz
 presale-cryptobeast.com
 presale-ecoterra.com
@@ -1233,7 +1232,6 @@ pudgypenguins-banana.com
 pudgypenguinsprotocol.com
 puffpaws.xyz
 pulsechain.todayx.one
-pulseinprairix.com
 pump-views.sollab.cc
 pump-voting-iy.netlify.app
 pump-voting-pd.netlify.app
@@ -1294,7 +1292,6 @@ recmainchain.pages.dev
 rectifyblocksfix.pages.dev
 rectifynode.live
 redaswap2.click
-redline-x.net
 redotpaycard.blogspot.com
 reepz.vip
 ref.model2.network
@@ -1464,7 +1461,6 @@ sosovalues.site
 spaceriders.wl-minting.cc
 spaceridersnft.xyz
 spawn-pondcoin.com
-spax88k-cointelegraph.com
 spectrafinance.lol
 spkunframed.com
 spongetoken-claim.pages.dev
@@ -1490,6 +1486,7 @@ staking-pyth-network.web.app
 staking.octavianetwork.trading
 staking.z1labprotocol.net
 stakingofeth.com
+standwithjensen.xyz
 standx-claims.com
 starblock.art
 starcecosys.space
@@ -1630,7 +1627,6 @@ unstappabledomains-connect.com
 unstoppableweb.xyz
 upwz8c.cc
 ursastarvoyage.com
-us-blue.stakingreward.cloud
 us-create-robinhood.pages.dev
 usacoincommunlty.vip
 usdc-eth.com
@@ -1715,7 +1711,6 @@ webex-pc.com.cn
 webrabby-extensions.wixstudio.com
 webulhdsu.com
 wei-binance.com.cn
-welcome-uphold-webs.created.app
 welcome.sophonsfinance.net
 wfmxkdh.top
 whalle.xyz
@@ -1923,4 +1918,5 @@ zoekex.com
 zoommeetcall.live
 zorromigration.com
 zrc-zircuit.com
+zunqoraltd.co
 zxy.overdezuki.fun

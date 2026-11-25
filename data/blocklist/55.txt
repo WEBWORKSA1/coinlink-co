@@ -113,6 +113,7 @@ airdrop-zerolend.app
 airdrop.babylonfoundation.top
 airdrop.magicnetwon.xyz
 airdrop.usdefint.online
+airdrop.whitelist-xarnan.app
 airdropgrass.com
 airdrops-claim.live
 airdrops-shardeum.cc
@@ -131,6 +132,7 @@ allocation-coqiinu.co
 allocation-dphn.xyz
 allocation-monadvm.com
 allocation-morkie.com
+allocations-firelightfi.pages.dev
 allocations-infinifi.xyz
 allocations-joinopenstandard.icu
 allsolanaxxraydium.pages.dev
@@ -139,7 +141,6 @@ alpha.avarra.online
 alshayagroupae.company.site
 altlayer-app.pages.dev
 ametroweb.site
-aml-dapp.com
 amlbot-check.net
 amltrustsafe.com
 analos-meme.site
@@ -220,7 +221,6 @@ avaxline-connection.site
 axieinfiinity.us
 azukiskate.shop
 bacery-1inch.com
-backlosses-pump.fun
 baclkpack.exchange
 badge-firelight.finance
 bafybeidrx356s7kgaabazdqrpri3exuinnm4e7dri5cx5xwxgvlihqws2u.ipfs.cf-ipfs.com
@@ -283,7 +283,6 @@ bnbusdt.info
 boble.one
 boknecoin.click
 bonusxrp.pro
-boost-aave.us
 boreedaapeyacht-club.com
 bosonprolocol.org
 bot089.cc
@@ -305,7 +304,6 @@ burakalpaslan.cc
 buy-getbaby.xyz
 buy.retik-click.link
 bybit-votes.digital
-byvotes-bybit.live
 c.dexprotocol.xyz
 calabi.network
 camhes.com
@@ -339,7 +337,6 @@ checker-cbbtc.xyz
 chimpersclash.xyz
 ciaim-blendr.com
 circle-usdc.tech
-citrea-claim.xyz
 claim-3yy.netlify.app
 claim-babybonk-rewards.pages.dev
 claim-bitcoindogs-club.pages.dev
@@ -401,6 +398,7 @@ claims.trumpmemesairdrop.com
 claimsingbnb.site
 claimstake.link
 claimtrumplive.pages.dev
+claude-download.squarespace.com
 clear-net-a22.cf-zdyhp5g2.workers.dev
 cleim-suilend.bar
 click-chain-link.net
@@ -432,6 +430,7 @@ collabland.role-give.com
 collabs-connects-land.vercel.app
 collect-jumper.xyz
 com-aero.shop
+com-cr-gift-cards-ton.com
 com-icu.icu
 com-login.beer
 com-lv012.beer
@@ -456,6 +455,7 @@ consensysesjs.cyou
 consensyshubs.com
 cornerfork.xyz
 countypress.co.ke
+cow.ag-sushi.lol
 crates-stonkfuns.lat
 createra.free-mint.net
 crosschain.saas-dex.com
@@ -561,7 +561,6 @@ eguzkilorelogistic.com
 eigen-sushi.uno
 eigenlayer.magipie.xyz
 eigenlayer.website
-el-t.cc
 eligibility-abs.xyz
 eligibility-axon.network
 eligibility-eigenfoundation.com
@@ -591,7 +590,6 @@ enter-opnx.com
 enter-usdai.com
 enter-variationals.xyz
 epiclocker.top
-ercclaimadvisoranalytics.help
 errortera.com
 escalation-x.com
 eth-li.com
@@ -653,6 +651,7 @@ fixetdflloat.com
 fixie.live
 flaregovernance-launch.xyz
 flarewallet.org
+flipauth.net
 flowers.tasty-recipes.net
 fluffy-hugs-free-airdrop.netlify.app
 flyfishclub.pro
@@ -670,6 +669,7 @@ ftp.stake-fish.xyz
 fuel-apps-netsworks.lol
 funapes-nft1-free.xyz
 fusionist.net
+g-1776543265.com
 gakc.club
 galaxies.zkfaircoin.net
 galxe-pv.pro
@@ -745,11 +745,11 @@ hub.clusterprotocols.net
 hummingbirdbsc.space
 hxryyd.beer
 hyperecosystem-hub.xyz
+hyperfnds.xyz
 hyperfoundation-season2.xyz
 hyperliquid.xyz.web3-ap.cfd
 i-claim46.vercel.app
 icecreammsswap.com
-icloudapp.us
 illuminatinft.shop
 ilvmoney.org
 imap.webmail.phpmyadmin.www.cpanel.amlsecure.org
@@ -768,7 +768,6 @@ invcloud26reader.com
 invest-airdrop.pages.dev
 io-l.xyz
 io-nowexchange.pro
-io-start.download
 io-superchain-rewarding.top
 ironpaw.app
 isanpads.top
@@ -930,6 +929,7 @@ metamaskextexsion-us.weebly.com
 metamaskno-reply.com
 metamaskwallet-web3.com
 metameaaskdnlogin.gitbook.io
+metamsk-lgin.blogspot.ro
 metamskxwallextension.gitbook.io
 metamusk.in
 metapool-home.com
@@ -1067,6 +1067,7 @@ opensea-gift-nft62.vercel.app
 opensea-nftbox16-one.vercel.app
 opensea2mint34e.vercel.app
 openseaboxclaim.web.app
+openseamarket.site
 opensean-mint334.vercel.app
 openseavisn.vercel.app
 opeseapbox.vercel.app
@@ -1107,8 +1108,6 @@ pav.elevatedpass.org
 paxful.website
 paxosbridge.net
 paxovdsa.com
-pay-bitrefill.com-bb01-esim-gift.com
-pay-bitrefill.com-t04-gift-esim.com
 pe-pads.top
 pecland.wl-premint.com
 pepe-airdrop.tech
@@ -1516,7 +1515,6 @@ trazre-suite.framer.ai
 treasurelandnft.air-mint.com
 treasury-dione.com
 treasury-mintchain.io
-treasury-pools-flare.network
 treasury-zinc.club
 trending.xn--onchansummer-54b.xyz
 tresuitereportal.typedream.app
@@ -1561,7 +1559,6 @@ unichain-testnet.com
 unipegs.art
 unisvvaps.com
 uniswap-global.com
-uniswap-governancerewards.org
 uniswap-v3.scroll.systems
 uniswapv4pool.web.app
 unstoppabledomain.net
@@ -1781,9 +1778,11 @@ www.xamapp.app
 www.yodameme.com
 www.zerion-etherclaim.xyz
 www.zkscync.org
+wwwccoin-psi.com
 x-dmcainquiries.com
 x-events.xyz
 xbox-claim-org.pages.dev
+xemsexfreez.blog
 xeno-claimblockmeshs.xyz
 xksl5.cc
 xmbxz.com
@@ -1810,6 +1809,7 @@ zankumi-dappsyn.com
 zapper-frontend-next-h5ht7yy42-zapper-fi.vercel.app
 zen-latin-garage-juice.xyz
 zenacademy.whitelist-giveaway.com
+zerionpro.com
 zeroiend.foundation
 zerolend-dao.net
 zetarchain.com
@@ -1825,6 +1825,7 @@ zksync-anniversary.com
 zksync.airdropapp.su
 zksyncairdrop.info
 zksyncnft.top
+zoom-invite.de
 zorex-bonusvault.click
 zrealsupercoin.live
 zupie.cc

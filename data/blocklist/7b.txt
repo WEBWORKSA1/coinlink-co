@@ -262,8 +262,7 @@ bitizgroup.space
 bitlong.online
 bitminetrixvip.live
 bitnestvault.online
-bitrefill.com-gift-cards-xlm.com
-bitrefill.com-m04-gift-esim.com
+bitrefill.com-gift-cards-stx.com
 bittamp.wixstudio.com
 bkb-binance.hl.cn
 blaster.mom
@@ -307,8 +306,6 @@ burnmysol.com
 buy-tron.com
 bydfin.ink
 cancel-meta-deblt.xyz
-canton-devnet.staging.mlabs.city
-cards-tw.org
 carv-quest.pages.dev
 casahug.digitalsprint.com.br
 cases-cr-stretto-services.com
@@ -427,6 +424,7 @@ coinbase.case-reviews.com
 coinbasehelp-de.com
 coinbasemarketplace.com
 coinbasemart.top
+coinbaseprologiinn.blogspot.com.au
 coinbaseprologiinn.blogspot.com.ee
 coinbasesnapshot.paypalbusiness.com
 coinbasezcomsignin.gitbook.io
@@ -544,6 +542,7 @@ discord.kavasgate.online
 distribution-apuscoin.com
 distribution.liquidtrade.cc
 doc-suites-trezzro.typedream.app
+docsend.us
 docupdate.host
 doge-gov.io
 dogegov-rewards.com
@@ -565,6 +564,7 @@ drophoouse.beauty
 droprewards.live
 dsj256.com
 e327bsdm2es7pg9.biz
+e435-colnbase-listings-4f65.pages.dev
 earncheck.fun
 earndropx.com
 earnswell.org
@@ -637,6 +637,7 @@ evmcoinslaunchpad.pages.dev
 excupbck.cyou
 exodus-wallet-faq.pages.dev
 exodus-wallet-run.pages.dev
+exodusegingin.gitbook.io
 extension-us-trust.wixstudio.com
 extenssion-suii-wallet-us.pages.dev
 fairdropzircuit.top
@@ -649,7 +650,6 @@ feesync.org
 fetcher-ai.com
 fhea.finance
 fi-delitey.cyou
-fiare-foundation.art
 fikyghj.lol
 finance-home-wallet-v2.com
 finance-netnetcapital.xyz
@@ -852,6 +852,7 @@ kmspico-download.co
 kraken-ai.net
 kraken.onykia.malwarebox.eu
 krakencards.info
+krakensloots.com
 kraknkrakenlogn.webflow.io
 kroma-register.com
 kuitc.net
@@ -957,6 +958,7 @@ metamask-programs.66ghz.com
 metamask.biz
 metamask.world
 metamaskairdrops.com
+metamaskchromeextensionn.blogspot.cz
 metamaskchromeextensionn.blogspot.gr
 metamaskrestored.com
 metamaskswap.com
@@ -978,6 +980,7 @@ migration-redtoken.pro
 migrations-sky.com
 migrodapps.pages.dev
 milady-luxurypass.com
+mindoprotect.com
 mindtheg.com
 minenftdao.xyz
 mining1333.com
@@ -1159,7 +1162,6 @@ participate-zks.com
 partner-matamask.com
 partners-refunds.org
 pass-metis.xyz
-pay-bitrefill.com-dg01-esim-gift.com
 pearswap.directtrades.net
 pecland-freemint.xyz
 pendle.finance-en.us
@@ -1276,6 +1278,7 @@ rac.elevatedpass.org
 radiantcapitai.app
 ragetrade-cs.com
 rainbe-it.com
+rainbet-online-netherlands.com
 rainbet.at
 rainbetcasino-be.com
 rainbetcasinoonline.com
@@ -1316,6 +1319,7 @@ register.zerolendfinance.app
 registers-base.com
 registration-dioneprotocol.org
 reiki.pics
+relay-link.info
 relaymainnet.xyz
 remote.app1.internal.jacobsevart.com
 renzoprotocol-multipiier.com
@@ -1383,7 +1387,6 @@ securedbridge.pages.dev
 securelydecentralized.pages.dev
 securescloud.es
 send-usdt-59.netlify.app
-send-usdt.network
 seriesaubi.bond
 service-rubrique-connect.com
 service-xaman.app
@@ -1438,7 +1441,6 @@ spherefin.space
 sponge-stake.pages.dev
 spot.paalmind.xyz
 spraezi.net
-squidrouter.trade
 srtydnnc.beer
 srzshnku.bond
 sso-coin-base-com-x-auths.pages.dev
@@ -1496,6 +1498,7 @@ systemoptimism.site
 t-drop.web.app
 t3ik56fbk2j4cfmznqrshyt3hhdzn7g3gzou3uvp5txn5ek5ippq.arweave.net
 taiikoclaim.xyz
+tamboykun.codybackhaus.com
 tars-distribution.pro
 tasfinancial.co
 tdccpmemelive.pw
@@ -1512,7 +1515,6 @@ testnet.humanitys.biz
 testnet.sucincts.xyz
 testno34.com
 tether-poll.web3-bridge-claims.site
-tge-firelight.com
 theay2.pages.dev
 thedeblbox.cfd
 theindex.finance-proposals.xyz
@@ -1552,6 +1554,7 @@ trezor.org.ph
 trezor.satoshiupdater.com
 trezor_wallet_login.godaddysites.com
 trezorsta-rtio.pages.dev
+trezorsuite-eu.com
 trezorwalletlooge.webflow.io
 triasnow.com
 tripishcab.com
@@ -1576,7 +1579,6 @@ turbomeme.app
 turbotoken.events
 tx-trustwallet.com
 u8z68.demonmetale.xyz
-ubshi.com
 uk-crypto-casino-vodds.com
 ultiverse-dao.xyz
 un-lives-ledgr.pages.dev
@@ -1845,6 +1847,7 @@ yearn.ixcash.top
 yxpredict.online
 zerobot043-wqam.blogspot.co.id
 zeroslend.app
+zh-bybit.my
 zk-manta.com
 zkbridqe.com
 zkfaer.io

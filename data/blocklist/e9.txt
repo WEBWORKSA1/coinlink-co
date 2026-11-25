@@ -221,7 +221,6 @@ assets-usuaimoney.app
 assetverify.net
 astar-network-wallet.com
 astrovault.info
-atcp.cc
 atomichub.lol
 audius.gift
 auth-log-gov-service-portal.net
@@ -282,7 +281,6 @@ bitdoges.pages.dev
 bitget6.top
 bitinuts.space
 bitoro.live
-bitrefill.com-gift-esim-bl04.com
 bitstable-finance.pages.dev
 bittbuylgn.gitbook.io
 bk.capricious.site
@@ -445,6 +443,8 @@ coinsup.fun
 collab-assets.net
 collab-lands.online
 collect.entztoken.com
+com-gift-esim-ai04.com
+com-in-t01-esim-gift.com
 com-mtp.cz
 com-polybet-q109.com
 com-polybet-q91.com
@@ -457,6 +457,7 @@ complete-coral-uebakfce02-yztva65bla.edgeone.dev
 compoundtreasury.xyz
 configuremain.pages.dev
 conicfinance.net
+connecctionsyn298.icu
 connect-bnbchain.com
 connect-claiming.cloud
 connect-pyth.network
@@ -614,6 +615,7 @@ evermoonerc.website
 everythinginc.info
 ex-nft.xyz
 exchange-reward.quest
+exoduc.co.com
 exodusdrop.com
 extro1.pages.dev
 ezeigen-renzoprotocol.net
@@ -645,6 +647,7 @@ finlab6-inventore71.sbs
 fintevex.co
 firelightmainnet.com
 firstledger-en.pages.dev
+fiveanddime.app
 fix-portal.com
 fix.errorsolution.io
 fixers.netlify.app
@@ -675,6 +678,7 @@ funkapes.org.airdroppack.com
 funkapez.net
 fx1tokenlabs.top
 g0i8llg5.com
+g5b424vh4idbd4ugosgaaru5nojwf7i6ksgjn5n66xms6pqjnhzq.arweave.net
 gama.panfts.com
 game-chainlink.com
 gamegpt-bento.com
@@ -716,6 +720,7 @@ governance-zama.icu
 gpunet.xyz
 greenbitcoin.click
 grvt-checker.orss01.dev
+gta6ios.net
 hafi.io
 halo-portfolio-checker.web.app
 hamster3.pages.dev
@@ -824,6 +829,7 @@ kernelsdao.org
 keungz.store
 khelmantra.today
 killeracid.penfts.com
+kinetiq-kip4.xyz
 kk9sej.top
 kmjch.pro
 kmstid.com
@@ -837,6 +843,7 @@ l1-neotokyocodes.pages.dev
 labsalkimi.org
 lagoonfinance.casa
 land-auth.xyz
+landx-fomo.com
 landxfinance.com
 lasvsi.com
 launch-prismafinance.com
@@ -1056,7 +1063,6 @@ nft.rariible.net
 nftpro-airbox.xyz
 nfts-trades.com
 niilion.space
-nil-allocations.xyz
 nimnetwork.pages.dev
 nonlswap.com
 not-treasury.com
@@ -1077,6 +1083,7 @@ oneinch.pages.dev
 onmi.variatlional.com
 onstreamapps.net
 opeanseasnftsprojs.vercel.app
+open-sea-lo-gin-io-cp5.pages.dev
 open2mysterybox.vercel.app
 openactivitychk.pages.dev
 openai-launch.com
@@ -1161,6 +1168,7 @@ pmrkt.xyz
 poamox.com
 pollyparty.fun
 polym2.pages.dev
+polymarket-dashboard-8et.pages.dev
 polymarket-labs.com
 polymarket-platform.com
 polymarket.com-polybet-q113.com
@@ -1207,6 +1215,7 @@ prosperitycinc.com
 protocalrpc-1a.pages.dev
 protocol-space.center
 psyop.rocks
+public-open-seaa.pages.dev
 pudgypenguins.li-vedrop.com
 pulseclnain.com
 pulseinu.pro
@@ -1218,7 +1227,6 @@ pvth-zeroiend.com
 pyth.claim7-foundation.cc
 pyth.foundation-claim.run
 pyth.foundation1-claim.icu
-qanogamb.com
 qdrbxa.cn
 qql-studios.app
 quai.fi
@@ -1315,6 +1323,7 @@ reward-wormhoie.com
 rewarding-degentoken.xyz
 rewarding-stargate.net
 rewards-aleo.org
+rewards-edel.finance
 rewards-nunchi.xyz
 rewards-shib.army
 rfdclaim.com
@@ -1347,15 +1356,12 @@ sdmax.bond
 sea-mint.com
 season2-venomclaim.live
 seasonsnft.free-mintnow.com
-secrebst.com
 secure-holdings.pages.dev
-secure-uphold-en-eng.created.app
 seinetwork-zllp7v4a-konstantnotfound.4everland.app
 selectorx.pro
 send-bag.fun
 send-usdt-trustwallet.pages.dev
 server-1-collab.land
-server1-x.com
 servicecenterpcservicecenter.pages.dev
 sfdr25.top
 shard-bvmnetwork.com
@@ -1371,7 +1377,6 @@ signup-eulerfi.org
 signup-meriinlayer.app
 signup-phi.app
 signup-zeta.net
-simpleswapdex.org
 simply-ledger.com
 singularitynet.limited-web3.com
 sinkeffect.co
@@ -1446,7 +1451,6 @@ stepnboxfree.netlify.app
 stonkfun.lat
 stonks.claims
 storcnet.space
-strategyfndn.com
 strayanim.com
 strenduscasino.org
 strknet.online
@@ -1514,6 +1518,7 @@ tigrisconnectsolution.online
 token-jumper.xyz
 token-manta.network
 token-shibainu.com
+tokenact2027.com
 tokenpepe.net
 tokens-embercurve.xyz
 tokyo-xrp.com
@@ -1566,7 +1571,6 @@ univ4dao.top
 uniwap.app
 unstake-dafi.pages.dev
 unswappe-airdrop.org
-upholdapp.created.app
 us05web-zoom.site
 us09zoom.us.com
 usdc-dist.top
@@ -1586,6 +1590,7 @@ var-io.app
 vaulthome-coinbase.com
 vavada-casi-no.com
 vawim.com
+vce-binance.com
 velaexchange.info
 velemeny.moriczdental.hu
 verification-holders.netlify.app
@@ -1619,7 +1624,6 @@ wallet.coincase.com
 wallet.unstoppablledomains.shop
 wallstretemems.com
 warehousing-blact.com
-wcor.world
 web-dexsport.com
 web-layerzero.network
 web.check-saga.com
@@ -1800,5 +1804,6 @@ zksync-nation.xyz
 zksync-task.com
 zombiecultureclub.special-mint.com
 zoom-call.live
+zoomconnects.live
 zrc.season1-claim.com
 zyberswap-liquidity.com

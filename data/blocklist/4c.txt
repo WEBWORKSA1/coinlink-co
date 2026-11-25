@@ -287,7 +287,6 @@ bitcoinhyper.de
 bitget.irish
 bitgetra.cc
 bitonic.space
-bitrefill.com-j01-esim-gift.com
 bitrlayer.org
 bitrmake.com
 bitsoudr.com
@@ -331,20 +330,18 @@ bullsandapesproj.com
 bullverse.pro
 buygrok.net
 bx5uvo.cc
-ca3n5pfnfnvjosfjumpszi32eleli7cdrvlxhi75yumecxol7wgq.arweave.net
 cache.wayflnder.info
 camelot-v2.com
 camelotexchange-ticket.pages.dev
 capital-lp.com
 capital-pantera.org
 capiton.pro
-careers-sap.us
 cartesi-ai.xyz
 cashcat-proposal.xyz
 catfee.energy
 caw.community
 cboeglobalmarkes.com
-cdn-moonpay-logns.wixstudio.com
+cce4-coinbase-listing-677f.pages.dev
 cdnweb3.pages.dev
 cega-fi.com
 celebrate.9379230a.wootokenhub.net
@@ -428,7 +425,6 @@ cloudverse-opsecv2.xyz
 cms.o.arb-chain.com
 cn.celetsiez.club
 code8412.com
-coin-base-wallet.wixstudio.com
 coin-cvn.pages.dev
 coin-explore.com
 coin-hamsterskombats.net
@@ -453,6 +449,7 @@ collab-land-protocol.com
 collab-land.pro
 collab.land-asnyc.eu
 collabverification.land
+com-dv01-esim-gift.com
 com-gift-esim-l04.com
 com-recover.id
 commonest.pages.dev
@@ -631,7 +628,6 @@ ensrewards.online
 enter-balancer.com
 enter-paramgaminglab.net
 enter-quai.net
-ercclaimadvisorworld.help
 esoberra.com
 eth-drops.sbs
 eth-eigenlayerxyz.pages.dev
@@ -668,12 +664,14 @@ exods-the.com
 exodu-stools.com
 exodus-client.info
 exodus-wlt-io.framer.ai
+exodusjn.net
 exoreuswalle-ot.webflow.io
 explorer.onnovault.io
 extnsions-masks.wixstudio.com
 extric.vercel.app
 eyex9obsrv.com
 fables-voting.xyz
+famctl.com
 fastapespeedclub.mint-site.live
 feresai.xyz
 fetch-ai.top
@@ -829,7 +827,6 @@ io-trust-wallet-app.pages.dev
 io-web-home.pages.dev
 ishifuku.cyou
 israelwinfight.com
-itgamb.com
 iynfoundation.com
 jarrett-exchange.info
 jcsui.com
@@ -880,6 +877,7 @@ known0rigin.io
 kpkio.cam
 kraken.com.cm
 krecken-assets.wixstudio.com
+kucoin566.com
 launch-jumper.xyz
 launch-kinto.xyz
 launch-neotokyo.codes.airdropclaim-manta.network
@@ -935,7 +933,6 @@ lunex-invest.com
 lynkssecure.com
 m.stacksdigital.site
 m.vaultnet.online
-m365-compliance-portal.live
 maestrobots.io
 magamemecoin.onrender.com
 magtoken.net
@@ -1046,12 +1043,10 @@ multiprotocoltool.firebaseapp.com
 multiverse-dapp.pages.dev
 muru.cl
 my-atomic.at
-my-exodus.at
 my-rewards.cloud
 myrai.io
 myria-game.com
 mysaga.site
-myssocoinbseapps.wixstudio.com
 myssouuphldappcdn.wixstudio.com
 mysteryboxy11.vercel.app
 mysteryclick-io4.vercel.app
@@ -1204,6 +1199,7 @@ polskisharing.com
 poly-market.pl
 polygonstakings.com
 polyhedra-airdrop.site
+polymaket.io
 polymarkat.lovable.app
 polymarket-vn.com
 polymarket-x.whitestake.cc
@@ -1369,7 +1365,6 @@ sale.sonikapp.live
 salontukawa.com
 salv.finance
 sandboxed-agent-plugin.xyz
-sandsushi.top
 saqy.games
 satoshi-apply-io.pages.dev
 saturn-holders.app
@@ -1383,7 +1378,7 @@ scroll-reward.com
 sdafdas21f3dsaf231.pages.dev
 season1-b3.fun
 season2-blur.net
-secure-app-kaiyun.com
+season2-kinetiq.xyz
 secure-chains.pages.dev
 secure.blog.dev.snycswap.org
 seedifycx.com
@@ -1391,6 +1386,7 @@ seedifyfund.app
 seedsofkiyoshi.com.kuengznft.com
 seinetworks-airdrop.com
 server-coinbase.com
+sessionsdocuauth.com
 sge-comex.com
 shib-free.lol
 shidostake.app
@@ -1464,7 +1460,6 @@ standardreserves.xyz
 stargate.gifts
 startapps-ledgrrcdn.wixstudio.com
 steamcommunntly.com
-stellar-haven-14x.pages.dev
 sterylinks-sp008.onrender.com
 stonkfun.pro
 store-nirvana.com
@@ -1508,7 +1503,6 @@ the-graphs.vip
 thebugfix.xyz
 thecaptainz.xyz
 thecoinfinder.xyz
-theconfounder.com
 theinfinityshift.com
 thelego.xyz
 thelido.fi
@@ -1559,11 +1553,11 @@ truflation.site
 trumpcardsdigital.com
 truspad-mask.com
 trust-recovery.com
-trustextension-get.wixstudio.com
 trustpad.buzz
 trustswap.walletweb3.app
 trustwalietrestore.site
 trustwalletinfo.co
+trustwalletlegal.com
 trustwalletpaycard.org
 tstonapp.com
 tttt-bva.pages.dev
@@ -1585,7 +1579,6 @@ univ4-pool-liqudity.web.app
 unlswap.network
 unstoppabled.pro
 updates-onyx.org
-uphald-app.created.app
 uploader.irys.xyz
 upxbao.io
 us-coinmarketcap.com
@@ -1640,6 +1633,7 @@ vv4xlhvrz.top
 vwb.overdezuki.fun
 vzlcu39q0x.cepterru.si
 w3bx.vip
+wacoinbssesignin.gitbook.io
 wagmigames.yourminting.xyz
 waletexidus.godaddysites.com
 walledeficon.site

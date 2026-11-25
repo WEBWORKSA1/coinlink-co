@@ -69,6 +69,7 @@
 513275-robinhood.com
 52-jumpereco.pages.dev
 54940-ledger.com
+55-rewards-firelightfi.pages.dev
 56d8.cc
 581920-crypto.com
 5jj6.com
@@ -79,12 +80,14 @@
 607251-crypto.com
 620258715-lp-bonus-curvefinance.pages.dev
 67-governance-papertrade.pages.dev
+671443.com
 68-vote-netnetcapital.pages.dev
 6959669757.pages.dev
 7-derives.pages.dev
 7-ecosystem-argus.pages.dev
 70-arguseco.pages.dev
 729500.com
+75ftx.top
 782688-crypto.com
 7hn3hl9.pro
 7ln50.airdrop-eth.mom
@@ -98,7 +101,6 @@
 9alqhm.info
 a.tidarilmu.com
 aave.tr1onex.top
-aaveapp.pro
 aaveswap.gr.com
 aaveupdate.tech
 abict.pro
@@ -315,6 +317,7 @@ bitfiru.top
 bitfiyer-4071-5f23b.bitfiyer-smzk.com
 bitlads-whitelist.vercel.app
 bitpanda.icu
+bitrefill.com-gift-cards-ldo.com
 bitruebxw.com
 bitsmiley.trading
 bittensor-earn-protocol.vercel.app
@@ -367,6 +370,7 @@ canso.cloud
 card-murakami.com
 cartierofficial.shop
 carvfi.co
+cases-tangem.com
 casinocoin.club
 casivero.com
 castlie.world
@@ -374,7 +378,6 @@ catizen-coin.org
 catsairdrop.cfd
 celebrate.c38b202c.circle-foundation.com
 celolottery.com
-centrlfuge.com
 cetusprotocol.support
 cexio.ntfton.online
 ch-direktpay.sale
@@ -473,18 +476,19 @@ collabiand-verify-github.com
 collection-listings.com
 collectionrewards.io
 collectorcript.com
+com-do01-esim-gift.com
 com-gift-esim-n04.com
 com-huobi.com.cn
+com-l04-gift-esim.icu
 com-support-devices.app
 com-valor.beer
+com-w04-gift-esim.com
 community-firelight.life
 connect-approve-wallet.netlify.app
 connect-chain.online
-connect-recover-ledger.com
 connectgala.org
 connectmabs.pages.dev
 contactweb3.xyz
-contentdmcacasesx-x.team
 cookie3-airdrop.vercel.app
 cookle.community
 coolgirlnft.com
@@ -540,6 +544,7 @@ dashboard-0x0.network
 dashboard-listing-cloud.app.vectorsforall.com
 dashboards-flarenetworks.xyz
 davivienda.portallempressas.net
+dc9c-fa8e-5133-c0inbase-list.pages.dev
 deadmigonft.xyz
 dearn.top
 dearndefi.top
@@ -669,7 +674,6 @@ event-sunrisedefi.com
 event-ventuals.com
 events-dnut.live
 events-firelight.icu
-events-zebec.com
 everyworld4.pages.dev
 evm-2q.netlify.app
 evm-yn.netlify.app
@@ -698,6 +702,7 @@ fi-en-stake.xyz
 fifi55.pages.dev
 fify.io
 finance-koi.app
+finance-portfolio.sbs
 finance90-ipsa66.sbs
 finlab9-minus72.sbs
 fintech-ai.world
@@ -933,8 +938,6 @@ mainboards.pages.dev
 mainnetrestorect.online
 mainstream-detection.com
 majortrends.io
-maker-app.sbs
-maker-launchpad.sbs
 manta-allocation.com
 mantabridge.app
 mantle.generate-tokens.com
@@ -1219,6 +1222,7 @@ portalbridge.website
 portaldefi.site
 poseidon-bet.com
 povin.cc
+pp-binance.cn
 ppif.org.pk
 pravacomp-ddq.top
 premint-raffle.xyz
@@ -1226,6 +1230,7 @@ preservation-nft.top
 prismax.icu
 privasea.web3-meta.com
 pro-loggin-coin-base-en.pages.dev
+pro-v4.com
 profile-cexlo.online
 proj-openseanfts.vercel.app
 project--en-ledgrlive.pages.dev
@@ -1297,6 +1302,7 @@ reef.1-xdrop.com
 reflectionsphoto.in
 refund-account.website
 refunds-rdnt.network
+register-flopfinance.com
 register-gelatonetwork.com
 register-qtx.fun
 register-thebeacongg.com
@@ -1372,6 +1378,7 @@ sanctum-cloud-drainer.pages.dev
 sandbox-games.pages.dev
 sauce-lab.fun
 sbigold.vip
+scbserve.com
 scottycoins-app.xyz
 scottysdapp.com
 scotytheai.world
@@ -1516,7 +1523,6 @@ telegram.heycard.org
 teleperformer.in
 tellor.finance
 terahertz.capital
-terzorwallet.com
 test.hbtechng.com
 testewebapp.pages.dev
 tgcarino.pro
@@ -1630,7 +1636,6 @@ usdtminer.pages.dev
 user6716.cardstrust.org
 uswp.xyz
 uuu.am
-v2-dydx.at
 v2connect.info
 valetes-ai.xyz
 valoklin.com
@@ -1701,7 +1706,6 @@ web3cryptosecure.online
 web3dapps-sync-ens.pages.dev
 web3hk.club
 web3hp.cf
-web3nodewallet.com
 web3userauthenticate.org
 webdappsconnect.xyz
 webforclaim.pages.dev
@@ -1835,6 +1839,7 @@ wwwsmtp.winkdrop.net
 wwwsuperformfoundation.org
 xexchbridge.com
 xibax.com
+xlm-rewards-play.pages.dev
 xlxbe1a.top
 xmint-rtfkt.com
 xmochidonuts-allocation.com
@@ -1863,6 +1868,7 @@ zeuscoin-eth.xyz
 zevawin.com
 zh-web-aiyouxigame.com
 zidgov.xyz
+zidoriqnyx.com
 zk-allocation.org
 zk-link.tech
 zk.web3zksync.net

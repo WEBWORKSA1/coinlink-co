@@ -42,6 +42,7 @@
 31-governance-kinetiq.pages.dev
 326345534.boats
 33-usefelix.pages.dev
+33-vote-longbow.pages.dev
 331853-trezor.io
 365879-crypto.com
 395912-ledger.com
@@ -51,6 +52,7 @@
 405-lists-okxvotes.pages.dev
 486-reallocate-flare.pages.dev
 492-reallocate-flare.pages.dev
+4f36-colnbase-listings-4f65.pages.dev
 4pillars.cc
 5-hyperliquid.pages.dev
 54-hub-treadeco.pages.dev
@@ -88,6 +90,7 @@ aboutfixedfloat.gr.com
 abracadabramint.xyz
 absoluteroof.net
 abstracttensei.net
+ac11-fa8e-5133-c0inbase-list.pages.dev
 access-abs.com
 accountprotection-microsofts.makeup
 accutrolsystems.com
@@ -162,7 +165,6 @@ api.smtp.mail.register-radiant.com
 apollox.web3-refill.com
 app-blur.pillarsbd.net
 app-dem.xyz
-app-humidifi.xyz
 app-hyperdash.com
 app-inchfixxedresolve.xyz
 app-liveboard.xyz
@@ -209,7 +211,6 @@ asset-usual.net
 assethub-revoke-dashboard.click
 assets-blubblob.com
 astervote.top
-atomicwallet-finance.com
 aura-revenue.xyz
 auradex.website
 auroraproject.site
@@ -518,7 +519,6 @@ dashboard-mor.sbs
 dashboard.uheet.com
 dcadw.com
 dccwy.com
-dcgen.stakingreward.cloud
 deadcatso.netlify.app
 debanks.win
 debridge-foundations.org
@@ -549,7 +549,9 @@ deltafi.trade
 derive.ee
 desk-allocates.app
 desktt-coast.one
+dev-krake-login.pages.dev
 dev.web.polyhedra.pw
+devicesso-ledger.live
 dex-fomo-trading.pages.dev
 dexkaaava.netlify.app
 dexnoderesolve.pages.dev
@@ -616,7 +618,6 @@ elthede.pages.dev
 emgf.xyz
 en-trustapps.wixstudio.com
 en-wienerdog.pages.dev
-encrypted-ledger.com
 energymemecoin.world
 eng-iojaxx-librety.wixstudio.com
 enquest-ems-portal.vinz-gs.com
@@ -628,8 +629,6 @@ enter-mummy.xyz
 enter-polymarket.top
 enter-rivalz.com
 eppool.vip
-ercclaimadvisorinsight.help
-ercclaimassets.help
 eth-btt.com
 eth0022.com
 ethcsan.com
@@ -733,6 +732,7 @@ gatehub.eu
 gazadrop.top
 geektech.uk
 gems-rtfkt.com
+generate-trustwalletcard.live
 genesis.celesltea.com
 genesiscelestia.site
 geomdashhub.com
@@ -824,7 +824,6 @@ invictus-meets-infinity.global
 invote-virtualsprotocol.com
 io-access.shop
 io-claim.sbs
-io-dao.at
 io-quick-coin.icu
 io-treazor-suits.pages.dev
 iobituninstaller.cn
@@ -929,7 +928,6 @@ lootarb.com
 lucememecoin.com
 luckymine1.com
 luckysol.bet
-lumero.cc
 luminate-398jdf.pages.dev
 lysergicai.com
 m.bipicoin.com
@@ -1167,7 +1165,6 @@ pass-aesther.com
 pass-thorchain.com
 paticableharent.com
 paxfu-ll.com
-pay-bitrefill.com-h01-esim-gift.com
 paymentclaim.site
 paymentscardtw.com
 payout-desk.com
@@ -1201,7 +1198,6 @@ pluspor.top
 poloinexen.com
 polydouble.com
 polyhedro.xyz
-polymarketcopytrading.com
 polymarketfs.icu
 poofinance.org
 pool-dione.net
@@ -1382,6 +1378,7 @@ securedocservice.com
 secureglobalrevvards.pages.dev
 seedify-pad.site
 seifmoon.pro
+self-ticket.com
 semantic.nexus-innovators.site
 sentajet.pages.dev
 sentora-v2.com
@@ -1486,6 +1483,7 @@ subdapp.pages.dev
 submission-blockfi.com
 sui-lab.icu
 suilend-claims.fyi
+suite-web-trezo.mars03.workers.dev
 suiteapps-trezon.wixstudio.com
 sunpump.sbs
 superform.tech
@@ -1525,8 +1523,10 @@ tesataee.info
 test551.com
 testdomainwow123.lol
 testnet-aleo.com
+testxuests0777.com
 tether-drop.co
 the-bitcoin-millionaire.com
+the-kraken.cc
 thebaecon.app
 thedappsupport.firebaseapp.com
 thedogheverse.com
@@ -1596,7 +1596,6 @@ unlswap.services
 unstake.basechains.org
 unstake.etlher-fi.com
 untwist.io
-uphold-lgn-en.created.app
 upholdinvestments.com
 uqr09i9.pro
 uqvb.cc
@@ -1646,7 +1645,6 @@ virtualis.world
 virtualsvote.sbs
 visit-satoshivm.com
 vnmonlineslike.cc
-vote-eligibility.xyz
 vote-etherfl.app
 vote-movemoney.life
 vote-okx.co
@@ -1691,6 +1689,7 @@ walrus-checker.website
 waudox.com
 waves-opensea.com
 wbitcoin.net
+wccwcoinpsespjjfwinis.com
 web-connectxy.tk
 web-info.lol
 web-stakecasino.com
@@ -1731,6 +1730,7 @@ wieneraidogclaim.pages.dev
 wienermeme.xyz
 winerdog.com
 wingofmisadventure.xyz
+winter-summit-secure-user-3e08-a882.pages.dev
 withdraw-blockchain.cfd
 withdraw-ftxlimited.com
 wl-dym.network

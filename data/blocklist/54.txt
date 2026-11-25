@@ -1,5 +1,4 @@
 0-zerolend.xyz
-009182coinbase.com
 031cgn.fun
 069213-crypto.com
 06web.us
@@ -82,6 +81,7 @@
 92134792364.lol
 928516-crypto.com
 9436581coinbase.com
+96ff-colnbase-listings-4f65.pages.dev
 a-aavesloan.com
 a.tokenbasefi.com
 aa-boredapeyachtclub.com
@@ -104,7 +104,6 @@ aerodrome.community
 aetihr-cloud.org
 affirmtokens.com
 agoda666.com
-ai-uphold.created.app
 ai.cryptogo.fans
 aibot666.vip
 aiienxchain.net
@@ -164,6 +163,7 @@ allocations-standardreserve.lol
 allocations-symbioticfi.com
 allow-bitcoincats.com
 alpercafinance.com
+altamiro.cyou
 altlayer.events
 america-win.com
 aml-bit-scan.com
@@ -289,7 +289,7 @@ bitcoinetftoken.live
 bitcoinpepeclaim.pro
 bitmart2.xyz
 bitmart3.xyz
-bitrefill.com-ax04-gift-esim.com
+bitrefill.com-gift-cards-zrx.com
 bitrockwallet.org
 bitsgapmis.com
 bittbuy-en-us.zapier.app
@@ -360,6 +360,7 @@ cealtis-beta.web.app
 celatis.tech
 celia-reward.com
 cellatis.pro
+centerstat-x.com
 certik-security.top
 chainfirm.pages.dev
 chainsourcedapp.pages.dev
@@ -593,6 +594,7 @@ du67vzqq.top
 dutchfj.cyou
 dydaaxio.wixstudio.com
 dymension-platform.network
+dysads168.xyz
 e.trumpswap.info
 earn-worldcoin.com
 earn.roostwtf.net
@@ -629,7 +631,7 @@ entanglefi-whitelist.vercel.app
 entry-metawin.com
 era-zksnyc.com
 erarnlfi.org
-ercaccountexpertyield.help
+erc.chainsyiled.com
 ers-token.info
 esoberra.tech
 esolanaworld.gift
@@ -692,7 +694,6 @@ finlab7-distinctio87.sbs
 firelight-ecosystem.space
 firelightfinances-tokens.live
 firelightfoundation.net
-firelightnetwork.com
 fixedfloat.cn
 fixedfofical.com
 flare-five-wine.vercel.app
@@ -1217,6 +1218,7 @@ pikaprotocol.pm
 pis.elevatedpass.org
 pisquared.events
 pixeilverse.com
+pixelverse.study
 pixelxmeme.com
 plaguzgroup.com
 platesdales.online
@@ -1258,6 +1260,7 @@ proposal-xrpl.xyz
 propose-l.ink
 propose-paxos.com
 propose-safe.net
+provenancelabs.org
 provisionschainlink.org
 prvnote.com
 psyop.bio
@@ -1301,6 +1304,7 @@ recordrxzei.bond
 rectificationdapps.network
 rectifyclaim.pages.dev
 rectifydex.com
+redirecting-to-room.site
 referedomes.store
 reformprocurator.pages.dev
 refund-project.org
@@ -1420,7 +1424,6 @@ shibarium-chain.com
 shibashootoutio.pages.dev
 shibesociety.space
 shibinu.xyz
-shido.guru
 shironeko-airdrops.com
 sign-farcaster.xyz
 signedbeacon.online
@@ -1509,7 +1512,6 @@ start-ledgren.zapier.app
 started-metamskkcdn.wixstudio.com
 startn-trezcdn.wixstudio.com
 status.communityvote.xyz
-steakhousefi-rewards.xyz
 steamcommnuurtiy.com
 steilaswap.com
 stellar-markets.top
@@ -1593,10 +1595,8 @@ tradebluefin.pages.dev
 traderjoezyx.com
 tradet.cc
 trailbiazerstaiko.xyz
-trdaowndiwalinkadiwv.carlton51.workers.dev
 treasury.bakeryswapcoin.net
 treasury.bakeryswapnetwork.xyz
-treasurypools-firelight.com
 treazare-suit.pages.dev
 treesize.com.tw
 trezer-suiteweb.readme.io
@@ -1656,6 +1656,7 @@ usdc-circle.com
 usdtclaim-3yl.pages.dev
 usdtdex02.top
 usdttex08.top
+used-okx.com.cn
 usepaid-eligibility.xyz
 usepaidtokens.xyz
 user-extension-base.framer.website
@@ -1836,6 +1837,7 @@ www.rippleback.info
 www.schottytheai.online
 www.seizonshop.xyz
 www.shadowwar.pm
+www.slaapstudiojouwrust.nl
 www.solana.angn.site
 www.squigdao.net
 www.st-l1do.cloud
@@ -1876,6 +1878,7 @@ xn--uisr0gfsc.airdrop4.click
 xpets.trading
 xrpaw-meme.web.app
 xrpl-event.live
+xrpl-tokenshub.com
 xrppay2024.blogspot.com
 xrprewards.org
 xtremeverses.xyz
@@ -1893,7 +1896,6 @@ zebec-supperapp.net
 zero-land.com
 zestprotocol-claims.xyz
 zetarchains.org
-zhh5hgtele4fx3bgimxjkr7lxwia5o7pqc3xiybqrjlvtyf76vra.arweave.net
 zillainchatergrasolanax.pages.dev
 zir-cuit.xyz
 zircuiit.xyz

@@ -46,6 +46,7 @@
 3eth-net.pages.dev
 4-proposal-ethos.pages.dev
 42-governance-orbio.pages.dev
+44-rewards-firelightfi.pages.dev
 445566.pages.dev
 45-orbiogov.pages.dev
 489284coinbase.com
@@ -77,6 +78,7 @@
 825746-coinbase.com
 831878.app
 846247coinbase.com
+8545-642f-5133-cb-listings.pages.dev
 86-jumperhub.pages.dev
 9-app-priorseco.pages.dev
 905821-crypto.com
@@ -129,6 +131,7 @@ airdrop.unifal.network
 airdropdin.xyz
 airdrops-virtuals.io
 airdrops-zeta.markets
+airgas.digital
 alerts-appnansenai.tech
 allbridge.company
 allo.web3-early.com
@@ -270,6 +273,7 @@ binancezone.com.cn
 bitcoin-cash-games.com
 bitcoinminetrixclaims.pages.dev
 bitethir.icu
+bitrefill.com-gift-cards-eos.com
 bitrock.to
 bitrofiil.com
 bitscrunch.cfd
@@ -414,7 +418,6 @@ cloud-ittrustcaptal.wixstudio.com
 cloudflaare.net
 clusterprotocolservice.pages.dev
 cmdsa.com
-cmebitetf.com
 co.lllobs.land
 coachnfts.xyz
 codexpro.pages.dev
@@ -440,6 +443,7 @@ collabs-asset.land
 collect-fifacashback.com
 collect-friend.tech
 collect-wenwencoin.com
+com-g01-evm-aml.com
 com-join.live
 com-vivid-net.bond
 community-api.com
@@ -550,7 +554,6 @@ distribution-morphos.com
 distributions-monad.com
 dmm88888.com
 doc--exxodus--web.pages.dev
-docs.polymarketbot.vip
 docupdate.work
 docz-exdus-io.pages.dev
 doge2014.co
@@ -609,7 +612,6 @@ enter-unity.xyz
 enter-zetamarket.net
 entering-ordinal.com
 eralend-claim.com
-ercbenefitrefunds.help
 esportstats.ru
 essentialglobs.com
 eter.fi
@@ -631,7 +633,6 @@ ethtop.work
 ethv2.io
 ethx-eigenlayercom.pages.dev
 eu.prooposal-fables.workers.dev
-event-moonbirds.xyz
 event.sale-monprotocol.com
 eventmandiri.com
 events-apu.club
@@ -656,6 +657,7 @@ ffsandusr0private2-google.ph
 fi-ethfiairdrop.claims
 finance-claim.app
 finance-verify-hub.shop
+finance.net.vc
 finance38-sit23.pro
 finance82-similique40.sbs
 finance91-ut11.sbs
@@ -709,7 +711,6 @@ gems.multi-trustepad.top
 generatesxclick.pages.dev
 germs.cfd
 get-dymension.xyz
-get-flare.network
 get-rewards-now.pages.dev
 get-trumpmeme.info
 get-usdc.com
@@ -740,6 +741,7 @@ governance-ondofi.icu
 gpt-4-openai.net
 greensbitcoins.web.app
 greenwoorkstools.com
+gtasix.sale
 guide-en-us-desktop-ledgre.pages.dev
 gummyonsol.me
 gummyonsolana.net
@@ -791,7 +793,6 @@ inqubeta.in.net
 inquiries-trustwallet.net
 instantchainfix-algorithm.com
 intelligent-layer.xyz
-intl-coinbase-inv.com
 inverse-finance.pro-cryptopad.tech
 investigate-verification-error.com
 io-apps-moonpay.wixstudio.com
@@ -839,6 +840,7 @@ kidsofthapocalipse.store
 killabears.pro
 kiloex.events
 kimbolabs.com
+kinetiq-allocation.live
 kinetiqgenesis2.top
 kkuccoilog.azurewebsites.net
 kkzuq.cc
@@ -964,6 +966,7 @@ meta-drop.info
 metamask-chrome-howto.gitbook.io
 metamask-toolset.onrender.com
 metamask-verify-1111spinslotsspinxspinnowwin.ph
+metamask.erims.org
 metamask.io.merge.joyauxdumaroc.shop
 metamaskimport.com
 metamaskv.com
@@ -1184,7 +1187,6 @@ paxfulht.com
 paxosdashboard.net
 paydelaid.com
 paymenthods.com
-payments-aave.app
 pc.ecmarketsmefx.com
 pednlefinance.pages.dev
 pelume.com
@@ -1262,6 +1264,7 @@ proposal-ketboard.com
 proposal-ponsfamily.live
 proposals-babylon.com
 proposals-flarefoundation.xyz
+protocolj.cc
 provider-gswe.vercel.app
 ps-whatsapp.com.cn
 psyopd.net
@@ -1288,6 +1291,7 @@ quick-dev-bcc.cf-10cuhepu.workers.dev
 r1f5.pro
 r3vlcoin.top
 raariibble.com
+rabbyewm.at
 radiantcapital-liquidity.com
 raffle-vaiot.com
 rahul.transactionshield.info
@@ -1297,6 +1301,7 @@ rainbet-casino-slots.com
 rainbet-site.org
 rainbet.st
 rainbet.tv
+rainbet1.de.com
 rainbetv.com
 rainbow-swap.com
 raincard.xyz
@@ -1396,7 +1401,6 @@ secure.momentum-funding.com
 secure6a.robinhoodedu.us
 securedefimigration.pages.dev
 securedmainprotocol.pages.dev
-security.flare.community
 securitysafeportal-coinbase.com
 securywalletcalaim.btcsol.online
 selnetwork.app
@@ -1488,7 +1492,6 @@ suifounsdation.com
 suimo.io
 sultantoto-terbaik.com
 sunwavestoken.pages.dev
-super-bonus-monster.com
 support-blue.com
 support-ethpool.org
 supportdmca-x.com
@@ -1513,7 +1516,6 @@ teamfill.live
 teamfinance-staking.com
 teamoftenuse.com
 teams-live.cam
-teams-live.com.cn
 teams06live.us.com
 tebo7.xyz
 techguardfort.com
@@ -1581,9 +1583,7 @@ uniswap.swapes.xyz
 uniswapcex.org
 uniswop-v3.com
 universal-multicraftyapp.org
-uphod-login.created.app
 upredekt.pics
-upscaleunderground.com
 us--ledger-live-crypto-cdn-en.typedream.app
 usd-token.org
 usdedao.xyz
@@ -1653,7 +1653,6 @@ web001zoom.us
 web05zoom.us
 web3-connectmi.tk
 web3-fremint.com
-web3-us-exedos.pages.dev
 web3.synchronize-dapps.com
 web3decentralizedgateway.pages.dev
 web3nodeconnector.com
@@ -1677,6 +1676,7 @@ whitelisted-usualmoney.com
 whoaml.top
 wienerai-claim.online
 wifwifwif1.pages.dev
+winter-summit-secure-user-3e08-c6ee.pages.dev
 wisemonkydrop.online
 wlfi-proposale.vercel.app
 wlfiwhitelist.xyz
@@ -1817,7 +1817,6 @@ xn--blr-5na.net
 xn--coinbe-00a43e.com.ph
 xn--collb-land-t5a.com
 xn--cryptgeo-wpb.com
-xn--ldge-bva31b.com
 xn--monshot-jvc.net
 xn--moonsht-7mb.xyz
 xn--sndbox-pta.pages.dev
@@ -1852,6 +1851,7 @@ zksync-2023.net
 zksync.claiming-token.run
 zksync.testnet.life
 zoom-enterprise-updates.com
+zoomappdownload.com
 zoominfo-profile-update-request.com
 zora.guru
 zorraco.online

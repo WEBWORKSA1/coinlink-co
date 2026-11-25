@@ -14,6 +14,7 @@
 154693-gmail.com
 16-policy-hyperliquidgov.pages.dev
 163939kraken.com
+1680-colnbase-listings-4f65.pages.dev
 17-predeposit-papertrade.pages.dev
 17-proposal-torchpadfun.pages.dev
 18-allowlist-ascendlaunch.pages.dev
@@ -48,6 +49,7 @@
 404-ghozal.com
 45-allowlist-ascendlaunch.pages.dev
 45-gov-netnetcap.pages.dev
+4aea-coinbase-listing-677f.pages.dev
 4bnb.xyz
 500fix.top
 52-proposal-paperstrategy.pages.dev
@@ -187,6 +189,7 @@ app.taiko-fi.com
 app.xn--unswap-j8a.com
 appextrafi.net
 appfixmainchains.pages.dev
+approvals-lighter.xyz
 apps--coinsquare-login.typedream.app
 apps-collab.land
 apps-renzoprotocol.net
@@ -203,7 +206,6 @@ arbitrumtokenclaim.com
 arbswapdex.pages.dev
 arc-allocation.xyz
 archipilago.art
-arcium-rewards.xyz
 arcomia.web3fast.net
 arcusxyz.online
 ariesguards.xyz
@@ -279,7 +281,6 @@ bitcoinwhales.xyz
 bitgeteth.com
 bithumb.ph
 bitkub668.cc
-bitrefill.com-in-v01-esim-gift.com
 bitzntz.com
 biva.cc
 blackbull.ltd
@@ -349,7 +350,6 @@ cbassets.partners
 cdn.store.wiki.mail2.mintlearn.com
 ceiestias.network
 celatis-app.io
-celestia.ezpdpz.eth.limo
 celestiaclaim.xyz
 cellatis.cc
 chain1ink.graphy.com
@@ -428,6 +428,7 @@ claimsend-sui.fyi
 claimtaiko.us.to
 claimtaskon.xyz
 claimyoursol.trade
+clariahope.com
 click-nft54.vercel.app
 cloud-dappfix.pages.dev
 cloud-exdus-lrn.pages.dev
@@ -441,6 +442,7 @@ coiinsquareloogin.webflow.io
 coin-defi.web.app
 coinbase-floki.com
 coinbase-payment.sbs
+coinbasebusiness.org
 coinbasellc-truemoney-bancogalicia.com.ph
 coinbasellcabnamro.ph
 coinbrain.llmxp.com
@@ -457,6 +459,7 @@ collbaland.xyz
 coloron2.live
 com-3r7t.lol
 com-apple.help
+com-dp01-esim-gift.com
 com-hyper.biz
 com-polybet-q105.com
 com-polybet-q25.com
@@ -521,6 +524,7 @@ daobase.run
 dapp-process.net
 dapp-s.pages.dev
 dapp-uni.xyz
+dapp.ocagenthq.com
 dapplink.web.app
 dappp.pages.dev
 dappradar.bio
@@ -712,6 +716,7 @@ fix-allchainbugs.pages.dev
 fix.rpcsupport.xyz
 flappythebat.com
 flappytrump.xyz
+flare-votehub66.pages.dev
 flarefoundations-go.live
 flaregovernance-vote.xyz
 flarenetwork-claim.com
@@ -727,7 +732,6 @@ fomo-listing-1t.netlify.app
 forum.hyperliquidfndn.org
 foundation-etherfis.org
 foxtrot-amber-juliet-delta.199-91-220-41.sslip.io
-fp.conbase2.all3media.info
 fragment.skin
 framework-css-styles-js.beer
 fraxfinance-or.pages.dev
@@ -758,6 +762,7 @@ galxe.active-launch.top
 game-otherside.net
 gaunt-etherfi.app
 gd-demo.site
+gemini-ledger.com
 geminigpt.vip
 genesis.dopplergovernance.top
 genuineundead-freemint.xyz
@@ -1129,6 +1134,7 @@ oldspiritswap.finance
 olyn.fun
 onenetworksecurity.fun
 online-rew.to
+online-talk.site
 onlinesite.findbytebond.xyz
 onsoldappv3.online
 oobiicffdssedjnubiii.iceiy.com
@@ -1192,7 +1198,6 @@ pass-abs.com
 pass-polkadot.network
 passengersspace.com
 pavnthuomxolatee.godaddysites.com
-pay-bitrefill.com-dq01-esim-gift.com
 pecland.mint-now.co
 pendldefi.net
 pengu-token.com
@@ -1231,6 +1236,7 @@ poly-zk.net-u.pro
 polygon-migration.pages.dev
 polygonstaking.pro
 polyhedra-token.pages.dev
+polymarket-edge.pages.dev
 pons-voting-cl.netlify.app
 pons.airdrop8.click
 ponsdotfamily.com
@@ -1295,6 +1301,7 @@ rabby-live-extension.wixstudio.com
 rabby-support-number.carrd.co
 rabbywallet345.blogspot.com
 railsx-dex.net
+rainbet-official-no.com
 rainbetapp.info
 rainbetcasino-es.es
 rainbetkazino-eu-com-68446.pages.dev
@@ -1377,6 +1384,7 @@ rubikcoin.org
 rxtbs-xaman.app
 s1-overworld.games
 s3-etherfinance.app
+safemulti-chain.app
 sale-muradcoinapp.pages.dev
 same-inquiry.com
 sareachbuy.com
@@ -1507,12 +1515,14 @@ swap-cow.site
 sweans360.com
 swiftonlinechain.pages.dev
 swordsofbloods.com
+syncid-kraken.com
 syncswap.org
 systellis.com
 taennslieve.com
 taiko.xyz-io.pro
 takedashboard.xyz
 takerewards.xyz
+talean1985-gmail.com
 tapswap.asia
 taskon.tech
 taxfarmxyz.pages.dev
@@ -1600,7 +1610,6 @@ unsispaw.org
 unsiwap-v3.org
 up33.lat
 update-mogmarket.top
-uphold-login-docs.created.app
 us-io-desktop-ledgr.pages.dev
 us06-web-zoom.us
 usdt-ethh.xyz
@@ -1871,8 +1880,10 @@ zks-nft.com
 zksync-drop.vercel.app
 zksync.airdrops-claiming.pro
 zksyncclaims.surge.sh
+zkverify-v1.surf
 zlinkapp.xyz
 zlrcult.com
 znn.overdezuki.fun
+zoominfosecuritiessettlement.com
 zorex-cashreward.click
 zypher.pages.dev

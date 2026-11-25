@@ -1,4 +1,5 @@
 019511-coinbase.com
+0319841.xyz
 0nre-financa.com
 0x1111111111.icu
 0xblocklayer.com
@@ -19,6 +20,7 @@
 17-zipcoin.pages.dev
 18-governance-pools.pages.dev
 18-hyperlendhub.pages.dev
+1865-colnbase-listings-4f65.pages.dev
 1ench.com
 1i7292l1rkdz68m.space
 1inch.fans
@@ -54,6 +56,7 @@
 58293-login-coinbase.com
 5eplayed.at
 5vs9r.demonmetale.xyz
+6-variational-tge.pages.dev
 66-reallocate-flare.pages.dev
 68-proposal-ethos.pages.dev
 7-zip.net.cn
@@ -69,6 +72,7 @@
 805932-crypto.com
 859409coinbase.com
 86-reallocate-flare.pages.dev
+873276-ledger.com
 88defi.co
 894386-binance.com
 91729-crypto.com
@@ -125,7 +129,6 @@ airdrops-kroma.network
 airdropverifyb3.fun
 airhead.finance
 airton.pro
-alchemixfi-allocations.xyz
 algorithm-central.pages.dev
 aliocate-mocaverse.com
 aliocation-aave.net
@@ -213,7 +216,6 @@ arkham.events
 armbiient.finance
 arrivalstark.info
 artemislabs.xyz
-asset-ai-recovery.org
 assets-lombard.app
 assets-vertical.com
 association-lineabuildorg.pages.dev
@@ -228,7 +230,6 @@ auth-ldger-co-us.pages.dev
 authenticationonline.pages.dev
 autoconfig.pop3.cms.community.autoconfig.m.typhoon-wallet.com
 avantisfl.network
-awardspf.sbs
 axiom.lc
 axondao-io.web.app
 b3dbeetsb546lzy.cfd
@@ -270,7 +271,6 @@ bitcoinminetrrix.ciofactor.com
 biterflll.com
 bitkubus.com
 bitmix.app
-bitrefill.com-aa01-esim-gift.com
 bitstars.pro
 bitvoux.exchange
 biya.io
@@ -377,6 +377,7 @@ claim-fantv.ink
 claim-fantv.lol
 claim-hyperlane-foundations.lol
 claim-initia.net
+claim-lrctoken.tech
 claim-magacoin.net
 claim-nukes.fun
 claim-raidy.click
@@ -420,7 +421,6 @@ claimmints5110.vercel.app
 claimnftyala.org
 claimonuschain.pages.dev
 claims-aethlr.com
-claims-astranova.pages.dev
 claims-deep1.digital
 claims-firelight.icu
 claims-liquidether.com
@@ -449,6 +449,7 @@ coinbase50index.ai
 coinbasellc-bool.ph
 coinbaseremxten.gitbook.io
 coinbasryuprologin.gitbook.io
+coinbseporolginx.gitbook.io
 coincommunity-0q.netlify.app
 coincommunity-5c.netlify.app
 coindesk.name
@@ -466,6 +467,7 @@ collabland.role-community-server.com
 collecotrcrypt.com
 collobs.land
 colorlabs.co
+com-cb01-esim-gift.com
 com-desktop.bond
 comebackapp.net
 commerce.colnbase.net
@@ -556,7 +558,6 @@ demo777-3s2.pages.dev
 demo777-8d8.pages.dev
 derivenodepath.vercel.app
 descentralize.pages.dev
-designinrax.com
 desk-qqlart.com
 desolation.pages.dev
 devcentricttool.com
@@ -598,7 +599,6 @@ dropsprotocol.world
 dtrustpad.com
 dubx.net
 dunk-genesis.dropx.space
-dustcoins.lat
 dwfiabs.app
 dymensionclaim.xyz
 early-debank.com
@@ -661,6 +661,7 @@ ethme.app
 ethmh.app
 etoro69.top
 eu-xaman.app
+euyi-okx.com.cn
 event-altura.com
 event-ore.com
 event-solana.net
@@ -680,7 +681,6 @@ facrana.com
 faint-02.web.app
 fairdrops-zircuit.app
 fairstake-zkfair.pages.dev
-faq-terezor-suiets.pages.dev
 faq-trezor-io-login.typedream.app
 fartoken.icu
 fates-evacuation-pods-mint-page.netlify.app
@@ -776,6 +776,7 @@ goapps---y--uphold-com.typedream.app
 godhatesnftees.wtf
 golden-salmiakki-37d2cb.netlify.app
 gomble-alrdrop.net
+google-meet-invites-conn.dog
 goto-earnifi.com
 governance-lido.info
 governance.ponsfamily-rewards.icu
@@ -850,6 +851,7 @@ issangassai.com
 itustcptal-nav.wixstudio.com
 iycv.top
 j1to.network
+janb2081.github.io
 jausd.site
 jesse-presales.com
 jito-webwork.com
@@ -879,7 +881,6 @@ klick1card.xyz
 klusd.site
 koinbase-extension.wixstudio.com
 kpxggraph.com
-kraken-dex.me
 kraken-eng.wixstudio.com
 kraken-myaccount.com
 kstar-nft.live
@@ -896,7 +897,6 @@ layer0.re
 layernzero.com
 layerzero.foundation-claim.app
 ldofi-promos.com
-learn-started.kb.help
 ledger-apps.org
 ledger-lives-downloaded.pages.dev
 ledgeron-portal.pages.dev
@@ -919,7 +919,6 @@ livemint-polarmates.eu
 livinglargfx.com
 lmg.addictgirl.site
 lmperial.space
-lobstrstellarledger.com
 localcryptos.click
 login-ondoperps.live
 loginflow.org
@@ -1186,7 +1185,6 @@ petraswap.io
 phantom-load.in
 phantomewllts.webflow.io
 phantomnft.site
-phase2-firelightfinance.com
 philtoken-rewards.info
 phonon-token.xyz
 phpmyadmin.cms.old.www.ns2.billionairair.pw
@@ -1256,9 +1254,11 @@ quests-alignedlayer.com
 qwey.cc
 r2ahih.cc
 race-rewind.okxtradepro.com
+rain-bets-australia.com
 rainbet-casino-online.de
 rainbet-casinos.app
 rainbet-ch-mirror.com
+rainbet-promocode-uk.com
 rainbet-pt.net
 rainbetcasino-nz.net
 rainbetpromocode.io
@@ -1402,7 +1402,6 @@ sleiched.buzz
 slunisvwap.info
 smart-chaincentral.com
 smartdigitalexplore.com
-smetana-js.beer
 smieflow.vip
 snakeking.club
 snapshot-blackwing.fi
@@ -1490,7 +1489,6 @@ sundhedskort.com
 superboardastro.pages.dev
 superchamps-app-unlock.pages.dev
 supereboard.bet
-superiorformfoundation.com
 superverse-claims.com
 suport-metamaskh.gitbook.io
 supportid-kraken.com
@@ -1580,6 +1578,8 @@ trustswalletbrowser.com
 trustwall-card.com
 trustwallet-ww3046.public.builtwithrocket.new
 trustwalletbox.pages.dev
+trustwwallett.com
+truwallet.world
 tswallet.cc
 tuaase.com
 tubephanoi.vn
@@ -1589,6 +1589,7 @@ ubiquitous-fishstick-two.vercel.app
 uk-rainbet.uk
 ulteriori-informazioni.com
 ulti-verse.net
+ultrasecure.pages.dev
 unchainedpepe.in
 uniarbitragebot.com
 unimevbot.org
@@ -1624,6 +1625,7 @@ v8.incodapp.com
 valdrenixpro.com
 valikret.com
 vaultaccess-trustwallet.com
+vaults-kraken.com
 vcbdkc.xyz
 veda-yield.xyz
 veefriendsmint.com
@@ -1685,6 +1687,7 @@ web-io-trezee-r.typedream.app
 web-kaminofinance.github.io
 web.okxtopclub.com
 web.usdtbestpool.com
+web3-bybit.ru
 web3-trustwallet.org
 web3syncprotcol.com
 webconnect-aml.com
@@ -1696,12 +1699,12 @@ weg3dnf.top
 welffinance-reward-claims.pages.dev
 wenrewards.org
 whatispancakeswap.xyz
-whatsapp-vote.help
 whir.rest
 whitelist-karak.net
 whitelist-sadhamsterio.pages.dev
 whitelisting-pandora.com
 whm.old.login.1inch.help
+winter-summit-secure-user-3e08-77d7.pages.dev
 wintokensol.com
 wirebyit.com
 wl-doggotothemoon.com

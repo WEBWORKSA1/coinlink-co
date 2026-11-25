@@ -27,6 +27,7 @@
 2023.eigenlayerxyz.app
 22-hyperlendx.pages.dev
 22-view-kinetiq.pages.dev
+224e-colnbase-listings-4f65.pages.dev
 23-hyperlendhub.pages.dev
 231560-coinbase.com
 241896-crypto.com
@@ -342,6 +343,7 @@ bytevalidator.xyz
 cabledex.com
 cadadra.xyz
 cadeceusxmigrate.xyz
+canton-votehub55.pages.dev
 cardtrustwallet.co
 cardtrustwallet.org
 carv-io.pages.dev
@@ -462,7 +464,7 @@ cointracker-desktop.pro
 collab-land-fund.com
 collab.nodes-land.com
 collection.blllur.com
-com-ae.icu
+com-cr-gift-cards-bnb.com
 com-n04-gift-esim.icu
 compbalance.com
 compound-finance-main.com
@@ -501,6 +503,7 @@ cyberkongs.mypinata.cloud
 cyberlama.lol
 d158lrx.fun
 d6c32bb2.sw-2xn.pages.dev
+d9ae-coinbase-listing-677f.pages.dev
 dao-degods.net
 dap-fix.on-fleek.app
 dapp-equinoxgate.vercel.app
@@ -603,7 +606,6 @@ eng-ledges-live.pages.dev
 enroll-frenpet.net
 enter-tapioca.network
 eof-claim.com
-ercauditrefunds.help
 esoloe.com
 eth-binance.hl.cn
 eth-bob.com
@@ -646,6 +648,7 @@ fbdexex.com
 fbtc-flare.network
 fhdwm.pro
 fiarevotesevent.com
+fiekx.top
 finance38-sit89.pro
 finance81-consequatur18.sbs
 finance91-nobis81.sbs
@@ -792,7 +795,6 @@ integration-dapps.pages.dev
 investdexmigration.vercel.app
 investing-maker.org
 invites-blast.com
-invoiced.world
 io-pikamoons.com
 japkasai.net
 jaxx-nav-liberty.wixstudio.com
@@ -837,6 +839,7 @@ l2-chain.quicknode-ipfs.com
 labagix.net
 lacelatis.io
 ladys-verse.space
+land-north.com
 launch-aptos.com
 launchpad.bouncedfi.com
 layer-zero.shop
@@ -847,6 +850,7 @@ ledger-live-aplication.io
 ledgerlive.com.es
 ledgerr-lliv.pages.dev
 legioncc.one
+leonida-community.com
 lido-platform.com
 lido-staking.pro
 lido.fi-voucher.live
@@ -964,7 +968,6 @@ mocaforyou.online
 modnet.info
 mollytoken.com
 momoguro.li-vedrop.com
-money-x.plus
 moonbagg.com
 moonbirds-special.com
 moonshoot-vote.icu
@@ -1084,6 +1087,7 @@ otsea.site
 ovation-nft.vercel.app
 overproto.com
 owenwex.com
+oycn-okx.com.cn
 p2xrl.6686bete.vip
 page---phantomwalletextension-auth.webflow.io
 pages-trezrsuite-io.typedream.app
@@ -1138,6 +1142,7 @@ polexbot.vip
 poll-okxvote-256.pages.dev
 polygon-app.bonus-web3-bridges.codes
 polymarket-9nf.pages.dev
+polymarket-review.co.uk
 polymarket-scam.co.uk
 polymarkets-en.web.app
 polymarkettool.onrender.com
@@ -1174,6 +1179,7 @@ public-io-cdn.pages.dev
 pudgypenguins.in
 pulsex.web3-unlimited.com
 pump.viewstreams.fun
+pumpfun-webstream.fun
 pumpfun.solstreamslive.top
 pumpzi.fun
 pvausasmmbiz.com.marketingseolab.com
@@ -1252,7 +1258,6 @@ reward-monprotocol.com
 reward451-binance.web.app
 rewarding-wormhoie.xyz
 rewards-degenin.xyz
-rewards-earnidle.fun
 rewards-empyrealsdk.live
 rewards-jupiter.com
 rewards-netnetcapital.com
@@ -1261,6 +1266,7 @@ rewards-paidnetwork.site
 rewards-polymarket.app
 rewardss.buzz
 rewardton.com
+rfghredgdrg.pages.dev
 ritualfoundation.xyz
 robinhodloginuss.gitbook.io
 rocketpooltoken.com
@@ -1302,6 +1308,7 @@ sessiontoken.live
 settings-ledger.cloud
 setupclaims.online
 sgecomex.online
+sgvwebx.cc
 shadehub.online
 shadeum-org.pages.dev
 sharp-base-119.cf-9l4qyh3u.workers.dev
@@ -1405,6 +1412,7 @@ sunpump.rsvp
 super-verse.co
 supersfans.top
 suport-hub-ledgr.pages.dev
+support-coiinbase-learn.pages.dev
 support-trezor-io-start-starting-cdn.typedream.app
 supra-gamefi.pages.dev
 suprasoracle.org
@@ -1462,7 +1470,6 @@ tokens-farcana.com
 tokens-gacha.com
 tokens-nibiru.pages.dev
 tokensniffers.site
-tokenstide.art
 tokentaiko-claim.xyz
 ton-airdrop.xyz
 ton.org-giveaway.icu
@@ -1570,7 +1577,6 @@ vote-bouncefinance.com
 vote-linera.xyz
 vote-vsg.org
 vote.aerodromecoindefi.net
-vote.flare-network.app
 vote.metisl2io.app
 vote.moonnshot.info
 vote.renzonetwork.events
@@ -1782,6 +1788,7 @@ zealy.lo.web3-app.top
 zenlinknetwork.shop
 zenogakki.live
 zeriiion.com
+zeriontvm.com
 zero0layers.com
 zerrolayer.online
 zeryion.io

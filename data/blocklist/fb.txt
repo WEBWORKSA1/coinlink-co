@@ -1,3 +1,4 @@
+0729-482c-coinbase-listing.pages.dev
 0x0.company
 0x0exchange.co
 0x0exchange.io
@@ -28,6 +29,7 @@
 175-lists-moonshot.pages.dev
 186-lists-okxvotes.pages.dev
 19-gov-papertrade.pages.dev
+1905-fa8e-5133-c0inbase-list.pages.dev
 193-proposal-papertrade.pages.dev
 1inch-dapp-router-v30.netlify.app
 1inch-qb8dtsoe.4everland.app
@@ -43,8 +45,10 @@
 300-proposal-prjx.pages.dev
 317449coinbase.com
 339294-coinspot.com
+339969kraken.com
 35-proposal-computersrh.pages.dev
 35-vote-ponsfamily.pages.dev
+37-proposal-elysium.pages.dev
 371-reallocate-flare.pages.dev
 38-vote-cashmereexchange.pages.dev
 40-hookrfun.pages.dev
@@ -125,6 +129,7 @@ airsdrops-initia.lol
 aitechpads.io
 alephium.finance
 alert-moonshot.fun
+aliadosaddi.site
 aliocation-bouncebit.app
 aliocation-eigeniayer.net
 aliocation-soneium.net
@@ -169,7 +174,6 @@ app-chainlink.world
 app-dymension.pages.dev
 app-eigenlayerxyz.com
 app-enel.sbs
-app-firelightfi.com
 app-latoken.com
 app-metamask.online
 app-minutesnetworktoken.pages.dev
@@ -191,7 +195,6 @@ app.superchampe.icu
 app8paye.network
 appaloe.capital
 appauth.pages.dev
-appealxcasex-x.team
 appfleek.xyz
 apps-fightout.com
 apps-meteora-con.wixstudio.com
@@ -234,7 +237,6 @@ avaxlane.com
 avl.avalonflnance.digital
 avprt.top
 axielnfinity.pages.dev
-axiomsol.pro
 axisroboticsai.app
 azcoiner.org
 azragames.drops-free.com
@@ -455,6 +457,8 @@ coll.obz.land
 collab.mirrors-land.com
 collect-bnbchain.org
 colnlist.top
+com-co01-esim-gift.com
+com-gift-cards-mina.com
 com-k04-gift-esim.icu
 com-live.download
 com-ssl.top
@@ -465,6 +469,7 @@ community.webexodus.store
 compensate.opsecs.network
 compget.com
 comphoton.vin
+complianceid-apple.com
 compounb.com
 con-web3.com
 conbaseapps-platform.wixstudio.com
@@ -477,6 +482,7 @@ connect-verify-securitys.vercel.app
 connect-zora.net
 connect.kavashield.network
 connectclaims-claimsassets.pages.dev
+connectionstatus.org
 connectquant.net
 connects-bankless.com
 coppenheimer.xyz
@@ -540,7 +546,6 @@ decentralizeddappssecure.netlify.app
 decentralnode.vercel.app
 decrypty-tokens.digital
 deerswap.io
-defi-on-arc.vercel.app
 defi-online.000webhostapp.com
 defido.multichains-pads.top
 defijump.live
@@ -737,7 +742,6 @@ git.lab.kuberrswap.com
 gitlab.git.git.gitlab.speedycrm.woahcoolkid.com
 gitlab.gitlab.gitlab.git.gitlab.webdisk.susshi.drivemiami.com
 gitlab.gitlab.gitlab.gitlab.gitlab.gitlab.s3.sstakeqamble.com
-gitlawb.info
 globalsecuredtrades.org
 gmdao.shop
 golaith-onyx.org
@@ -773,6 +777,7 @@ help-eternel.readme.io
 help-lger-logn.pages.dev
 help-zoom.us
 helpmatcha.xyz
+helpstatus-x.com
 heodux.com
 herowsap.luxe
 hinkal.world
@@ -873,7 +878,6 @@ krakenloogin.gitbook.io
 krakn-login-com.pages.dev
 krkaitrade.co
 kyber-giveaway.com
-lab-sora-airdrop.com
 lagarangefoundation.org
 lagirl.site
 laiko-rewards.com
@@ -1058,7 +1062,6 @@ neotokyo2o24x.com
 netnet-gov.top
 netnet-governance.icu
 network-stargate.net
-neversellyourdustsol.lat
 new-mont.com
 newcreso.com
 news.okxoejyszgs.cn
@@ -1149,9 +1152,7 @@ paraspace-migration.xyz
 participate-strk.com
 paws2025.top
 paxfulox.com
-pay-bitrefill.com-x01-esim-gift.com
 paylocity.za.com
-paymentauth-verify.com
 payout-ftxltd.com
 pcbifrostdesktop.com
 pendlefinancial.com
@@ -1190,6 +1191,7 @@ polymarket-baji.com
 polymarketirani.com
 polymarketnow24.icu
 polymarketzh.com
+polyrnarket.shop
 ponke-aa4a433wad.pages.dev
 pons-voting-3h.netlify.app
 pons-voting-ec.netlify.app
@@ -1208,7 +1210,6 @@ presales.xoxlab.xyz
 prevoke.cash
 prices-bitget.com.cn
 pringboardscalingsol.pages.dev
-privnotle.com
 proposal-b3.com
 proposal-wickr.pro
 protections-metamask.io
@@ -1259,7 +1260,6 @@ rasprotocol.xyz
 realionetwork-merge.com
 receivepaxos.org
 reddit-8.zusv.org
-redirects-secure-x.com
 redstone.rest
 refundswtf.pages.dev
 register-analos.com
@@ -1411,6 +1411,7 @@ spaceriders.frnfts.com
 spark-foi.com
 spepe.lol
 spinshunters.com
+spinzio.click
 spongetokenvip.website
 sso-trezor-io-help.plasmic.run
 ssodydxxcdn.wixstudio.com
@@ -1430,6 +1431,7 @@ staking.mantaprotocols.app
 stakleand.com
 stalknet.in.net
 starbucks-niftygateway.com
+stargate.st
 starknetdao.org
 starknetsistems.space
 starknett.store
@@ -1522,7 +1524,6 @@ tonswallet.com
 tontgg.org
 tpad-bonus.com
 tq-bnbbridge.com
-traceonlitho.com
 trackstockscan.stellarint.co.nz
 trade-metamaskcdn.wixstudio.com
 trade-mintify.xyz
@@ -1591,12 +1592,14 @@ v3-protocol.it.com
 v91x61.ru
 valhalla-premint.netlify.app
 vantagecu.gr.com
+variatonial.io
 varjational.io
 vaultka-i.web.app
 vedaz.tech
 veloxinv.com
 vempire-opal.vercel.app
 venture-coinbase.com
+ver-binance.com
 veridiantrustbank.com
 vermillion-duckanoo-6f9b00.netlify.app
 vigilant-octo-fishstick.vercel.app
@@ -1618,7 +1621,6 @@ vote.synfuturesfi.info
 votes.renzoprotocols.support
 voting-curvefi.net
 voting-flarefndn.live
-voting-lidofinance.xyz
 voting-nukes.fun
 voting-sei.com
 voting-xrpl.xyz

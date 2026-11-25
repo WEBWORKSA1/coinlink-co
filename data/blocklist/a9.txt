@@ -47,6 +47,7 @@
 35313.my
 354-lists-okxvotes.pages.dev
 38-proposal-apyxfi.pages.dev
+3ea6-bb50-5133-c0inbase-list.pages.dev
 4-gov-fablesfi.pages.dev
 4-governance-jumpereco.pages.dev
 403-lists-okxvotes.pages.dev
@@ -74,7 +75,6 @@
 77-venice.pages.dev
 7r6xed4a5dhivfhhxg6j2sjzo55l2bt2ckrjcctsxndurub3rdqq.arweave.net
 87312-coinbase.com
-913855-gemini.com
 a27ht.cc
 aave-loan.me
 aave-web.online
@@ -84,6 +84,7 @@ aavefinance.pro
 aaveoriginal.co.com
 aavevote.pro
 able-nft.top
+accessdocinfo25.icu
 account-ledger.net
 acrs.casa
 actsolana.xyz
@@ -219,7 +220,6 @@ arts-blocks.kpr-mint.com
 assets-onyx.com
 asterdexs-allocation.xyz
 atdscoin.com
-au-coinledger.com
 auth-exoduswallet-extension.gitbook.io
 auth.api.en.vertex.joinweb-3.com
 authenticcourseguides.cyou
@@ -252,6 +252,7 @@ basicsmaart-contractt.live
 bdexzist.cc
 beefyswap.com
 belancer.finance
+beldexnodeweb.pages.dev
 bendogsolana.top
 benpass.xyz
 bep20-usdt-one.vercel.app
@@ -271,8 +272,6 @@ bitgertrewards.pages.dev
 bitget8.vip
 biticmnt.com
 bitrefell.com
-bitrefill.com-aw04-gift-esim.com
-bitrefill.com-in-s01-esim-gift.com
 bitstampai.top
 bittrex.omniagent-claims.com
 biwus.com
@@ -300,6 +299,7 @@ bond.originndefi.world
 boost-aethir.com
 boost-solvfinance.app
 boredaapeyachtclub.xyz
+borrwell.com
 bot506.top
 box-burnownft.firebaseapp.com
 box-mintes.web.app
@@ -330,6 +330,7 @@ cache.wayflnder.org
 cakeisland.homes
 cakesw-offers.com
 cakeswapfinancial.in
+cakewallet-desktop.com
 cardsahoy-gamemetalist.com
 catslaptoken.icu
 catwifmasks.com
@@ -396,7 +397,6 @@ claimconnectwallet.com
 claimethenastakrewards.vercel.app
 claimhalfpepe.vip
 claiming-firelight.finance
-claiming-hyperliquid.net
 claimleisuremeta.com
 claimlive-paalai.onrender.com
 claimnetvrk.co
@@ -424,6 +424,7 @@ coin-base-support.de
 coin-base-wallet.blqatar.com
 coin1inch.com
 coinbase-resseting-password.twitchcon.co
+coinbase-reward.brodinsplat.se
 coinbase-vaults.com
 coinbasedefi.me
 coinbasedefiat.xyz
@@ -442,6 +443,7 @@ collabland.role-get.com
 collect-ethermail.com
 collectibles-card-ledger.pages.dev
 collectvoxbox.xyz
+com-bm01-esim-gift.com
 com-branch-web.pro
 com-global-official-platform-auth.beauty
 com-login.pics
@@ -528,6 +530,7 @@ dex-migration.firebaseapp.com
 dexprivate3.com
 dexprotocol.vip
 dextools.tech
+dgx-collab.land
 dhedge-rewards.com
 dialai.com
 diamondminer.net
@@ -574,7 +577,6 @@ emv1.huslnft.tech
 en-us-base-hardware.typedream.app
 en-us-suites-trezor.pages.dev
 en-us-trezor-io-start.pages.dev
-en-web3-exod-help.pages.dev
 en.mainnetchain.net
 en.teerrav2.money
 eng-rabbay-extension.framer.website
@@ -593,7 +595,6 @@ enter-variational.xyz
 epikprotocol-migration.site
 equity-wcg.store
 erc20free.com
-ercassetsettleyieldbase.help
 erebor.casa
 errorcomputer.co
 errorcomputer.io
@@ -630,6 +631,7 @@ exodus.writeas.com
 exodusui.net
 expedition.mitosis.app
 externalnodepoint.com
+exxadas-app-io.pages.dev
 exxodusweb-un.pages.dev
 faca-book.co
 fairlow.xyz
@@ -651,6 +653,7 @@ fisios4-dolor34.sbs
 fix.lombard-groups.com
 fixallcrypt.pro
 flapshallocation.xyz
+flare-bridge.com
 flare-distributions.icu
 flarefn-token.xyz
 flarenetwork-phase1.live
@@ -754,7 +757,6 @@ hub-icetoken.xyz
 hub-ledgr--live-en.pages.dev
 humans-ai.web.app
 huobi060.com
-hyper-pools.com
 hyperappy.com
 hyperbeatlabs.com
 hyperecosystem-vote.xyz
@@ -811,7 +813,6 @@ keeta-proposal.xyz
 keipdao.com
 kelpdao.unstake.app
 kelpdao.xyz-v3-chain-home.com
-kesowin.com
 kf2222.com
 khanacademy-coinbasellc.ph
 kiichainvaults.one
@@ -1044,7 +1045,6 @@ nta.jp.net
 o2tclaims.nsprectifier.xyz
 oasisdelile.com
 obtain-manta.pages.dev
-oceka.com
 odosprotocol.net
 officialbeast.xyz
 oggyinu.info
@@ -1135,6 +1135,7 @@ pipeflare.live
 pipeflare.pics
 pippin-nft.com
 pjlmsnkh.21835-coinbase.com
+pkmyield.com
 play-munchable.app
 playdoqe.vip
 plenty.exchange
@@ -1230,7 +1231,6 @@ ramsey.exchange.bouncebit.buzz
 rarible-nft.staking-it.eu
 raribleclaims.com
 raydiium.tech
-raydium-swap.gr.com
 raysdiun.lat
 reaiiocation-omninetwork.com
 rectifiedrpc.pages.dev
@@ -1321,7 +1321,6 @@ scan.transactionshield.info
 scopescan.ca
 season-degen.com
 season1-ample.money
-season2-flare.info
 season7-ethena.app
 sebycoin.xyz
 secure-en-us-kraken-log.framer.ai
@@ -1412,6 +1411,7 @@ starknet.guru
 starkquest.quest
 stbl-stablecoins.com
 steakhouse-rewards-desk.com
+stealthex-swap.cc
 steamcomnniuty.ru
 steemcoomunitu.net.ru
 stellaswap.com.web-3.win
@@ -1556,6 +1556,7 @@ vela-exchance.co
 velodorme-finances.org
 velpescapes.com
 verify-metamask.com
+vetrex.luxe
 videos.twitter-events22.com
 visionliquid.net
 vote-monochrome.exchange
@@ -1600,13 +1601,13 @@ whitelist-wormhole.com
 whitelists-tokens.net
 whiteway-coinbase.com
 wilderbeasts.gwnfts.com
+winter-summit-secure-user-3e08-578f.pages.dev
 withdrawaldesk.com
 wlfiethcrypto.com
 wondrhealth.com
 woodlanderz.one
 wordlibertyclaims.com
 world-of-women.site
-worldliberty-claiming.com
 worldlibertyfienancial.com
 worldnftairdrop.xyz
 worldslibertyflnancial.com
