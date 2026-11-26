@@ -1,4 +1,4 @@
-2026-11-25T19:18:33Z
+2026-11-26T03:35:29Z
 markets: 250 coins via CoinGecko
 global: ok
 trending: ok
@@ -9,7 +9,8 @@ news: 211 items from 12 feeds
 videos: 43 from 9 channels
 history: fresh
 meta failed global-dollar https://api.coingecko.com/api/v3/coins/global-dollar?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed pepe https://api.coingecko.com/api/v3/coins/pepe?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed open-usd https://api.coingecko.com/api/v3/coins/open-usd?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed jupiter-exchange-solana https://api.coingecko.com/api/v3/coins/jupiter-exchange-solana?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-coins-meta: refreshed 26, total 103
+meta failed ondo-us-dollar-yield https://api.coingecko.com/api/v3/coins/ondo-us-dollar-yield?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed midnight-3 https://api.coingecko.com/api/v3/coins/midnight-3?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed lighter https://api.coingecko.com/api/v3/coins/lighter?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed ripple https://api.coingecko.com/api/v3/coins/ripple?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+coins-meta: refreshed 25, total 104
