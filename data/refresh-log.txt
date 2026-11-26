@@ -1,4 +1,4 @@
-2026-11-26T03:35:29Z
+2026-11-26T16:56:25Z
 markets: 250 coins via CoinGecko
 global: ok
 trending: ok
@@ -6,11 +6,10 @@ exchanges: 100
 fng: ok
 network: ok
 news: 211 items from 12 feeds
-videos: 43 from 9 channels
+videos: 42 from 9 channels
 history: fresh
-meta failed global-dollar https://api.coingecko.com/api/v3/coins/global-dollar?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
 meta failed ondo-us-dollar-yield https://api.coingecko.com/api/v3/coins/ondo-us-dollar-yield?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed midnight-3 https://api.coingecko.com/api/v3/coins/midnight-3?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed lighter https://api.coingecko.com/api/v3/coins/lighter?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed ripple https://api.coingecko.com/api/v3/coins/ripple?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-coins-meta: refreshed 25, total 104
+meta failed stellar https://api.coingecko.com/api/v3/coins/stellar?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed sui https://api.coingecko.com/api/v3/coins/sui?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed beldex https://api.coingecko.com/api/v3/coins/beldex?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+coins-meta: refreshed 26, total 104
