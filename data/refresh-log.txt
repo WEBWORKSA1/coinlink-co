@@ -1,4 +1,4 @@
-2026-11-26T16:56:25Z
+2026-11-27T01:44:46Z
 markets: 250 coins via CoinGecko
 global: ok
 trending: ok
@@ -8,8 +8,8 @@ network: ok
 news: 211 items from 12 feeds
 videos: 42 from 9 channels
 history: fresh
-meta failed ondo-us-dollar-yield https://api.coingecko.com/api/v3/coins/ondo-us-dollar-yield?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
 meta failed stellar https://api.coingecko.com/api/v3/coins/stellar?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed sui https://api.coingecko.com/api/v3/coins/sui?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed beldex https://api.coingecko.com/api/v3/coins/beldex?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed ripple-usd https://api.coingecko.com/api/v3/coins/ripple-usd?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed blackrock-usd-institutional-digital-liquidity-fund https://api.coingecko.com/api/v3/coins/blackrock-usd-institutional-digital-liquidity-fund?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed cosmos https://api.coingecko.com/api/v3/coins/cosmos?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
 coins-meta: refreshed 26, total 104
