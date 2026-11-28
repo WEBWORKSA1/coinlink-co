@@ -1,4 +1,4 @@
-2026-11-27T23:28:12Z
+2026-11-28T07:51:38Z
 markets: 250 coins via CoinGecko
 global: ok
 trending: ok
@@ -6,11 +6,18 @@ exchanges: 100
 fng: ok
 network: ok
 news: 211 items from 12 feeds
-videos: 39 from 9 channels
+yt feed failed CoinBureau https://www.youtube.com/feeds/videos.xml?channel_id=UCqK_GSMbpiV8spgD3ZGloSw -> HTTP Error 503: Service Unavailable
+yt feed failed aantonop https://www.youtube.com/feeds/videos.xml?channel_id=UCJWCJCWOxBYSi5DhCieLOLQ -> HTTP Error 503: Service Unavailable
+yt feed failed Bankless https://www.youtube.com/feeds/videos.xml?channel_id=UCAl9Ld79qaZxp9JzEOwd3aA -> HTTP Error 503: Service Unavailable
+yt feed failed CoinDesk https://www.youtube.com/feeds/videos.xml?channel_id=UC7TghOL755nBk7HelHoi9LQ -> HTTP Error 503: Service Unavailable
+yt feed failed 99Bitcoins https://www.youtube.com/feeds/videos.xml?channel_id=UCQQ_fGcMDxlKre3SEqEWrLA -> HTTP Error 503: Service Unavailable
+yt feed failed SimplyExplained https://www.youtube.com/feeds/videos.xml?channel_id=UCnxrdFPXJMeHru_b4Q_vTPQ -> HTTP Error 503: Service Unavailable
+yt feed failed Ledger https://www.youtube.com/feeds/videos.xml?channel_id=UCSrfbzqF29CD4rQjJl_ixnw -> HTTP Error 503: Service Unavailable
+videos: 10 from 2 channels
 history: fresh
-meta failed usdd https://api.coingecko.com/api/v3/coins/usdd?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed internet-computer https://api.coingecko.com/api/v3/coins/internet-computer?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed gho https://api.coingecko.com/api/v3/coins/gho?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
-meta failed true-usd https://api.coingecko.com/api/v3/coins/true-usd?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
 meta failed cardano https://api.coingecko.com/api/v3/coins/cardano?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed the-open-network https://api.coingecko.com/api/v3/coins/the-open-network?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed ethereum-classic https://api.coingecko.com/api/v3/coins/ethereum-classic?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed blockstack https://api.coingecko.com/api/v3/coins/blockstack?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
+meta failed chainlink https://api.coingecko.com/api/v3/coins/chainlink?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false -> HTTP Error 429: Too Many Requests
 coins-meta: refreshed 25, total 104
